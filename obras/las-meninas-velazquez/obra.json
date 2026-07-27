@@ -1,0 +1,26 @@
+{
+  "id": "las-meninas-velazquez",
+  "titulo": "Las meninas",
+  "tituloOriginal": "La familia de Felipe IV",
+  "autor": "Diego Velázquez",
+  "fecha": "1656",
+  "fechaOrden": 1656,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "descripcion": "Retrato cortesano, escena de taller y reflexión sobre la mirada al mismo tiempo. Velázquez coloca al espectador en un lugar tan decisivo como ambiguo.",
+  "localizacion": "Museo Nacional del Prado, Madrid",
+  "pais": "España",
+  "dimensiones": "318 × 276 cm",
+  "tecnicas": ["Óleo sobre lienzo"],
+  "etiquetas": ["corte española", "retrato", "espejo", "perspectiva", "Siglo de Oro"],
+  "proporcion": [276, 318],
+  "color": "#4a3a2c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%2001.jpg?width=1400",
+    "alt": "Las meninas de Velázquez, escena palaciega presidida por la infanta Margarita",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Diego Velázquez · Museo del Prado",
+    "foco": "center"
+  }
+}

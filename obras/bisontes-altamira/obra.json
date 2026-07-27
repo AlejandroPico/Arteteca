@@ -1,0 +1,24 @@
+{
+  "id": "bisontes-altamira",
+  "titulo": "Bisontes de Altamira",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 14.500–11.500 a. C.",
+  "fechaOrden": -13000,
+  "tipo": "Arte rupestre",
+  "periodo": "Paleolítico superior",
+  "descripcion": "Los bisontes polícromos aprovechan salientes y grietas de la roca para ganar volumen. Son una obra colectiva, estratificada y muy anterior a la idea moderna de autor.",
+  "localizacion": "Cueva de Altamira, Cantabria",
+  "pais": "España",
+  "tecnicas": ["Pigmentos minerales", "Carbón", "Grabado sobre roca"],
+  "etiquetas": ["Magdaleniense", "prehistoria", "bisonte", "cueva", "pigmentos"],
+  "proporcion": [863, 541],
+  "color": "#744636",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Altamira%20paintings%2003.jpg?width=1400",
+    "alt": "Reproducción histórica de un bisonte polícromo de la cueva de Altamira",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Altamira_paintings_03.jpg",
+    "licencia": "Dominio público; reproducción histórica",
+    "credito": "Reproducción de Henri Breuil y Émile Cartailhac",
+    "foco": "center"
+  }
+}

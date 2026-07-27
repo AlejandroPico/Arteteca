@@ -1,0 +1,26 @@
+{
+  "id": "victoria-samotracia",
+  "titulo": "Victoria de Samotracia",
+  "tituloOriginal": "Νίκη της Σαμοθράκης",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 200–190 a. C.",
+  "fechaOrden": -195,
+  "tipo": "Escultura",
+  "periodo": "Helenismo",
+  "descripcion": "La diosa Niké acaba de posarse sobre la proa de una nave. El mármol conserva el choque imaginario del viento contra el cuerpo y los pliegues húmedos del vestido.",
+  "localizacion": "Museo del Louvre, París",
+  "pais": "Grecia",
+  "dimensiones": "244 cm de altura",
+  "tecnicas": ["Mármol de Paros", "Mármol de Lartos", "Talla"],
+  "etiquetas": ["Niké", "Samotracia", "diosa", "movimiento", "escultura helenística"],
+  "proporcion": [2450, 3805],
+  "color": "#6d6860",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Winged%20Victory%20of%20Samothrace%20-%20March%202015%20by%20kHo.jpg?width=1200",
+    "alt": "Victoria de Samotracia, escultura alada de mármol expuesta en la escalinata del Louvre",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Winged_Victory_of_Samothrace_-_March_2015_by_kHo.jpg",
+    "licencia": "CC0 1.0",
+    "credito": "Fotografía: KHo235 · CC0",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "las-meninas-velazquez",
+  "titulo": "Las meninas",
+  "tituloOriginal": "La familia de Felipe IV",
+  "autor": "Diego Velázquez",
+  "fecha": "1656",
+  "fechaOrden": 1656,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "descripcion": "Retrato cortesano, escena de taller y reflexión sobre la mirada al mismo tiempo. Velázquez coloca al espectador en un lugar tan decisivo como ambiguo.",
+  "localizacion": "Museo Nacional del Prado, Madrid",
+  "pais": "España",
+  "dimensiones": "318 × 276 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "corte española",
+    "espejo",
+    "perspectiva",
+    "Pintura",
+    "retrato",
+    "Siglo de Oro",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    276,
+    318
+  ],
+  "color": "#4a3a2c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%2001.jpg?width=1400",
+    "alt": "Las meninas de Velázquez, escena palaciega presidida por la infanta Margarita",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Diego Velázquez · Museo del Prado",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%2001.jpg?width=1400"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## ¿Quién está siendo retratado?\n\nLa infanta Margarita ocupa el centro luminoso, acompañada por sus meninas, María Agustina Sarmiento e Isabel de Velasco. A la derecha aparecen Maribárbola, Nicolasito Pertusato y un mastín. Más atrás, Marcela de Ulloa conversa con un guardadamas; José Nieto se detiene en la puerta.\n\nVelázquez se representa ante un gran lienzo cuyo frente no vemos. En el espejo del fondo se reflejan Felipe IV y Mariana de Austria. Esa aparición abre la pregunta central: ¿los reyes están físicamente ante la escena, en el lugar del espectador, o el espejo refleja el cuadro que Velázquez pinta?\n\nLa respuesta no es definitiva. La obra funciona porque sostiene varias posibilidades a la vez. Quien mira ocupa una posición privilegiada, pero también inestable: comparte eje con la realeza, con el pintor y con el espejo.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "historia",
+      "titulo": "Historia",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Del Alcázar al Prado\n\nVelázquez pintó la obra en 1656 para el despacho de verano de Felipe IV en el Real Alcázar de Madrid. Los inventarios antiguos la denominaron *La familia de Felipe IV*. El título *Las meninas*, derivado del portugués *menina* —muchacha de honor—, se consolidó en el siglo XIX.\n\nEl incendio del Alcázar de 1734 afectó al lienzo, que fue salvado y reparado. Después pasó al Palacio Real y, en 1819, al recién creado Museo del Prado. Allí se convirtió en una referencia fundamental para artistas y escritores.\n\nLa cruz roja de la Orden de Santiago sobre el pecho de Velázquez fue añadida después de que el pintor recibiera la distinción en 1659. No se conoce con certeza quién la pintó. La modificación refuerza una de las aspiraciones presentes en el cuadro: elevar la pintura desde el oficio manual hacia una actividad intelectual y noble.",
+      "archivo": "20-historia.md"
+    },
+    {
+      "id": "autor",
+      "titulo": "Velázquez",
+      "icono": "autor",
+      "orden": 30,
+      "contenido": "## Pintor del rey\n\nDiego Rodríguez de Silva y Velázquez nació en Sevilla en 1599. Tras formarse con Francisco Pacheco, viajó a Madrid y en 1623 fue nombrado pintor de Felipe IV. Su carrera estuvo ligada a la corte, pero también a responsabilidades administrativas que limitaban el tiempo disponible para pintar.\n\nDos viajes a Italia ampliaron su conocimiento de la tradición clásica, la pintura veneciana y las colecciones romanas. Su técnica evolucionó hacia pinceladas cada vez más libres: de cerca parecen abreviaturas; a distancia construyen telas, reflejos, aire y presencia.\n\nEn *Las meninas*, Velázquez no solo retrata a la familia real. Se presenta trabajando, con la llave de aposentador en la cintura y rodeado por una compleja maquinaria visual. La pintura se convierte en una afirmación sobre su propia dignidad.",
+      "archivo": "30-autor.md"
+    },
+    {
+      "id": "composicion",
+      "titulo": "Espacio y luz",
+      "icono": "tecnica",
+      "orden": 40,
+      "contenido": "## Una habitación medida por intervalos\n\nLa escena se sitúa en una dependencia del antiguo Alcázar. Las líneas del techo, los marcos y el suelo conducen hacia el fondo, donde la puerta iluminada establece una profundidad real y otra simbólica. José Nieto queda suspendido entre entrar y salir.\n\nVelázquez distribuye la luz en focos: el primer plano recibe claridad desde la derecha; el espejo devuelve un resplandor más frío; la puerta abre un rectángulo intenso. Las zonas oscuras no están vacías: gradúan la distancia y hacen perceptible el aire.\n\nLas figuras no forman una fila. Se organizan en curvas, diagonales y pausas que permiten recorrer el lienzo sin perder el centro. El gran reverso del cuadro a la izquierda equilibra la abertura de la puerta y recuerda que todo lo visto depende de una superficie pintada.",
+      "archivo": "40-composicion.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 50,
+      "contenido": "## Una obra que otros artistas vuelven a abrir\n\nFrancisco de Goya estudió la pintura de Velázquez y retomó el problema de la familia real y el artista incluido en la escena. Édouard Manet admiró su economía de medios. Pablo Picasso pintó en 1957 una serie de cincuenta y ocho interpretaciones de *Las meninas*, descomponiendo el espacio sin perder sus relaciones esenciales.\n\nMichel Foucault inició *Las palabras y las cosas* con un análisis de la obra como sistema de miradas y ausencias. Desde entonces, el cuadro ocupa un lugar central no solo en la historia de la pintura, sino también en debates sobre representación, poder y espectador.\n\nCada reinterpretación confirma algo singular: *Las meninas* no es un acertijo con una solución cerrada. Es una estructura capaz de producir nuevas preguntas.",
+      "archivo": "50-legado.md"
+    }
+  ]
+}

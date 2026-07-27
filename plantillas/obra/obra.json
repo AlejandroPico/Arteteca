@@ -1,0 +1,26 @@
+{
+  "id": "titulo-autor-o-lugar",
+  "titulo": "Título de la obra",
+  "tituloOriginal": "Título original, si existe",
+  "autor": "Nombre, taller o Autoría desconocida",
+  "fecha": "c. 0000",
+  "fechaOrden": 0,
+  "tipo": "Pintura",
+  "periodo": "Periodo o movimiento",
+  "descripcion": "Resumen breve, riguroso y atractivo de la obra en dos o tres frases.",
+  "localizacion": "Institución o lugar, ciudad",
+  "pais": "País o cultura de origen",
+  "dimensiones": "Alto × ancho × fondo",
+  "tecnicas": ["Técnica principal"],
+  "etiquetas": ["tema", "cultura", "material"],
+  "proporcion": [4, 3],
+  "color": "#765b40",
+  "imagen": {
+    "archivo": "portada.webp",
+    "alt": "Descripción visual útil y concreta",
+    "fuente": "https://fuente-fiable.example/obra",
+    "licencia": "Licencia comprobada",
+    "credito": "Autoría de la reproducción",
+    "foco": "center"
+  }
+}

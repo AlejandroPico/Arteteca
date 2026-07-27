@@ -1,0 +1,626 @@
+{
+  "version": 1,
+  "buildId": "7fb5dd3cdfbb32b4",
+  "total": 10,
+  "tipos": [
+    "Arte rupestre",
+    "Escultura",
+    "Fotografía",
+    "Grabado",
+    "Manuscrito iluminado",
+    "Pintura",
+    "Pintura mural"
+  ],
+  "periodos": [
+    "Arte insular",
+    "Barroco",
+    "Fotografía documental",
+    "Helenismo",
+    "Paleolítico superior",
+    "Posimpresionismo",
+    "Renacimiento",
+    "Ukiyo-e"
+  ],
+  "obras": [
+    {
+      "id": "bisontes-altamira",
+      "titulo": "Bisontes de Altamira",
+      "tituloOriginal": null,
+      "autor": "Autoría desconocida",
+      "fecha": "c. 14.500–11.500 a. C.",
+      "fechaOrden": -13000,
+      "tipo": "Arte rupestre",
+      "periodo": "Paleolítico superior",
+      "descripcion": "Los bisontes polícromos aprovechan salientes y grietas de la roca para ganar volumen. Son una obra colectiva, estratificada y muy anterior a la idea moderna de autor.",
+      "localizacion": "Cueva de Altamira, Cantabria",
+      "pais": "España",
+      "proporcion": [
+        863,
+        541
+      ],
+      "color": "#744636",
+      "etiquetas": [
+        "Arte rupestre",
+        "bisonte",
+        "Carbón",
+        "cueva",
+        "Grabado sobre roca",
+        "Magdaleniense",
+        "Paleolítico superior",
+        "pigmentos",
+        "Pigmentos minerales",
+        "prehistoria"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Altamira%20paintings%2003.jpg?width=1400",
+        "alt": "Reproducción histórica de un bisonte polícromo de la cueva de Altamira",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Altamira_paintings_03.jpg",
+        "licencia": "Dominio público; reproducción histórica",
+        "credito": "Reproducción de Henri Breuil y Émile Cartailhac",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Altamira%20paintings%2003.jpg?width=1400"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "descubrimiento",
+          "titulo": "Descubrimiento y debate",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y acceso",
+          "icono": "tecnica"
+        }
+      ]
+    },
+    {
+      "id": "david-miguel-angel",
+      "titulo": "David",
+      "tituloOriginal": "David di Michelangelo",
+      "autor": "Miguel Ángel Buonarroti",
+      "fecha": "1501–1504",
+      "fechaOrden": 1504,
+      "tipo": "Escultura",
+      "periodo": "Renacimiento",
+      "descripcion": "Un bloque de mármol abandonado durante décadas se convirtió en el emblema de Florencia: David aparece antes del combate, concentrado y en máxima tensión.",
+      "localizacion": "Galleria dell’Accademia, Florencia",
+      "pais": "Italia",
+      "proporcion": [
+        6210,
+        9099
+      ],
+      "color": "#807a70",
+      "etiquetas": [
+        "contrapposto",
+        "desnudo",
+        "Escultura",
+        "escultura monumental",
+        "Florencia",
+        "Mármol de Carrara",
+        "Renacimiento",
+        "Talla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%27s%20David%20-%20right%20view%202.jpg?width=1200",
+        "alt": "El David de Miguel Ángel visto de frente, escultura de mármol sobre fondo oscuro",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg",
+        "licencia": "CC BY-SA 4.0",
+        "credito": "Fotografía: Commonists · CC BY-SA 4.0",
+        "foco": "center 35%",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%27s%20David%20-%20right%20view%202.jpg?width=1200"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "historia",
+          "titulo": "Historia",
+          "icono": "historia"
+        },
+        {
+          "id": "autor",
+          "titulo": "Miguel Ángel",
+          "icono": "autor"
+        },
+        {
+          "id": "materia",
+          "titulo": "Materia y conservación",
+          "icono": "tecnica"
+        }
+      ]
+    },
+    {
+      "id": "gran-ola-kanagawa-hokusai",
+      "titulo": "La gran ola de Kanagawa",
+      "tituloOriginal": "神奈川沖浪裏 · Kanagawa-oki nami ura",
+      "autor": "Katsushika Hokusai",
+      "fecha": "c. 1830–1832",
+      "fechaOrden": 1831,
+      "tipo": "Grabado",
+      "periodo": "Ukiyo-e",
+      "descripcion": "Tres embarcaciones se inclinan bajo una ola convertida en garra. Al fondo, el monte Fuji parece pequeño, estable y perfectamente enmarcado por el peligro.",
+      "localizacion": "Varias colecciones",
+      "pais": "Japón",
+      "proporcion": [
+        4335,
+        2990
+      ],
+      "color": "#365c70",
+      "etiquetas": [
+        "Edo",
+        "Grabado",
+        "mar",
+        "monte Fuji",
+        "paisaje",
+        "Prusia azul",
+        "Tinta y color sobre papel",
+        "Ukiyo-e",
+        "Xilografía"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Wave%20off%20Kanagawa.jpg?width=1600",
+        "alt": "La gran ola de Kanagawa de Hokusai, ola azul sobre barcas con el monte Fuji al fondo",
+        "fuente": "https://commons.wikimedia.org/wiki/File:The_Great_Wave_off_Kanagawa.jpg",
+        "licencia": "Dominio público (PD-Art)",
+        "credito": "Katsushika Hokusai · reproducción en dominio público",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Wave%20off%20Kanagawa.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "serie",
+          "titulo": "La serie",
+          "icono": "historia"
+        },
+        {
+          "id": "autor",
+          "titulo": "Hokusai",
+          "icono": "autor"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Cómo se imprimió",
+          "icono": "tecnica"
+        }
+      ]
+    },
+    {
+      "id": "joven-perla-vermeer",
+      "titulo": "La joven de la perla",
+      "tituloOriginal": "Meisje met de parel",
+      "autor": "Johannes Vermeer",
+      "fecha": "c. 1665",
+      "fechaOrden": 1665,
+      "tipo": "Pintura",
+      "periodo": "Barroco",
+      "descripcion": "No es un retrato convencional, sino una tronie: estudio idealizado de un rostro, una expresión y un atuendo. La joven gira como si acabara de ser llamada.",
+      "localizacion": "Mauritshuis, La Haya",
+      "pais": "Países Bajos",
+      "proporcion": [
+        4095,
+        4794
+      ],
+      "color": "#314b55",
+      "etiquetas": [
+        "Barroco",
+        "luz",
+        "perla",
+        "Pintura",
+        "retrato",
+        "Siglo de Oro neerlandés",
+        "tronie",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Meisje%20met%20de%20parel.jpg?width=1200",
+        "alt": "La joven de la perla de Vermeer, rostro de una joven con turbante azul sobre fondo oscuro",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Meisje_met_de_parel.jpg",
+        "licencia": "Dominio público (PD-Art)",
+        "credito": "Johannes Vermeer · Mauritshuis",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Meisje%20met%20de%20parel.jpg?width=1200"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "historia",
+          "titulo": "Historia",
+          "icono": "historia"
+        },
+        {
+          "id": "autor",
+          "titulo": "Vermeer",
+          "icono": "autor"
+        },
+        {
+          "id": "materiales",
+          "titulo": "Materiales",
+          "icono": "tecnica"
+        }
+      ]
+    },
+    {
+      "id": "la-ultima-cena-leonardo",
+      "titulo": "La última cena",
+      "tituloOriginal": "Il Cenacolo",
+      "autor": "Leonardo da Vinci",
+      "fecha": "c. 1495–1498",
+      "fechaOrden": 1497,
+      "tipo": "Pintura mural",
+      "periodo": "Renacimiento",
+      "descripcion": "Leonardo convirtió un refectorio milanés en una escena de tensión contenida: el instante en que Cristo anuncia que uno de los apóstoles lo traicionará.",
+      "localizacion": "Santa Maria delle Grazie, Milán",
+      "pais": "Italia",
+      "proporcion": [
+        5381,
+        2926
+      ],
+      "color": "#765b40",
+      "etiquetas": [
+        "apóstoles",
+        "arte religioso",
+        "mural",
+        "perspectiva",
+        "Pintura mural",
+        "Renacimiento",
+        "Temple",
+        "Yeso seco",
+        "Óleo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20The%20Last%20Supper%20high%20res.jpg?width=1600",
+        "alt": "La última cena de Leonardo da Vinci, con Cristo en el centro y los apóstoles reaccionando a ambos lados",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+        "licencia": "Dominio público (PD-Art)",
+        "credito": "Leonardo da Vinci · reproducción en dominio público",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20The%20Last%20Supper%20high%20res.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "historia",
+          "titulo": "Historia",
+          "icono": "historia"
+        },
+        {
+          "id": "autor",
+          "titulo": "Leonardo",
+          "icono": "autor"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y conservación",
+          "icono": "tecnica"
+        },
+        {
+          "id": "mitos",
+          "titulo": "Mitos y teorías",
+          "icono": "misterio"
+        }
+      ]
+    },
+    {
+      "id": "las-meninas-velazquez",
+      "titulo": "Las meninas",
+      "tituloOriginal": "La familia de Felipe IV",
+      "autor": "Diego Velázquez",
+      "fecha": "1656",
+      "fechaOrden": 1656,
+      "tipo": "Pintura",
+      "periodo": "Barroco",
+      "descripcion": "Retrato cortesano, escena de taller y reflexión sobre la mirada al mismo tiempo. Velázquez coloca al espectador en un lugar tan decisivo como ambiguo.",
+      "localizacion": "Museo Nacional del Prado, Madrid",
+      "pais": "España",
+      "proporcion": [
+        276,
+        318
+      ],
+      "color": "#4a3a2c",
+      "etiquetas": [
+        "Barroco",
+        "corte española",
+        "espejo",
+        "perspectiva",
+        "Pintura",
+        "retrato",
+        "Siglo de Oro",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%2001.jpg?width=1400",
+        "alt": "Las meninas de Velázquez, escena palaciega presidida por la infanta Margarita",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg",
+        "licencia": "Dominio público (PD-Art)",
+        "credito": "Diego Velázquez · Museo del Prado",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%2001.jpg?width=1400"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "historia",
+          "titulo": "Historia",
+          "icono": "historia"
+        },
+        {
+          "id": "autor",
+          "titulo": "Velázquez",
+          "icono": "autor"
+        },
+        {
+          "id": "composicion",
+          "titulo": "Espacio y luz",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        }
+      ]
+    },
+    {
+      "id": "libro-kells-folio-32v",
+      "titulo": "Cristo entronizado, folio 32v",
+      "tituloOriginal": "Book of Kells, Folio 32v",
+      "autor": "Taller monástico insular",
+      "fecha": "c. 800",
+      "fechaOrden": 800,
+      "tipo": "Manuscrito iluminado",
+      "periodo": "Arte insular",
+      "descripcion": "Una miniatura del Libro de Kells funde figura, símbolo, caligrafía y ornamento. La página se construye como un objeto de contemplación, no solo de lectura.",
+      "localizacion": "Trinity College Library, Dublín",
+      "pais": "Irlanda",
+      "proporcion": [
+        1484,
+        1934
+      ],
+      "color": "#745d37",
+      "etiquetas": [
+        "Arte insular",
+        "Edad Media",
+        "evangeliario",
+        "Iluminación",
+        "manuscrito",
+        "Manuscrito iluminado",
+        "nudo celta",
+        "ornamento",
+        "Pigmento sobre vitela",
+        "Tinta"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/KellsFol032vChristEnthroned.jpg?width=1200",
+        "alt": "Folio 32v del Libro de Kells con Cristo entronizado rodeado de ornamentación",
+        "fuente": "https://commons.wikimedia.org/wiki/File:KellsFol032vChristEnthroned.jpg",
+        "licencia": "Dominio público (PD-Art)",
+        "credito": "Libro de Kells · Trinity College Dublin",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/KellsFol032vChristEnthroned.jpg?width=1200"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la página",
+          "icono": "ojo"
+        },
+        {
+          "id": "historia",
+          "titulo": "Historia del manuscrito",
+          "icono": "historia"
+        },
+        {
+          "id": "taller",
+          "titulo": "El taller",
+          "icono": "autor"
+        },
+        {
+          "id": "materiales",
+          "titulo": "Materiales",
+          "icono": "tecnica"
+        }
+      ]
+    },
+    {
+      "id": "madre-migrante-lange",
+      "titulo": "Madre migrante",
+      "tituloOriginal": "Migrant Mother, Nipomo, California",
+      "autor": "Dorothea Lange",
+      "fecha": "Marzo de 1936",
+      "fechaOrden": 1936,
+      "tipo": "Fotografía",
+      "periodo": "Fotografía documental",
+      "descripcion": "El retrato de Florence Owens Thompson y sus hijos condensó la precariedad de la Gran Depresión y se convirtió en una de las imágenes documentales más reconocibles del siglo XX.",
+      "localizacion": "Library of Congress, Washington D. C.",
+      "pais": "Estados Unidos",
+      "proporcion": [
+        6205,
+        8066
+      ],
+      "color": "#575047",
+      "etiquetas": [
+        "California",
+        "documental",
+        "Fotografía",
+        "Fotografía analógica",
+        "Fotografía documental",
+        "FSA",
+        "Gran Depresión",
+        "Negativo de nitrato",
+        "retrato"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lange-MigrantMother02.jpg?width=1200",
+        "alt": "Madre migrante de Dorothea Lange, mujer preocupada rodeada por dos de sus hijos",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg",
+        "licencia": "Dominio público en Estados Unidos (FSA/OWI)",
+        "credito": "Dorothea Lange · Farm Security Administration",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lange-MigrantMother02.jpg?width=1200"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la imagen",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "autora",
+          "titulo": "Dorothea Lange",
+          "icono": "autor"
+        },
+        {
+          "id": "etica",
+          "titulo": "Ética documental",
+          "icono": "debate"
+        }
+      ]
+    },
+    {
+      "id": "noche-estrellada-van-gogh",
+      "titulo": "La noche estrellada",
+      "tituloOriginal": "De sterrennacht",
+      "autor": "Vincent van Gogh",
+      "fecha": "Junio de 1889",
+      "fechaOrden": 1889,
+      "tipo": "Pintura",
+      "periodo": "Posimpresionismo",
+      "descripcion": "Un cielo de remolinos luminosos domina Saint-Rémy. Van Gogh no pintó una transcripción literal de la vista, sino una noche reorganizada por memoria, observación e intensidad.",
+      "localizacion": "Museum of Modern Art, Nueva York",
+      "pais": "Francia",
+      "proporcion": [
+        921,
+        737
+      ],
+      "color": "#2f4b64",
+      "etiquetas": [
+        "ciprés",
+        "estrellas",
+        "Impasto",
+        "noche",
+        "paisaje",
+        "Pintura",
+        "Posimpresionismo",
+        "Saint-Rémy",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Starry%20Night.jpg?width=1600",
+        "alt": "La noche estrellada de Van Gogh, con cielo azul en espiral, estrellas y un ciprés oscuro",
+        "fuente": "https://commons.wikimedia.org/wiki/File:The_Starry_Night.jpg",
+        "licencia": "Dominio público (PD-Art)",
+        "credito": "Vincent van Gogh · MoMA",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Starry%20Night.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "autor",
+          "titulo": "Van Gogh",
+          "icono": "autor"
+        },
+        {
+          "id": "color",
+          "titulo": "Color y pincelada",
+          "icono": "tecnica"
+        }
+      ]
+    },
+    {
+      "id": "victoria-samotracia",
+      "titulo": "Victoria de Samotracia",
+      "tituloOriginal": "Νίκη της Σαμοθράκης",
+      "autor": "Autoría desconocida",
+      "fecha": "c. 200–190 a. C.",
+      "fechaOrden": -195,
+      "tipo": "Escultura",
+      "periodo": "Helenismo",
+      "descripcion": "La diosa Niké acaba de posarse sobre la proa de una nave. El mármol conserva el choque imaginario del viento contra el cuerpo y los pliegues húmedos del vestido.",
+      "localizacion": "Museo del Louvre, París",
+      "pais": "Grecia",
+      "proporcion": [
+        2450,
+        3805
+      ],
+      "color": "#6d6860",
+      "etiquetas": [
+        "diosa",
+        "Escultura",
+        "escultura helenística",
+        "Helenismo",
+        "movimiento",
+        "Mármol de Lartos",
+        "Mármol de Paros",
+        "Niké",
+        "Samotracia",
+        "Talla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Winged%20Victory%20of%20Samothrace%20-%20March%202015%20by%20kHo.jpg?width=1200",
+        "alt": "Victoria de Samotracia, escultura alada de mármol expuesta en la escalinata del Louvre",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Winged_Victory_of_Samothrace_-_March_2015_by_kHo.jpg",
+        "licencia": "CC0 1.0",
+        "credito": "Fotografía: KHo235 · CC0",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Winged%20Victory%20of%20Samothrace%20-%20March%202015%20by%20kHo.jpg?width=1200"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "historia",
+          "titulo": "Historia",
+          "icono": "historia"
+        },
+        {
+          "id": "reconstruccion",
+          "titulo": "Reconstrucción",
+          "icono": "tecnica"
+        }
+      ]
+    }
+  ]
+}

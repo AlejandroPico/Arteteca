@@ -1,0 +1,75 @@
+{
+  "id": "joven-perla-vermeer",
+  "titulo": "La joven de la perla",
+  "tituloOriginal": "Meisje met de parel",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1665",
+  "fechaOrden": 1665,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "descripcion": "No es un retrato convencional, sino una tronie: estudio idealizado de un rostro, una expresión y un atuendo. La joven gira como si acabara de ser llamada.",
+  "localizacion": "Mauritshuis, La Haya",
+  "pais": "Países Bajos",
+  "dimensiones": "44,5 × 39 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "luz",
+    "perla",
+    "Pintura",
+    "retrato",
+    "Siglo de Oro neerlandés",
+    "tronie",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    4095,
+    4794
+  ],
+  "color": "#314b55",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Meisje%20met%20de%20parel.jpg?width=1200",
+    "alt": "La joven de la perla de Vermeer, rostro de una joven con turbante azul sobre fondo oscuro",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Meisje_met_de_parel.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Johannes Vermeer · Mauritshuis",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Meisje%20met%20de%20parel.jpg?width=1200"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Un giro interrumpido\n\nLa joven aparece contra un fondo oscuro, sin objetos ni arquitectura. Gira la cabeza y entreabre los labios. La escena parece instantánea, pero cada elemento está cuidadosamente reducido para concentrar la atención en la mirada.\n\nEl turbante azul y amarillo no describe un vestido cotidiano neerlandés. Aporta un carácter exótico propio de una *tronie*, género centrado en tipos, expresiones o atuendos más que en la identidad de una persona concreta.\n\nLa perla se construye con muy pocas pinceladas: un reflejo claro y una transición hacia el cuello. No se dibuja un contorno completo. El ojo del espectador termina una forma que la pintura apenas sugiere.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "historia",
+      "titulo": "Historia",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## De subasta modesta a icono\n\nNo se conserva documentación sobre el encargo ni sobre la identidad de la modelo. La obra reapareció en una subasta de La Haya en 1881 y fue adquirida por Arnoldus des Tombe por una cantidad reducida. En 1902 ingresó por legado en el Mauritshuis.\n\nDurante mucho tiempo recibió nombres relacionados con una muchacha o con el turbante. El título actual se popularizó a finales del siglo XX y convirtió la joya en centro de su identidad pública.\n\nLas restauraciones y los análisis técnicos han mostrado detalles invisibles a simple vista, como una cortina verde originalmente perceptible en el fondo y pestañas muy sutiles. El envejecimiento de materiales cambia nuestra impresión de la imagen.",
+      "archivo": "20-historia.md"
+    },
+    {
+      "id": "autor",
+      "titulo": "Vermeer",
+      "icono": "autor",
+      "orden": 30,
+      "contenido": "## Pintura lenta en Delft\n\nJohannes Vermeer (1632–1675) vivió y trabajó en Delft. Se conservan pocas obras atribuidas con seguridad, en su mayoría interiores silenciosos donde figuras leen, escriben, tocan música o realizan tareas domésticas.\n\nSu reputación fue limitada fuera de ciertos círculos hasta su redescubrimiento en el siglo XIX. Hoy se valora especialmente su organización de la luz, el color y el espacio.\n\nNo hay prueba concluyente de que empleara una cámara oscura, aunque algunos efectos —desenfoques, puntos de luz— han alimentado el debate. Una herramienta óptica, de haber existido, no explicaría por sí sola sus decisiones pictóricas.",
+      "archivo": "30-autor.md"
+    },
+    {
+      "id": "materiales",
+      "titulo": "Materiales",
+      "icono": "tecnica",
+      "orden": 40,
+      "contenido": "## Azul ultramar y capas transparentes\n\nEl turbante contiene ultramar natural, pigmento costoso obtenido del lapislázuli. Vermeer lo utilizó con generosidad y lo combinó con amarillos para construir una relación cromática intensa.\n\nLa piel se forma mediante capas y transiciones finas. En varios puntos el pintor deja que el color subyacente participe en el resultado. Los reflejos húmedos de labios y ojos dependen de toques muy pequeños.\n\nEl proyecto de investigación *Girl in the Spotlight* examinó la superficie con técnicas no invasivas y toma microscópica de muestras. Estos estudios permiten reconstruir el proceso sin confundir la imagen actual con su apariencia original.",
+      "archivo": "40-materiales.md"
+    }
+  ]
+}

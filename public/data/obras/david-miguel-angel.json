@@ -1,0 +1,76 @@
+{
+  "id": "david-miguel-angel",
+  "titulo": "David",
+  "tituloOriginal": "David di Michelangelo",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "1501–1504",
+  "fechaOrden": 1504,
+  "tipo": "Escultura",
+  "periodo": "Renacimiento",
+  "descripcion": "Un bloque de mármol abandonado durante décadas se convirtió en el emblema de Florencia: David aparece antes del combate, concentrado y en máxima tensión.",
+  "localizacion": "Galleria dell’Accademia, Florencia",
+  "pais": "Italia",
+  "dimensiones": "517 × 199 cm",
+  "tecnicas": [
+    "Mármol de Carrara",
+    "Talla"
+  ],
+  "etiquetas": [
+    "contrapposto",
+    "desnudo",
+    "Escultura",
+    "escultura monumental",
+    "Florencia",
+    "Mármol de Carrara",
+    "Renacimiento",
+    "Talla"
+  ],
+  "proporcion": [
+    6210,
+    9099
+  ],
+  "color": "#807a70",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%27s%20David%20-%20right%20view%202.jpg?width=1200",
+    "alt": "El David de Miguel Ángel visto de frente, escultura de mármol sobre fondo oscuro",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Fotografía: Commonists · CC BY-SA 4.0",
+    "foco": "center 35%",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%27s%20David%20-%20right%20view%202.jpg?width=1200"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de lanzar la piedra\n\nMiguel Ángel evita el momento de la victoria. David todavía no ha combatido con Goliat: sostiene la piedra en la mano derecha y lleva la honda sobre el hombro izquierdo. La frente se contrae, el cuello gira y el peso descansa en una pierna. La quietud contiene una acción inminente.\n\nLa cabeza y las manos son proporcionalmente grandes. Parte de la explicación está en su destino original, un punto elevado de la catedral desde el que esas zonas habrían sufrido un fuerte acortamiento visual. También intensifican la concentración mental y la capacidad de actuar.\n\nEl *contrapposto* desplaza el peso y organiza el cuerpo en ritmos opuestos. No es una postura relajada: la asimetría transmite vigilancia.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "historia",
+      "titulo": "Historia",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## El gigante nació de un bloque difícil\n\nEl mármol había sido extraído en Carrara para una figura destinada a los contrafuertes de Santa Maria del Fiore. Agostino di Duccio y Antonio Rossellino lo trabajaron sin concluirlo. Durante unos cuarenta años permaneció expuesto y parcialmente tallado.\n\nMiguel Ángel recibió el encargo en 1501 y terminó la escultura en 1504. Una comisión de artistas, entre ellos Leonardo da Vinci y Botticelli, decidió colocarla junto a la entrada del Palazzo Vecchio. Allí dejó de ser solo un héroe bíblico: se convirtió en símbolo de la República florentina, pequeña pero dispuesta a defenderse.\n\nEn 1873 el original fue trasladado a la Galleria dell’Accademia para protegerlo. Una copia ocupa hoy su antigua posición en la Piazza della Signoria.",
+      "archivo": "20-historia.md"
+    },
+    {
+      "id": "autor",
+      "titulo": "Miguel Ángel",
+      "icono": "autor",
+      "orden": 30,
+      "contenido": "## La figura contenida en el mármol\n\nMichelangelo Buonarroti (1475–1564) se consideró ante todo escultor, aunque también transformó la pintura, la arquitectura y la poesía de su tiempo. Se formó en Florencia y estudió la escultura antigua en el entorno de los Médici.\n\nAntes del *David* ya había tallado la *Piedad* del Vaticano. Después abordaría la tumba de Julio II, el techo de la Capilla Sixtina, la Sacristía Nueva de San Lorenzo y la dirección de las obras de San Pedro.\n\nSu tratamiento del cuerpo no busca una anatomía neutral. Músculos, giros y escalas se ajustan a una idea expresiva. En el *David*, la perfección aparente convive con decisiones deliberadamente enfáticas.",
+      "archivo": "30-autor.md"
+    },
+    {
+      "id": "materia",
+      "titulo": "Materia y conservación",
+      "icono": "tecnica",
+      "orden": 40,
+      "contenido": "## Cinco metros de mármol\n\nLa talla es sustractiva: cada golpe elimina material que no puede recuperarse. Miguel Ángel tuvo que adaptarse a un bloque estrecho, previamente intervenido y con defectos. La forma final conserva esa negociación entre diseño y materia disponible.\n\nEl mármol presenta microfracturas y ha sufrido siglos de exposición, vibraciones y contaminación. En 1991 un visitante dañó varios dedos del pie izquierdo con un martillo; los fragmentos permitieron estudiar la composición de la piedra y reparar la zona.\n\nLa limpieza de 2003–2004 generó debate sobre el método más adecuado. Conservar una escultura tan célebre implica equilibrar estabilidad física, pátina histórica y percepción pública.",
+      "archivo": "40-materia.md"
+    }
+  ]
+}

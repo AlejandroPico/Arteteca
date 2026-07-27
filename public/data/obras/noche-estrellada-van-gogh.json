@@ -1,0 +1,77 @@
+{
+  "id": "noche-estrellada-van-gogh",
+  "titulo": "La noche estrellada",
+  "tituloOriginal": "De sterrennacht",
+  "autor": "Vincent van Gogh",
+  "fecha": "Junio de 1889",
+  "fechaOrden": 1889,
+  "tipo": "Pintura",
+  "periodo": "Posimpresionismo",
+  "descripcion": "Un cielo de remolinos luminosos domina Saint-Rémy. Van Gogh no pintó una transcripción literal de la vista, sino una noche reorganizada por memoria, observación e intensidad.",
+  "localizacion": "Museum of Modern Art, Nueva York",
+  "pais": "Francia",
+  "dimensiones": "73,7 × 92,1 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo",
+    "Impasto"
+  ],
+  "etiquetas": [
+    "ciprés",
+    "estrellas",
+    "Impasto",
+    "noche",
+    "paisaje",
+    "Pintura",
+    "Posimpresionismo",
+    "Saint-Rémy",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    921,
+    737
+  ],
+  "color": "#2f4b64",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Starry%20Night.jpg?width=1600",
+    "alt": "La noche estrellada de Van Gogh, con cielo azul en espiral, estrellas y un ciprés oscuro",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Starry_Night.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Vincent van Gogh · MoMA",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Starry%20Night.jpg?width=1600"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## El cielo ocupa tres cuartas partes\n\nGrandes curvas enlazan estrellas, luna y nubes en una corriente continua. Las pinceladas no disimulan la materia: cada trazo conserva dirección y espesor. El cielo parece moverse mientras el pueblo permanece construido con planos más breves y estables.\n\nEl ciprés asciende desde el primer plano y conecta tierra y firmamento. Su forma oscura se ha asociado tanto con el paisaje mediterráneo como con cementerios y duelo, aunque la pintura no obliga a una única lectura.\n\nEl pueblo no reproduce exactamente lo que Van Gogh veía desde su habitación. La aguja de la iglesia recuerda más a la arquitectura del norte de Europa. Observación, memoria e invención se integran en una sola vista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Saint-Paul-de-Mausole\n\nVan Gogh ingresó voluntariamente en el sanatorio de Saint-Rémy-de-Provence en mayo de 1889. Desde una habitación y un espacio habilitado como estudio pintó el jardín, los olivares, los campos y las montañas cercanas.\n\nEn cartas a su hermano Theo describió su interés por el cielo nocturno, pero también expresó reservas sobre el resultado de algunas composiciones más imaginadas. *La noche estrellada* fue pintada de día, apoyándose en observaciones previas y en la elaboración artística.\n\nTras la muerte del pintor, la obra pasó por Theo y por Johanna van Gogh-Bonger, decisiva para difundir su legado. El Museum of Modern Art de Nueva York la adquirió en 1941.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "autor",
+      "titulo": "Van Gogh",
+      "icono": "autor",
+      "orden": 30,
+      "contenido": "## Una carrera breve y extraordinaria\n\nVincent van Gogh (1853–1890) comenzó a dedicarse seriamente al arte cerca de los veintisiete años. En aproximadamente una década produjo centenares de pinturas y dibujos. Su aprendizaje pasó por estudios de campesinos, naturalezas muertas, retratos y una asimilación personal del impresionismo y de las estampas japonesas.\n\nLas cartas a Theo permiten seguir decisiones técnicas, lecturas y dudas, pero no deben reducir cada cuadro a un diagnóstico médico. Su obra es el resultado de trabajo consciente, intercambio con otros artistas y estudio de la tradición.\n\nEn Saint-Rémy, el ritmo de líneas y el color se convirtieron en herramientas para reorganizar la experiencia del paisaje.",
+      "archivo": "30-autor.md"
+    },
+    {
+      "id": "color",
+      "titulo": "Color y pincelada",
+      "icono": "tecnica",
+      "orden": 40,
+      "contenido": "## Contrastes que producen luz\n\nAzules profundos envuelven amarillos y blancos. La luminosidad no depende de una fuente realista, sino del contraste simultáneo entre tonos. Las estrellas están rodeadas por anillos que hacen visible su irradiación.\n\nVan Gogh varía la dirección de la pincelada según el elemento: espirales para el cielo, trazos verticales para el ciprés, segmentos cortos para la aldea. La superficie registra el gesto y, a la vez, separa distintas velocidades visuales.\n\nLa pintura al óleo se aplica en áreas con relieve. Ese *impasto* modifica cómo la luz física incide sobre el lienzo; una reproducción plana transmite la composición, pero no toda su presencia material.",
+      "archivo": "40-color.md"
+    }
+  ]
+}

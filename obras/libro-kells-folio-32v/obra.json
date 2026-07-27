@@ -1,0 +1,26 @@
+{
+  "id": "libro-kells-folio-32v",
+  "titulo": "Cristo entronizado, folio 32v",
+  "tituloOriginal": "Book of Kells, Folio 32v",
+  "autor": "Taller monástico insular",
+  "fecha": "c. 800",
+  "fechaOrden": 800,
+  "tipo": "Manuscrito iluminado",
+  "periodo": "Arte insular",
+  "descripcion": "Una miniatura del Libro de Kells funde figura, símbolo, caligrafía y ornamento. La página se construye como un objeto de contemplación, no solo de lectura.",
+  "localizacion": "Trinity College Library, Dublín",
+  "pais": "Irlanda",
+  "dimensiones": "Folio de vitela",
+  "tecnicas": ["Tinta", "Pigmento sobre vitela", "Iluminación"],
+  "etiquetas": ["manuscrito", "evangeliario", "ornamento", "nudo celta", "Edad Media"],
+  "proporcion": [1484, 1934],
+  "color": "#745d37",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/KellsFol032vChristEnthroned.jpg?width=1200",
+    "alt": "Folio 32v del Libro de Kells con Cristo entronizado rodeado de ornamentación",
+    "fuente": "https://commons.wikimedia.org/wiki/File:KellsFol032vChristEnthroned.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Libro de Kells · Trinity College Dublin",
+    "foco": "center"
+  }
+}

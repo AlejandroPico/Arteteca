@@ -1,0 +1,77 @@
+{
+  "id": "madre-migrante-lange",
+  "titulo": "Madre migrante",
+  "tituloOriginal": "Migrant Mother, Nipomo, California",
+  "autor": "Dorothea Lange",
+  "fecha": "Marzo de 1936",
+  "fechaOrden": 1936,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía documental",
+  "descripcion": "El retrato de Florence Owens Thompson y sus hijos condensó la precariedad de la Gran Depresión y se convirtió en una de las imágenes documentales más reconocibles del siglo XX.",
+  "localizacion": "Library of Congress, Washington D. C.",
+  "pais": "Estados Unidos",
+  "dimensiones": "Negativo 4 × 5 pulgadas",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Negativo de nitrato"
+  ],
+  "etiquetas": [
+    "California",
+    "documental",
+    "Fotografía",
+    "Fotografía analógica",
+    "Fotografía documental",
+    "FSA",
+    "Gran Depresión",
+    "Negativo de nitrato",
+    "retrato"
+  ],
+  "proporcion": [
+    6205,
+    8066
+  ],
+  "color": "#575047",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lange-MigrantMother02.jpg?width=1200",
+    "alt": "Madre migrante de Dorothea Lange, mujer preocupada rodeada por dos de sus hijos",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg",
+    "licencia": "Dominio público en Estados Unidos (FSA/OWI)",
+    "credito": "Dorothea Lange · Farm Security Administration",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lange-MigrantMother02.jpg?width=1200"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la imagen",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Un triángulo de preocupación\n\nFlorence Owens Thompson sostiene el rostro con la mano y dirige la mirada fuera del encuadre. Dos hijos apoyan la cabeza en sus hombros y ocultan el rostro; un bebé duerme en su regazo. Las figuras forman un triángulo compacto que concentra toda la imagen en la madre.\n\nLa fotografía no muestra el campamento ni las condiciones materiales de manera directa. Construye su fuerza a través de gestos, piel, ropa y cercanía. La mirada de Thompson sugiere cálculo, cansancio y atención al futuro más que una emoción simple.\n\nEsta es la última y más conocida imagen de una secuencia. Observar las tomas anteriores permite comprender cómo Lange fue eliminando elementos del entorno y acercándose hasta alcanzar la composición final.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Nipomo, 1936\n\nDorothea Lange trabajaba para la Resettlement Administration, integrada después en la Farm Security Administration. El programa documentaba las condiciones rurales durante la Gran Depresión y distribuía imágenes a la prensa para dar visibilidad a la crisis.\n\nEn un campamento de recolectores de guisantes en Nipomo, California, conoció a Florence Owens Thompson y a varios de sus hijos. Una helada había destruido la cosecha y muchas familias carecían de trabajo y alimentos.\n\nLa publicación de las fotografías contribuyó a movilizar ayuda para el campamento. Sin embargo, Thompson no recibió beneficios económicos y años después expresó sentimientos complejos sobre la fama de una imagen que circuló sin su control.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "autora",
+      "titulo": "Dorothea Lange",
+      "icono": "autor",
+      "orden": 30,
+      "contenido": "## Del estudio a la calle\n\nDorothea Lange (1895–1965) se formó como fotógrafa y abrió un estudio de retrato en San Francisco. La crisis económica la llevó a trabajar fuera del estudio y a documentar desempleo, migración y pobreza.\n\nSu experiencia con el retrato se reconoce en la atención a gestos y relaciones humanas. Durante la Segunda Guerra Mundial fotografió el internamiento de ciudadanos estadounidenses de ascendencia japonesa; muchas de esas imágenes fueron restringidas porque contradecían la narrativa oficial.\n\nLange entendía la fotografía documental como una combinación de prueba y comunicación. Sus encuadres son decisiones formales, no registros automáticos de una realidad neutral.",
+      "archivo": "30-autora.md"
+    },
+    {
+      "id": "etica",
+      "titulo": "Ética documental",
+      "icono": "debate",
+      "orden": 40,
+      "contenido": "## ¿De quién es una imagen?\n\nLa historia de *Madre migrante* plantea preguntas que hoy son centrales: consentimiento, identificación, circulación y desigualdad entre quien fotografía y quien es fotografiado. Lange tomó notas que contenían errores sobre el origen y las circunstancias de Thompson, corregidos por investigaciones posteriores.\n\nLa fotografía fue producida como parte del trabajo de una agencia federal y quedó en dominio público en Estados Unidos. Esa libertad jurídica facilitó su difusión, pero no resuelve la dimensión ética.\n\nMirarla con rigor implica reconocer a Florence Owens Thompson como persona histórica, no solo como símbolo anónimo de pobreza. También exige diferenciar la potencia pública de la obra de la experiencia privada de su protagonista.",
+      "archivo": "40-etica.md"
+    }
+  ]
+}

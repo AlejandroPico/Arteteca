@@ -1,0 +1,86 @@
+{
+  "id": "la-ultima-cena-leonardo",
+  "titulo": "La última cena",
+  "tituloOriginal": "Il Cenacolo",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1495–1498",
+  "fechaOrden": 1497,
+  "tipo": "Pintura mural",
+  "periodo": "Renacimiento",
+  "descripcion": "Leonardo convirtió un refectorio milanés en una escena de tensión contenida: el instante en que Cristo anuncia que uno de los apóstoles lo traicionará.",
+  "localizacion": "Santa Maria delle Grazie, Milán",
+  "pais": "Italia",
+  "dimensiones": "460 × 880 cm",
+  "tecnicas": [
+    "Temple",
+    "Óleo",
+    "Yeso seco"
+  ],
+  "etiquetas": [
+    "apóstoles",
+    "arte religioso",
+    "mural",
+    "perspectiva",
+    "Pintura mural",
+    "Renacimiento",
+    "Temple",
+    "Yeso seco",
+    "Óleo"
+  ],
+  "proporcion": [
+    5381,
+    2926
+  ],
+  "color": "#765b40",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20The%20Last%20Supper%20high%20res.jpg?width=1600",
+    "alt": "La última cena de Leonardo da Vinci, con Cristo en el centro y los apóstoles reaccionando a ambos lados",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Leonardo da Vinci · reproducción en dominio público",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20The%20Last%20Supper%20high%20res.jpg?width=1600"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Un instante que se propaga\n\nLeonardo escoge el momento posterior a la frase de Cristo: «uno de vosotros me traicionará». La noticia viaja por la mesa como una onda. Los doce apóstoles se agrupan de tres en tres, pero cada cuerpo reacciona de manera distinta: protesta, pregunta, se retira, se inclina o busca una explicación.\n\nCristo forma un triángulo estable en el centro. Su cabeza coincide con el punto de fuga y queda recortada por la ventana del fondo. No necesita un halo pintado: la arquitectura y la luz lo construyen visualmente.\n\nJudas no aparece aislado al otro lado de la mesa, como era habitual. Comparte el espacio con los demás, aunque retrocede hacia la sombra, sostiene la bolsa y vuelca el salero con el brazo. Esta proximidad vuelve la traición más inquietante.\n\n## Tres detalles\n\n- **Las manos** forman una segunda narración, casi tan expresiva como los rostros.\n- **El pan y el vino** anticipan la institución de la eucaristía sin romper la naturalidad de la cena.\n- **El paisaje** abre la habitación hacia una claridad distante y refuerza la profundidad.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "historia",
+      "titulo": "Historia",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Un encargo para el convento\n\nLudovico Sforza, duque de Milán, promovió la renovación del convento dominico de Santa Maria delle Grazie. Leonardo trabajó en el muro norte del refectorio aproximadamente entre 1495 y 1498. Frente a la escena se encontraba una *Crucifixión* de Giovanni Donato da Montorfano: la comida y el sacrificio quedaban así vinculados en el mismo espacio.\n\nLa obra adquirió fama muy pronto, pero también comenzó a deteriorarse pocas décadas después. En el siglo XVII se abrió una puerta en la parte inferior del muro, eliminando los pies de Cristo. El refectorio padeció humedad, ocupaciones militares y, en 1943, un bombardeo que destruyó gran parte del edificio. La pared de Leonardo sobrevivió protegida por sacos de arena y andamiajes.\n\n## Restaurar una imagen frágil\n\nLa intervención dirigida por Pinin Brambilla Barcilon entre 1977 y 1999 retiró repintes, estabilizó la superficie y diferenció las zonas perdidas. El aspecto actual no es una recuperación milagrosa del original: es una lectura prudente de lo que todavía conserva la materia de Leonardo.",
+      "archivo": "20-historia.md"
+    },
+    {
+      "id": "autor",
+      "titulo": "Leonardo",
+      "icono": "autor",
+      "orden": 30,
+      "contenido": "## Pintar como una forma de investigar\n\nLeonardo da Vinci (1452–1519) trabajó como pintor, ingeniero, escenógrafo, anatomista y diseñador. En Milán estuvo al servicio de Ludovico Sforza y abordó proyectos tan distintos como sistemas hidráulicos, fortificaciones, fiestas cortesanas y retratos.\n\nEn *La última cena* confluyen varias de sus obsesiones: la expresión de los afectos a través del cuerpo, la geometría como estructura invisible, la observación de la luz y la posibilidad de convertir una pared real en la continuación de una estancia imaginaria.\n\nSu ritmo de trabajo era incompatible con el fresco tradicional, que obliga a pintar con rapidez sobre yeso húmedo. Leonardo necesitaba revisar, superponer veladuras y modificar gestos. Esa voluntad experimental hizo posible una sutileza extraordinaria, pero también dejó una obra técnicamente vulnerable.",
+      "archivo": "30-autor.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y conservación",
+      "icono": "tecnica",
+      "orden": 40,
+      "contenido": "## Un mural que no es un fresco\n\nLeonardo aplicó una preparación seca sobre el muro y pintó con una mezcla de temple y óleo. El procedimiento le permitió trabajar lentamente, obtener transiciones suaves y volver sobre una zona ya terminada. A diferencia del *buon fresco*, el pigmento no quedó integrado químicamente en el enlucido húmedo.\n\nLa pared exterior era fría y retenía humedad. Las capas pictóricas comenzaron a separarse del soporte, un problema agravado por polvo, humo, condensación y restauraciones antiguas. Algunas intervenciones rellenaron pérdidas con óleo o cubrieron áreas originales, alterando colores y volúmenes.\n\nHoy el acceso al refectorio está controlado para reducir cambios ambientales. La conservación consiste en mantener un equilibrio: estabilizar una superficie extremadamente delicada sin convertirla en una reconstrucción moderna.",
+      "archivo": "40-tecnica.md"
+    },
+    {
+      "id": "mitos",
+      "titulo": "Mitos y teorías",
+      "icono": "misterio",
+      "orden": 50,
+      "contenido": "## Entre iconografía y conspiración\n\nLa celebridad de la obra ha generado interpretaciones que no siempre se apoyan en pruebas históricas. Una de las más difundidas identifica a Juan —sentado a la derecha de Cristo desde el punto de vista del espectador— con María Magdalena. Sin embargo, la tradición artística representaba con frecuencia al apóstol joven con rasgos suaves, cabello largo y sin barba.\n\nTambién se han buscado códigos musicales, constelaciones, mensajes numéricos y autorretratos ocultos. Algunas observaciones pueden producir ejercicios visuales interesantes, pero deben distinguirse de una atribución demostrada mediante documentos, análisis material o comparación iconográfica.\n\nLa obra sí contiene decisiones cargadas de significado: los grupos de tres, la posición de Judas, el punto de fuga, la apertura del paisaje y la relación entre manos, pan y vino. No hace falta un secreto moderno para que la pintura sea intelectualmente compleja.",
+      "archivo": "50-mitos.md"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gran-ola-kanagawa-hokusai",
+  "titulo": "La gran ola de Kanagawa",
+  "tituloOriginal": "神奈川沖浪裏 · Kanagawa-oki nami ura",
+  "autor": "Katsushika Hokusai",
+  "fecha": "c. 1830–1832",
+  "fechaOrden": 1831,
+  "tipo": "Grabado",
+  "periodo": "Ukiyo-e",
+  "descripcion": "Tres embarcaciones se inclinan bajo una ola convertida en garra. Al fondo, el monte Fuji parece pequeño, estable y perfectamente enmarcado por el peligro.",
+  "localizacion": "Varias colecciones",
+  "pais": "Japón",
+  "dimensiones": "25,7 × 37,9 cm",
+  "tecnicas": ["Xilografía", "Tinta y color sobre papel"],
+  "etiquetas": ["mar", "monte Fuji", "Edo", "paisaje", "Prusia azul"],
+  "proporcion": [4335, 2990],
+  "color": "#365c70",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Wave%20off%20Kanagawa.jpg?width=1600",
+    "alt": "La gran ola de Kanagawa de Hokusai, ola azul sobre barcas con el monte Fuji al fondo",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Great_Wave_off_Kanagawa.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Katsushika Hokusai · reproducción en dominio público",
+    "foco": "center"
+  }
+}

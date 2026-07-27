@@ -1,0 +1,63 @@
+export interface ImagenObra {
+  archivo?: string;
+  url?: string;
+  src: string;
+  alt: string;
+  fuente: string;
+  licencia: string;
+  credito?: string;
+  foco?: string;
+}
+
+export interface PestanaResumen {
+  id: string;
+  titulo: string;
+  icono: string;
+}
+
+export interface ObraResumen {
+  id: string;
+  titulo: string;
+  tituloOriginal?: string | null;
+  autor: string;
+  fecha: string;
+  fechaOrden?: number | null;
+  tipo: string;
+  periodo: string;
+  descripcion: string;
+  localizacion?: string | null;
+  pais?: string | null;
+  proporcion: [number, number];
+  color: string;
+  etiquetas: string[];
+  imagen: ImagenObra;
+  pestanas: PestanaResumen[];
+}
+
+export interface SeccionObra {
+  id: string;
+  titulo: string;
+  icono: string;
+  orden: number;
+  contenido: string;
+  archivo: string;
+}
+
+export interface ObraDetalle extends Omit<ObraResumen, 'pestanas'> {
+  tecnicas?: string[];
+  dimensiones?: string;
+  cultura?: string;
+  secciones: SeccionObra[];
+}
+
+export interface Catalogo {
+  version: number;
+  buildId: string;
+  total: number;
+  tipos: string[];
+  periodos: string[];
+  obras: ObraResumen[];
+}
+
+export type OrdenCatalogo = 'azar' | 'antiguas' | 'recientes' | 'titulo';
+export type Tema = 'auto' | 'claro' | 'oscuro';

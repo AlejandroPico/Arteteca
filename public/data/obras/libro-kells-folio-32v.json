@@ -1,0 +1,79 @@
+{
+  "id": "libro-kells-folio-32v",
+  "titulo": "Cristo entronizado, folio 32v",
+  "tituloOriginal": "Book of Kells, Folio 32v",
+  "autor": "Taller monástico insular",
+  "fecha": "c. 800",
+  "fechaOrden": 800,
+  "tipo": "Manuscrito iluminado",
+  "periodo": "Arte insular",
+  "descripcion": "Una miniatura del Libro de Kells funde figura, símbolo, caligrafía y ornamento. La página se construye como un objeto de contemplación, no solo de lectura.",
+  "localizacion": "Trinity College Library, Dublín",
+  "pais": "Irlanda",
+  "dimensiones": "Folio de vitela",
+  "tecnicas": [
+    "Tinta",
+    "Pigmento sobre vitela",
+    "Iluminación"
+  ],
+  "etiquetas": [
+    "Arte insular",
+    "Edad Media",
+    "evangeliario",
+    "Iluminación",
+    "manuscrito",
+    "Manuscrito iluminado",
+    "nudo celta",
+    "ornamento",
+    "Pigmento sobre vitela",
+    "Tinta"
+  ],
+  "proporcion": [
+    1484,
+    1934
+  ],
+  "color": "#745d37",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/KellsFol032vChristEnthroned.jpg?width=1200",
+    "alt": "Folio 32v del Libro de Kells con Cristo entronizado rodeado de ornamentación",
+    "fuente": "https://commons.wikimedia.org/wiki/File:KellsFol032vChristEnthroned.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Libro de Kells · Trinity College Dublin",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/KellsFol032vChristEnthroned.jpg?width=1200"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la página",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Figura, marco y laberinto\n\nCristo aparece frontal y entronizado, contenido dentro de una compleja estructura ornamental. Ángeles, criaturas y motivos entrelazados ocupan el espacio sin convertirse en un fondo pasivo. Todo el folio funciona como una superficie activa.\n\nLa simetría general convive con pequeñas diferencias. Líneas, espirales y nudos obligan a acercarse; la imagen alterna una lectura inmediata de autoridad con otra lenta y minuciosa.\n\nEl libro fue concebido para un contexto litúrgico. Su esplendor no depende solo de transmitir el texto de los Evangelios: materializa el valor sagrado del propio objeto.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "historia",
+      "titulo": "Historia del manuscrito",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Iona, Kells y Dublín\n\nEl manuscrito se produjo alrededor del año 800, probablemente en un entorno monástico vinculado a Iona y Kells. Reúne los cuatro Evangelios en latín junto con textos preliminares, tablas y páginas de gran ornamentación.\n\nSufrió pérdidas y daños a lo largo de su historia. En 1007 fue robado por su valiosa cubierta y recuperado sin ella. En el siglo XVII llegó al Trinity College de Dublín, donde se conserva con la signatura MS 58.\n\nEl volumen fue reencuadernado varias veces. Desde 1953 está dividido en cuatro tomos para reducir la tensión sobre la vitela y facilitar una exhibición controlada de páginas seleccionadas.",
+      "archivo": "20-historia.md"
+    },
+    {
+      "id": "taller",
+      "titulo": "El taller",
+      "icono": "autor",
+      "orden": 30,
+      "contenido": "## Autoría colectiva\n\nNo conocemos nombres individuales. El análisis de estilos, caligrafías y métodos distingue varias manos o grupos de trabajo. Es más preciso hablar de escribas e iluminadores dentro de un taller monástico que buscar un «genio» único según el modelo moderno.\n\nPreparar un manuscrito exigía seleccionar pieles, fabricar vitela, pautar páginas, copiar texto, diseñar ornamentación y obtener pigmentos. Los errores podían corregirse mediante raspado, añadidos o recursos visuales.\n\nLa colaboración no reduce la creatividad de la obra. Revela una organización del trabajo artístico distinta, sostenida por conocimiento compartido y continuidad institucional.",
+      "archivo": "30-taller.md"
+    },
+    {
+      "id": "materiales",
+      "titulo": "Materiales",
+      "icono": "tecnica",
+      "orden": 40,
+      "contenido": "## Color sobre vitela\n\nLa vitela se obtiene de piel animal preparada, estirada y raspada. Su superficie permite líneas finas y colores intensos, pero responde a cambios de humedad y temperatura.\n\nEl manuscrito contiene pigmentos de procedencias diversas. Estudios modernos han cuestionado algunas identificaciones antiguas y han mostrado la importancia de colorantes orgánicos, minerales y mezclas cuidadosamente preparadas.\n\nEl relieve de ciertas capas, el desgaste y las transparencias solo se perciben plenamente ante el objeto. Las digitalizaciones amplían el acceso y el detalle, pero la escala de la página y la materialidad siguen siendo parte de la obra.",
+      "archivo": "40-materiales.md"
+    }
+  ]
+}

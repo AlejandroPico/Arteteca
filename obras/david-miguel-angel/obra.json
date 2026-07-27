@@ -1,0 +1,26 @@
+{
+  "id": "david-miguel-angel",
+  "titulo": "David",
+  "tituloOriginal": "David di Michelangelo",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "1501–1504",
+  "fechaOrden": 1504,
+  "tipo": "Escultura",
+  "periodo": "Renacimiento",
+  "descripcion": "Un bloque de mármol abandonado durante décadas se convirtió en el emblema de Florencia: David aparece antes del combate, concentrado y en máxima tensión.",
+  "localizacion": "Galleria dell’Accademia, Florencia",
+  "pais": "Italia",
+  "dimensiones": "517 × 199 cm",
+  "tecnicas": ["Mármol de Carrara", "Talla"],
+  "etiquetas": ["desnudo", "contrapposto", "Florencia", "escultura monumental"],
+  "proporcion": [6210, 9099],
+  "color": "#807a70",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%27s%20David%20-%20right%20view%202.jpg?width=1200",
+    "alt": "El David de Miguel Ángel visto de frente, escultura de mármol sobre fondo oscuro",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Fotografía: Commonists · CC BY-SA 4.0",
+    "foco": "center 35%"
+  }
+}

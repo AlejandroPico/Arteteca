@@ -1,0 +1,69 @@
+{
+  "id": "bisontes-altamira",
+  "titulo": "Bisontes de Altamira",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 14.500–11.500 a. C.",
+  "fechaOrden": -13000,
+  "tipo": "Arte rupestre",
+  "periodo": "Paleolítico superior",
+  "descripcion": "Los bisontes polícromos aprovechan salientes y grietas de la roca para ganar volumen. Son una obra colectiva, estratificada y muy anterior a la idea moderna de autor.",
+  "localizacion": "Cueva de Altamira, Cantabria",
+  "pais": "España",
+  "tecnicas": [
+    "Pigmentos minerales",
+    "Carbón",
+    "Grabado sobre roca"
+  ],
+  "etiquetas": [
+    "Arte rupestre",
+    "bisonte",
+    "Carbón",
+    "cueva",
+    "Grabado sobre roca",
+    "Magdaleniense",
+    "Paleolítico superior",
+    "pigmentos",
+    "Pigmentos minerales",
+    "prehistoria"
+  ],
+  "proporcion": [
+    863,
+    541
+  ],
+  "color": "#744636",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Altamira%20paintings%2003.jpg?width=1400",
+    "alt": "Reproducción histórica de un bisonte polícromo de la cueva de Altamira",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Altamira_paintings_03.jpg",
+    "licencia": "Dominio público; reproducción histórica",
+    "credito": "Reproducción de Henri Breuil y Émile Cartailhac",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Altamira%20paintings%2003.jpg?width=1400"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## La roca también dibuja\n\nLos animales no se pintaron sobre una superficie plana. Quienes trabajaron en la cueva aprovecharon bultos, grietas y curvaturas para sugerir lomo, vientre y musculatura. El relieve natural participa en la imagen.\n\nNegros de carbón y óxidos rojizos delimitan y modelan los cuerpos. Algunas figuras combinan contorno pintado, zonas raspadas y líneas grabadas. La iluminación móvil de lámparas de grasa habría hecho variar continuamente volúmenes y sombras.\n\nEl conjunto no corresponde necesariamente a una única sesión ni a un único propósito. La cueva conserva superposiciones y fases diferentes; es un espacio construido durante generaciones.\n\n> La reproducción mostrada es una copia histórica publicada por Henri Breuil y Émile Cartailhac, no una fotografía directa del techo original.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "descubrimiento",
+      "titulo": "Descubrimiento y debate",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## «¡Mira, papá, bueyes!»\n\nMarcelino Sanz de Sautuola investigó la cueva y su hija María observó las figuras del techo en 1879. Sautuola propuso un origen paleolítico, pero buena parte de la comunidad académica rechazó la atribución e incluso sospechó una falsificación.\n\nEl descubrimiento posterior de cuevas decoradas en Francia cambió el debate. En 1902, Émile Cartailhac publicó su célebre reconocimiento del error, y Altamira pasó a ocupar un lugar fundamental en el estudio del arte prehistórico.\n\nLa datación actual distingue fases y técnicas. Hablar de «la fecha de Altamira» simplifica un lugar utilizado y transformado durante un periodo muy largo.",
+      "archivo": "20-descubrimiento.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y acceso",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Pigmentos, grabado y conservación\n\nLos artistas paleolíticos emplearon carbón vegetal y minerales ricos en óxidos de hierro. Aplicaron pigmento mediante trazos, tamponado y posiblemente soplado; el grabado reforzó contornos y detalles.\n\nLa respiración, el polvo y los microorganismos introducidos por visitantes alteran el microclima. Altamira cerró durante periodos prolongados y hoy mantiene un acceso original extraordinariamente limitado.\n\nLa Neocueva del Museo de Altamira reproduce el espacio para hacerlo comprensible sin someter el techo a una presión masiva. Esta solución recuerda que divulgar y conservar pueden exigir experiencias distintas.",
+      "archivo": "30-tecnica.md"
+    }
+  ]
+}

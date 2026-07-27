@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://alejandropico.github.io/Arteteca/schemas/obra.schema.json",
+  "title": "Ficha de obra de Arteteca",
+  "type": "object",
+  "required": [
+    "id",
+    "titulo",
+    "autor",
+    "fecha",
+    "tipo",
+    "periodo",
+    "descripcion",
+    "imagen"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "titulo": { "type": "string", "minLength": 1 },
+    "tituloOriginal": { "type": "string" },
+    "autor": { "type": "string", "minLength": 1 },
+    "fecha": { "type": "string", "minLength": 1 },
+    "fechaOrden": { "type": "integer" },
+    "tipo": { "type": "string", "minLength": 1 },
+    "periodo": { "type": "string", "minLength": 1 },
+    "descripcion": { "type": "string", "minLength": 20 },
+    "localizacion": { "type": "string" },
+    "pais": { "type": "string" },
+    "tecnicas": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "etiquetas": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "proporcion": {
+      "type": "array",
+      "prefixItems": [
+        { "type": "number", "exclusiveMinimum": 0 },
+        { "type": "number", "exclusiveMinimum": 0 }
+      ],
+      "minItems": 2,
+      "maxItems": 2
+    },
+    "color": {
+      "type": "string",
+      "pattern": "^#[0-9a-fA-F]{6}$"
+    },
+    "imagen": {
+      "type": "object",
+      "required": ["alt", "fuente", "licencia"],
+      "properties": {
+        "archivo": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "alt": { "type": "string", "minLength": 1 },
+        "fuente": { "type": "string", "format": "uri" },
+        "licencia": { "type": "string", "minLength": 1 },
+        "credito": { "type": "string" },
+        "foco": { "type": "string" }
+      },
+      "oneOf": [
+        { "required": ["archivo"] },
+        { "required": ["url"] }
+      ]
+    }
+  },
+  "additionalProperties": true
+}

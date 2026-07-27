@@ -1,0 +1,71 @@
+{
+  "id": "victoria-samotracia",
+  "titulo": "Victoria de Samotracia",
+  "tituloOriginal": "Νίκη της Σαμοθράκης",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 200–190 a. C.",
+  "fechaOrden": -195,
+  "tipo": "Escultura",
+  "periodo": "Helenismo",
+  "descripcion": "La diosa Niké acaba de posarse sobre la proa de una nave. El mármol conserva el choque imaginario del viento contra el cuerpo y los pliegues húmedos del vestido.",
+  "localizacion": "Museo del Louvre, París",
+  "pais": "Grecia",
+  "dimensiones": "244 cm de altura",
+  "tecnicas": [
+    "Mármol de Paros",
+    "Mármol de Lartos",
+    "Talla"
+  ],
+  "etiquetas": [
+    "diosa",
+    "Escultura",
+    "escultura helenística",
+    "Helenismo",
+    "movimiento",
+    "Mármol de Lartos",
+    "Mármol de Paros",
+    "Niké",
+    "Samotracia",
+    "Talla"
+  ],
+  "proporcion": [
+    2450,
+    3805
+  ],
+  "color": "#6d6860",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Winged%20Victory%20of%20Samothrace%20-%20March%202015%20by%20kHo.jpg?width=1200",
+    "alt": "Victoria de Samotracia, escultura alada de mármol expuesta en la escalinata del Louvre",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Winged_Victory_of_Samothrace_-_March_2015_by_kHo.jpg",
+    "licencia": "CC0 1.0",
+    "credito": "Fotografía: KHo235 · CC0",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Winged%20Victory%20of%20Samothrace%20-%20March%202015%20by%20kHo.jpg?width=1200"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## El viento convertido en mármol\n\nNiké avanza sobre la proa de una nave con las alas desplegadas. El vestido se adhiere al torso como tela mojada y, al mismo tiempo, se acumula en pliegues profundos alrededor de las piernas. Dos comportamientos opuestos del tejido hacen visible una fuerza que no está representada: el viento.\n\nLa escultura fue diseñada para verse en ángulo desde la izquierda. El cuerpo gira, una pierna avanza y las alas abren el volumen hacia el espacio del espectador.\n\nFaltan cabeza y brazos, pero la obra no se percibe inmóvil ni incompleta en un sentido expresivo. Su energía depende del cuerpo entero y de la relación con la base naval.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "historia",
+      "titulo": "Historia",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Un monumento en el Santuario\n\nCharles Champoiseau halló fragmentos de la estatua en 1863 en el Santuario de los Grandes Dioses de Samotracia. Partes de la base aparecieron después y permitieron reconocer la forma de una proa.\n\nLa figura fue transportada al Louvre, reconstruida y expuesta en distintos montajes. Desde 1884 preside la escalera Daru, una ubicación museográfica que se ha convertido en parte de su imagen moderna.\n\nOriginalmente habría formado un monumento vinculado a una victoria naval, situado en un entorno arquitectónico y posiblemente relacionado con agua. La autoría, la fecha exacta y el acontecimiento conmemorado siguen abiertos a discusión.",
+      "archivo": "20-historia.md"
+    },
+    {
+      "id": "reconstruccion",
+      "titulo": "Reconstrucción",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Lo conservado y lo añadido\n\nLa escultura está compuesta por numerosos fragmentos. El ala derecha es una reconstrucción simétrica basada en el ala izquierda; algunas zonas se completaron para estabilizar la lectura y el montaje.\n\nLas investigaciones modernas revisaron la unión entre figura, pedestal y nave. La restauración de 2013–2014 limpió superficies, estudió mármoles y ajustó el conjunto. También recuperó el contraste entre el mármol claro de Paros de la figura y la piedra más oscura de Lartos empleada en la nave.\n\nComprender la obra exige distinguir la materia antigua, los fragmentos reubicados y las decisiones museográficas posteriores. Su apariencia actual es también una historia de arqueología y conservación.",
+      "archivo": "30-reconstruccion.md"
+    }
+  ]
+}

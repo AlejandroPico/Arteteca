@@ -1,0 +1,26 @@
+{
+  "id": "noche-estrellada-van-gogh",
+  "titulo": "La noche estrellada",
+  "tituloOriginal": "De sterrennacht",
+  "autor": "Vincent van Gogh",
+  "fecha": "Junio de 1889",
+  "fechaOrden": 1889,
+  "tipo": "Pintura",
+  "periodo": "Posimpresionismo",
+  "descripcion": "Un cielo de remolinos luminosos domina Saint-Rémy. Van Gogh no pintó una transcripción literal de la vista, sino una noche reorganizada por memoria, observación e intensidad.",
+  "localizacion": "Museum of Modern Art, Nueva York",
+  "pais": "Francia",
+  "dimensiones": "73,7 × 92,1 cm",
+  "tecnicas": ["Óleo sobre lienzo", "Impasto"],
+  "etiquetas": ["noche", "ciprés", "Saint-Rémy", "paisaje", "estrellas"],
+  "proporcion": [921, 737],
+  "color": "#2f4b64",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Starry%20Night.jpg?width=1600",
+    "alt": "La noche estrellada de Van Gogh, con cielo azul en espiral, estrellas y un ciprés oscuro",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Starry_Night.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Vincent van Gogh · MoMA",
+    "foco": "center"
+  }
+}

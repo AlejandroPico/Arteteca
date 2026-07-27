@@ -1,0 +1,77 @@
+{
+  "id": "gran-ola-kanagawa-hokusai",
+  "titulo": "La gran ola de Kanagawa",
+  "tituloOriginal": "神奈川沖浪裏 · Kanagawa-oki nami ura",
+  "autor": "Katsushika Hokusai",
+  "fecha": "c. 1830–1832",
+  "fechaOrden": 1831,
+  "tipo": "Grabado",
+  "periodo": "Ukiyo-e",
+  "descripcion": "Tres embarcaciones se inclinan bajo una ola convertida en garra. Al fondo, el monte Fuji parece pequeño, estable y perfectamente enmarcado por el peligro.",
+  "localizacion": "Varias colecciones",
+  "pais": "Japón",
+  "dimensiones": "25,7 × 37,9 cm",
+  "tecnicas": [
+    "Xilografía",
+    "Tinta y color sobre papel"
+  ],
+  "etiquetas": [
+    "Edo",
+    "Grabado",
+    "mar",
+    "monte Fuji",
+    "paisaje",
+    "Prusia azul",
+    "Tinta y color sobre papel",
+    "Ukiyo-e",
+    "Xilografía"
+  ],
+  "proporcion": [
+    4335,
+    2990
+  ],
+  "color": "#365c70",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Wave%20off%20Kanagawa.jpg?width=1600",
+    "alt": "La gran ola de Kanagawa de Hokusai, ola azul sobre barcas con el monte Fuji al fondo",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Great_Wave_off_Kanagawa.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Katsushika Hokusai · reproducción en dominio público",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Wave%20off%20Kanagawa.jpg?width=1600"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Agua, espuma y montaña\n\nLa ola principal ocupa casi toda la imagen. Sus crestas se dividen en dedos de espuma que parecen caer sobre las embarcaciones. Hokusai congela una forma que en la naturaleza solo duraría un instante y la convierte en una arquitectura curva.\n\nEl monte Fuji aparece al fondo, pequeño y sereno. La concavidad de la ola repite su perfil triangular invertido. Esta relación entre lo cercano y lo lejano desordena la escala: la montaña más alta de Japón parece frágil ante una masa de agua inmediata.\n\nLos pescadores viajan en tres *oshiokuri-bune*, barcas rápidas para transportar pescado. No contemplan el paisaje; se inclinan al ritmo de la embarcación. La estampa combina así una imagen monumental con una actividad cotidiana.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "serie",
+      "titulo": "La serie",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Treinta y seis vistas del monte Fuji\n\nLa estampa pertenece a una serie publicada durante el periodo Edo. El Fuji actúa como motivo constante, pero Hokusai lo observa desde lugares, estaciones, oficios y distancias diferentes. El éxito llevó a ampliar el conjunto hasta cuarenta y seis diseños.\n\nLas estampas no eran objetos únicos. Un editor coordinaba al dibujante, el tallador de bloques y el impresor. Se producían múltiples ejemplares, y cada tirada podía variar por desgaste, presión, papel o decisiones de color.\n\nLa imagen llegó a Europa durante el auge del japonismo. Su composición influyó en artistas como Monet, Degas y Van Gogh, y también dejó huella en carteles, diseño y cultura popular.",
+      "archivo": "20-serie.md"
+    },
+    {
+      "id": "autor",
+      "titulo": "Hokusai",
+      "icono": "autor",
+      "orden": 30,
+      "contenido": "## Una vida de nombres y transformaciones\n\nKatsushika Hokusai (1760–1849) cambió varias veces de nombre artístico, una práctica vinculada a nuevas etapas y escuelas. Produjo estampas, dibujos, manuales, ilustraciones y los célebres volúmenes de *manga*, término que entonces aludía a apuntes o imágenes caprichosas.\n\nTrabajó paisajes, actores, figuras, animales, escenas eróticas y temas sobrenaturales. Su curiosidad por representar movimiento y fenómenos naturales se aprecia en olas, cascadas, viento y lluvia.\n\nEn una frase transmitida al final de su vida expresó el deseo de seguir aprendiendo hasta que cada punto y cada línea estuvieran vivos. La leyenda resume bien una trayectoria de reinvención continua.",
+      "archivo": "30-autor.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Cómo se imprimió",
+      "icono": "tecnica",
+      "orden": 40,
+      "contenido": "## Un diseño, varios bloques\n\nEl dibujo definitivo se pegaba boca abajo sobre una plancha de madera de cerezo y se tallaba el bloque de líneas. Para cada color se preparaban planchas adicionales. Marcas de registro permitían al impresor alinear el papel en pasadas sucesivas.\n\nEl azul de Prusia, pigmento sintético importado, ofrecía una intensidad y una estabilidad diferentes a los azules orgánicos tradicionales. Las primeras impresiones de la serie explotaron especialmente ese color.\n\nNo existe una única *Gran ola* idéntica. Los ejemplares conservados muestran diferencias en contornos, matices y desgaste. La obra debe entenderse a la vez como diseño de Hokusai y como resultado de una producción colaborativa.",
+      "archivo": "40-tecnica.md"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "arteteca",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "catalogo": "python3 scripts/build_catalog.py",
+    "predev": "npm run catalogo",
+    "dev": "vite",
+    "prebuild": "npm run catalogo",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "npm run catalogo -- --check && svelte-check --tsconfig ./tsconfig.json"
+  },
+  "dependencies": {
+    "dompurify": "3.4.12",
+    "@lucide/svelte": "1.27.0",
+    "marked": "18.0.7",
+    "svelte": "5.56.8"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "7.2.0",
+    "@tsconfig/svelte": "5.0.6",
+    "sass": "1.102.0",
+    "svelte-check": "4.7.4",
+    "typescript": "6.0.3",
+    "vite": "8.1.5"
+  }
+}

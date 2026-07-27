@@ -1,0 +1,26 @@
+{
+  "id": "joven-perla-vermeer",
+  "titulo": "La joven de la perla",
+  "tituloOriginal": "Meisje met de parel",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1665",
+  "fechaOrden": 1665,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "descripcion": "No es un retrato convencional, sino una tronie: estudio idealizado de un rostro, una expresión y un atuendo. La joven gira como si acabara de ser llamada.",
+  "localizacion": "Mauritshuis, La Haya",
+  "pais": "Países Bajos",
+  "dimensiones": "44,5 × 39 cm",
+  "tecnicas": ["Óleo sobre lienzo"],
+  "etiquetas": ["tronie", "retrato", "luz", "perla", "Siglo de Oro neerlandés"],
+  "proporcion": [4095, 4794],
+  "color": "#314b55",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Meisje%20met%20de%20parel.jpg?width=1200",
+    "alt": "La joven de la perla de Vermeer, rostro de una joven con turbante azul sobre fondo oscuro",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Meisje_met_de_parel.jpg",
+    "licencia": "Dominio público (PD-Art)",
+    "credito": "Johannes Vermeer · Mauritshuis",
+    "foco": "center"
+  }
+}

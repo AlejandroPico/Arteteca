@@ -1,5 +1,7 @@
 # Arteteca
 
+[![Construir y publicar Arteteca](https://github.com/AlejandroPico/Arteteca/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/AlejandroPico/Arteteca/actions/workflows/deploy-pages.yml)
+
 **Arteteca** es una exposición digital abierta a cualquier forma de arte: pintura, escultura, relieve, grabado, fotografía, manuscrito, textil, cerámica, instalación o arte rupestre. La portada no impone una ruta de museo; presenta un mosaico distinto en cada visita y conserva las proporciones de las obras.
 
 La aplicación está publicada mediante GitHub Pages y construida con Svelte 5, TypeScript, SCSS, Python y SQLite.

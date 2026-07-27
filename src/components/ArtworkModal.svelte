@@ -27,6 +27,14 @@
   let activeTab = '';
   let immersive = false;
   let imageFailed = false;
+  let zoom = 1;
+  let panX = 0;
+  let panY = 0;
+  let dragging = false;
+  let viewer: HTMLButtonElement;
+  const pointers = new Map<number, { x: number; y: number }>();
+  let dragOrigin = { x: 0, y: 0, panX: 0, panY: 0 };
+  let pinchOrigin = { distance: 0, zoom: 1, x: 0, y: 0, panX: 0, panY: 0 };
 
   marked.setOptions({ gfm: true, breaks: false });
 
@@ -57,7 +65,111 @@
     cerrar();
   }
 
+  function resetViewer() {
+    zoom = 1;
+    panX = 0;
+    panY = 0;
+    pointers.clear();
+    dragging = false;
+  }
+
+  function setImmersive(next: boolean) {
+    immersive = next;
+    resetViewer();
+  }
+
+  function zoomAt(nextZoom: number, clientX: number, clientY: number) {
+    if (!viewer) return;
+    const rect = viewer.getBoundingClientRect();
+    const pointX = clientX - (rect.left + rect.width / 2);
+    const pointY = clientY - (rect.top + rect.height / 2);
+    const clamped = Math.min(8, Math.max(1, nextZoom));
+    const ratio = clamped / zoom;
+
+    panX = pointX - (pointX - panX) * ratio;
+    panY = pointY - (pointY - panY) * ratio;
+    zoom = clamped;
+
+    if (zoom === 1) {
+      panX = 0;
+      panY = 0;
+    }
+  }
+
+  function wheel(event: WheelEvent) {
+    if (!immersive) return;
+    event.preventDefault();
+    zoomAt(zoom * Math.exp(-event.deltaY * 0.0015), event.clientX, event.clientY);
+  }
+
+  function doubleClick(event: MouseEvent) {
+    if (!immersive) {
+      setImmersive(true);
+      return;
+    }
+    zoomAt(zoom > 1.05 ? 1 : 2.5, event.clientX, event.clientY);
+  }
+
+  function pointerDown(event: PointerEvent) {
+    if (!immersive) return;
+    viewer.setPointerCapture(event.pointerId);
+    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+    dragging = true;
+
+    if (pointers.size === 1) {
+      dragOrigin = { x: event.clientX, y: event.clientY, panX, panY };
+    } else if (pointers.size === 2) {
+      const [first, second] = [...pointers.values()];
+      pinchOrigin = {
+        distance: Math.hypot(second.x - first.x, second.y - first.y),
+        zoom,
+        x: (first.x + second.x) / 2,
+        y: (first.y + second.y) / 2,
+        panX,
+        panY,
+      };
+    }
+  }
+
+  function pointerMove(event: PointerEvent) {
+    if (!immersive || !pointers.has(event.pointerId)) return;
+    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+
+    if (pointers.size === 1) {
+      panX = dragOrigin.panX + event.clientX - dragOrigin.x;
+      panY = dragOrigin.panY + event.clientY - dragOrigin.y;
+      return;
+    }
+
+    const [first, second] = [...pointers.values()];
+    const distance = Math.hypot(second.x - first.x, second.y - first.y);
+    const midpointX = (first.x + second.x) / 2;
+    const midpointY = (first.y + second.y) / 2;
+    const nextZoom = Math.min(8, Math.max(1, pinchOrigin.zoom * (distance / pinchOrigin.distance)));
+    const ratio = nextZoom / pinchOrigin.zoom;
+
+    panX = pinchOrigin.panX * ratio + midpointX - pinchOrigin.x;
+    panY = pinchOrigin.panY * ratio + midpointY - pinchOrigin.y;
+    zoom = nextZoom;
+  }
+
+  function pointerUp(event: PointerEvent) {
+    pointers.delete(event.pointerId);
+    if (viewer?.hasPointerCapture(event.pointerId)) viewer.releasePointerCapture(event.pointerId);
+
+    if (pointers.size === 1) {
+      const remaining = [...pointers.values()][0];
+      dragOrigin = { x: remaining.x, y: remaining.y, panX, panY };
+    } else if (pointers.size === 0) {
+      dragging = false;
+    }
+  }
+
   function keydown(event: KeyboardEvent) {
+    if (event.key === 'Escape' && immersive) {
+      setImmersive(false);
+      return;
+    }
     if (event.key === 'Escape') close();
     if (event.key === 'ArrowLeft' && !immersive) anterior?.();
     if (event.key === 'ArrowRight' && !immersive) siguiente?.();
@@ -80,25 +192,45 @@
   <button class="obra-modal__scrim" type="button" aria-label="Cerrar ficha" onclick={close}></button>
   <section class="obra-modal__panel">
     <div class="obra-modal__top-actions">
-      <button type="button" onclick={() => (immersive = !immersive)} title={immersive ? 'Volver a la ficha' : 'Ver obra a pantalla completa'}>
+      <button type="button" onclick={() => setImmersive(!immersive)} title={immersive ? 'Volver a la ficha' : 'Ver obra a pantalla completa'}>
         {#if immersive}<Minimize2 size={19} />{:else}<Maximize2 size={19} />{/if}
       </button>
       <button type="button" onclick={close} title="Cerrar"><X size={21} /></button>
     </div>
 
-    <figure class="obra-modal__image" style={`--obra-color: ${obra.color}`}>
+    <figure class:dragging class="obra-modal__image" style={`--obra-color: ${obra.color}`}>
       {#if imageFailed}
         <span class="obra-modal__image-fallback">
           <ImageOff size={42} strokeWidth={1.25} />
           La reproducción no ha podido cargarse.
         </span>
       {:else}
-        <img
-          src={detail?.imagen.src ?? obra.imagen.src}
-          alt={obra.imagen.alt}
-          style={`object-position: ${obra.imagen.foco ?? 'center'}`}
-          onerror={() => (imageFailed = true)}
-        />
+        <button
+          bind:this={viewer}
+          class="obra-modal__image-button"
+          type="button"
+          aria-label={immersive ? 'Visor ampliable de la obra' : 'Ver obra a pantalla completa'}
+          onclick={() => {
+            if (!immersive) setImmersive(true);
+          }}
+          ondblclick={doubleClick}
+          onwheel={wheel}
+          onpointerdown={pointerDown}
+          onpointermove={pointerMove}
+          onpointerup={pointerUp}
+          onpointercancel={pointerUp}
+        >
+          <img
+            src={detail?.imagen.src ?? obra.imagen.src}
+            alt={obra.imagen.alt}
+            draggable="false"
+            style={`object-position: ${obra.imagen.foco ?? 'center'}; transform: translate3d(${panX}px, ${panY}px, 0) scale(${zoom})`}
+            onerror={() => (imageFailed = true)}
+          />
+        </button>
+      {/if}
+      {#if immersive}
+        <p class="obra-modal__viewer-hint">Rueda o pellizca para ampliar · arrastra para recorrer · doble clic para restablecer</p>
       {/if}
       <figcaption>
         <span>{obra.imagen.credito ?? obra.autor}</span>

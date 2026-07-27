@@ -1,19 +1,19 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import {
-    ArrowDown,
+    ArrowDownAZ,
     Check,
-    ChevronDown,
     Dices,
     Filter,
+    Info,
     Menu,
     Moon,
     Search,
     SlidersHorizontal,
-    Sparkles,
     Sun,
     X,
   } from '@lucide/svelte';
+  import AboutModal from './components/AboutModal.svelte';
   import ArtworkCard from './components/ArtworkCard.svelte';
   import ArtworkModal from './components/ArtworkModal.svelte';
   import { loadCatalog, normalizeForSearch, shuffle } from './lib/catalog';
@@ -31,9 +31,14 @@
   let limit = BATCH_SIZE;
   let activeArtwork: ObraResumen | null = null;
   let filtersOpen = false;
+  let orderOpen = false;
+  let searchOpen = false;
+  let aboutOpen = false;
   let mobileMenuOpen = false;
   let theme: Tema = 'auto';
   let sentinel: HTMLElement;
+  let introVisible = true;
+  let introLeaving = false;
 
   function applyTheme(next: Tema) {
     theme = next;
@@ -54,6 +59,7 @@
 
   function setOrder(next: OrdenCatalogo) {
     order = next;
+    orderOpen = false;
     limit = BATCH_SIZE;
     if (next === 'azar') reshuffle();
   }
@@ -87,6 +93,19 @@
     activeArtwork = id ? catalog?.obras.find((work) => work.id === id) ?? null : null;
   }
 
+  function closeHeaderPanels() {
+    filtersOpen = false;
+    orderOpen = false;
+  }
+
+  function toggleSearch() {
+    searchOpen = !searchOpen;
+    closeHeaderPanels();
+    if (searchOpen) {
+      requestAnimationFrame(() => document.querySelector<HTMLInputElement>('#site-search')?.focus());
+    }
+  }
+
   $: normalizedQuery = normalizeForSearch(query);
   $: filteredWorks = orderedWorks
     .filter((work) => {
@@ -111,6 +130,17 @@
 
   onMount(() => {
     applyTheme((localStorage.getItem('arteteca-tema') as Tema | null) ?? 'auto');
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    let introLeaveTimer = 0;
+    let introRemoveTimer = 0;
+
+    if (reducedMotion) {
+      introVisible = false;
+    } else {
+      introLeaveTimer = window.setTimeout(() => (introLeaving = true), 1200);
+      introRemoveTimer = window.setTimeout(() => (introVisible = false), 1850);
+    }
+
     const observer = new IntersectionObserver(
       (entries) => {
         if (entries[0]?.isIntersecting && limit < filteredWorks.length) {
@@ -135,6 +165,8 @@
     })();
 
     return () => {
+      window.clearTimeout(introLeaveTimer);
+      window.clearTimeout(introRemoveTimer);
       observer.disconnect();
       window.removeEventListener('hashchange', updateHashArtwork);
     };
@@ -155,9 +187,153 @@
     <span class="brand__name">ARTETECA</span>
   </a>
 
-  <nav class:open={mobileMenuOpen} class="site-nav" aria-label="Navegación principal">
-    <a href="#coleccion" onclick={() => (mobileMenuOpen = false)}>Colección</a>
-    <a href="#acerca" onclick={() => (mobileMenuOpen = false)}>Acerca de</a>
+  <nav class:open={mobileMenuOpen} class="site-nav" aria-label="Herramientas de la colección">
+    <button class="header-action header-action--shuffle" type="button" title="Redescubrir la colección" onclick={reshuffle}>
+      <Dices size={18} />
+      <span>Redescubrir</span>
+    </button>
+
+    <div class:open={searchOpen} class="header-search">
+      <input
+        id="site-search"
+        type="search"
+        placeholder="Obra, autor, técnica o época…"
+        aria-label="Buscar en la colección"
+        bind:value={query}
+        oninput={() => (limit = BATCH_SIZE)}
+      />
+      {#if query && searchOpen}
+        <button class="header-search__clear" type="button" aria-label="Borrar búsqueda" onclick={() => (query = '')}>
+          <X size={15} />
+        </button>
+      {/if}
+      <button
+        class="header-action header-search__trigger"
+        class:active={searchOpen || Boolean(query)}
+        type="button"
+        aria-label={searchOpen ? 'Cerrar búsqueda' : 'Abrir búsqueda'}
+        aria-expanded={searchOpen}
+        title="Buscar"
+        onclick={toggleSearch}
+      >
+        {#if searchOpen}<X size={18} />{:else}<Search size={18} />{/if}
+      </button>
+    </div>
+
+    <div class="header-control">
+      <button
+        class:active={activeFilters > 0 || filtersOpen}
+        class="header-action"
+        type="button"
+        aria-expanded={filtersOpen}
+        title="Filtros"
+        onclick={() => {
+          filtersOpen = !filtersOpen;
+          orderOpen = false;
+          searchOpen = false;
+        }}
+      >
+        <SlidersHorizontal size={18} />
+        <span>Filtros</span>
+        {#if activeFilters}<b>{activeFilters}</b>{/if}
+      </button>
+
+      {#if filtersOpen}
+        <div class="header-popover header-popover--filters">
+          <fieldset>
+            <legend>Tipo de obra</legend>
+            <div class="filter-options">
+              {#each ['Todos', ...(catalog?.tipos ?? [])] as type}
+                <button
+                  class:active={selectedType === type}
+                  type="button"
+                  onclick={() => {
+                    selectedType = type;
+                    limit = BATCH_SIZE;
+                  }}
+                >
+                  {#if selectedType === type}<Check size={14} />{/if}{type}
+                </button>
+              {/each}
+            </div>
+          </fieldset>
+          <fieldset>
+            <legend>Periodo</legend>
+            <div class="filter-options">
+              {#each ['Todos', ...(catalog?.periodos ?? [])] as period}
+                <button
+                  class:active={selectedPeriod === period}
+                  type="button"
+                  onclick={() => {
+                    selectedPeriod = period;
+                    limit = BATCH_SIZE;
+                  }}
+                >
+                  {#if selectedPeriod === period}<Check size={14} />{/if}{period}
+                </button>
+              {/each}
+            </div>
+          </fieldset>
+          {#if activeFilters}
+            <button class="clear-filters" type="button" onclick={resetFilters}>Limpiar filtros</button>
+          {/if}
+        </div>
+      {/if}
+    </div>
+
+    <div class="header-control">
+      <button
+        class:active={orderOpen || order !== 'azar'}
+        class="header-action"
+        type="button"
+        aria-expanded={orderOpen}
+        title="Ordenar"
+        onclick={() => {
+          orderOpen = !orderOpen;
+          filtersOpen = false;
+          searchOpen = false;
+        }}
+      >
+        <ArrowDownAZ size={18} />
+        <span>Orden</span>
+      </button>
+
+      {#if orderOpen}
+        <div class="header-popover header-popover--order" role="menu" aria-label="Orden de las obras">
+          {#each [
+            ['azar', 'Al azar'],
+            ['antiguas', 'Más antiguas'],
+            ['recientes', 'Más recientes'],
+            ['titulo', 'Título A–Z'],
+          ] as option}
+            <button
+              class:active={order === option[0]}
+              type="button"
+              role="menuitem"
+              onclick={() => setOrder(option[0] as OrdenCatalogo)}
+            >
+              <span>{option[1]}</span>
+              {#if order === option[0]}<Check size={15} />{/if}
+            </button>
+          {/each}
+        </div>
+      {/if}
+    </div>
+
+    <button
+      class="header-action"
+      type="button"
+      title="Acerca de Arteteca"
+      onclick={() => {
+        aboutOpen = true;
+        mobileMenuOpen = false;
+        closeHeaderPanels();
+      }}
+    >
+      <Info size={18} />
+      <span>Acerca de</span>
+    </button>
+
     <button class="theme-switch" type="button" onclick={cycleTheme} aria-label={`Tema: ${theme}`} title={`Tema: ${theme}`}>
       {#if theme === 'claro'}
         <Sun size={18} />
@@ -180,125 +356,21 @@
   </button>
 </header>
 
-<main>
-  <section class="hero" aria-labelledby="hero-title">
-    <div class="hero__kicker"><span></span> Colección abierta de arte universal</div>
-    <h1 id="hero-title">
+{#if introVisible}
+  <section class:intro--leaving={introLeaving} class="intro" aria-labelledby="intro-title">
+    <div class="intro__kicker"><span></span> Colección abierta de arte universal</div>
+    <h1 id="intro-title">
       El arte,<br />
       <em>sin pasillos.</em>
     </h1>
     <p>
       Una exposición viva donde conviven lienzos, piedra, papel, muros y miradas.
-      Entra por cualquier obra; no existe un recorrido obligatorio.
     </p>
-    <a class="hero__down" href="#coleccion">
-      Explorar la colección <ArrowDown size={17} />
-    </a>
-    <div class="hero__ornament" aria-hidden="true">
-      <span></span><span></span><span></span>
-    </div>
   </section>
+{/if}
 
-  <section class="collection" id="coleccion" aria-labelledby="collection-title">
-    <div class="collection__heading">
-      <div>
-        <span class="eyebrow">La colección</span>
-        <h2 id="collection-title">Un mosaico que nunca se repite</h2>
-      </div>
-      <button class="shuffle-button" type="button" onclick={reshuffle}>
-        <Dices size={18} /> Redescubrir
-      </button>
-    </div>
-
-    <div class="toolbar">
-      <label class="search-box">
-        <Search size={19} />
-        <input
-          type="search"
-          placeholder="Busca una obra, autor, técnica o época…"
-          bind:value={query}
-          oninput={() => (limit = BATCH_SIZE)}
-        />
-        {#if query}
-          <button type="button" aria-label="Borrar búsqueda" onclick={() => (query = '')}><X size={16} /></button>
-        {/if}
-      </label>
-
-      <button
-        class:active={activeFilters > 0}
-        class="filter-button"
-        type="button"
-        onclick={() => (filtersOpen = !filtersOpen)}
-        aria-expanded={filtersOpen}
-      >
-        <SlidersHorizontal size={18} />
-        Filtros
-        {#if activeFilters}<span>{activeFilters}</span>{/if}
-        <ChevronDown class={filtersOpen ? 'rotated' : ''} size={15} />
-      </button>
-
-      <label class="order-select">
-        <span>Orden</span>
-        <select value={order} onchange={(event) => setOrder(event.currentTarget.value as OrdenCatalogo)}>
-          <option value="azar">Al azar</option>
-          <option value="antiguas">Más antiguas</option>
-          <option value="recientes">Más recientes</option>
-          <option value="titulo">Título A–Z</option>
-        </select>
-        <ChevronDown size={14} />
-      </label>
-    </div>
-
-    {#if filtersOpen}
-      <div class="filter-panel">
-        <fieldset>
-          <legend>Tipo de obra</legend>
-          <div class="filter-options">
-            {#each ['Todos', ...(catalog?.tipos ?? [])] as type}
-              <button
-                class:active={selectedType === type}
-                type="button"
-                onclick={() => {
-                  selectedType = type;
-                  limit = BATCH_SIZE;
-                }}
-              >
-                {#if selectedType === type}<Check size={14} />{/if}{type}
-              </button>
-            {/each}
-          </div>
-        </fieldset>
-        <fieldset>
-          <legend>Periodo</legend>
-          <div class="filter-options">
-            {#each ['Todos', ...(catalog?.periodos ?? [])] as period}
-              <button
-                class:active={selectedPeriod === period}
-                type="button"
-                onclick={() => {
-                  selectedPeriod = period;
-                  limit = BATCH_SIZE;
-                }}
-              >
-                {#if selectedPeriod === period}<Check size={14} />{/if}{period}
-              </button>
-            {/each}
-          </div>
-        </fieldset>
-        {#if activeFilters}
-          <button class="clear-filters" type="button" onclick={resetFilters}>Limpiar filtros</button>
-        {/if}
-      </div>
-    {/if}
-
-    <div class="result-line" aria-live="polite">
-      {#if !loading && catalog}
-        <span><strong>{filteredWorks.length}</strong> {filteredWorks.length === 1 ? 'obra' : 'obras'}</span>
-        <span class="result-line__rule"></span>
-        <span>La disposición cambia en cada visita</span>
-      {/if}
-    </div>
-
+<main>
+  <section class="collection" id="coleccion" aria-label="Colección de obras">
     {#if loading}
       <div class="mosaic mosaic--loading" aria-label="Cargando colección">
         {#each Array(10) as _, index}
@@ -329,29 +401,8 @@
 
     <div class="load-sentinel" bind:this={sentinel}>
       {#if visibleWorks.length < filteredWorks.length}
-        <span><Sparkles size={15} /> Preparando más obras…</span>
-      {:else if filteredWorks.length}
-        <span>Has recorrido las {filteredWorks.length} obras disponibles.</span>
+        <span>Preparando más obras…</span>
       {/if}
-    </div>
-  </section>
-
-  <section class="manifesto" id="acerca">
-    <div class="manifesto__number">A—01</div>
-    <div>
-      <span class="eyebrow">Sobre Arteteca</span>
-      <h2>Una colección sin una única definición de arte.</h2>
-    </div>
-    <div class="manifesto__copy">
-      <p>
-        Arteteca nace para reunir objetos capaces de contar algo: una pintura célebre,
-        una talla anónima, una imagen documental o una huella trazada sobre roca.
-      </p>
-      <p>
-        Cada ficha crece por archivos independientes. Si una obra no tiene autor conocido,
-        esa pestaña sencillamente no existe. La forma de la información se adapta a la obra,
-        igual que este mosaico se adapta a sus proporciones.
-      </p>
     </div>
   </section>
 </main>
@@ -369,4 +420,8 @@
     siguiente={filteredWorks.length > 1 ? () => moveArtwork(1) : undefined}
     cerrar={closeArtwork}
   />
+{/if}
+
+{#if aboutOpen}
+  <AboutModal cerrar={() => (aboutOpen = false)} />
 {/if}

@@ -9,12 +9,15 @@ La aplicación está publicada mediante GitHub Pages y construida con Svelte 5, 
 ## Qué ofrece esta versión
 
 - Mosaico irregular y denso con tarjetas panorámicas, cuadradas y verticales.
+- Entrada editorial breve que se desvanece para mostrar el mosaico sin exigir desplazamiento.
 - Orden aleatorio nuevo en cada carga y botón **Redescubrir**.
 - Carga progresiva al hacer *scroll*.
+- Barra superior fija con búsqueda desplegable, filtros, orden y acceso a **Acerca de**.
 - Búsqueda por título, autor, fecha, técnica, tipo, periodo y etiquetas.
-- Filtros por tipo y periodo; orden cronológico o alfabético.
+- Filtros por tipo y periodo; orden aleatorio, cronológico o alfabético.
 - Modos claro, oscuro y automático.
-- Ficha ampliada, navegación entre obras y visor inmersivo.
+- Ficha ampliada, navegación entre obras y visor inmersivo con rueda, pellizco, zoom y arrastre.
+- Ventana editorial sobre el proyecto con enlaces al porfolio del autor y al repositorio público.
 - Pestañas creadas automáticamente a partir de los archivos Markdown de cada obra.
 - Índice JSON muy pequeño para la primera carga y fichas completas bajo demanda.
 - Base de datos SQLite reconstruida en cada compilación.

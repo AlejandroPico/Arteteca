@@ -1587,6 +1587,11 @@ a {
     &::placeholder {
       color: color-mix(in srgb, var(--ink-soft) 75%, transparent);
     }
+
+    &::-webkit-search-cancel-button {
+      display: none;
+      appearance: none;
+    }
   }
 
   &.open input {

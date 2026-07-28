@@ -2,6 +2,8 @@
 
 Esta carpeta es el archivo editorial de Arteteca. **Cada subcarpeta representa exactamente una obra** y puede contener tantos documentos como la pieza necesite.
 
+Para el contexto completo del proyecto —arquitectura, SQLite, interfaz, publicación, investigación, validación y trabajo por lotes— consulta también [`ARTETECA_AI_CONTEXT.md`](../ARTETECA_AI_CONTEXT.md).
+
 ## 1. Nombre de la carpeta
 
 Usa un identificador único:

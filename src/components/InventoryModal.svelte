@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
   import {
     AlertTriangle,
+    BookOpenText,
     CheckCircle2,
     Download,
     FileSpreadsheet,
@@ -10,16 +11,19 @@
     ShieldCheck,
     X,
   } from '@lucide/svelte';
+  import ARTETECA_AI_CONTEXT from '../../ARTETECA_AI_CONTEXT.md?raw';
   import { normalizeForSearch } from '../lib/catalog';
   import type { Catalogo, ObraResumen } from '../lib/types';
 
   export let catalog: Catalogo;
   export let cerrar: () => void;
 
-  type Vista = 'inventario' | 'cobertura' | 'validacion';
+  type Vista = 'inventario' | 'cobertura' | 'validacion' | 'superprompt';
   let vista: Vista = 'inventario';
   let query = '';
   let coverageBlocks: Array<{ title: string; entries: Array<[string, number]> }> = [];
+  const superpromptWords = ARTETECA_AI_CONTEXT.trim().split(/\s+/).length;
+  const superpromptLines = ARTETECA_AI_CONTEXT.split('\n').length;
 
   const exportColumns: Array<[keyof ReturnType<typeof rowFrom>, string]> = [
     ['id', 'ID'],
@@ -148,6 +152,10 @@
     download(`\ufeff${workbook}`, 'inventario-arteteca.xls', 'application/vnd.ms-excel;charset=utf-8');
   }
 
+  function downloadSuperprompt() {
+    download(ARTETECA_AI_CONTEXT, 'ARTETECA_AI_CONTEXT.txt', 'text/plain;charset=utf-8');
+  }
+
   function keydown(event: KeyboardEvent) {
     if (event.key === 'Escape') cerrar();
   }
@@ -165,7 +173,7 @@
 
 <div class="inventory-modal" role="dialog" aria-modal="true" aria-labelledby="inventory-title">
   <button class="inventory-modal__scrim" type="button" aria-label="Cerrar inventario" onclick={cerrar}></button>
-  <section class="inventory-modal__panel">
+  <section class:inventory-modal__panel--superprompt={vista === 'superprompt'} class="inventory-modal__panel">
     <header class="inventory-modal__header">
       <div>
         <span class="eyebrow">Herramienta interna · Alt + clic</span>
@@ -178,28 +186,44 @@
       <button class:active={vista === 'inventario'} type="button" onclick={() => (vista = 'inventario')}>Inventario</button>
       <button class:active={vista === 'cobertura'} type="button" onclick={() => (vista = 'cobertura')}>Cobertura</button>
       <button class:active={vista === 'validacion'} type="button" onclick={() => (vista = 'validacion')}>Validación</button>
+      <button class:active={vista === 'superprompt'} type="button" onclick={() => (vista = 'superprompt')}>Superprompt</button>
     </nav>
 
-    <div class="inventory-toolbar">
-      <label>
-        <Search size={16} />
-        <input type="search" placeholder="Obra, autor, periodo, cultura, técnica…" bind:value={query} />
-      </label>
-      <div>
-        <button type="button" onclick={downloadText}><FileText size={16} /> TXT</button>
-        <button type="button" onclick={downloadCsv}><Download size={16} /> CSV</button>
-        <button type="button" onclick={downloadExcel}><FileSpreadsheet size={16} /> Excel</button>
+    {#if vista === 'superprompt'}
+      <div class="inventory-toolbar inventory-toolbar--superprompt">
+        <div class="inventory-toolbar__prompt">
+          <BookOpenText size={19} />
+          <span>
+            <strong>Contexto maestro para continuar Arteteca con cualquier IA</strong>
+            <small>{superpromptWords.toLocaleString('es-ES')} palabras · {superpromptLines.toLocaleString('es-ES')} líneas · fuente canónica: ARTETECA_AI_CONTEXT.md</small>
+          </span>
+        </div>
+        <div>
+          <button type="button" onclick={downloadSuperprompt}><FileText size={16} /> Descargar TXT</button>
+        </div>
       </div>
-    </div>
+    {:else}
+      <div class="inventory-toolbar">
+        <label>
+          <Search size={16} />
+          <input type="search" placeholder="Obra, autor, periodo, cultura, técnica…" bind:value={query} />
+        </label>
+        <div>
+          <button type="button" onclick={downloadText}><FileText size={16} /> TXT</button>
+          <button type="button" onclick={downloadCsv}><Download size={16} /> CSV</button>
+          <button type="button" onclick={downloadExcel}><FileSpreadsheet size={16} /> Excel</button>
+        </div>
+      </div>
 
-    <section class="inventory-summary" aria-label="Resumen del catálogo">
-      <article><strong>{rows.length}</strong><span>obras</span></article>
-      <article><strong>{catalog.colecciones?.length ?? 0}</strong><span>colecciones</span></article>
-      <article><strong>{catalog.tipos.length}</strong><span>tipos</span></article>
-      <article><strong>{catalog.periodos.length}</strong><span>periodos</span></article>
-      <article><strong>{completeRows}</strong><span>completas</span></article>
-      <article class:warn={warningRows.length > 0}><strong>{warningRows.length}</strong><span>con avisos</span></article>
-    </section>
+      <section class="inventory-summary" aria-label="Resumen del catálogo">
+        <article><strong>{rows.length}</strong><span>obras</span></article>
+        <article><strong>{catalog.colecciones?.length ?? 0}</strong><span>colecciones</span></article>
+        <article><strong>{catalog.tipos.length}</strong><span>tipos</span></article>
+        <article><strong>{catalog.periodos.length}</strong><span>periodos</span></article>
+        <article><strong>{completeRows}</strong><span>completas</span></article>
+        <article class:warn={warningRows.length > 0}><strong>{warningRows.length}</strong><span>con avisos</span></article>
+      </section>
+    {/if}
 
     <div class="inventory-content">
       {#if vista === 'inventario'}
@@ -240,7 +264,7 @@
             </section>
           {/each}
         </div>
-      {:else}
+      {:else if vista === 'validacion'}
         <div class="inventory-validation">
           <header><ShieldCheck size={24} /><div><h3>Control editorial automático</h3><p>Comprueba metadatos esenciales, pestañas, procedencia, licencia y reproducción ampliable.</p></div></header>
           {#if warningRows.length}
@@ -251,6 +275,15 @@
             <div class="inventory-validation__empty"><CheckCircle2 size={30} /><p>Las {rows.length} obras superan todas las comprobaciones.</p></div>
           {/if}
         </div>
+      {:else}
+        <article class="inventory-superprompt">
+          <header>
+            <span class="eyebrow">Archivo de contexto · Markdown en texto plano</span>
+            <h3>ARTETECA_AI_CONTEXT</h3>
+            <p>Entrega el archivo completo a otra inteligencia artificial como contexto inicial. El TXT descargado conserva títulos, listas, ejemplos, código y esquema SQL.</p>
+          </header>
+          <pre>{ARTETECA_AI_CONTEXT}</pre>
+        </article>
       {/if}
     </div>
   </section>

@@ -1,6 +1,6 @@
 # Instrucciones para asistentes que amplíen Arteteca
 
-Lee primero `README.md` y `obras/README.md`. La carpeta `obras/` es la fuente de verdad.
+Lee primero `ARTETECA_AI_CONTEXT.md`: es el manual canónico y exhaustivo de continuidad para cualquier asistente de IA. Después consulta `README.md`, `obras/README.md`, el esquema y el código cuando necesites comprobar detalles de la versión actual. La carpeta `obras/` es la fuente de verdad.
 
 Al añadir una obra:
 

@@ -21,7 +21,7 @@ La aplicación está publicada mediante GitHub Pages y construida con Svelte 5, 
 - Pestañas creadas automáticamente a partir de los archivos Markdown de cada obra.
 - Índice JSON muy pequeño para la primera carga y fichas completas bajo demanda.
 - Base de datos SQLite reconstruida en cada compilación.
-- Diez obras iniciales de épocas, soportes y culturas diferentes.
+- Catálogo extensible de épocas, soportes, culturas y geografías diferentes.
 
 ## Arquitectura de carga
 
@@ -42,6 +42,7 @@ Así, la portada realiza una sola petición compacta. El contenido extenso de un
 
 ```text
 Arteteca/
+├── ARTETECA_AI_CONTEXT.md         # Contexto canónico para asistentes de IA
 ├── obras/                         # Fuente editorial: una carpeta por obra
 │   └── las-meninas-velazquez/
 │       ├── obra.json              # Metadatos, portada, filtros y licencia
@@ -100,8 +101,11 @@ Mantén pulsada la tecla `Alt` mientras haces clic en **Acerca de**. Arteteca ab
 - medir cobertura por colección editorial, tipo, periodo y país o cultura;
 - detectar fichas sin fuente, licencia, pestañas, localización o alta resolución;
 - descargar el catálogo completo como TXT, CSV o una hoja compatible con Excel.
+- consultar **Superprompt**, el manual integral de continuidad para asistentes de IA, y descargarlo como TXT.
 
 La interacción reproduce el patrón de herramientas internas del proyecto Fórmulas sin añadir ruido visual a la navegación normal.
+
+La fuente canónica de **Superprompt** es [`ARTETECA_AI_CONTEXT.md`](./ARTETECA_AI_CONTEXT.md). El contenido que aparece en el panel y el TXT descargado se generan directamente desde ese archivo, por lo que no existen copias que puedan quedar desactualizadas. Incluye el propósito editorial, la arquitectura, el contrato de las fichas, el esquema SQLite, los flujos de ampliación, las reglas de investigación, las pruebas y el protocolo de continuidad del proyecto.
 
 ## GitHub Pages
 

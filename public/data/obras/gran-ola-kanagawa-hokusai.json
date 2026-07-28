@@ -33,12 +33,14 @@
   "color": "#365c70",
   "imagen": {
     "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Wave%20off%20Kanagawa.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg",
     "alt": "La gran ola de Kanagawa de Hokusai, ola azul sobre barcas con el monte Fuji al fondo",
     "fuente": "https://commons.wikimedia.org/wiki/File:The_Great_Wave_off_Kanagawa.jpg",
     "licencia": "Dominio público (PD-Art)",
     "credito": "Katsushika Hokusai · reproducción en dominio público",
     "foco": "center",
-    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Wave%20off%20Kanagawa.jpg?width=1600"
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Wave%20off%20Kanagawa.jpg?width=1600",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg"
   },
   "secciones": [
     {

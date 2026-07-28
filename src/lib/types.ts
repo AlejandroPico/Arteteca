@@ -1,7 +1,10 @@
 export interface ImagenObra {
   archivo?: string;
+  archivoAltaResolucion?: string;
   url?: string;
+  urlAltaResolucion?: string;
   src: string;
+  srcAltaResolucion?: string;
   alt: string;
   fuente: string;
   licencia: string;
@@ -26,6 +29,9 @@ export interface ObraResumen {
   periodo: string;
   descripcion: string;
   localizacion?: string | null;
+  ciudad?: string | null;
+  urlLocalizacion?: string | null;
+  urlMapa?: string | null;
   pais?: string | null;
   proporcion: [number, number];
   color: string;

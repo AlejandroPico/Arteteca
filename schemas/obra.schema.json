@@ -27,6 +27,9 @@
     "periodo": { "type": "string", "minLength": 1 },
     "descripcion": { "type": "string", "minLength": 20 },
     "localizacion": { "type": "string" },
+    "ciudad": { "type": "string" },
+    "urlLocalizacion": { "type": "string", "format": "uri" },
+    "urlMapa": { "type": "string", "format": "uri" },
     "pais": { "type": "string" },
     "tecnicas": {
       "type": "array",
@@ -56,7 +59,9 @@
       "required": ["alt", "fuente", "licencia"],
       "properties": {
         "archivo": { "type": "string" },
+        "archivoAltaResolucion": { "type": "string" },
         "url": { "type": "string", "format": "uri" },
+        "urlAltaResolucion": { "type": "string", "format": "uri" },
         "alt": { "type": "string", "minLength": 1 },
         "fuente": { "type": "string", "format": "uri" },
         "licencia": { "type": "string", "minLength": 1 },

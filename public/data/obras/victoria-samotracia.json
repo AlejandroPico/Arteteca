@@ -8,7 +8,10 @@
   "tipo": "Escultura",
   "periodo": "Helenismo",
   "descripcion": "La diosa Niké acaba de posarse sobre la proa de una nave. El mármol conserva el choque imaginario del viento contra el cuerpo y los pliegues húmedos del vestido.",
-  "localizacion": "Museo del Louvre, París",
+  "localizacion": "Museo del Louvre",
+  "ciudad": "París",
+  "urlLocalizacion": "https://collections.louvre.fr/en/ark:/53355/cl010252531",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Musee%20du%20Louvre%20Paris",
   "pais": "Grecia",
   "dimensiones": "244 cm de altura",
   "tecnicas": [
@@ -35,12 +38,14 @@
   "color": "#6d6860",
   "imagen": {
     "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Winged%20Victory%20of%20Samothrace%20-%20March%202015%20by%20kHo.jpg?width=1200",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Winged_Victory_of_Samothrace_-_March_2015_by_kHo.jpg",
     "alt": "Victoria de Samotracia, escultura alada de mármol expuesta en la escalinata del Louvre",
     "fuente": "https://commons.wikimedia.org/wiki/File:Winged_Victory_of_Samothrace_-_March_2015_by_kHo.jpg",
     "licencia": "CC0 1.0",
     "credito": "Fotografía: KHo235 · CC0",
     "foco": "center",
-    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Winged%20Victory%20of%20Samothrace%20-%20March%202015%20by%20kHo.jpg?width=1200"
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Winged%20Victory%20of%20Samothrace%20-%20March%202015%20by%20kHo.jpg?width=1200",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Winged_Victory_of_Samothrace_-_March_2015_by_kHo.jpg"
   },
   "secciones": [
     {

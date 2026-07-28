@@ -8,7 +8,10 @@
   "tipo": "Pintura",
   "periodo": "Posimpresionismo",
   "descripcion": "Un cielo de remolinos luminosos domina Saint-Rémy. Van Gogh no pintó una transcripción literal de la vista, sino una noche reorganizada por memoria, observación e intensidad.",
-  "localizacion": "Museum of Modern Art, Nueva York",
+  "localizacion": "Museum of Modern Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/79802",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20New%20York",
   "pais": "Francia",
   "dimensiones": "73,7 × 92,1 cm",
   "tecnicas": [
@@ -33,12 +36,14 @@
   "color": "#2f4b64",
   "imagen": {
     "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Van%20Gogh%20-%20Starry%20Night%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Van%20Gogh%20-%20Starry%20Night%20-%20Google%20Art%20Project.jpg?width=3840",
     "alt": "La noche estrellada de Van Gogh, con cielo azul en espiral, estrellas y un ciprés oscuro",
     "fuente": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
     "licencia": "Dominio público (PD-Art)",
     "credito": "Vincent van Gogh · MoMA",
     "foco": "center",
-    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Van%20Gogh%20-%20Starry%20Night%20-%20Google%20Art%20Project.jpg?width=1600"
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Van%20Gogh%20-%20Starry%20Night%20-%20Google%20Art%20Project.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Van%20Gogh%20-%20Starry%20Night%20-%20Google%20Art%20Project.jpg?width=3840"
   },
   "secciones": [
     {

@@ -8,7 +8,10 @@
   "tipo": "Escultura",
   "periodo": "Renacimiento",
   "descripcion": "Un bloque de mármol abandonado durante décadas se convirtió en el emblema de Florencia: David aparece antes del combate, concentrado y en máxima tensión.",
-  "localizacion": "Galleria dell’Accademia, Florencia",
+  "localizacion": "Galleria dell’Accademia",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galleria%20dell%27Accademia%20Firenze",
   "pais": "Italia",
   "dimensiones": "517 × 199 cm",
   "tecnicas": [
@@ -32,12 +35,14 @@
   "color": "#807a70",
   "imagen": {
     "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%27s%20David%20-%20right%20view%202.jpg?width=1200",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/80/Michelangelo%27s_David_-_right_view_2.jpg",
     "alt": "El David de Miguel Ángel visto de frente, escultura de mármol sobre fondo oscuro",
     "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg",
     "licencia": "CC BY-SA 4.0",
     "credito": "Fotografía: Commonists · CC BY-SA 4.0",
     "foco": "center 35%",
-    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%27s%20David%20-%20right%20view%202.jpg?width=1200"
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%27s%20David%20-%20right%20view%202.jpg?width=1200",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/80/Michelangelo%27s_David_-_right_view_2.jpg"
   },
   "secciones": [
     {

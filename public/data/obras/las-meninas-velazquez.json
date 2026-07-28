@@ -8,7 +8,10 @@
   "tipo": "Pintura",
   "periodo": "Barroco",
   "descripcion": "Retrato cortesano, escena de taller y reflexión sobre la mirada al mismo tiempo. Velázquez coloca al espectador en un lugar tan decisivo como ambiguo.",
-  "localizacion": "Museo Nacional del Prado, Madrid",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%20Madrid",
   "pais": "España",
   "dimensiones": "318 × 276 cm",
   "tecnicas": [
@@ -31,12 +34,14 @@
   "color": "#4a3a2c",
   "imagen": {
     "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%2001.jpg?width=1400",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/99/Las_Meninas_01.jpg",
     "alt": "Las meninas de Velázquez, escena palaciega presidida por la infanta Margarita",
     "fuente": "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg",
     "licencia": "Dominio público (PD-Art)",
     "credito": "Diego Velázquez · Museo del Prado",
     "foco": "center",
-    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%2001.jpg?width=1400"
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%2001.jpg?width=1400",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/99/Las_Meninas_01.jpg"
   },
   "secciones": [
     {

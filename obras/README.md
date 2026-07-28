@@ -48,7 +48,10 @@ Campos muy recomendados:
 
 - `tituloOriginal`
 - `fechaOrden` como entero; los años a. C. son negativos
-- `localizacion`
+- `localizacion`: institución o lugar, sin repetir la ciudad
+- `ciudad`
+- `urlLocalizacion`: ficha oficial de la obra o web oficial de la institución
+- `urlMapa`: ubicación de la institución o lugar
 - `pais`
 - `dimensiones`
 - `tecnicas`
@@ -85,6 +88,22 @@ o una URL remota:
 ```
 
 La opción local es preferible si la licencia permite redistribuir la reproducción. Nunca se debe copiar una imagen sin verificar sus derechos.
+
+Para el visor ampliable se puede añadir una segunda reproducción:
+
+```json
+{
+  "imagen": {
+    "url": "https://servidor.example/imagen-1600.jpg",
+    "urlAltaResolucion": "https://servidor.example/imagen-original.jpg",
+    "alt": "Descripción visual precisa",
+    "fuente": "https://servidor.example/ficha",
+    "licencia": "Dominio público"
+  }
+}
+```
+
+La variante de alta resolución queda fuera del catálogo ligero y se precarga únicamente cuando se abre la obra a pantalla completa. Debe escogerse el original cuando su peso sea razonable; para originales extraordinariamente grandes, usa la mayor derivada que el navegador pueda manejar con seguridad. La modalidad local equivalente es `archivoAltaResolucion`.
 
 ## 3. Pestañas detectadas por archivos
 
@@ -133,9 +152,9 @@ Se pueden guardar dentro de la misma carpeta. En Markdown se referencian de form
 
 1. El título y la autoría son correctos.
 2. Las fechas distinguen entre certeza y aproximación.
-3. La localización es actual.
+3. La localización es actual y sus enlaces oficial y cartográfico apuntan al lugar correcto.
 4. La técnica y dimensiones proceden de una fuente fiable.
-5. La imagen tiene licencia compatible, crédito, fuente y texto alternativo.
+5. La imagen —incluida su variante de alta resolución— tiene licencia compatible, crédito, fuente y texto alternativo.
 6. Las interpretaciones controvertidas están identificadas como hipótesis.
 7. Los archivos tienen órdenes únicos.
 8. `npm run check` termina sin errores.

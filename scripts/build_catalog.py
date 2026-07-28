@@ -115,6 +115,43 @@ def image_url(work_dir: Path, work_id: str, image: dict[str, Any], errors: list[
     return ""
 
 
+def high_resolution_image_url(
+    work_dir: Path,
+    work_id: str,
+    image: dict[str, Any],
+    errors: list[BuildError],
+    *,
+    write_media: bool,
+) -> str | None:
+    local_file = image.get("archivoAltaResolucion")
+    remote_url = image.get("urlAltaResolucion")
+
+    if local_file:
+        source = work_dir / str(local_file)
+        if not source.is_file():
+            errors.append(BuildError(source, "la imagen de alta resolución indicada no existe"))
+            return None
+        if not write_media:
+            return str(local_file)
+        destination = MEDIA_DIR / work_id / source.name
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source, destination)
+        return f"data/media/{work_id}/{source.name}"
+
+    if remote_url is None:
+        return None
+    if isinstance(remote_url, str) and remote_url.startswith(("https://", "http://")):
+        return remote_url
+
+    errors.append(
+        BuildError(
+            work_dir / "obra.json",
+            "`imagen.urlAltaResolucion` debe ser una URL http(s)",
+        )
+    )
+    return None
+
+
 def load_work(work_dir: Path, errors: list[BuildError], *, write_media: bool) -> dict[str, Any] | None:
     metadata_path = work_dir / "obra.json"
     if not metadata_path.is_file():
@@ -148,6 +185,13 @@ def load_work(work_dir: Path, errors: list[BuildError], *, write_media: bool) ->
         resolved_image = image_url(work_dir, work_id, image, errors)
     else:
         resolved_image = str(image.get("url") or image.get("archivo") or "")
+    resolved_high_resolution = high_resolution_image_url(
+        work_dir,
+        work_id,
+        image,
+        errors,
+        write_media=write_media,
+    )
 
     sections: list[dict[str, Any]] = []
     seen_orders: set[int] = set()
@@ -205,9 +249,13 @@ def load_work(work_dir: Path, errors: list[BuildError], *, write_media: bool) ->
         errors.append(BuildError(metadata_path, "`proporcion` debe ser [ancho, alto] con números positivos"))
         ratio = [4, 3]
 
+    compiled_image = {**image, "src": resolved_image}
+    if resolved_high_resolution:
+        compiled_image["srcAltaResolucion"] = resolved_high_resolution
+
     return {
         **metadata,
-        "imagen": {**image, "src": resolved_image},
+        "imagen": compiled_image,
         "proporcion": ratio,
         "etiquetas": tags,
         "secciones": sections,
@@ -215,6 +263,11 @@ def load_work(work_dir: Path, errors: list[BuildError], *, write_media: bool) ->
 
 
 def summary_from(work: dict[str, Any]) -> dict[str, Any]:
+    lightweight_image = {
+        key: value
+        for key, value in work["imagen"].items()
+        if key not in {"archivoAltaResolucion", "urlAltaResolucion", "srcAltaResolucion"}
+    }
     return {
         "id": work["id"],
         "titulo": work["titulo"],
@@ -226,11 +279,14 @@ def summary_from(work: dict[str, Any]) -> dict[str, Any]:
         "periodo": work["periodo"],
         "descripcion": work["descripcion"],
         "localizacion": work.get("localizacion"),
+        "ciudad": work.get("ciudad"),
+        "urlLocalizacion": work.get("urlLocalizacion"),
+        "urlMapa": work.get("urlMapa"),
         "pais": work.get("pais"),
         "proporcion": work["proporcion"],
         "color": work.get("color", "#8f543d"),
         "etiquetas": work["etiquetas"],
-        "imagen": work["imagen"],
+        "imagen": lightweight_image,
         "pestanas": [
             {"id": section["id"], "titulo": section["titulo"], "icono": section["icono"]}
             for section in work["secciones"]

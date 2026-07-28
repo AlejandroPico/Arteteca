@@ -188,11 +188,6 @@
   </a>
 
   <nav class:open={mobileMenuOpen} class="site-nav" aria-label="Herramientas de la colección">
-    <button class="header-action header-action--shuffle" type="button" title="Redescubrir la colección" onclick={reshuffle}>
-      <Dices size={18} />
-      <span>Redescubrir</span>
-    </button>
-
     <div class:open={searchOpen} class="header-search">
       <input
         id="site-search"
@@ -219,6 +214,11 @@
         {#if searchOpen}<X size={18} />{:else}<Search size={18} />{/if}
       </button>
     </div>
+
+    <button class="header-action header-action--shuffle" type="button" title="Redescubrir la colección" onclick={reshuffle}>
+      <Dices size={18} />
+      <span>Redescubrir</span>
+    </button>
 
     <div class="header-control">
       <button

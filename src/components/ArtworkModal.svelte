@@ -27,6 +27,9 @@
   let activeTab = '';
   let immersive = false;
   let imageFailed = false;
+  let displayedImage = obra.imagen.src;
+  let highResolutionLoading = false;
+  let highResolutionRequest = 0;
   let zoom = 1;
   let panX = 0;
   let panY = 0;
@@ -47,13 +50,19 @@
     : '';
 
   async function fetchDetail() {
+    const requestId = ++highResolutionRequest;
     loading = true;
     error = '';
     detail = null;
     imageFailed = false;
+    displayedImage = obra.imagen.src;
+    highResolutionLoading = false;
     try {
-      detail = await loadArtwork(obra.id);
+      const loadedDetail = await loadArtwork(obra.id);
+      if (requestId !== highResolutionRequest) return;
+      detail = loadedDetail;
       activeTab = detail.secciones[0]?.id ?? '';
+      if (immersive) void loadHighResolution();
     } catch (reason) {
       error = reason instanceof Error ? reason.message : 'No se pudo abrir la obra.';
     } finally {
@@ -73,9 +82,34 @@
     dragging = false;
   }
 
+  function loadHighResolution() {
+    const source = detail?.imagen.srcAltaResolucion;
+    if (!immersive || !source || source === displayedImage) return;
+
+    const requestId = ++highResolutionRequest;
+    highResolutionLoading = true;
+    const preloader = new Image();
+    preloader.onload = () => {
+      if (requestId !== highResolutionRequest || !immersive) return;
+      displayedImage = source;
+      highResolutionLoading = false;
+    };
+    preloader.onerror = () => {
+      if (requestId === highResolutionRequest) highResolutionLoading = false;
+    };
+    preloader.src = source;
+  }
+
   function setImmersive(next: boolean) {
     immersive = next;
     resetViewer();
+    if (next) {
+      void loadHighResolution();
+    } else {
+      highResolutionRequest += 1;
+      highResolutionLoading = false;
+      displayedImage = detail?.imagen.src ?? obra.imagen.src;
+    }
   }
 
   function zoomAt(nextZoom: number, clientX: number, clientY: number) {
@@ -221,7 +255,7 @@
           onpointercancel={pointerUp}
         >
           <img
-            src={detail?.imagen.src ?? obra.imagen.src}
+            src={displayedImage}
             alt={obra.imagen.alt}
             draggable="false"
             style={`object-position: ${obra.imagen.foco ?? 'center'}; transform: translate3d(${panX}px, ${panY}px, 0) scale(${zoom})`}
@@ -230,6 +264,9 @@
         </button>
       {/if}
       {#if immersive}
+        {#if highResolutionLoading}
+          <p class="obra-modal__resolution-state" aria-live="polite">Cargando reproducción de máxima resolución…</p>
+        {/if}
         <p class="obra-modal__viewer-hint">Rueda o pellizca para ampliar · arrastra para recorrer · doble clic para restablecer</p>
       {/if}
       <figcaption>
@@ -248,7 +285,24 @@
         <p class="obra-modal__author">{obra.autor}</p>
         <div class="obra-modal__facts">
           <span><CalendarDays size={15} /> {obra.fecha}</span>
-          {#if obra.localizacion}<span><MapPin size={15} /> {obra.localizacion}</span>{/if}
+          {#if obra.localizacion}
+            <span class="obra-modal__location">
+              <MapPin size={15} />
+              {#if obra.urlLocalizacion}
+                <a href={obra.urlLocalizacion} target="_blank" rel="noreferrer">{obra.localizacion}</a>
+              {:else}
+                {obra.localizacion}
+              {/if}
+              {#if obra.ciudad}
+                <i aria-hidden="true">·</i>
+                {#if obra.urlMapa}
+                  <a href={obra.urlMapa} target="_blank" rel="noreferrer">{obra.ciudad}</a>
+                {:else}
+                  {obra.ciudad}
+                {/if}
+              {/if}
+            </span>
+          {/if}
         </div>
         <p class="obra-modal__summary">{obra.descripcion}</p>
       </header>

@@ -8,7 +8,10 @@
   "tipo": "Fotografía",
   "periodo": "Fotografía documental",
   "descripcion": "El retrato de Florence Owens Thompson y sus hijos condensó la precariedad de la Gran Depresión y se convirtió en una de las imágenes documentales más reconocibles del siglo XX.",
-  "localizacion": "Library of Congress, Washington D. C.",
+  "localizacion": "Library of Congress",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.loc.gov/pictures/item/2017762891/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Library%20of%20Congress%20Washington%20DC",
   "pais": "Estados Unidos",
   "dimensiones": "Negativo 4 × 5 pulgadas",
   "tecnicas": [
@@ -33,12 +36,14 @@
   "color": "#575047",
   "imagen": {
     "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lange-MigrantMother02.jpg?width=1200",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lange-MigrantMother02.jpg",
     "alt": "Madre migrante de Dorothea Lange, mujer preocupada rodeada por dos de sus hijos",
     "fuente": "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg",
     "licencia": "Dominio público en Estados Unidos (FSA/OWI)",
     "credito": "Dorothea Lange · Farm Security Administration",
     "foco": "center",
-    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lange-MigrantMother02.jpg?width=1200"
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lange-MigrantMother02.jpg?width=1200",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lange-MigrantMother02.jpg"
   },
   "secciones": [
     {

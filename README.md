@@ -104,7 +104,9 @@ La URL prevista es:
 
 Cada `obra.json` declara la URL de procedencia, el crédito y la licencia de su reproducción. La colección inicial usa archivos de Wikimedia Commons en dominio público o con licencias abiertas. La interfaz enlaza siempre a la ficha de origen.
 
-Para una colección duradera se recomienda descargar una reproducción permitida, optimizarla como WebP o AVIF y guardarla dentro de la carpeta de la obra. El compilador admite tanto `imagen.archivo` como `imagen.url`.
+Para una colección duradera se recomienda descargar una reproducción permitida, optimizarla como WebP o AVIF y guardarla dentro de la carpeta de la obra. El compilador admite tanto `imagen.archivo` como `imagen.url`. También puede declararse una reproducción de detalle mediante `archivoAltaResolucion` o `urlAltaResolucion`: no forma parte del índice inicial y solo se carga al abrir el visor inmersivo.
+
+La ficha puede separar `localizacion` y `ciudad`. `urlLocalizacion` debe apuntar a la ficha oficial de la obra o de la institución, mientras que `urlMapa` abre su emplazamiento. Ambos enlaces se presentan de forma discreta junto a la fecha.
 
 - Código: [licencia MIT](./LICENSE).
 - Textos editoriales propios: CC BY-SA 4.0.

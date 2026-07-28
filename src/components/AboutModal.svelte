@@ -30,10 +30,29 @@
 
     <div class="about-modal__index" aria-hidden="true">A—01</div>
 
-    <header class="about-modal__heading">
-      <span class="eyebrow">Sobre Arteteca</span>
-      <h2 id="about-title">Una colección sin una única definición de arte.</h2>
-    </header>
+    <div class="about-modal__intro">
+      <header class="about-modal__heading">
+        <span class="eyebrow">Sobre Arteteca</span>
+        <h2 id="about-title">Una colección sin una única definición de arte.</h2>
+      </header>
+
+      <nav class="about-modal__links" aria-label="Enlaces del proyecto">
+        <a href="https://alejandropico.github.io/Portfolio/" target="_blank" rel="noreferrer">
+          <span>
+            <small>Conocer al autor</small>
+            Porfolio de Alejandro Pico
+          </span>
+          <ArrowUpRight size={19} />
+        </a>
+        <a href="https://github.com/AlejandroPico/Arteteca" target="_blank" rel="noreferrer">
+          <span>
+            <small>Proyecto abierto</small>
+            Código y catálogo en GitHub
+          </span>
+          <GitFork size={20} />
+        </a>
+      </nav>
+    </div>
 
     <div class="about-modal__copy">
       <p class="about-modal__lead">
@@ -60,21 +79,5 @@
       </p>
     </div>
 
-    <nav class="about-modal__links" aria-label="Enlaces del proyecto">
-      <a href="https://alejandropico.github.io/Portfolio/" target="_blank" rel="noreferrer">
-        <span>
-          <small>Conocer al autor</small>
-          Porfolio de Alejandro Pico
-        </span>
-        <ArrowUpRight size={19} />
-      </a>
-      <a href="https://github.com/AlejandroPico/Arteteca" target="_blank" rel="noreferrer">
-        <span>
-          <small>Proyecto abierto</small>
-          Código y catálogo en GitHub
-        </span>
-        <GitFork size={20} />
-      </a>
-    </nav>
   </section>
 </div>

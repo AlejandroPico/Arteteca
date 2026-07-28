@@ -1,0 +1,41 @@
+{
+  "id": "gran-buda-kamakura",
+  "titulo": "Gran Buda de Kamakura",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1252",
+  "fechaOrden": 1252,
+  "tipo": "Escultura",
+  "periodo": "Periodo Kamakura",
+  "coleccion": "Asia",
+  "descripcion": "La monumental figura sedente de Amida Buda equilibra masa, calma y una rigurosa simetría visible desde el recinto abierto de Kōtoku-in.",
+  "localizacion": "Kōtoku-in",
+  "ciudad": "Kamakura",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=K%C5%8Dtoku-in%20Kamakura",
+  "pais": "Japón",
+  "tecnicas": [
+    "Bronce fundido"
+  ],
+  "etiquetas": [
+    "Asia",
+    "Periodo Kamakura",
+    "Japón",
+    "Escultura",
+    "Bronce fundido",
+    "arte universal"
+  ],
+  "proporcion": [
+    4088,
+    2297
+  ],
+  "color": "#9a4b3d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Buddha%20of%20K%C5%8Dtoku-in%20(Kamakura%20Daibutsu).jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Buddha%20of%20K%C5%8Dtoku-in%20(Kamakura%20Daibutsu).jpg",
+    "alt": "Reproducción de Gran Buda de Kamakura",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The%20Great%20Buddha%20of%20K%C5%8Dtoku-in%20(Kamakura%20Daibutsu).jpg",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Fotografía: Dandy1022 · Kōtoku-in · Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

@@ -1,0 +1,40 @@
+{
+  "id": "entierro-ornans",
+  "titulo": "Un entierro en Ornans",
+  "autor": "Gustave Courbet",
+  "fecha": "1849–1850",
+  "fechaOrden": 1850,
+  "tipo": "Pintura",
+  "periodo": "Realismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Un funeral provincial recibe la escala reservada a la pintura histórica sin idealización heroica.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "París",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Romanticismo, Realismo e Impresionismo",
+    "Realismo",
+    "Francia",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    6042,
+    2777
+  ],
+  "color": "#68584c",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg/1920px-Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg",
+    "alt": "Reproducción de Un entierro en Ornans, Gustave Courbet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project_2.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Gustave Courbet",
+    "foco": "center"
+  }
+}

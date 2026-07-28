@@ -1,0 +1,42 @@
+{
+  "id": "eastern-columbia-building",
+  "titulo": "Eastern Columbia Building",
+  "autor": "Claud Beelman",
+  "fecha": "1930",
+  "fechaOrden": 1930,
+  "tipo": "Arquitectura",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "La terracota turquesa, el reloj y los detalles dorados producen una presencia cromática excepcional.",
+  "localizacion": "Eastern Columbia Building",
+  "ciudad": "Los Ángeles",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Eastern%20Columbia%20Building%20Los%20%C3%81ngeles",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Terracota vidriada",
+    "Metal",
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "Art déco",
+    "Estados Unidos",
+    "Arquitectura",
+    "Terracota vidriada",
+    "Metal",
+    "arte universal"
+  ],
+  "proporcion": [
+    2000,
+    2997
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eastern_Columbia_Tower_-_Los_Angeles.jpg/1920px-Eastern_Columbia_Tower_-_Los_Angeles.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eastern_Columbia_Tower_-_Los_Angeles.jpg",
+    "alt": "Reproducción de Eastern Columbia Building, Claud Beelman",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Eastern_Columbia_Tower_-_Los_Angeles.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Claud Beelman",
+    "foco": "center"
+  }
+}

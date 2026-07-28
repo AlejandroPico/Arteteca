@@ -48,6 +48,8 @@ Campos muy recomendados:
 
 - `tituloOriginal`
 - `fechaOrden` como entero; los años a. C. son negativos
+- `coleccion`: ruta editorial amplia utilizada por el inventario interno
+- `reconocimiento`: premio, declaración patrimonial o reconocimiento relevante, si existe
 - `localizacion`: institución o lugar, sin repetir la ciudad
 - `ciudad`
 - `urlLocalizacion`: ficha oficial de la obra o web oficial de la institución

@@ -1,0 +1,42 @@
+{
+  "id": "venus-milo",
+  "titulo": "Venus de Milo",
+  "autor": "Alejandro de Antioquía (atribución)",
+  "fecha": "c. 150–125 a. C.",
+  "fechaOrden": -137,
+  "tipo": "Escultura",
+  "periodo": "Helenismo",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "El giro del torso y el drapeado sostienen una figura a la vez estable, sensual y abierta a reconstrucciones.",
+  "localizacion": "Museo del Louvre",
+  "ciudad": "París",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%20Par%C3%ADs",
+  "pais": "Grecia",
+  "tecnicas": [
+    "Mármol",
+    "Talla"
+  ],
+  "etiquetas": [
+    "Grecia y Roma",
+    "Helenismo",
+    "Grecia",
+    "Escultura",
+    "Mármol",
+    "Talla",
+    "arte universal"
+  ],
+  "proporcion": [
+    3088,
+    5808
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Front_views_of_the_Venus_de_Milo.jpg/1920px-Front_views_of_the_Venus_de_Milo.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Front_views_of_the_Venus_de_Milo.jpg",
+    "alt": "Reproducción de Venus de Milo, Alejandro de Antioquía (atribución)",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Front_views_of_the_Venus_de_Milo.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Alejandro de Antioquía (atribución)",
+    "foco": "center"
+  }
+}

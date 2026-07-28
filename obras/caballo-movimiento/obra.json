@@ -1,0 +1,43 @@
+{
+  "id": "caballo-movimiento",
+  "titulo": "El caballo en movimiento",
+  "autor": "Eadweard Muybridge",
+  "fecha": "1878",
+  "fechaOrden": 1878,
+  "tipo": "Cronofotografía",
+  "periodo": "Estudios del movimiento",
+  "coleccion": "Fotografía",
+  "descripcion": "La secuencia descompuso el galope y corrigió convenciones visuales que el ojo no podía verificar por sí solo.",
+  "localizacion": "Library of Congress",
+  "ciudad": "Washington D. C.",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Library%20of%20Congress%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Hito de la cronofotografía y antecedente del cine",
+  "tecnicas": [
+    "Gelatina de plata",
+    "Secuencia fotográfica"
+  ],
+  "etiquetas": [
+    "Fotografía",
+    "Estudios del movimiento",
+    "Estados Unidos",
+    "Cronofotografía",
+    "Gelatina de plata",
+    "Secuencia fotográfica",
+    "arte universal"
+  ],
+  "proporcion": [
+    1024,
+    652
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Horse_in_motion._%22Abe_Edgington%2C%22_owned_by_Leland_Stanford%3B_driven_by_C._Marvin%2C_trotting_at_a_2-24_gait_over_the_Palo_Alto_track%2C_15th_June_1878_LOC_13624627695.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Horse_in_motion._%22Abe_Edgington%2C%22_owned_by_Leland_Stanford%3B_driven_by_C._Marvin%2C_trotting_at_a_2-24_gait_over_the_Palo_Alto_track%2C_15th_June_1878_LOC_13624627695.jpg",
+    "alt": "Reproducción de El caballo en movimiento, Eadweard Muybridge",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Horse_in_motion._%22Abe_Edgington%2C%22_owned_by_Leland_Stanford%3B_driven_by_C._Marvin%2C_trotting_at_a_2-24_gait_over_the_Palo_Alto_track%2C_15th_June_1878_LOC_13624627695.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Eadweard Muybridge",
+    "foco": "center"
+  }
+}

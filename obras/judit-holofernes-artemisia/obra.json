@@ -1,0 +1,40 @@
+{
+  "id": "judit-holofernes-artemisia",
+  "titulo": "Judit decapitando a Holofernes",
+  "autor": "Artemisia Gentileschi",
+  "fecha": "c. 1612–1613",
+  "fechaOrden": 1613,
+  "tipo": "Pintura",
+  "periodo": "Barroco italiano",
+  "coleccion": "Barroco",
+  "descripcion": "La acción se representa con peso físico, proximidad y una determinación que evita la distancia decorativa.",
+  "localizacion": "Museo de Capodimonte",
+  "ciudad": "Nápoles",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Capodimonte%20N%C3%A1poles",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Barroco italiano",
+    "Italia",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    1178,
+    1500
+  ],
+  "color": "#613f36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg",
+    "alt": "Reproducción de Judit decapitando a Holofernes, Artemisia Gentileschi",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Artemisia Gentileschi",
+    "foco": "center"
+  }
+}

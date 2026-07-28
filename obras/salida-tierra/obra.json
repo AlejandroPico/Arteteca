@@ -1,0 +1,42 @@
+{
+  "id": "salida-tierra",
+  "titulo": "Salida de la Tierra",
+  "autor": "William Anders / NASA",
+  "fecha": "1968",
+  "fechaOrden": 1968,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía espacial",
+  "coleccion": "Fotografía",
+  "descripcion": "La Tierra coloreada aparece sobre el horizonte lunar y altera la percepción visual del planeta como mundo finito.",
+  "localizacion": "NASA",
+  "ciudad": "Washington D. C.",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=NASA%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Una de las imágenes ambientales más influyentes del siglo XX",
+  "tecnicas": [
+    "Fotografía en color",
+    "Hasselblad"
+  ],
+  "etiquetas": [
+    "Fotografía",
+    "Fotografía espacial",
+    "Estados Unidos",
+    "Fotografía en color",
+    "Hasselblad",
+    "arte universal"
+  ],
+  "proporcion": [
+    2400,
+    2400
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/1920px-NASA-Apollo8-Dec24-Earthrise.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg",
+    "alt": "Reproducción de Salida de la Tierra, William Anders / NASA",
+    "fuente": "https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · William Anders / NASA",
+    "foco": "center"
+  }
+}

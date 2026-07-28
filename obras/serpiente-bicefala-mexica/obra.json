@@ -1,0 +1,45 @@
+{
+  "id": "serpiente-bicefala-mexica",
+  "titulo": "Serpiente bicéfala de turquesa",
+  "autor": "Artistas mexicas",
+  "fecha": "c. 1400–1521",
+  "fechaOrden": 1500,
+  "tipo": "Escultura y mosaico",
+  "periodo": "Arte mexica",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Dos cabezas de serpiente se unen en un cuerpo ondulante cubierto por teselas de turquesa, con detalles de concha que intensifican ojos y bocas.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
+  "pais": "México",
+  "tecnicas": [
+    "Madera",
+    "Mosaico de turquesa",
+    "Concha"
+  ],
+  "etiquetas": [
+    "África, Américas y Oceanía",
+    "Arte mexica",
+    "México",
+    "Escultura y mosaico",
+    "Madera",
+    "Mosaico de turquesa",
+    "Concha",
+    "arte universal"
+  ],
+  "proporcion": [
+    3295,
+    1639
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Double%20headed%20turquoise%20serpentAztecbritish%20museum.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Double%20headed%20turquoise%20serpentAztecbritish%20museum.jpg",
+    "alt": "Reproducción de Serpiente bicéfala de turquesa",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Double%20headed%20turquoise%20serpentAztecbritish%20museum.jpg",
+    "licencia": "CC BY-SA 4.0 / GFDL",
+    "credito": "Fotografía: Geni · British Museum · Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

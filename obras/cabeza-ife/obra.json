@@ -1,0 +1,42 @@
+{
+  "id": "cabeza-ife",
+  "titulo": "Cabeza de Ife",
+  "autor": "Autoría desconocida",
+  "fecha": "siglos XIV–XV",
+  "fechaOrden": 1400,
+  "tipo": "Escultura",
+  "periodo": "Arte yoruba",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "El modelado naturalista y las estrías controladas expresan rango y presencia sin responder a cánones europeos.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
+  "pais": "Nigeria",
+  "tecnicas": [
+    "Aleación de cobre",
+    "Cera perdida"
+  ],
+  "etiquetas": [
+    "África, Américas y Oceanía",
+    "Arte yoruba",
+    "Nigeria",
+    "Escultura",
+    "Aleación de cobre",
+    "Cera perdida",
+    "arte universal"
+  ],
+  "proporcion": [
+    1084,
+    2364
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Arte_yoruba%2C_nigeria%2C_testa_da_ife%2C_12-15mo_secolo.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Arte_yoruba%2C_nigeria%2C_testa_da_ife%2C_12-15mo_secolo.JPG",
+    "alt": "Reproducción de Cabeza de Ife, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Arte_yoruba%2C_nigeria%2C_testa_da_ife%2C_12-15mo_secolo.JPG",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "paleta-narmer",
+  "titulo": "Paleta de Narmer",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 3100 a. C.",
+  "fechaOrden": -3100,
+  "tipo": "Relieve",
+  "periodo": "Periodo protodinástico",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "Sus registros condensan ceremonia, violencia y un programa temprano de realeza unificada.",
+  "localizacion": "Museo Egipcio",
+  "ciudad": "El Cairo",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Egipcio%20El%20Cairo",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Esquisto",
+    "Bajorrelieve"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "Periodo protodinástico",
+    "Egipto",
+    "Relieve",
+    "Esquisto",
+    "Bajorrelieve",
+    "arte universal"
+  ],
+  "proporcion": [
+    2566,
+    1808
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Narmer_Palette.jpg/1920px-Narmer_Palette.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/be/Narmer_Palette.jpg",
+    "alt": "Reproducción de Paleta de Narmer, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Narmer_Palette.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

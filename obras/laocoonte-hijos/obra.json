@@ -1,0 +1,42 @@
+{
+  "id": "laocoonte-hijos",
+  "titulo": "Laocoonte y sus hijos",
+  "autor": "Agesandro, Atenodoro y Polidoro de Rodas (atribución)",
+  "fecha": "siglo I a. C.",
+  "fechaOrden": -40,
+  "tipo": "Escultura",
+  "periodo": "Helenismo tardío",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "La torsión de los cuerpos y las serpientes construye una espiral de resistencia, dolor y destino.",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%20Ciudad%20del%20Vaticano",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mármol",
+    "Talla"
+  ],
+  "etiquetas": [
+    "Grecia y Roma",
+    "Helenismo tardío",
+    "Italia",
+    "Escultura",
+    "Mármol",
+    "Talla",
+    "arte universal"
+  ],
+  "proporcion": [
+    8744,
+    9502
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/1920px-Laoco%C3%B6n_and_his_sons_group.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/3840px-Laoco%C3%B6n_and_his_sons_group.jpg",
+    "alt": "Reproducción de Laocoonte y sus hijos, Agesandro, Atenodoro y Polidoro de Rodas (atribución)",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Laoco%C3%B6n_and_his_sons_group.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Agesandro, Atenodoro y Polidoro de Rodas (atribución)",
+    "foco": "center"
+  }
+}

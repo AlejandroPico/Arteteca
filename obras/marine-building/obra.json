@@ -1,0 +1,42 @@
+{
+  "id": "marine-building",
+  "titulo": "Marine Building",
+  "autor": "McCarter Nairne and Partners",
+  "fecha": "1929–1930",
+  "fechaOrden": 1930,
+  "tipo": "Arquitectura",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "Relieves de fauna marina y transportes cubren una torre concebida como icono del puerto moderno.",
+  "localizacion": "Marine Building",
+  "ciudad": "Vancouver",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Marine%20Building%20Vancouver",
+  "pais": "Canadá",
+  "tecnicas": [
+    "Terracota",
+    "Latón",
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "Art déco",
+    "Canadá",
+    "Arquitectura",
+    "Terracota",
+    "Latón",
+    "arte universal"
+  ],
+  "proporcion": [
+    641,
+    1000
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/MNP_Tower_2015.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8b/MNP_Tower_2015.jpg",
+    "alt": "Reproducción de Marine Building, McCarter Nairne and Partners",
+    "fuente": "https://commons.wikimedia.org/wiki/File:MNP_Tower_2015.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · McCarter Nairne and Partners",
+    "foco": "center"
+  }
+}

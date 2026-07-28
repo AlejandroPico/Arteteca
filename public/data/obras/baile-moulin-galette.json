@@ -1,0 +1,84 @@
+{
+  "id": "baile-moulin-galette",
+  "titulo": "Baile en el Moulin de la Galette",
+  "autor": "Pierre-Auguste Renoir",
+  "fecha": "1876",
+  "fechaOrden": 1876,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "La luz moteada atraviesa árboles y figuras para convertir el ocio urbano en una superficie en movimiento.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "París",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Francia",
+    "Impresionismo",
+    "Pintura",
+    "Romanticismo, Realismo e Impresionismo",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    40869,
+    30379
+  ],
+  "color": "#68584c",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg/1920px-Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg/3840px-Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg",
+    "alt": "Reproducción de Baile en el Moulin de la Galette, Pierre-Auguste Renoir",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Pierre-Auguste Renoir",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg/1920px-Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg/3840px-Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa luz moteada atraviesa árboles y figuras para convertir el ocio urbano en una superficie en movimiento.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Impresionismo\n\nDurante el siglo XIX, los artistas replantearon la historia, el paisaje, el trabajo, la vida urbana y la percepción óptica ante la industrialización y la modernidad.\n\n**Fecha:** 1876  \n**Ámbito:** Francia  \n**Conservación o emplazamiento:** Museo de Orsay, París, Francia",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Óleo sobre lienzo\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEstas obras abrieron el camino hacia la autonomía del color y la pincelada, la crítica social y las múltiples vanguardias del siglo XX.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

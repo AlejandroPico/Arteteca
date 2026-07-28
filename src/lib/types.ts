@@ -27,12 +27,16 @@ export interface ObraResumen {
   fechaOrden?: number | null;
   tipo: string;
   periodo: string;
+  coleccion?: string | null;
+  reconocimiento?: string | null;
   descripcion: string;
   localizacion?: string | null;
   ciudad?: string | null;
   urlLocalizacion?: string | null;
   urlMapa?: string | null;
   pais?: string | null;
+  tecnicas?: string[];
+  tieneAltaResolucion?: boolean;
   proporcion: [number, number];
   color: string;
   etiquetas: string[];
@@ -62,6 +66,7 @@ export interface Catalogo {
   total: number;
   tipos: string[];
   periodos: string[];
+  colecciones: string[];
   obras: ObraResumen[];
 }
 

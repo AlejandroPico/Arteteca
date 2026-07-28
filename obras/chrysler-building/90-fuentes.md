@@ -1,0 +1,11 @@
+---
+titulo: Fuentes
+icono: enlace
+---
+
+## Referencias de esta ficha
+
+- [Artículo de referencia](https://en.wikipedia.org/wiki/Art_Deco_architecture_of_New_York_City)
+- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Chrysler%20Building%201%20(4684845155).jpg)
+
+La reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.

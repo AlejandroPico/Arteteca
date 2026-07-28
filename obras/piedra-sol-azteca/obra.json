@@ -1,0 +1,42 @@
+{
+  "id": "piedra-sol-azteca",
+  "titulo": "Piedra del Sol",
+  "autor": "Talleres mexicas",
+  "fecha": "c. 1502–1521",
+  "fechaOrden": 1510,
+  "tipo": "Escultura y relieve",
+  "periodo": "Arte mexica",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Anillos de signos calendáricos y figuras cosmológicas organizan una visión compleja del tiempo y el sacrificio.",
+  "localizacion": "Museo Nacional de Antropología",
+  "ciudad": "Ciudad de México",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Antropolog%C3%ADa%20Ciudad%20de%20M%C3%A9xico",
+  "pais": "México",
+  "tecnicas": [
+    "Basalto",
+    "Relieve"
+  ],
+  "etiquetas": [
+    "África, Américas y Oceanía",
+    "Arte mexica",
+    "México",
+    "Escultura y relieve",
+    "Basalto",
+    "Relieve",
+    "arte universal"
+  ],
+  "proporcion": [
+    3648,
+    2736
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Monolito_de_la_Piedra_del_Sol.jpg/1920px-Monolito_de_la_Piedra_del_Sol.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/65/Monolito_de_la_Piedra_del_Sol.jpg",
+    "alt": "Reproducción de Piedra del Sol, Talleres mexicas",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Monolito_de_la_Piedra_del_Sol.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres mexicas",
+    "foco": "center"
+  }
+}

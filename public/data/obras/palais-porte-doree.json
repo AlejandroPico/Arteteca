@@ -1,0 +1,87 @@
+{
+  "id": "palais-porte-doree",
+  "titulo": "Palais de la Porte Dorée",
+  "autor": "Albert Laprade, Léon Jaussely y Léon Bazin",
+  "fecha": "1931",
+  "fechaOrden": 1931,
+  "tipo": "Arquitectura y relieve",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "La fachada combina monumentalidad geométrica con un gran programa de relieves ligado a la exposición colonial.",
+  "localizacion": "Palais de la Porte Dorée",
+  "ciudad": "París",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palais%20de%20la%20Porte%20Dor%C3%A9e%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Piedra",
+    "Relieve",
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arquitectura y relieve",
+    "Art déco",
+    "arte universal",
+    "Francia",
+    "Piedra",
+    "Relieve"
+  ],
+  "proporcion": [
+    3872,
+    2592
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Palasi_Porte_Doree_Entree.jpg/1920px-Palasi_Porte_Doree_Entree.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Palasi_Porte_Doree_Entree.jpg",
+    "alt": "Reproducción de Palais de la Porte Dorée, Albert Laprade, Léon Jaussely y Léon Bazin",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Palasi_Porte_Doree_Entree.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Albert Laprade, Léon Jaussely y Léon Bazin",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Palasi_Porte_Doree_Entree.jpg/1920px-Palasi_Porte_Doree_Entree.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Palasi_Porte_Doree_Entree.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "edificio",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa fachada combina monumentalidad geométrica con un gran programa de relieves ligado a la exposición colonial.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Art déco\n\nEl Art déco reunió arquitectura, artes decorativas, tipografía, industria y espectáculo mediante geometrías nítidas, materiales modernos y una imagen optimista de la metrópolis.\n\n**Fecha:** 1931  \n**Ámbito:** Francia  \n**Conservación o emplazamiento:** Palais de la Porte Dorée, París, Francia",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Piedra\n- Relieve\n- Arquitectura\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu síntesis de lujo, producción industrial y diseño total continúa definiendo la imagen de los años veinte y treinta y muchas recuperaciones posteriores.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Palais_de_la_Porte_Dor%C3%A9e)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Palasi_Porte_Doree_Entree.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "juicio-hunefer",
+  "titulo": "El juicio de Hunefer",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1275 a. C.",
+  "fechaOrden": -1275,
+  "tipo": "Manuscrito",
+  "periodo": "Dinastía XIX",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "La pesada del corazón convierte doctrina funeraria y escritura jeroglífica en una secuencia narrativa.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Papiro pintado"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "arte universal",
+    "Dinastía XIX",
+    "Egipto",
+    "Manuscrito",
+    "Papiro pintado"
+  ],
+  "proporcion": [
+    2446,
+    1112
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg/1920px-The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg",
+    "alt": "Reproducción de El juicio de Hunefer, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg/1920px-The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa pesada del corazón convierte doctrina funeraria y escritura jeroglífica en una secuencia narrativa.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Dinastía XIX\n\nEl arte egipcio vinculó imagen, poder, culto funerario y permanencia. La frontalidad, la escala jerárquica y la elección de materiales respondían a funciones religiosas y políticas concretas.\n\n**Fecha:** c. 1275 a. C.  \n**Ámbito:** Egipto  \n**Conservación o emplazamiento:** British Museum, Londres, Egipto",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Papiro pintado\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu vocabulario visual ha condicionado la imaginación occidental sobre la Antigüedad y sigue siendo fundamental para estudiar la relación entre arte, escritura, ritual y autoridad.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Hunefer)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

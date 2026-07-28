@@ -1,0 +1,45 @@
+{
+  "id": "palacio-bellas-artes-mexico",
+  "titulo": "Palacio de Bellas Artes",
+  "autor": "Adamo Boari y Federico Mariscal",
+  "fecha": "1904–1934",
+  "fechaOrden": 1934,
+  "tipo": "Arquitectura",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "El exterior historicista y los interiores déco muestran una larga construcción atravesada por cambios de gusto y técnica.",
+  "localizacion": "Palacio de Bellas Artes",
+  "ciudad": "Ciudad de México",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20Bellas%20Artes%20Ciudad%20de%20M%C3%A9xico",
+  "pais": "México",
+  "tecnicas": [
+    "Mármol",
+    "Acero",
+    "Vidrio",
+    "Artes decorativas"
+  ],
+  "etiquetas": [
+    "Art déco",
+    "México",
+    "Arquitectura",
+    "Mármol",
+    "Acero",
+    "Vidrio",
+    "Artes decorativas",
+    "arte universal"
+  ],
+  "proporcion": [
+    4140,
+    2760
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/1920px-Bellas_Artes_01.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bellas_Artes_01.jpg",
+    "alt": "Reproducción de Palacio de Bellas Artes, Adamo Boari y Federico Mariscal",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bellas_Artes_01.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Adamo Boari y Federico Mariscal",
+    "foco": "center"
+  }
+}

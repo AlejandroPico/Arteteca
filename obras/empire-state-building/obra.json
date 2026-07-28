@@ -1,0 +1,42 @@
+{
+  "id": "empire-state-building",
+  "titulo": "Empire State Building",
+  "autor": "Shreve, Lamb & Harmon",
+  "fecha": "1930–1931",
+  "fechaOrden": 1931,
+  "tipo": "Arquitectura",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "La masa escalonada y el mástil condensan eficiencia estructural, verticalidad y símbolo metropolitano.",
+  "localizacion": "Empire State Building",
+  "ciudad": "Nueva York",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Empire%20State%20Building%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Acero",
+    "Piedra caliza",
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "Art déco",
+    "Estados Unidos",
+    "Arquitectura",
+    "Acero",
+    "Piedra caliza",
+    "arte universal"
+  ],
+  "proporcion": [
+    846,
+    1270
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Empire_State_Building_%28aerial_view%29.jpg?width=1400",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg",
+    "alt": "Reproducción de Empire State Building, Shreve, Lamb & Harmon",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_(aerial_view).jpg",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Empire State Building · Shreve, Lamb & Harmon · Wikimedia Commons",
+    "foco": "center"
+  }
+}

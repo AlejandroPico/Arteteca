@@ -1,0 +1,44 @@
+{
+  "id": "mascara-tutankamon",
+  "titulo": "Máscara funeraria de Tutankamón",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1323 a. C.",
+  "fechaOrden": -1323,
+  "tipo": "Orfebrería",
+  "periodo": "Dinastía XVIII",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "Oro, vidrio y piedras semipreciosas convierten el retrato idealizado en una imagen de transformación funeraria.",
+  "localizacion": "Museo Egipcio",
+  "ciudad": "El Cairo",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Egipcio%20El%20Cairo",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Oro",
+    "Vidrio",
+    "Piedras semipreciosas"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "Dinastía XVIII",
+    "Egipto",
+    "Orfebrería",
+    "Oro",
+    "Vidrio",
+    "Piedras semipreciosas",
+    "arte universal"
+  ],
+  "proporcion": [
+    1600,
+    2000
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+    "alt": "Reproducción de Máscara funeraria de Tutankamón, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

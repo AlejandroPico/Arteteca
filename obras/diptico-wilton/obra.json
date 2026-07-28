@@ -1,0 +1,42 @@
+{
+  "id": "diptico-wilton",
+  "titulo": "Díptico de Wilton",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1395–1399",
+  "fechaOrden": 1397,
+  "tipo": "Pintura",
+  "periodo": "Gótico internacional",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "El azul ultramar, el oro y la repetición de emblemas convierten la devoción privada en imagen de realeza.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Temple sobre tabla",
+    "Pan de oro"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Gótico internacional",
+    "Reino Unido",
+    "Pintura",
+    "Temple sobre tabla",
+    "Pan de oro",
+    "arte universal"
+  ],
+  "proporcion": [
+    13798,
+    10707
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wilton_Diptych.jpg/1920px-Wilton_Diptych.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wilton_Diptych.jpg/3840px-Wilton_Diptych.jpg",
+    "alt": "Reproducción de Díptico de Wilton, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Wilton_Diptych.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

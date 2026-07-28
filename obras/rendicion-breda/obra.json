@@ -1,0 +1,40 @@
+{
+  "id": "rendicion-breda",
+  "titulo": "La rendición de Breda",
+  "autor": "Diego Velázquez",
+  "fecha": "1634–1635",
+  "fechaOrden": 1635,
+  "tipo": "Pintura",
+  "periodo": "Barroco español",
+  "coleccion": "Barroco",
+  "descripcion": "La entrega de llaves desplaza el énfasis desde la humillación hacia un encuentro entre comandantes.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Barroco español",
+    "España",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    3051,
+    2516
+  ],
+  "color": "#613f36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Velazquez-The_Surrender_of_Breda.jpg/1920px-Velazquez-The_Surrender_of_Breda.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Velazquez-The_Surrender_of_Breda.jpg",
+    "alt": "Reproducción de La rendición de Breda, Diego Velázquez",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Velazquez-The_Surrender_of_Breda.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Diego Velázquez",
+    "foco": "center"
+  }
+}

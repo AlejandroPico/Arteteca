@@ -1,0 +1,42 @@
+{
+  "id": "moai-hoa-hakananai",
+  "titulo": "Hoa Hakananai'a",
+  "autor": "Talleres rapanui",
+  "fecha": "c. 1000–1600",
+  "fechaOrden": 1300,
+  "tipo": "Escultura",
+  "periodo": "Arte rapanui",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "La figura monumental combina forma ancestral y relieves posteriores vinculados al culto del hombre pájaro.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
+  "pais": "Chile",
+  "tecnicas": [
+    "Basalto",
+    "Talla"
+  ],
+  "etiquetas": [
+    "África, Américas y Oceanía",
+    "Arte rapanui",
+    "Chile",
+    "Escultura",
+    "Basalto",
+    "Talla",
+    "arte universal"
+  ],
+  "proporcion": [
+    4912,
+    7360
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Angled_View_of_the_Hoa_Hakananai%27a_Statue.JPG/1920px-Angled_View_of_the_Hoa_Hakananai%27a_Statue.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Angled_View_of_the_Hoa_Hakananai%27a_Statue.JPG/3840px-Angled_View_of_the_Hoa_Hakananai%27a_Statue.JPG",
+    "alt": "Reproducción de Hoa Hakananai'a, Talleres rapanui",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Angled_View_of_the_Hoa_Hakananai%27a_Statue.JPG",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres rapanui",
+    "foco": "center"
+  }
+}

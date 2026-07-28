@@ -1,0 +1,42 @@
+{
+  "id": "busto-nefertiti",
+  "titulo": "Busto de Nefertiti",
+  "autor": "Tutmose (atribución)",
+  "fecha": "c. 1345 a. C.",
+  "fechaOrden": -1345,
+  "tipo": "Escultura",
+  "periodo": "Periodo de Amarna",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "El rostro combina simetría, policromía y una extraordinaria precisión en el modelado.",
+  "localizacion": "Neues Museum",
+  "ciudad": "Berlín",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Neues%20Museum%20Berl%C3%ADn",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Piedra caliza",
+    "Estuco policromado"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "Periodo de Amarna",
+    "Egipto",
+    "Escultura",
+    "Piedra caliza",
+    "Estuco policromado",
+    "arte universal"
+  ],
+  "proporcion": [
+    1282,
+    1877
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nofretete_Neues_Museum.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nofretete_Neues_Museum.jpg",
+    "alt": "Reproducción de Busto de Nefertiti, Tutmose (atribución)",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Nofretete_Neues_Museum.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Tutmose (atribución)",
+    "foco": "center"
+  }
+}

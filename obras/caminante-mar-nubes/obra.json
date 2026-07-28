@@ -1,0 +1,40 @@
+{
+  "id": "caminante-mar-nubes",
+  "titulo": "Caminante sobre el mar de nubes",
+  "autor": "Caspar David Friedrich",
+  "fecha": "c. 1818",
+  "fechaOrden": 1818,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "La figura de espaldas convierte el paisaje montañoso en experiencia interior y medida de lo sublime.",
+  "localizacion": "Hamburger Kunsthalle",
+  "ciudad": "Hamburgo",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Hamburger%20Kunsthalle%20Hamburgo",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Romanticismo, Realismo e Impresionismo",
+    "Romanticismo",
+    "Alemania",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    5256,
+    6742
+  ],
+  "color": "#68584c",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg/1920px-Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/af/Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg",
+    "alt": "Reproducción de Caminante sobre el mar de nubes, Caspar David Friedrich",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Caspar David Friedrich",
+    "foco": "center"
+  }
+}

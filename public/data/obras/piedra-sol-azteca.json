@@ -1,0 +1,86 @@
+{
+  "id": "piedra-sol-azteca",
+  "titulo": "Piedra del Sol",
+  "autor": "Talleres mexicas",
+  "fecha": "c. 1502–1521",
+  "fechaOrden": 1510,
+  "tipo": "Escultura y relieve",
+  "periodo": "Arte mexica",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Anillos de signos calendáricos y figuras cosmológicas organizan una visión compleja del tiempo y el sacrificio.",
+  "localizacion": "Museo Nacional de Antropología",
+  "ciudad": "Ciudad de México",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Antropolog%C3%ADa%20Ciudad%20de%20M%C3%A9xico",
+  "pais": "México",
+  "tecnicas": [
+    "Basalto",
+    "Relieve"
+  ],
+  "etiquetas": [
+    "Arte mexica",
+    "arte universal",
+    "Basalto",
+    "Escultura y relieve",
+    "México",
+    "Relieve",
+    "África, Américas y Oceanía"
+  ],
+  "proporcion": [
+    3648,
+    2736
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Monolito_de_la_Piedra_del_Sol.jpg/1920px-Monolito_de_la_Piedra_del_Sol.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/65/Monolito_de_la_Piedra_del_Sol.jpg",
+    "alt": "Reproducción de Piedra del Sol, Talleres mexicas",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Monolito_de_la_Piedra_del_Sol.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres mexicas",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Monolito_de_la_Piedra_del_Sol.jpg/1920px-Monolito_de_la_Piedra_del_Sol.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/65/Monolito_de_la_Piedra_del_Sol.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "escultura",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nAnillos de signos calendáricos y figuras cosmológicas organizan una visión compleja del tiempo y el sacrificio.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Arte mexica\n\nEstas obras nacieron en sociedades con sistemas propios de autoridad, memoria, espiritualidad y transmisión técnica. Su lectura exige evitar categorías coloniales y atender a su procedencia.\n\n**Fecha:** c. 1502–1521  \n**Ámbito:** México  \n**Conservación o emplazamiento:** Museo Nacional de Antropología, Ciudad de México, México",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Basalto\n- Relieve\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nAdemás de su importancia cultural intrínseca, muchas alteraron profundamente el arte moderno tras entrar —a menudo de forma violenta— en colecciones europeas y americanas.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Aztec_sun_stone)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Monolito_de_la_Piedra_del_Sol.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

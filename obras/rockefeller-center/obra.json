@@ -1,0 +1,43 @@
+{
+  "id": "rockefeller-center",
+  "titulo": "Rockefeller Center",
+  "autor": "Raymond Hood y equipo",
+  "fecha": "1931–1939",
+  "fechaOrden": 1935,
+  "tipo": "Conjunto arquitectónico",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "Torres, plazas, relieves y circulación peatonal articulan una imagen corporativa coherente a escala urbana.",
+  "localizacion": "Rockefeller Center",
+  "ciudad": "Nueva York",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Rockefeller%20Center%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Piedra caliza",
+    "Metal",
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "Art déco",
+    "Estados Unidos",
+    "Conjunto arquitectónico",
+    "Piedra caliza",
+    "Metal",
+    "Arquitectura",
+    "arte universal"
+  ],
+  "proporcion": [
+    3456,
+    5184
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rockefeller_Center_Mar_2022_82.jpg/1920px-Rockefeller_Center_Mar_2022_82.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/42/Rockefeller_Center_Mar_2022_82.jpg",
+    "alt": "Reproducción de Rockefeller Center, Raymond Hood y equipo",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rockefeller_Center_Mar_2022_82.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Raymond Hood y equipo",
+    "foco": "center"
+  }
+}

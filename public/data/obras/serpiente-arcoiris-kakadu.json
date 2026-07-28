@@ -1,0 +1,84 @@
+{
+  "id": "serpiente-arcoiris-kakadu",
+  "titulo": "Pintura rupestre de la Serpiente Arcoíris",
+  "autor": "Artistas aborígenes de Arnhem Land",
+  "fecha": "cronología ancestral, múltiples fases",
+  "fechaOrden": 0,
+  "tipo": "Arte rupestre",
+  "periodo": "Arte aborigen australiano",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "La figura pertenece a tradiciones vivas y a un paisaje cultural en el que imagen, relato y territorio son inseparables.",
+  "localizacion": "Parque Nacional Kakadu",
+  "ciudad": "Territorio del Norte",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Parque%20Nacional%20Kakadu%20Territorio%20del%20Norte",
+  "pais": "Australia",
+  "tecnicas": [
+    "Pigmentos minerales sobre roca"
+  ],
+  "etiquetas": [
+    "Arte aborigen australiano",
+    "Arte rupestre",
+    "arte universal",
+    "Australia",
+    "Pigmentos minerales sobre roca",
+    "África, Américas y Oceanía"
+  ],
+  "proporcion": [
+    500,
+    375
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RainbowSerpent.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RainbowSerpent.jpg",
+    "alt": "Reproducción de Pintura rupestre de la Serpiente Arcoíris, Artistas aborígenes de Arnhem Land",
+    "fuente": "https://commons.wikimedia.org/wiki/File:RainbowSerpent.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Artistas aborígenes de Arnhem Land",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RainbowSerpent.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RainbowSerpent.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa figura pertenece a tradiciones vivas y a un paisaje cultural en el que imagen, relato y territorio son inseparables.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Arte aborigen australiano\n\nEstas obras nacieron en sociedades con sistemas propios de autoridad, memoria, espiritualidad y transmisión técnica. Su lectura exige evitar categorías coloniales y atender a su procedencia.\n\n**Fecha:** cronología ancestral, múltiples fases  \n**Ámbito:** Australia  \n**Conservación o emplazamiento:** Parque Nacional Kakadu, Territorio del Norte, Australia",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Pigmentos minerales sobre roca\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nAdemás de su importancia cultural intrínseca, muchas alteraron profundamente el arte moderno tras entrar —a menudo de forma violenta— en colecciones europeas y americanas.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Rainbow_Serpent)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:RainbowSerpent.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

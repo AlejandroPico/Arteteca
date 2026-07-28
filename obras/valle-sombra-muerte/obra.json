@@ -1,0 +1,42 @@
+{
+  "id": "valle-sombra-muerte",
+  "titulo": "El valle de la sombra de la muerte",
+  "autor": "Roger Fenton",
+  "fecha": "1855",
+  "fechaOrden": 1855,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de guerra",
+  "coleccion": "Fotografía",
+  "descripcion": "El camino sembrado de balas de cañón representa la guerra mediante huellas y ausencia de cuerpos.",
+  "localizacion": "Varias colecciones",
+  "ciudad": "",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Varias%20colecciones",
+  "pais": "Ucrania",
+  "reconocimiento": "Icono temprano de la fotografía de guerra",
+  "tecnicas": [
+    "Negativo de colodión húmedo",
+    "Papel salado"
+  ],
+  "etiquetas": [
+    "Fotografía",
+    "Fotografía de guerra",
+    "Ucrania",
+    "Negativo de colodión húmedo",
+    "Papel salado",
+    "arte universal"
+  ],
+  "proporcion": [
+    5635,
+    4317
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Valley_of_the_shadow_of_death.jpg/1920px-Valley_of_the_shadow_of_death.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Valley_of_the_shadow_of_death.jpg",
+    "alt": "Reproducción de El valle de la sombra de la muerte, Roger Fenton",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Valley_of_the_shadow_of_death.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Roger Fenton",
+    "foco": "center"
+  }
+}

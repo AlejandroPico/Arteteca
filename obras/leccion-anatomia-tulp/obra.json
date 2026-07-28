@@ -1,0 +1,40 @@
+{
+  "id": "leccion-anatomia-tulp",
+  "titulo": "La lección de anatomía del doctor Tulp",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "1632",
+  "fechaOrden": 1632,
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "El grupo se cohesiona mediante miradas y manos alrededor de una demostración pública de conocimiento.",
+  "localizacion": "Mauritshuis",
+  "ciudad": "La Haya",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mauritshuis%20La%20Haya",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Barroco neerlandés",
+    "Países Bajos",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    6000,
+    4520
+  ],
+  "color": "#613f36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg/1920px-Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+    "alt": "Reproducción de La lección de anatomía del doctor Tulp, Rembrandt van Rijn",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Rembrandt van Rijn",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "apolo-dafne",
+  "titulo": "Apolo y Dafne",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "1622–1625",
+  "fechaOrden": 1624,
+  "tipo": "Escultura",
+  "periodo": "Barroco italiano",
+  "coleccion": "Barroco",
+  "descripcion": "La metamorfosis ocurre ante el espectador: dedos, cabello y piel parecen convertirse en ramas y corteza.",
+  "localizacion": "Galleria Borghese",
+  "ciudad": "Roma",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galleria%20Borghese%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mármol",
+    "Talla"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Barroco italiano",
+    "Italia",
+    "Escultura",
+    "Mármol",
+    "Talla",
+    "arte universal"
+  ],
+  "proporcion": [
+    4640,
+    7800
+  ],
+  "color": "#613f36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg/1920px-Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg/3840px-Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg",
+    "alt": "Reproducción de Apolo y Dafne, Gian Lorenzo Bernini",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Gian Lorenzo Bernini",
+    "foco": "center"
+  }
+}

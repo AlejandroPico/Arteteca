@@ -1,0 +1,88 @@
+{
+  "id": "serpiente-bicefala-mexica",
+  "titulo": "Serpiente bicéfala de turquesa",
+  "autor": "Artistas mexicas",
+  "fecha": "c. 1400–1521",
+  "fechaOrden": 1500,
+  "tipo": "Escultura y mosaico",
+  "periodo": "Arte mexica",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Dos cabezas de serpiente se unen en un cuerpo ondulante cubierto por teselas de turquesa, con detalles de concha que intensifican ojos y bocas.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
+  "pais": "México",
+  "tecnicas": [
+    "Madera",
+    "Mosaico de turquesa",
+    "Concha"
+  ],
+  "etiquetas": [
+    "Arte mexica",
+    "arte universal",
+    "Concha",
+    "Escultura y mosaico",
+    "Madera",
+    "Mosaico de turquesa",
+    "México",
+    "África, Américas y Oceanía"
+  ],
+  "proporcion": [
+    3295,
+    1639
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Double%20headed%20turquoise%20serpentAztecbritish%20museum.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Double%20headed%20turquoise%20serpentAztecbritish%20museum.jpg",
+    "alt": "Reproducción de Serpiente bicéfala de turquesa",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Double%20headed%20turquoise%20serpentAztecbritish%20museum.jpg",
+    "licencia": "CC BY-SA 4.0 / GFDL",
+    "credito": "Fotografía: Geni · British Museum · Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Double%20headed%20turquoise%20serpentAztecbritish%20museum.jpg?width=1400",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Double%20headed%20turquoise%20serpentAztecbritish%20museum.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nDos cabezas de serpiente se unen en un cuerpo ondulante cubierto por teselas de turquesa, con detalles de concha que intensifican ojos y bocas.\n\nLa proporción de la ficha respeta la reproducción para que forma, escala y ritmo no queden forzados por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Arte mexica\n\nLa pieza pertenece al mundo mexica del Posclásico tardío. La turquesa, asociada al poder y a lo precioso, recubre una estructura de madera mediante un trabajo de mosaico extremadamente preciso.\n\n**Fecha:** c. 1400–1521  \n**Ámbito:** México  \n**Conservación o emplazamiento:** British Museum, Londres",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Madera\n- Mosaico de turquesa\n- Concha\n\nLos materiales son parte activa de la lectura: condicionan la superficie, la escala, el modo de ejecución y también la conservación de la obra.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEs una de las obras mesoamericanas más reconocibles conservadas fuera de México y una referencia para estudiar materialidad, intercambio y simbolismo.\n\nSu inclusión en Arteteca funciona como punto de partida para conectar culturas, técnicas y periodos del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Double-headed_serpent)\n- [Archivo, autoría fotográfica y licencia](https://commons.wikimedia.org/wiki/File:Double%20headed%20turquoise%20serpentAztecbritish%20museum.jpg)\n\nLa licencia y el historial de la reproducción deben comprobarse en la ficha de Wikimedia Commons antes de reutilizarla fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "mecanico-central-electrica",
+  "titulo": "Mecánico trabajando en una central eléctrica",
+  "autor": "Lewis Hine",
+  "fecha": "1920",
+  "fechaOrden": 1920,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía social",
+  "coleccion": "Fotografía",
+  "descripcion": "El cuerpo del trabajador y la curva de la máquina se alinean sin ocultar el esfuerzo industrial.",
+  "localizacion": "Varias colecciones",
+  "ciudad": "",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Varias%20colecciones",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Icono de la representación del trabajo industrial",
+  "tecnicas": [
+    "Gelatina de plata"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Estados Unidos",
+    "Fotografía",
+    "Fotografía social",
+    "Gelatina de plata"
+  ],
+  "proporcion": [
+    2155,
+    3000
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis%20Hine%20Power%20house%20mechanic%20working%20on%20steam%20pump.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis%20Hine%20Power%20house%20mechanic%20working%20on%20steam%20pump.jpg",
+    "alt": "Reproducción de Mecánico trabajando en una central eléctrica, Lewis Hine",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lewis%20Hine%20Power%20house%20mechanic%20working%20on%20steam%20pump.jpg",
+    "licencia": "Dominio público en Estados Unidos",
+    "credito": "Lewis Hine · National Archives and Records Administration · Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis%20Hine%20Power%20house%20mechanic%20working%20on%20steam%20pump.jpg?width=1400",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis%20Hine%20Power%20house%20mechanic%20working%20on%20steam%20pump.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "camara",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nEl cuerpo del trabajador y la curva de la máquina se alinean sin ocultar el esfuerzo industrial.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Fotografía social\n\nDesde los primeros experimentos hasta la imagen espacial, la fotografía combinó investigación técnica, testimonio, composición y circulación masiva.\n\n**Fecha:** 1920  \n**Ámbito:** Estados Unidos  \n**Conservación o emplazamiento:** Varias colecciones, Estados Unidos",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Gelatina de plata\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEstas imágenes ayudaron a definir el fotoperiodismo, la documentación social, la representación científica y la memoria visual compartida del mundo contemporáneo.\n\nLa obra o la serie está asociada a **Icono de la representación del trabajo industrial**, un dato que se conserva en el catálogo para facilitar búsquedas e inventarios.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Lewis_Hine)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Lewis%20Hine%20Power%20house%20mechanic%20working%20on%20steam%20pump.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

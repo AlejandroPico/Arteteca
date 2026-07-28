@@ -1,0 +1,40 @@
+{
+  "id": "bandera-iwo-jima",
+  "titulo": "Alzando la bandera en Iwo Jima",
+  "autor": "Joe Rosenthal",
+  "fecha": "1945",
+  "fechaOrden": 1945,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "descripcion": "La diagonal del asta y el esfuerzo colectivo produjeron una imagen inmediatamente reproducible y monumental.",
+  "localizacion": "The Associated Press",
+  "ciudad": "Nueva York",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Associated%20Press%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Premio Pulitzer de Fotografía 1945",
+  "tecnicas": [
+    "Fotografía en blanco y negro"
+  ],
+  "etiquetas": [
+    "Fotografía",
+    "Fotoperiodismo",
+    "Estados Unidos",
+    "Fotografía en blanco y negro",
+    "arte universal"
+  ],
+  "proporcion": [
+    2959,
+    2241
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg/1920px-Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg",
+    "alt": "Reproducción de Alzando la bandera en Iwo Jima, Joe Rosenthal",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Joe Rosenthal",
+    "foco": "center"
+  }
+}

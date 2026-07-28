@@ -1,0 +1,42 @@
+{
+  "id": "chrysler-building",
+  "titulo": "Chrysler Building",
+  "autor": "William Van Alen",
+  "fecha": "1928–1930",
+  "fechaOrden": 1930,
+  "tipo": "Arquitectura",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "La corona escalonada de acero inoxidable transforma motivos industriales en silueta urbana.",
+  "localizacion": "Chrysler Building",
+  "ciudad": "Nueva York",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Chrysler%20Building%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Acero",
+    "Ladrillo",
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "Art déco",
+    "Estados Unidos",
+    "Arquitectura",
+    "Acero",
+    "Ladrillo",
+    "arte universal"
+  ],
+  "proporcion": [
+    2672,
+    4000
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chrysler%20Building%201%20(4684845155).jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chrysler%20Building%201%20(4684845155).jpg",
+    "alt": "Reproducción de Chrysler Building, William Van Alen",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Chrysler%20Building%201%20(4684845155).jpg",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Chrysler Building · William Van Alen · Wikimedia Commons",
+    "foco": "center"
+  }
+}

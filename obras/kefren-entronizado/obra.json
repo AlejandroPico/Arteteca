@@ -1,0 +1,42 @@
+{
+  "id": "kefren-entronizado",
+  "titulo": "Kefrén entronizado",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 2570 a. C.",
+  "fechaOrden": -2570,
+  "tipo": "Escultura",
+  "periodo": "Dinastía IV",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "El faraón aparece protegido por Horus dentro de una forma compacta concebida para durar.",
+  "localizacion": "Museo Egipcio",
+  "ciudad": "El Cairo",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Egipcio%20El%20Cairo",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Diorita",
+    "Talla"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "Dinastía IV",
+    "Egipto",
+    "Escultura",
+    "Diorita",
+    "Talla",
+    "arte universal"
+  ],
+  "proporcion": [
+    2626,
+    3499
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kairo_Museum_Sitzstatue_Chephren_06.jpg/1920px-Kairo_Museum_Sitzstatue_Chephren_06.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kairo_Museum_Sitzstatue_Chephren_06.jpg",
+    "alt": "Reproducción de Kefrén entronizado, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Kairo_Museum_Sitzstatue_Chephren_06.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

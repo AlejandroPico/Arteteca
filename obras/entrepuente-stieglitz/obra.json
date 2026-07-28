@@ -1,0 +1,40 @@
+{
+  "id": "entrepuente-stieglitz",
+  "titulo": "El entrepuente",
+  "autor": "Alfred Stieglitz",
+  "fecha": "1907",
+  "fechaOrden": 1907,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía moderna",
+  "coleccion": "Fotografía",
+  "descripcion": "Pasarelas, sombreros y clases sociales forman una composición geométrica observada durante una travesía atlántica.",
+  "localizacion": "Varias colecciones",
+  "ciudad": "",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Varias%20colecciones",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Obra canónica de la fotografía moderna",
+  "tecnicas": [
+    "Fotograbado"
+  ],
+  "etiquetas": [
+    "Fotografía",
+    "Fotografía moderna",
+    "Estados Unidos",
+    "Fotograbado",
+    "arte universal"
+  ],
+  "proporcion": [
+    4150,
+    5203
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Alfred_Stieglitz_-_The_Steerage_-_Google_Art_Project.jpg/1920px-Alfred_Stieglitz_-_The_Steerage_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Alfred_Stieglitz_-_The_Steerage_-_Google_Art_Project.jpg",
+    "alt": "Reproducción de El entrepuente, Alfred Stieglitz",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Alfred_Stieglitz_-_The_Steerage_-_Google_Art_Project.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Alfred Stieglitz",
+    "foco": "center"
+  }
+}

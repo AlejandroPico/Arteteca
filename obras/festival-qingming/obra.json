@@ -1,0 +1,40 @@
+{
+  "id": "festival-qingming",
+  "titulo": "A lo largo del río durante el festival Qingming",
+  "autor": "Zhang Zeduan (atribución)",
+  "fecha": "siglo XII",
+  "fechaOrden": 1120,
+  "tipo": "Rollo pintado",
+  "periodo": "Dinastía Song",
+  "coleccion": "Asia",
+  "descripcion": "La mirada recorre campo, puente y ciudad mediante centenares de acciones cotidianas conectadas.",
+  "localizacion": "Museo del Palacio",
+  "ciudad": "Pekín",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Palacio%20Pek%C3%ADn",
+  "pais": "China",
+  "tecnicas": [
+    "Tinta y color sobre seda"
+  ],
+  "etiquetas": [
+    "Asia",
+    "Dinastía Song",
+    "China",
+    "Rollo pintado",
+    "Tinta y color sobre seda",
+    "arte universal"
+  ],
+  "proporcion": [
+    2466,
+    1766
+  ],
+  "color": "#9a4b3d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bianjing_city_gate.JPG/1920px-Bianjing_city_gate.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bianjing_city_gate.JPG",
+    "alt": "Reproducción de A lo largo del río durante el festival Qingming, Zhang Zeduan (atribución)",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bianjing_city_gate.JPG",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Zhang Zeduan (atribución)",
+    "foco": "center"
+  }
+}

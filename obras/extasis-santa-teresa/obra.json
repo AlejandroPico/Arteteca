@@ -1,0 +1,44 @@
+{
+  "id": "extasis-santa-teresa",
+  "titulo": "Éxtasis de santa Teresa",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "1647–1652",
+  "fechaOrden": 1650,
+  "tipo": "Escultura e instalación",
+  "periodo": "Barroco italiano",
+  "coleccion": "Barroco",
+  "descripcion": "Escultura, luz oculta y arquitectura escenifican una experiencia mística como acontecimiento total.",
+  "localizacion": "Santa Maria della Vittoria",
+  "ciudad": "Roma",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Santa%20Maria%20della%20Vittoria%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mármol",
+    "Bronce dorado",
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Barroco italiano",
+    "Italia",
+    "Escultura e instalación",
+    "Mármol",
+    "Bronce dorado",
+    "Arquitectura",
+    "arte universal"
+  ],
+  "proporcion": [
+    2433,
+    3967
+  ],
+  "color": "#613f36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ecstasy_of_St._Teresa_HDR.jpg/1920px-Ecstasy_of_St._Teresa_HDR.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ecstasy_of_St._Teresa_HDR.jpg",
+    "alt": "Reproducción de Éxtasis de santa Teresa, Gian Lorenzo Bernini",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ecstasy_of_St._Teresa_HDR.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Gian Lorenzo Bernini",
+    "foco": "center"
+  }
+}

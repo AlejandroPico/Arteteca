@@ -1,0 +1,40 @@
+{
+  "id": "ad-parnassum-klee",
+  "titulo": "Ad Parnassum",
+  "autor": "Paul Klee",
+  "fecha": "1932",
+  "fechaOrden": 1932,
+  "tipo": "Pintura",
+  "periodo": "Arte moderno",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Una trama de pequeños campos cromáticos construye una montaña abstracta coronada por un sol, a medio camino entre paisaje, música y arquitectura.",
+  "localizacion": "Zentrum Paul Klee",
+  "ciudad": "Berna",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Zentrum%20Paul%20Klee%20Berna",
+  "pais": "Suiza",
+  "tecnicas": [
+    "Óleo y caseína sobre lienzo"
+  ],
+  "etiquetas": [
+    "Surrealismo y primeras vanguardias",
+    "Arte moderno",
+    "Suiza",
+    "Pintura",
+    "Óleo y caseína sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    3368,
+    2653
+  ],
+  "color": "#66558b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ad_Parnassum_%28originaler%2C_gefasster_Holzrahmen%29%2C_Paul_Klee_%281932%29.jpg?width=1400",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ad_Parnassum_%28originaler%2C_gefasster_Holzrahmen%29%2C_Paul_Klee_%281932%29.jpg",
+    "alt": "Reproducción de Ad Parnassum, Paul Klee",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ad_Parnassum_(originaler,_gefasster_Holzrahmen),_Paul_Klee_(1932).jpg",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Paul Klee · Zentrum Paul Klee · Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "vidriera-virgen-azul",
+  "titulo": "Virgen Azul de Chartres",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1150–1220",
+  "fechaOrden": 1185,
+  "tipo": "Vidriera",
+  "periodo": "Gótico",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "El azul intenso y la luz transmitida hacen inseparables arquitectura, color e imagen sagrada.",
+  "localizacion": "Catedral de Chartres",
+  "ciudad": "Chartres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Chartres%20Chartres",
+  "pais": "Francia",
+  "tecnicas": [
+    "Vidrio coloreado",
+    "Emplomado"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Gótico",
+    "Francia",
+    "Vidriera",
+    "Vidrio coloreado",
+    "Emplomado",
+    "arte universal"
+  ],
+  "proporcion": [
+    2848,
+    4288
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Blue%20Virgin%20of%20Chartres.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Blue%20Virgin%20of%20Chartres.jpg",
+    "alt": "Reproducción de Virgen Azul de Chartres, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Blue%20Virgin%20of%20Chartres.jpg",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Notre-Dame de la Belle Verrière · Catedral de Chartres · Wikimedia Commons",
+    "foco": "center"
+  }
+}

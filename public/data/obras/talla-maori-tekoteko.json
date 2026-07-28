@@ -1,0 +1,86 @@
+{
+  "id": "talla-maori-tekoteko",
+  "titulo": "Tekoteko maorí",
+  "autor": "Autoría desconocida",
+  "fecha": "siglo XIX",
+  "fechaOrden": 1850,
+  "tipo": "Escultura arquitectónica",
+  "periodo": "Arte maorí",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "La figura tallada corona una casa de reunión y materializa genealogía, protección y presencia ancestral.",
+  "localizacion": "Museum of New Zealand Te Papa Tongarewa",
+  "ciudad": "Wellington",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20New%20Zealand%20Te%20Papa%20Tongarewa%20Wellington",
+  "pais": "Nueva Zelanda",
+  "tecnicas": [
+    "Madera tallada",
+    "Pigmento"
+  ],
+  "etiquetas": [
+    "Arte maorí",
+    "arte universal",
+    "Escultura arquitectónica",
+    "Madera tallada",
+    "Nueva Zelanda",
+    "Pigmento",
+    "África, Américas y Oceanía"
+  ],
+  "proporcion": [
+    1936,
+    2612
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wakarewarewa_maori_village_3.JPG/1920px-Wakarewarewa_maori_village_3.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/09/Wakarewarewa_maori_village_3.JPG",
+    "alt": "Reproducción de Tekoteko maorí, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Wakarewarewa_maori_village_3.JPG",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wakarewarewa_maori_village_3.JPG/1920px-Wakarewarewa_maori_village_3.JPG",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/09/Wakarewarewa_maori_village_3.JPG"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "edificio",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa figura tallada corona una casa de reunión y materializa genealogía, protección y presencia ancestral.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Arte maorí\n\nEstas obras nacieron en sociedades con sistemas propios de autoridad, memoria, espiritualidad y transmisión técnica. Su lectura exige evitar categorías coloniales y atender a su procedencia.\n\n**Fecha:** siglo XIX  \n**Ámbito:** Nueva Zelanda  \n**Conservación o emplazamiento:** Museum of New Zealand Te Papa Tongarewa, Wellington, Nueva Zelanda",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Madera tallada\n- Pigmento\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nAdemás de su importancia cultural intrínseca, muchas alteraron profundamente el arte moderno tras entrar —a menudo de forma violenta— en colecciones europeas y americanas.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Tekoteko)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Wakarewarewa_maori_village_3.JPG)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

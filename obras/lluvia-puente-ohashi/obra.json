@@ -1,0 +1,40 @@
+{
+  "id": "lluvia-puente-ohashi",
+  "titulo": "Lluvia repentina sobre el puente Ōhashi",
+  "autor": "Utagawa Hiroshige",
+  "fecha": "1857",
+  "fechaOrden": 1857,
+  "tipo": "Grabado",
+  "periodo": "Ukiyo-e",
+  "coleccion": "Asia",
+  "descripcion": "Diagonales de lluvia y figuras apresuradas convierten un fenómeno meteorológico en estructura gráfica.",
+  "localizacion": "Varias colecciones",
+  "ciudad": "",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Varias%20colecciones",
+  "pais": "Japón",
+  "tecnicas": [
+    "Xilografía policroma"
+  ],
+  "etiquetas": [
+    "Asia",
+    "Ukiyo-e",
+    "Japón",
+    "Grabado",
+    "Xilografía policroma",
+    "arte universal"
+  ],
+  "proporcion": [
+    6300,
+    9200
+  ],
+  "color": "#9a4b3d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Utagawa_Hiroshige_-_Evening_Shower_at_Atake_and_the_Great_Bridge.jpg/1920px-Utagawa_Hiroshige_-_Evening_Shower_at_Atake_and_the_Great_Bridge.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Utagawa_Hiroshige_-_Evening_Shower_at_Atake_and_the_Great_Bridge.jpg/3840px-Utagawa_Hiroshige_-_Evening_Shower_at_Atake_and_the_Great_Bridge.jpg",
+    "alt": "Reproducción de Lluvia repentina sobre el puente Ōhashi, Utagawa Hiroshige",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Utagawa_Hiroshige_-_Evening_Shower_at_Atake_and_the_Great_Bridge.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Utagawa Hiroshige",
+    "foco": "center"
+  }
+}

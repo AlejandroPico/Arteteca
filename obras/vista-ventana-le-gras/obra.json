@@ -1,0 +1,40 @@
+{
+  "id": "vista-ventana-le-gras",
+  "titulo": "Vista desde la ventana en Le Gras",
+  "autor": "Nicéphore Niépce",
+  "fecha": "c. 1826–1827",
+  "fechaOrden": 1827,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía pionera",
+  "coleccion": "Fotografía",
+  "descripcion": "Horas de exposición fijaron tejados y luz cambiante en la fotografía de cámara conservada más antigua.",
+  "localizacion": "Harry Ransom Center",
+  "ciudad": "Austin",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Harry%20Ransom%20Center%20Austin",
+  "pais": "Francia",
+  "reconocimiento": "Hito fundacional de la fotografía",
+  "tecnicas": [
+    "Heliografía sobre peltre"
+  ],
+  "etiquetas": [
+    "Fotografía",
+    "Fotografía pionera",
+    "Francia",
+    "Heliografía sobre peltre",
+    "arte universal"
+  ],
+  "proporcion": [
+    4530,
+    3810
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Untitled_%28point_de_vue%29%2C_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_%28cropped%29.jpg/1920px-Untitled_%28point_de_vue%29%2C_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_%28cropped%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/43/Untitled_%28point_de_vue%29%2C_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_%28cropped%29.jpg",
+    "alt": "Reproducción de Vista desde la ventana en Le Gras, Nicéphore Niépce",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Untitled_%28point_de_vue%29%2C_Ni%C3%A9pce_1827_%E2%80%94_HRC_2020_%28cropped%29.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Nicéphore Niépce",
+    "foco": "center"
+  }
+}

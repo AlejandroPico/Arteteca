@@ -92,6 +92,17 @@ npm run build     # genera dist/ para producción
 npm run preview   # sirve localmente la compilación
 ```
 
+## Inventario interno
+
+Mantén pulsada la tecla `Alt` mientras haces clic en **Acerca de**. Arteteca abrirá su panel técnico oculto en lugar de la presentación pública. El inventario permite:
+
+- buscar y revisar todas las obras;
+- medir cobertura por colección editorial, tipo, periodo y país o cultura;
+- detectar fichas sin fuente, licencia, pestañas, localización o alta resolución;
+- descargar el catálogo completo como TXT, CSV o una hoja compatible con Excel.
+
+La interacción reproduce el patrón de herramientas internas del proyecto Fórmulas sin añadir ruido visual a la navegación normal.
+
 ## GitHub Pages
 
 El flujo `Construir y publicar Arteteca` se ejecuta con cada cambio en `main`. Usa las versiones actuales de las acciones oficiales y Node.js 24. En **Settings → Pages**, la fuente debe estar configurada como **GitHub Actions**.

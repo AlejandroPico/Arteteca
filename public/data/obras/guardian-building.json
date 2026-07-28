@@ -1,0 +1,89 @@
+{
+  "id": "guardian-building",
+  "titulo": "Guardian Building",
+  "autor": "Wirt C. Rowland",
+  "fecha": "1928–1929",
+  "fechaOrden": 1929,
+  "tipo": "Arquitectura",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "Cerámica, mosaico y geometría coloreada convierten el rascacielos de oficinas en una catedral financiera.",
+  "localizacion": "Guardian Building",
+  "ciudad": "Detroit",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Guardian%20Building%20Detroit",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Ladrillo",
+    "Cerámica",
+    "Mosaico",
+    "Metal"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Art déco",
+    "arte universal",
+    "Cerámica",
+    "Estados Unidos",
+    "Ladrillo",
+    "Metal",
+    "Mosaico"
+  ],
+  "proporcion": [
+    2947,
+    5869
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Guardian_Building_2025.jpg/1920px-Guardian_Building_2025.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/84/Guardian_Building_2025.jpg",
+    "alt": "Reproducción de Guardian Building, Wirt C. Rowland",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Guardian_Building_2025.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Wirt C. Rowland",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Guardian_Building_2025.jpg/1920px-Guardian_Building_2025.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/84/Guardian_Building_2025.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "edificio",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nCerámica, mosaico y geometría coloreada convierten el rascacielos de oficinas en una catedral financiera.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Art déco\n\nEl Art déco reunió arquitectura, artes decorativas, tipografía, industria y espectáculo mediante geometrías nítidas, materiales modernos y una imagen optimista de la metrópolis.\n\n**Fecha:** 1928–1929  \n**Ámbito:** Estados Unidos  \n**Conservación o emplazamiento:** Guardian Building, Detroit, Estados Unidos",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Ladrillo\n- Cerámica\n- Mosaico\n- Metal\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu síntesis de lujo, producción industrial y diseño total continúa definiendo la imagen de los años veinte y treinta y muchas recuperaciones posteriores.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Guardian_Building)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Guardian_Building_2025.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

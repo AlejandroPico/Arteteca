@@ -16,6 +16,7 @@
   import AboutModal from './components/AboutModal.svelte';
   import ArtworkCard from './components/ArtworkCard.svelte';
   import ArtworkModal from './components/ArtworkModal.svelte';
+  import InventoryModal from './components/InventoryModal.svelte';
   import { loadCatalog, normalizeForSearch, shuffle } from './lib/catalog';
   import type { Catalogo, ObraResumen, OrdenCatalogo, Tema } from './lib/types';
 
@@ -34,6 +35,7 @@
   let orderOpen = false;
   let searchOpen = false;
   let aboutOpen = false;
+  let inventoryOpen = false;
   let mobileMenuOpen = false;
   let theme: Tema = 'auto';
   let sentinel: HTMLElement;
@@ -324,8 +326,12 @@
       class="header-action"
       type="button"
       title="Acerca de Arteteca"
-      onclick={() => {
-        aboutOpen = true;
+      onclick={(event) => {
+        if (event.altKey) {
+          inventoryOpen = true;
+        } else {
+          aboutOpen = true;
+        }
         mobileMenuOpen = false;
         closeHeaderPanels();
       }}
@@ -424,4 +430,8 @@
 
 {#if aboutOpen}
   <AboutModal cerrar={() => (aboutOpen = false)} />
+{/if}
+
+{#if inventoryOpen && catalog}
+  <InventoryModal {catalog} cerrar={() => (inventoryOpen = false)} />
 {/if}

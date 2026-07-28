@@ -1,0 +1,40 @@
+{
+  "id": "impresion-sol-naciente",
+  "titulo": "Impresión, sol naciente",
+  "autor": "Claude Monet",
+  "fecha": "1872",
+  "fechaOrden": 1872,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Puerto, niebla y reflejos se resuelven con pinceladas breves alrededor de un sol naranja casi plano.",
+  "localizacion": "Musée Marmottan Monet",
+  "ciudad": "París",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Marmottan%20Monet%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Romanticismo, Realismo e Impresionismo",
+    "Impresionismo",
+    "Francia",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    5773,
+    4478
+  ],
+  "color": "#68584c",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/1920px-Monet_-_Impression%2C_Sunrise.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/59/Monet_-_Impression%2C_Sunrise.jpg",
+    "alt": "Reproducción de Impresión, sol naciente, Claude Monet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Monet_-_Impression%2C_Sunrise.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Claude Monet",
+    "foco": "center"
+  }
+}

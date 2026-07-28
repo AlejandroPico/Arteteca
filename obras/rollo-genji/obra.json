@@ -1,0 +1,40 @@
+{
+  "id": "rollo-genji",
+  "titulo": "Rollo ilustrado de La historia de Genji",
+  "autor": "Talleres de la corte Heian",
+  "fecha": "siglo XII",
+  "fechaOrden": 1150,
+  "tipo": "Manuscrito iluminado",
+  "periodo": "Periodo Heian",
+  "coleccion": "Asia",
+  "descripcion": "Arquitecturas vistas desde arriba y figuras contenidas narran emociones cortesanas a través de gestos mínimos.",
+  "localizacion": "Museo Gotoh",
+  "ciudad": "Tokio",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Gotoh%20Tokio",
+  "pais": "Japón",
+  "tecnicas": [
+    "Tinta y pigmento sobre papel"
+  ],
+  "etiquetas": [
+    "Asia",
+    "Periodo Heian",
+    "Japón",
+    "Manuscrito iluminado",
+    "Tinta y pigmento sobre papel",
+    "arte universal"
+  ],
+  "proporcion": [
+    4578,
+    2501
+  ],
+  "color": "#9a4b3d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Genji_emaki_azumaya.jpg/1920px-Genji_emaki_azumaya.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Genji_emaki_azumaya.jpg",
+    "alt": "Reproducción de Rollo ilustrado de La historia de Genji, Talleres de la corte Heian",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Genji_emaki_azumaya.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres de la corte Heian",
+    "foco": "center"
+  }
+}

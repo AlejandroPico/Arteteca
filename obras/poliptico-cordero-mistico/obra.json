@@ -1,0 +1,40 @@
+{
+  "id": "poliptico-cordero-mistico",
+  "titulo": "Políptico del Cordero Místico",
+  "autor": "Hubert y Jan van Eyck",
+  "fecha": "1432",
+  "fechaOrden": 1432,
+  "tipo": "Pintura",
+  "periodo": "Primitivos flamencos",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Escala monumental y detalle microscópico articulan una compleja visión de redención.",
+  "localizacion": "Catedral de San Bavón",
+  "ciudad": "Gante",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20San%20Bav%C3%B3n%20Gante",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "Óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Primitivos flamencos",
+    "Bélgica",
+    "Pintura",
+    "Óleo sobre tabla",
+    "arte universal"
+  ],
+  "proporcion": [
+    9412,
+    6938
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ghent_Altarpiece_Google_Art_Project.jpg/1920px-Ghent_Altarpiece_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ghent_Altarpiece_Google_Art_Project.jpg/3840px-Ghent_Altarpiece_Google_Art_Project.jpg",
+    "alt": "Reproducción de Políptico del Cordero Místico, Hubert y Jan van Eyck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ghent_Altarpiece_Google_Art_Project.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Hubert y Jan van Eyck",
+    "foco": "center"
+  }
+}

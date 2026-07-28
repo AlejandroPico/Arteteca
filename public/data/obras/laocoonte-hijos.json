@@ -1,0 +1,86 @@
+{
+  "id": "laocoonte-hijos",
+  "titulo": "Laocoonte y sus hijos",
+  "autor": "Agesandro, Atenodoro y Polidoro de Rodas (atribución)",
+  "fecha": "siglo I a. C.",
+  "fechaOrden": -40,
+  "tipo": "Escultura",
+  "periodo": "Helenismo tardío",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "La torsión de los cuerpos y las serpientes construye una espiral de resistencia, dolor y destino.",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%20Ciudad%20del%20Vaticano",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mármol",
+    "Talla"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Escultura",
+    "Grecia y Roma",
+    "Helenismo tardío",
+    "Italia",
+    "Mármol",
+    "Talla"
+  ],
+  "proporcion": [
+    8744,
+    9502
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/1920px-Laoco%C3%B6n_and_his_sons_group.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/3840px-Laoco%C3%B6n_and_his_sons_group.jpg",
+    "alt": "Reproducción de Laocoonte y sus hijos, Agesandro, Atenodoro y Polidoro de Rodas (atribución)",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Laoco%C3%B6n_and_his_sons_group.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Agesandro, Atenodoro y Polidoro de Rodas (atribución)",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/1920px-Laoco%C3%B6n_and_his_sons_group.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg/3840px-Laoco%C3%B6n_and_his_sons_group.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "escultura",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa torsión de los cuerpos y las serpientes construye una espiral de resistencia, dolor y destino.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Helenismo tardío\n\nLos talleres griegos y romanos exploraron el cuerpo, el movimiento, el retrato y la narración monumental. Muchas obras griegas se conocen mediante copias romanas y reinterpretaciones posteriores.\n\n**Fecha:** siglo I a. C.  \n**Ámbito:** Italia  \n**Conservación o emplazamiento:** Museos Vaticanos, Ciudad del Vaticano, Italia",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Mármol\n- Talla\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEstas piezas establecieron modelos duraderos para la escultura, la arquitectura y la representación del poder en Europa y el Mediterráneo.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Laoco%C3%B6n_and_His_Sons)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Laoco%C3%B6n_and_his_sons_group.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

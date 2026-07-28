@@ -1,0 +1,40 @@
+{
+  "id": "colosos-abu-simbel",
+  "titulo": "Colosos de Abu Simbel",
+  "autor": "Talleres de Ramsés II",
+  "fecha": "c. 1264 a. C.",
+  "fechaOrden": -1264,
+  "tipo": "Escultura monumental",
+  "periodo": "Dinastía XIX",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "Las figuras excavadas en la montaña convierten la fachada del templo en una afirmación territorial de poder.",
+  "localizacion": "Templos de Abu Simbel",
+  "ciudad": "Abu Simbel",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Templos%20de%20Abu%20Simbel%20Abu%20Simbel",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Arenisca tallada"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "Dinastía XIX",
+    "Egipto",
+    "Escultura monumental",
+    "Arenisca tallada",
+    "arte universal"
+  ],
+  "proporcion": [
+    2268,
+    1701
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg/1920px-Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg",
+    "alt": "Reproducción de Colosos de Abu Simbel, Talleres de Ramsés II",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres de Ramsés II",
+    "foco": "center"
+  }
+}

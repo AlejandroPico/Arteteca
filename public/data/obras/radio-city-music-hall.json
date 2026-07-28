@@ -1,0 +1,89 @@
+{
+  "id": "radio-city-music-hall",
+  "titulo": "Radio City Music Hall",
+  "autor": "Edward Durell Stone y Donald Deskey",
+  "fecha": "1932",
+  "fechaOrden": 1932,
+  "tipo": "Arquitectura e interiorismo",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "Vestíbulos, iluminación y auditorio integran arquitectura, gráfica y espectáculo en un diseño total.",
+  "localizacion": "Radio City Music Hall",
+  "ciudad": "Nueva York",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Radio%20City%20Music%20Hall%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Arquitectura",
+    "Interiorismo",
+    "Metal",
+    "Textil"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arquitectura e interiorismo",
+    "Art déco",
+    "arte universal",
+    "Estados Unidos",
+    "Interiorismo",
+    "Metal",
+    "Textil"
+  ],
+  "proporcion": [
+    3585,
+    3585
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Radio_City_Music_Hall_%2851395756913%29.jpg/1920px-Radio_City_Music_Hall_%2851395756913%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Radio_City_Music_Hall_%2851395756913%29.jpg",
+    "alt": "Reproducción de Radio City Music Hall, Edward Durell Stone y Donald Deskey",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Radio_City_Music_Hall_%2851395756913%29.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Edward Durell Stone y Donald Deskey",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Radio_City_Music_Hall_%2851395756913%29.jpg/1920px-Radio_City_Music_Hall_%2851395756913%29.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Radio_City_Music_Hall_%2851395756913%29.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "edificio",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nVestíbulos, iluminación y auditorio integran arquitectura, gráfica y espectáculo en un diseño total.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Art déco\n\nEl Art déco reunió arquitectura, artes decorativas, tipografía, industria y espectáculo mediante geometrías nítidas, materiales modernos y una imagen optimista de la metrópolis.\n\n**Fecha:** 1932  \n**Ámbito:** Estados Unidos  \n**Conservación o emplazamiento:** Radio City Music Hall, Nueva York, Estados Unidos",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Arquitectura\n- Interiorismo\n- Metal\n- Textil\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu síntesis de lujo, producción industrial y diseño total continúa definiendo la imagen de los años veinte y treinta y muchas recuperaciones posteriores.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Radio_City_Music_Hall)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Radio_City_Music_Hall_%2851395756913%29.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

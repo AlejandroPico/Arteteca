@@ -1,0 +1,42 @@
+{
+  "id": "talla-maori-tekoteko",
+  "titulo": "Tekoteko maorí",
+  "autor": "Autoría desconocida",
+  "fecha": "siglo XIX",
+  "fechaOrden": 1850,
+  "tipo": "Escultura arquitectónica",
+  "periodo": "Arte maorí",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "La figura tallada corona una casa de reunión y materializa genealogía, protección y presencia ancestral.",
+  "localizacion": "Museum of New Zealand Te Papa Tongarewa",
+  "ciudad": "Wellington",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20New%20Zealand%20Te%20Papa%20Tongarewa%20Wellington",
+  "pais": "Nueva Zelanda",
+  "tecnicas": [
+    "Madera tallada",
+    "Pigmento"
+  ],
+  "etiquetas": [
+    "África, Américas y Oceanía",
+    "Arte maorí",
+    "Nueva Zelanda",
+    "Escultura arquitectónica",
+    "Madera tallada",
+    "Pigmento",
+    "arte universal"
+  ],
+  "proporcion": [
+    1936,
+    2612
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wakarewarewa_maori_village_3.JPG/1920px-Wakarewarewa_maori_village_3.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/09/Wakarewarewa_maori_village_3.JPG",
+    "alt": "Reproducción de Tekoteko maorí, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Wakarewarewa_maori_village_3.JPG",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "gran-estupa-sanchi",
+  "titulo": "Gran Estupa de Sanchi",
+  "autor": "Talleres maurya y posteriores",
+  "fecha": "siglos III a. C.–I d. C.",
+  "fechaOrden": -100,
+  "tipo": "Arquitectura y relieve",
+  "periodo": "Arte budista indio",
+  "coleccion": "Asia",
+  "descripcion": "La arquitectura ritual se recorre físicamente mientras las puertas narran vidas y símbolos budistas.",
+  "localizacion": "Sanchi",
+  "ciudad": "Madhya Pradesh",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Sanchi%20Madhya%20Pradesh",
+  "pais": "India",
+  "tecnicas": [
+    "Piedra",
+    "Arquitectura",
+    "Relieve"
+  ],
+  "etiquetas": [
+    "Asia",
+    "Arte budista indio",
+    "India",
+    "Arquitectura y relieve",
+    "Piedra",
+    "Arquitectura",
+    "Relieve",
+    "arte universal"
+  ],
+  "proporcion": [
+    2848,
+    4288
+  ],
+  "color": "#9a4b3d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG/1920px-East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/12/East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG",
+    "alt": "Reproducción de Gran Estupa de Sanchi, Talleres maurya y posteriores",
+    "fuente": "https://commons.wikimedia.org/wiki/File:East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres maurya y posteriores",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "fuente-duchamp",
+  "titulo": "Fuente",
+  "autor": "Marcel Duchamp",
+  "fecha": "1917",
+  "fechaOrden": 1917,
+  "tipo": "Readymade",
+  "periodo": "Dadaísmo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Un urinario industrial desplazado y firmado cuestionó autoría, gusto, institución y definición de obra de arte.",
+  "localizacion": "Tate Modern",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Tate%20Modern%20Londres",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Cerámica industrial",
+    "Readymade"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Cerámica industrial",
+    "Dadaísmo",
+    "Estados Unidos",
+    "Readymade",
+    "Surrealismo y primeras vanguardias"
+  ],
+  "proporcion": [
+    1416,
+    1849
+  ],
+  "color": "#66558b",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg",
+    "alt": "Reproducción de Fuente, Marcel Duchamp",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Marcel Duchamp",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nUn urinario industrial desplazado y firmado cuestionó autoría, gusto, institución y definición de obra de arte.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Dadaísmo\n\nEl surrealismo y sus precedentes dadaístas exploraron sueño, azar, automatismo y asociaciones inesperadas. Para respetar derechos, esta selección se centra en reproducciones históricas de libre acceso.\n\n**Fecha:** 1917  \n**Ámbito:** Estados Unidos  \n**Conservación o emplazamiento:** Tate Modern, Londres, Estados Unidos",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Cerámica industrial\n- Readymade\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu manera de desestabilizar la realidad transformó la pintura, la fotografía, el diseño, la publicidad, el cine y la cultura popular.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Fountain_(Duchamp))\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

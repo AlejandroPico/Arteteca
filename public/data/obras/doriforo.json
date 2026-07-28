@@ -1,0 +1,86 @@
+{
+  "id": "doriforo",
+  "titulo": "Doríforo",
+  "autor": "Policleto (original); copia romana",
+  "fecha": "c. 450–440 a. C.",
+  "fechaOrden": -445,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "El contrapposto encarna el canon proporcional de Policleto y una idea de equilibrio dinámico.",
+  "localizacion": "Museo Arqueológico Nacional",
+  "ciudad": "Nápoles",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Arqueol%C3%B3gico%20Nacional%20N%C3%A1poles",
+  "pais": "Grecia",
+  "tecnicas": [
+    "Mármol",
+    "Copia romana"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Copia romana",
+    "Escultura",
+    "Grecia",
+    "Grecia clásica",
+    "Grecia y Roma",
+    "Mármol"
+  ],
+  "proporcion": [
+    6641,
+    11000
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232526tris-Arte_Greca_copia_romana-Policleto_Doriforo_Polykleitos_Doryphoros_from_Pompeii-marmo_marble_carrara.jpg/1920px-thumbnail.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232526tris-Arte_Greca_copia_romana-Policleto_Doriforo_Polykleitos_Doryphoros_from_Pompeii-marmo_marble_carrara.jpg/3840px-thumbnail.jpg",
+    "alt": "Reproducción de Doríforo, Policleto (original); copia romana",
+    "fuente": "https://commons.wikimedia.org/wiki/File:02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232526tris-Arte_Greca_copia_romana-Policleto_Doriforo_Polykleitos_Doryphoros_from_Pompeii-marmo_marble_carrara.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Policleto (original); copia romana",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232526tris-Arte_Greca_copia_romana-Policleto_Doriforo_Polykleitos_Doryphoros_from_Pompeii-marmo_marble_carrara.jpg/1920px-thumbnail.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232526tris-Arte_Greca_copia_romana-Policleto_Doriforo_Polykleitos_Doryphoros_from_Pompeii-marmo_marble_carrara.jpg/3840px-thumbnail.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "escultura",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nEl contrapposto encarna el canon proporcional de Policleto y una idea de equilibrio dinámico.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Grecia clásica\n\nLos talleres griegos y romanos exploraron el cuerpo, el movimiento, el retrato y la narración monumental. Muchas obras griegas se conocen mediante copias romanas y reinterpretaciones posteriores.\n\n**Fecha:** c. 450–440 a. C.  \n**Ámbito:** Grecia  \n**Conservación o emplazamiento:** Museo Arqueológico Nacional, Nápoles, Grecia",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Mármol\n- Copia romana\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEstas piezas establecieron modelos duraderos para la escultura, la arquitectura y la representación del poder en Europa y el Mediterráneo.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Doryphoros)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232526tris-Arte_Greca_copia_romana-Policleto_Doriforo_Polykleitos_Doryphoros_from_Pompeii-marmo_marble_carrara.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

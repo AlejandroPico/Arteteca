@@ -1,0 +1,84 @@
+{
+  "id": "deesis-santa-sofia",
+  "titulo": "Mosaico de la Déesis",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1261",
+  "fechaOrden": "1261",
+  "tipo": "Mosaico",
+  "periodo": "Arte bizantino",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Los rostros modelados por pequeñas variaciones cromáticas aportan humanidad a una escena de intercesión.",
+  "localizacion": "Santa Sofía",
+  "ciudad": "Estambul",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Santa%20Sof%C3%ADa%20Estambul",
+  "pais": "Turquía",
+  "tecnicas": [
+    "Teselas de vidrio y oro"
+  ],
+  "etiquetas": [
+    "Arte bizantino",
+    "Arte medieval y religioso",
+    "arte universal",
+    "Mosaico",
+    "Teselas de vidrio y oro",
+    "Turquía"
+  ],
+  "proporcion": [
+    1920,
+    2560
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Deesis%20mosaic%20Hagia%20Sophia.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Deesis%20mosaic%20Hagia%20Sophia.jpg",
+    "alt": "Reproducción de Mosaico de la Déesis, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Deesis%20mosaic%20Hagia%20Sophia.jpg",
+    "licencia": "Dominio público (reproducción fiel de obra bidimensional)",
+    "credito": "Mosaico de la Deësis · Santa Sofía · Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Deesis%20mosaic%20Hagia%20Sophia.jpg?width=1400",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Deesis%20mosaic%20Hagia%20Sophia.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLos rostros modelados por pequeñas variaciones cromáticas aportan humanidad a una escena de intercesión.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Arte bizantino\n\nEntre la Antigüedad tardía y el Renacimiento, imágenes, manuscritos, mosaicos y objetos suntuarios articularon culto, memoria, enseñanza y prestigio.\n\n**Fecha:** c. 1261  \n**Ámbito:** Turquía  \n**Conservación o emplazamiento:** Santa Sofía, Estambul, Turquía",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Teselas de vidrio y oro\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEstas obras muestran que el arte medieval no fue un intervalo homogéneo, sino una red de tradiciones cristianas, islámicas y cortesanas técnicamente sofisticadas.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Mosaic)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Deesis%20mosaic%20Hagia%20Sophia.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

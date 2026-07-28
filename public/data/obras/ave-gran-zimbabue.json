@@ -1,0 +1,86 @@
+{
+  "id": "ave-gran-zimbabue",
+  "titulo": "Ave de Gran Zimbabue",
+  "autor": "Autoría desconocida",
+  "fecha": "siglos XIII–XV",
+  "fechaOrden": 1400,
+  "tipo": "Escultura",
+  "periodo": "Gran Zimbabue",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "El ave tallada sobre pedestal se convirtió en emblema político moderno de una antigua capital africana.",
+  "localizacion": "Museo de Gran Zimbabue",
+  "ciudad": "Masvingo",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Gran%20Zimbabue%20Masvingo",
+  "pais": "Zimbabue",
+  "tecnicas": [
+    "Esteatita",
+    "Talla"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Escultura",
+    "Esteatita",
+    "Gran Zimbabue",
+    "Talla",
+    "Zimbabue",
+    "África, Américas y Oceanía"
+  ],
+  "proporcion": [
+    261,
+    350
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zimbabwe_Bird.svg/1920px-Zimbabwe_Bird.svg.png",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/16/Zimbabwe_Bird.svg",
+    "alt": "Reproducción de Ave de Gran Zimbabue, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Zimbabwe_Bird.svg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zimbabwe_Bird.svg/1920px-Zimbabwe_Bird.svg.png",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/16/Zimbabwe_Bird.svg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "escultura",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nEl ave tallada sobre pedestal se convirtió en emblema político moderno de una antigua capital africana.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Gran Zimbabue\n\nEstas obras nacieron en sociedades con sistemas propios de autoridad, memoria, espiritualidad y transmisión técnica. Su lectura exige evitar categorías coloniales y atender a su procedencia.\n\n**Fecha:** siglos XIII–XV  \n**Ámbito:** Zimbabue  \n**Conservación o emplazamiento:** Museo de Gran Zimbabue, Masvingo, Zimbabue",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Esteatita\n- Talla\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nAdemás de su importancia cultural intrínseca, muchas alteraron profundamente el arte moderno tras entrar —a menudo de forma violenta— en colecciones europeas y americanas.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Zimbabwe_Bird)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Zimbabwe_Bird.svg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

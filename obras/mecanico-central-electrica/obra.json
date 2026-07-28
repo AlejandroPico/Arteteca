@@ -1,0 +1,40 @@
+{
+  "id": "mecanico-central-electrica",
+  "titulo": "Mecánico trabajando en una central eléctrica",
+  "autor": "Lewis Hine",
+  "fecha": "1920",
+  "fechaOrden": 1920,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía social",
+  "coleccion": "Fotografía",
+  "descripcion": "El cuerpo del trabajador y la curva de la máquina se alinean sin ocultar el esfuerzo industrial.",
+  "localizacion": "Varias colecciones",
+  "ciudad": "",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Varias%20colecciones",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Icono de la representación del trabajo industrial",
+  "tecnicas": [
+    "Gelatina de plata"
+  ],
+  "etiquetas": [
+    "Fotografía",
+    "Fotografía social",
+    "Estados Unidos",
+    "Gelatina de plata",
+    "arte universal"
+  ],
+  "proporcion": [
+    2155,
+    3000
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis%20Hine%20Power%20house%20mechanic%20working%20on%20steam%20pump.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis%20Hine%20Power%20house%20mechanic%20working%20on%20steam%20pump.jpg",
+    "alt": "Reproducción de Mecánico trabajando en una central eléctrica, Lewis Hine",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lewis%20Hine%20Power%20house%20mechanic%20working%20on%20steam%20pump.jpg",
+    "licencia": "Dominio público en Estados Unidos",
+    "credito": "Lewis Hine · National Archives and Records Administration · Wikimedia Commons",
+    "foco": "center"
+  }
+}

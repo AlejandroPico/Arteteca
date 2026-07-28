@@ -1,0 +1,43 @@
+{
+  "id": "palais-porte-doree",
+  "titulo": "Palais de la Porte Dorée",
+  "autor": "Albert Laprade, Léon Jaussely y Léon Bazin",
+  "fecha": "1931",
+  "fechaOrden": 1931,
+  "tipo": "Arquitectura y relieve",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "La fachada combina monumentalidad geométrica con un gran programa de relieves ligado a la exposición colonial.",
+  "localizacion": "Palais de la Porte Dorée",
+  "ciudad": "París",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palais%20de%20la%20Porte%20Dor%C3%A9e%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Piedra",
+    "Relieve",
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "Art déco",
+    "Francia",
+    "Arquitectura y relieve",
+    "Piedra",
+    "Relieve",
+    "Arquitectura",
+    "arte universal"
+  ],
+  "proporcion": [
+    3872,
+    2592
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Palasi_Porte_Doree_Entree.jpg/1920px-Palasi_Porte_Doree_Entree.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Palasi_Porte_Doree_Entree.jpg",
+    "alt": "Reproducción de Palais de la Porte Dorée, Albert Laprade, Léon Jaussely y Léon Bazin",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Palasi_Porte_Doree_Entree.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Albert Laprade, Léon Jaussely y Léon Bazin",
+    "foco": "center"
+  }
+}

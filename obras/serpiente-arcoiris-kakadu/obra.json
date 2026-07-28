@@ -1,0 +1,40 @@
+{
+  "id": "serpiente-arcoiris-kakadu",
+  "titulo": "Pintura rupestre de la Serpiente Arcoíris",
+  "autor": "Artistas aborígenes de Arnhem Land",
+  "fecha": "cronología ancestral, múltiples fases",
+  "fechaOrden": 0,
+  "tipo": "Arte rupestre",
+  "periodo": "Arte aborigen australiano",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "La figura pertenece a tradiciones vivas y a un paisaje cultural en el que imagen, relato y territorio son inseparables.",
+  "localizacion": "Parque Nacional Kakadu",
+  "ciudad": "Territorio del Norte",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Parque%20Nacional%20Kakadu%20Territorio%20del%20Norte",
+  "pais": "Australia",
+  "tecnicas": [
+    "Pigmentos minerales sobre roca"
+  ],
+  "etiquetas": [
+    "África, Américas y Oceanía",
+    "Arte aborigen australiano",
+    "Australia",
+    "Arte rupestre",
+    "Pigmentos minerales sobre roca",
+    "arte universal"
+  ],
+  "proporcion": [
+    500,
+    375
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RainbowSerpent.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a7/RainbowSerpent.jpg",
+    "alt": "Reproducción de Pintura rupestre de la Serpiente Arcoíris, Artistas aborígenes de Arnhem Land",
+    "fuente": "https://commons.wikimedia.org/wiki/File:RainbowSerpent.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Artistas aborígenes de Arnhem Land",
+    "foco": "center"
+  }
+}

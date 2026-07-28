@@ -1,0 +1,86 @@
+{
+  "id": "diptico-wilton",
+  "titulo": "Díptico de Wilton",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1395–1399",
+  "fechaOrden": 1397,
+  "tipo": "Pintura",
+  "periodo": "Gótico internacional",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "El azul ultramar, el oro y la repetición de emblemas convierten la devoción privada en imagen de realeza.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Temple sobre tabla",
+    "Pan de oro"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "arte universal",
+    "Gótico internacional",
+    "Pan de oro",
+    "Pintura",
+    "Reino Unido",
+    "Temple sobre tabla"
+  ],
+  "proporcion": [
+    13798,
+    10707
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wilton_Diptych.jpg/1920px-Wilton_Diptych.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wilton_Diptych.jpg/3840px-Wilton_Diptych.jpg",
+    "alt": "Reproducción de Díptico de Wilton, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Wilton_Diptych.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wilton_Diptych.jpg/1920px-Wilton_Diptych.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wilton_Diptych.jpg/3840px-Wilton_Diptych.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nEl azul ultramar, el oro y la repetición de emblemas convierten la devoción privada en imagen de realeza.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Gótico internacional\n\nEntre la Antigüedad tardía y el Renacimiento, imágenes, manuscritos, mosaicos y objetos suntuarios articularon culto, memoria, enseñanza y prestigio.\n\n**Fecha:** c. 1395–1399  \n**Ámbito:** Reino Unido  \n**Conservación o emplazamiento:** National Gallery, Londres, Reino Unido",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Temple sobre tabla\n- Pan de oro\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEstas obras muestran que el arte medieval no fue un intervalo homogéneo, sino una red de tradiciones cristianas, islámicas y cortesanas técnicamente sofisticadas.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Wilton_Diptych)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Wilton_Diptych.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

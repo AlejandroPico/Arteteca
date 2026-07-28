@@ -25,6 +25,8 @@
     "fechaOrden": { "type": "integer" },
     "tipo": { "type": "string", "minLength": 1 },
     "periodo": { "type": "string", "minLength": 1 },
+    "coleccion": { "type": "string", "minLength": 1 },
+    "reconocimiento": { "type": "string", "minLength": 1 },
     "descripcion": { "type": "string", "minLength": 20 },
     "localizacion": { "type": "string" },
     "ciudad": { "type": "string" },

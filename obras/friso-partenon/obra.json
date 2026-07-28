@@ -1,0 +1,42 @@
+{
+  "id": "friso-partenon",
+  "titulo": "Friso del Partenón",
+  "autor": "Taller de Fidias",
+  "fecha": "c. 443–437 a. C.",
+  "fechaOrden": -440,
+  "tipo": "Relieve",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "La procesión avanza con variaciones sutiles de ritmo, gesto y profundidad a lo largo del templo.",
+  "localizacion": "Museo de la Acrópolis",
+  "ciudad": "Atenas",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20la%20Acr%C3%B3polis%20Atenas",
+  "pais": "Grecia",
+  "tecnicas": [
+    "Mármol pentélico",
+    "Bajorrelieve"
+  ],
+  "etiquetas": [
+    "Grecia y Roma",
+    "Grecia clásica",
+    "Grecia",
+    "Relieve",
+    "Mármol pentélico",
+    "Bajorrelieve",
+    "arte universal"
+  ],
+  "proporcion": [
+    2900,
+    1690
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Cavalcade_west_frieze_Parthenon_BM.jpg/1920px-Cavalcade_west_frieze_Parthenon_BM.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cavalcade_west_frieze_Parthenon_BM.jpg",
+    "alt": "Reproducción de Friso del Partenón, Taller de Fidias",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cavalcade_west_frieze_Parthenon_BM.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Taller de Fidias",
+    "foco": "center"
+  }
+}

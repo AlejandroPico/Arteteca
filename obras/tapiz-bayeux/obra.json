@@ -1,0 +1,40 @@
+{
+  "id": "tapiz-bayeux",
+  "titulo": "Tapiz de Bayeux",
+  "autor": "Talleres anglonormandos",
+  "fecha": "c. 1070–1080",
+  "fechaOrden": 1075,
+  "tipo": "Textil",
+  "periodo": "Arte románico",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "La conquista normanda se despliega como una crónica continua de figuras, barcos, animales y textos.",
+  "localizacion": "Museo del Tapiz de Bayeux",
+  "ciudad": "Bayeux",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Tapiz%20de%20Bayeux%20Bayeux",
+  "pais": "Francia",
+  "tecnicas": [
+    "Bordado de lana sobre lino"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Arte románico",
+    "Francia",
+    "Textil",
+    "Bordado de lana sobre lino",
+    "arte universal"
+  ],
+  "proporcion": [
+    1500,
+    1088
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Odo_bayeux_tapestry.png",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Odo_bayeux_tapestry.png",
+    "alt": "Reproducción de Tapiz de Bayeux, Talleres anglonormandos",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Odo_bayeux_tapestry.png",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres anglonormandos",
+    "foco": "center"
+  }
+}

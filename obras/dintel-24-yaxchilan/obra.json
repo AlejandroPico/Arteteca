@@ -1,0 +1,41 @@
+{
+  "id": "dintel-24-yaxchilan",
+  "titulo": "Dintel 24 de Yaxchilán",
+  "autor": "Taller maya de Yaxchilán",
+  "fecha": "709",
+  "fechaOrden": 709,
+  "tipo": "Relieve",
+  "periodo": "Arte maya clásico",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Gobernante, consorte, texto jeroglífico y rito de autosacrificio se integran en una imagen política precisa.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
+  "pais": "México",
+  "tecnicas": [
+    "Piedra caliza",
+    "Relieve"
+  ],
+  "etiquetas": [
+    "África, Américas y Oceanía",
+    "Arte maya clásico",
+    "México",
+    "Relieve",
+    "Piedra caliza",
+    "arte universal"
+  ],
+  "proporcion": [
+    2313,
+    3141
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yaxchilan_Lintel_24.jpg/1920px-Yaxchilan_Lintel_24.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/00/Yaxchilan_Lintel_24.jpg",
+    "alt": "Reproducción de Dintel 24 de Yaxchilán, Taller maya de Yaxchilán",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Yaxchilan_Lintel_24.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Taller maya de Yaxchilán",
+    "foco": "center"
+  }
+}

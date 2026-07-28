@@ -1,0 +1,42 @@
+{
+  "id": "augusto-prima-porta",
+  "titulo": "Augusto de Prima Porta",
+  "autor": "Autoría desconocida",
+  "fecha": "inicios del siglo I d. C.",
+  "fechaOrden": 14,
+  "tipo": "Escultura",
+  "periodo": "Roma imperial",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Retrato, armadura narrativa y postura heroica convierten al emperador en programa político.",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%20Ciudad%20del%20Vaticano",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mármol",
+    "Policromía original perdida"
+  ],
+  "etiquetas": [
+    "Grecia y Roma",
+    "Roma imperial",
+    "Italia",
+    "Escultura",
+    "Mármol",
+    "Policromía original perdida",
+    "arte universal"
+  ],
+  "proporcion": [
+    5437,
+    8156
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/1920px-Augustus_of_Prima_Porta.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/3840px-Augustus_of_Prima_Porta.jpg",
+    "alt": "Reproducción de Augusto de Prima Porta, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Augustus_of_Prima_Porta.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

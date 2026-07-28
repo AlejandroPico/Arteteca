@@ -7,6 +7,8 @@
   "fechaOrden": 0,
   "tipo": "Pintura",
   "periodo": "Periodo o movimiento",
+  "coleccion": "Ruta editorial o bloque cultural",
+  "reconocimiento": "Premio o reconocimiento, si procede",
   "descripcion": "Resumen breve, riguroso y atractivo de la obra en dos o tres frases.",
   "localizacion": "Institución o lugar",
   "ciudad": "Ciudad",

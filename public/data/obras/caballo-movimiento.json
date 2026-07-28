@@ -1,0 +1,87 @@
+{
+  "id": "caballo-movimiento",
+  "titulo": "El caballo en movimiento",
+  "autor": "Eadweard Muybridge",
+  "fecha": "1878",
+  "fechaOrden": 1878,
+  "tipo": "Cronofotografía",
+  "periodo": "Estudios del movimiento",
+  "coleccion": "Fotografía",
+  "descripcion": "La secuencia descompuso el galope y corrigió convenciones visuales que el ojo no podía verificar por sí solo.",
+  "localizacion": "Library of Congress",
+  "ciudad": "Washington D. C.",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Library%20of%20Congress%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Hito de la cronofotografía y antecedente del cine",
+  "tecnicas": [
+    "Gelatina de plata",
+    "Secuencia fotográfica"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Cronofotografía",
+    "Estados Unidos",
+    "Estudios del movimiento",
+    "Fotografía",
+    "Gelatina de plata",
+    "Secuencia fotográfica"
+  ],
+  "proporcion": [
+    1024,
+    652
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Horse_in_motion._%22Abe_Edgington%2C%22_owned_by_Leland_Stanford%3B_driven_by_C._Marvin%2C_trotting_at_a_2-24_gait_over_the_Palo_Alto_track%2C_15th_June_1878_LOC_13624627695.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Horse_in_motion._%22Abe_Edgington%2C%22_owned_by_Leland_Stanford%3B_driven_by_C._Marvin%2C_trotting_at_a_2-24_gait_over_the_Palo_Alto_track%2C_15th_June_1878_LOC_13624627695.jpg",
+    "alt": "Reproducción de El caballo en movimiento, Eadweard Muybridge",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Horse_in_motion._%22Abe_Edgington%2C%22_owned_by_Leland_Stanford%3B_driven_by_C._Marvin%2C_trotting_at_a_2-24_gait_over_the_Palo_Alto_track%2C_15th_June_1878_LOC_13624627695.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Eadweard Muybridge",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Horse_in_motion._%22Abe_Edgington%2C%22_owned_by_Leland_Stanford%3B_driven_by_C._Marvin%2C_trotting_at_a_2-24_gait_over_the_Palo_Alto_track%2C_15th_June_1878_LOC_13624627695.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Horse_in_motion._%22Abe_Edgington%2C%22_owned_by_Leland_Stanford%3B_driven_by_C._Marvin%2C_trotting_at_a_2-24_gait_over_the_Palo_Alto_track%2C_15th_June_1878_LOC_13624627695.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "camara",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa secuencia descompuso el galope y corrigió convenciones visuales que el ojo no podía verificar por sí solo.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Estudios del movimiento\n\nDesde los primeros experimentos hasta la imagen espacial, la fotografía combinó investigación técnica, testimonio, composición y circulación masiva.\n\n**Fecha:** 1878  \n**Ámbito:** Estados Unidos  \n**Conservación o emplazamiento:** Library of Congress, Washington D. C., Estados Unidos",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Gelatina de plata\n- Secuencia fotográfica\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEstas imágenes ayudaron a definir el fotoperiodismo, la documentación social, la representación científica y la memoria visual compartida del mundo contemporáneo.\n\nLa obra o la serie está asociada a **Hito de la cronofotografía y antecedente del cine**, un dato que se conserva en el catálogo para facilitar búsquedas e inventarios.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/The_Horse_in_Motion)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:The_Horse_in_motion._%22Abe_Edgington%2C%22_owned_by_Leland_Stanford%3B_driven_by_C._Marvin%2C_trotting_at_a_2-24_gait_over_the_Palo_Alto_track%2C_15th_June_1878_LOC_13624627695.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

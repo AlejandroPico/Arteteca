@@ -1,0 +1,40 @@
+{
+  "id": "udnie-picabia",
+  "titulo": "Udnie",
+  "autor": "Francis Picabia",
+  "fecha": "1913",
+  "fechaOrden": 1913,
+  "tipo": "Pintura",
+  "periodo": "Orfismo y dadaísmo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Planos curvos y ritmos fragmentados traducen memoria, danza y máquina a una abstracción energética.",
+  "localizacion": "Musée National d’Art Moderne",
+  "ciudad": "París",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20National%20d%E2%80%99Art%20Moderne%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Surrealismo y primeras vanguardias",
+    "Orfismo y dadaísmo",
+    "Francia",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    1798,
+    1800
+  ],
+  "color": "#66558b",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Francis_Picabia%2C_1913%2C_Udnie_%28Young_American_Girl%2C_The_Dance%29%2C_oil_on_canvas%2C_290_x_300_cm%2C_Mus%C3%A9e_National_d%E2%80%99Art_Moderne%2C_Centre_Georges_Pompidou%2C_Paris..jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/82/Francis_Picabia%2C_1913%2C_Udnie_%28Young_American_Girl%2C_The_Dance%29%2C_oil_on_canvas%2C_290_x_300_cm%2C_Mus%C3%A9e_National_d%E2%80%99Art_Moderne%2C_Centre_Georges_Pompidou%2C_Paris..jpg",
+    "alt": "Reproducción de Udnie, Francis Picabia",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Francis_Picabia%2C_1913%2C_Udnie_%28Young_American_Girl%2C_The_Dance%29%2C_oil_on_canvas%2C_290_x_300_cm%2C_Mus%C3%A9e_National_d%E2%80%99Art_Moderne%2C_Centre_Georges_Pompidou%2C_Paris..jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Francis Picabia",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "deesis-santa-sofia",
+  "titulo": "Mosaico de la Déesis",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1261",
+  "fechaOrden": "1261",
+  "tipo": "Mosaico",
+  "periodo": "Arte bizantino",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Los rostros modelados por pequeñas variaciones cromáticas aportan humanidad a una escena de intercesión.",
+  "localizacion": "Santa Sofía",
+  "ciudad": "Estambul",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Santa%20Sof%C3%ADa%20Estambul",
+  "pais": "Turquía",
+  "tecnicas": [
+    "Teselas de vidrio y oro"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Arte bizantino",
+    "Turquía",
+    "Mosaico",
+    "Teselas de vidrio y oro",
+    "arte universal"
+  ],
+  "proporcion": [
+    1920,
+    2560
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Deesis%20mosaic%20Hagia%20Sophia.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Deesis%20mosaic%20Hagia%20Sophia.jpg",
+    "alt": "Reproducción de Mosaico de la Déesis, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Deesis%20mosaic%20Hagia%20Sophia.jpg",
+    "licencia": "Dominio público (reproducción fiel de obra bidimensional)",
+    "credito": "Mosaico de la Deësis · Santa Sofía · Wikimedia Commons",
+    "foco": "center"
+  }
+}

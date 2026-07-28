@@ -1,0 +1,40 @@
+{
+  "id": "maquina-trinar",
+  "titulo": "Máquina de trinar",
+  "autor": "Paul Klee",
+  "fecha": "1922",
+  "fechaOrden": 1922,
+  "tipo": "Obra sobre papel",
+  "periodo": "Vanguardia y surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Pájaros mecánicos, manivela y línea suspendida oscilan entre juego, música y amenaza.",
+  "localizacion": "Museum of Modern Art",
+  "ciudad": "Nueva York",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20Nueva%20York",
+  "pais": "Suiza",
+  "tecnicas": [
+    "Acuarela y tinta sobre papel"
+  ],
+  "etiquetas": [
+    "Surrealismo y primeras vanguardias",
+    "Vanguardia y surrealismo",
+    "Suiza",
+    "Obra sobre papel",
+    "Acuarela y tinta sobre papel",
+    "arte universal"
+  ],
+  "proporcion": [
+    994,
+    1350
+  ],
+  "color": "#66558b",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Die_Zwitscher-Maschine_%28Twittering_Machine%29%2C_1922_-_Paul_Klee.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Die_Zwitscher-Maschine_%28Twittering_Machine%29%2C_1922_-_Paul_Klee.jpg",
+    "alt": "Reproducción de Máquina de trinar, Paul Klee",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Die_Zwitscher-Maschine_%28Twittering_Machine%29%2C_1922_-_Paul_Klee.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Paul Klee",
+    "foco": "center"
+  }
+}

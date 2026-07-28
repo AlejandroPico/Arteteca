@@ -1,0 +1,40 @@
+{
+  "id": "ronda-noche",
+  "titulo": "La ronda de noche",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "1642",
+  "fechaOrden": 1642,
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "La compañía cívica parece irrumpir en movimiento gracias a la luz selectiva y el escalonamiento de figuras.",
+  "localizacion": "Rijksmuseum",
+  "ciudad": "Ámsterdam",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Rijksmuseum%20%C3%81msterdam",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Barroco neerlandés",
+    "Países Bajos",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    14168,
+    11528
+  ],
+  "color": "#613f36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/1920px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/3840px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg",
+    "alt": "Reproducción de La ronda de noche, Rembrandt van Rijn",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Rembrandt van Rijn",
+    "foco": "center"
+  }
+}

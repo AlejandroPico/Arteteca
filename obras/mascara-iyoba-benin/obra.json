@@ -1,0 +1,44 @@
+{
+  "id": "mascara-iyoba-benin",
+  "titulo": "Máscara colgante de una iyoba",
+  "autor": "Talleres del Reino de Benín",
+  "fecha": "siglo XVI",
+  "fechaOrden": 1550,
+  "tipo": "Escultura",
+  "periodo": "Arte de Benín",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "El marfil y las figuras portuguesas articulan memoria dinástica, comercio y poder de la reina madre.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
+  "pais": "Nigeria",
+  "tecnicas": [
+    "Marfil",
+    "Hierro",
+    "Cobre"
+  ],
+  "etiquetas": [
+    "África, Américas y Oceanía",
+    "Arte de Benín",
+    "Nigeria",
+    "Escultura",
+    "Marfil",
+    "Hierro",
+    "Cobre",
+    "arte universal"
+  ],
+  "proporcion": [
+    1483,
+    2000
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Queen_Mother_Pendant_Mask-_Iyoba_MET_DP231460.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Queen_Mother_Pendant_Mask-_Iyoba_MET_DP231460.jpg",
+    "alt": "Reproducción de Máscara colgante de una iyoba, Talleres del Reino de Benín",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Queen_Mother_Pendant_Mask-_Iyoba_MET_DP231460.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres del Reino de Benín",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mosaico-alejandro",
+  "titulo": "Mosaico de Alejandro",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 100 a. C.",
+  "fechaOrden": -100,
+  "tipo": "Mosaico",
+  "periodo": "Roma republicana",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "La batalla enfrenta direcciones, miradas y lanzas en una superficie de teselas de enorme complejidad.",
+  "localizacion": "Museo Arqueológico Nacional",
+  "ciudad": "Nápoles",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Arqueol%C3%B3gico%20Nacional%20N%C3%A1poles",
+  "pais": "Italia",
+  "tecnicas": [
+    "Teselas de piedra y vidrio"
+  ],
+  "etiquetas": [
+    "Grecia y Roma",
+    "Roma republicana",
+    "Italia",
+    "Mosaico",
+    "Teselas de piedra y vidrio",
+    "arte universal"
+  ],
+  "proporcion": [
+    3562,
+    2133
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg/1920px-Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/69/Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg",
+    "alt": "Reproducción de Mosaico de Alejandro, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

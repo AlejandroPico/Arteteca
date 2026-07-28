@@ -1,0 +1,84 @@
+{
+  "id": "vocacion-san-mateo",
+  "titulo": "La vocación de san Mateo",
+  "autor": "Caravaggio",
+  "fecha": "c. 1599–1600",
+  "fechaOrden": 1600,
+  "tipo": "Pintura",
+  "periodo": "Barroco italiano",
+  "coleccion": "Barroco",
+  "descripcion": "Un haz de luz corta una taberna contemporánea y convierte un gesto discreto en revelación.",
+  "localizacion": "San Luigi dei Francesi",
+  "ciudad": "Roma",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=San%20Luigi%20dei%20Francesi%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Barroco",
+    "Barroco italiano",
+    "Italia",
+    "Pintura",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    8792,
+    8304
+  ],
+  "color": "#613f36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg/1920px-Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg/3840px-Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg",
+    "alt": "Reproducción de La vocación de san Mateo, Caravaggio",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Caravaggio",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg/1920px-Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg/3840px-Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nUn haz de luz corta una taberna contemporánea y convierte un gesto discreto en revelación.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Barroco italiano\n\nEl Barroco convirtió luz, gesto, materia y espacio en instrumentos de persuasión. La pintura y la escultura buscaron involucrar física y emocionalmente al espectador.\n\n**Fecha:** c. 1599–1600  \n**Ámbito:** Italia  \n**Conservación o emplazamiento:** San Luigi dei Francesi, Roma, Italia",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Óleo sobre lienzo\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu teatralidad, naturalismo y dominio de la puesta en escena siguen influyendo en la fotografía, el cine, la escenografía y la cultura visual contemporánea.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/The_Calling_of_Saint_Matthew)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

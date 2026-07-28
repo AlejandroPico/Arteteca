@@ -1,0 +1,84 @@
+{
+  "id": "judit-holofernes-artemisia",
+  "titulo": "Judit decapitando a Holofernes",
+  "autor": "Artemisia Gentileschi",
+  "fecha": "c. 1612–1613",
+  "fechaOrden": 1613,
+  "tipo": "Pintura",
+  "periodo": "Barroco italiano",
+  "coleccion": "Barroco",
+  "descripcion": "La acción se representa con peso físico, proximidad y una determinación que evita la distancia decorativa.",
+  "localizacion": "Museo de Capodimonte",
+  "ciudad": "Nápoles",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Capodimonte%20N%C3%A1poles",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Barroco",
+    "Barroco italiano",
+    "Italia",
+    "Pintura",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    1178,
+    1500
+  ],
+  "color": "#613f36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg",
+    "alt": "Reproducción de Judit decapitando a Holofernes, Artemisia Gentileschi",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Artemisia Gentileschi",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa acción se representa con peso físico, proximidad y una determinación que evita la distancia decorativa.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Barroco italiano\n\nEl Barroco convirtió luz, gesto, materia y espacio en instrumentos de persuasión. La pintura y la escultura buscaron involucrar física y emocionalmente al espectador.\n\n**Fecha:** c. 1612–1613  \n**Ámbito:** Italia  \n**Conservación o emplazamiento:** Museo de Capodimonte, Nápoles, Italia",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Óleo sobre lienzo\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu teatralidad, naturalismo y dominio de la puesta en escena siguen influyendo en la fotografía, el cine, la escenografía y la cultura visual contemporánea.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Judith_Slaying_Holofernes_(Artemisia_Gentileschi,_Naples))\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

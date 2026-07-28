@@ -1,0 +1,40 @@
+{
+  "id": "espigadoras-millet",
+  "titulo": "Las espigadoras",
+  "autor": "Jean-François Millet",
+  "fecha": "1857",
+  "fechaOrden": 1857,
+  "tipo": "Pintura",
+  "periodo": "Realismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Tres trabajadoras ocupan el primer plano mientras la abundancia de la cosecha queda lejos tras ellas.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "París",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Romanticismo, Realismo e Impresionismo",
+    "Realismo",
+    "Francia",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    5354,
+    4006
+  ],
+  "color": "#68584c",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/1920px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+    "alt": "Reproducción de Las espigadoras, Jean-François Millet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Jean-François Millet",
+    "foco": "center"
+  }
+}

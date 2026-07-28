@@ -1,0 +1,42 @@
+{
+  "id": "bronces-riace",
+  "titulo": "Bronces de Riace",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 460–450 a. C.",
+  "fechaOrden": -455,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Dos guerreros de bronce conservan detalles anatómicos y técnicos raramente supervivientes de la estatuaria griega.",
+  "localizacion": "Museo Arqueológico Nacional de Regio de Calabria",
+  "ciudad": "Regio de Calabria",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Arqueol%C3%B3gico%20Nacional%20de%20Regio%20de%20Calabria%20Regio%20de%20Calabria",
+  "pais": "Grecia",
+  "tecnicas": [
+    "Bronce",
+    "Cera perdida"
+  ],
+  "etiquetas": [
+    "Grecia y Roma",
+    "Grecia clásica",
+    "Grecia",
+    "Escultura",
+    "Bronce",
+    "Cera perdida",
+    "arte universal"
+  ],
+  "proporcion": [
+    229,
+    475
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/96/Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg",
+    "alt": "Reproducción de Bronces de Riace, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

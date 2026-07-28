@@ -1,0 +1,42 @@
+{
+  "id": "ave-gran-zimbabue",
+  "titulo": "Ave de Gran Zimbabue",
+  "autor": "Autoría desconocida",
+  "fecha": "siglos XIII–XV",
+  "fechaOrden": 1400,
+  "tipo": "Escultura",
+  "periodo": "Gran Zimbabue",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "El ave tallada sobre pedestal se convirtió en emblema político moderno de una antigua capital africana.",
+  "localizacion": "Museo de Gran Zimbabue",
+  "ciudad": "Masvingo",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Gran%20Zimbabue%20Masvingo",
+  "pais": "Zimbabue",
+  "tecnicas": [
+    "Esteatita",
+    "Talla"
+  ],
+  "etiquetas": [
+    "África, Américas y Oceanía",
+    "Gran Zimbabue",
+    "Zimbabue",
+    "Escultura",
+    "Esteatita",
+    "Talla",
+    "arte universal"
+  ],
+  "proporcion": [
+    261,
+    350
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zimbabwe_Bird.svg/1920px-Zimbabwe_Bird.svg.png",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/16/Zimbabwe_Bird.svg",
+    "alt": "Reproducción de Ave de Gran Zimbabue, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Zimbabwe_Bird.svg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

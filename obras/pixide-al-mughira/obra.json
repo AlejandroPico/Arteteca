@@ -1,0 +1,40 @@
+{
+  "id": "pixide-al-mughira",
+  "titulo": "Píxide de al-Mughira",
+  "autor": "Autoría desconocida",
+  "fecha": "968",
+  "fechaOrden": 968,
+  "tipo": "Artes decorativas",
+  "periodo": "Arte califal omeya",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "La talla continua combina escenas cortesanas, animales y símbolos dinásticos en un objeto de lujo.",
+  "localizacion": "Museo del Louvre",
+  "ciudad": "París",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%20Par%C3%ADs",
+  "pais": "España",
+  "tecnicas": [
+    "Marfil tallado"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Arte califal omeya",
+    "España",
+    "Artes decorativas",
+    "Marfil tallado",
+    "arte universal"
+  ],
+  "proporcion": [
+    950,
+    1440
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pyxid_Al_Mughira_OA_4068.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pyxid_Al_Mughira_OA_4068.jpg",
+    "alt": "Reproducción de Píxide de al-Mughira, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pyxid_Al_Mughira_OA_4068.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

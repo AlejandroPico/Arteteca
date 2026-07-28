@@ -1,0 +1,40 @@
+{
+  "id": "evangeliario-lindisfarne",
+  "titulo": "Página tapiz de los Evangelios de Lindisfarne",
+  "autor": "Eadfrith (atribución)",
+  "fecha": "c. 700",
+  "fechaOrden": 700,
+  "tipo": "Manuscrito iluminado",
+  "periodo": "Arte insular",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Nudos, espirales y simetrías transforman la página en un campo de contemplación visual.",
+  "localizacion": "British Library",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Library%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Tinta y pigmento sobre vitela"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Arte insular",
+    "Reino Unido",
+    "Manuscrito iluminado",
+    "Tinta y pigmento sobre vitela",
+    "arte universal"
+  ],
+  "proporcion": [
+    1266,
+    1797
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/LindisfarneFol27rIncipitMatt.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d2/LindisfarneFol27rIncipitMatt.jpg",
+    "alt": "Reproducción de Página tapiz de los Evangelios de Lindisfarne, Eadfrith (atribución)",
+    "fuente": "https://commons.wikimedia.org/wiki/File:LindisfarneFol27rIncipitMatt.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Eadfrith (atribución)",
+    "foco": "center"
+  }
+}

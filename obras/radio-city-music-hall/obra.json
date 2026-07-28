@@ -1,0 +1,45 @@
+{
+  "id": "radio-city-music-hall",
+  "titulo": "Radio City Music Hall",
+  "autor": "Edward Durell Stone y Donald Deskey",
+  "fecha": "1932",
+  "fechaOrden": 1932,
+  "tipo": "Arquitectura e interiorismo",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "Vestíbulos, iluminación y auditorio integran arquitectura, gráfica y espectáculo en un diseño total.",
+  "localizacion": "Radio City Music Hall",
+  "ciudad": "Nueva York",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Radio%20City%20Music%20Hall%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Arquitectura",
+    "Interiorismo",
+    "Metal",
+    "Textil"
+  ],
+  "etiquetas": [
+    "Art déco",
+    "Estados Unidos",
+    "Arquitectura e interiorismo",
+    "Arquitectura",
+    "Interiorismo",
+    "Metal",
+    "Textil",
+    "arte universal"
+  ],
+  "proporcion": [
+    3585,
+    3585
+  ],
+  "color": "#2f6872",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Radio_City_Music_Hall_%2851395756913%29.jpg/1920px-Radio_City_Music_Hall_%2851395756913%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Radio_City_Music_Hall_%2851395756913%29.jpg",
+    "alt": "Reproducción de Radio City Music Hall, Edward Durell Stone y Donald Deskey",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Radio_City_Music_Hall_%2851395756913%29.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Edward Durell Stone y Donald Deskey",
+    "foco": "center"
+  }
+}

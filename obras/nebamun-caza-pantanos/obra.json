@@ -1,0 +1,40 @@
+{
+  "id": "nebamun-caza-pantanos",
+  "titulo": "Nebamun cazando en los pantanos",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1350 a. C.",
+  "fechaOrden": -1350,
+  "tipo": "Pintura mural",
+  "periodo": "Dinastía XVIII",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "Aves, plantas y figuras se organizan en una superficie vibrante que celebra abundancia y renacimiento.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Temple sobre yeso"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "Dinastía XVIII",
+    "Egipto",
+    "Pintura mural",
+    "Temple sobre yeso",
+    "arte universal"
+  ],
+  "proporcion": [
+    1962,
+    1828
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TombofNebamun-2.jpg/1920px-TombofNebamun-2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/06/TombofNebamun-2.jpg",
+    "alt": "Reproducción de Nebamun cazando en los pantanos, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:TombofNebamun-2.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

@@ -277,12 +277,16 @@ def summary_from(work: dict[str, Any]) -> dict[str, Any]:
         "fechaOrden": work.get("fechaOrden"),
         "tipo": work["tipo"],
         "periodo": work["periodo"],
+        "coleccion": work.get("coleccion"),
+        "reconocimiento": work.get("reconocimiento"),
         "descripcion": work["descripcion"],
         "localizacion": work.get("localizacion"),
         "ciudad": work.get("ciudad"),
         "urlLocalizacion": work.get("urlLocalizacion"),
         "urlMapa": work.get("urlMapa"),
         "pais": work.get("pais"),
+        "tecnicas": work.get("tecnicas", []),
+        "tieneAltaResolucion": bool(work["imagen"].get("srcAltaResolucion")),
         "proporcion": work["proporcion"],
         "color": work.get("color", "#8f543d"),
         "etiquetas": work["etiquetas"],
@@ -474,6 +478,10 @@ def compile_catalog(*, check_only: bool) -> int:
         "total": len(summaries),
         "tipos": sorted({work["tipo"] for work in works}, key=str.casefold),
         "periodos": sorted({work["periodo"] for work in works}, key=str.casefold),
+        "colecciones": sorted(
+            {work["coleccion"] for work in works if work.get("coleccion")},
+            key=str.casefold,
+        ),
         "obras": summaries,
     }
 

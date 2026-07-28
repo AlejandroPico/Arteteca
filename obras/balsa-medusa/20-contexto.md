@@ -1,0 +1,12 @@
+---
+titulo: Contexto
+icono: historia
+---
+
+## Romanticismo
+
+Durante el siglo XIX, los artistas replantearon la historia, el paisaje, el trabajo, la vida urbana y la percepción óptica ante la industrialización y la modernidad.
+
+**Fecha:** 1818–1819  
+**Ámbito:** Francia  
+**Conservación o emplazamiento:** Museo del Louvre, París, Francia

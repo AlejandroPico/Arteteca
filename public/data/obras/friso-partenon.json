@@ -1,0 +1,86 @@
+{
+  "id": "friso-partenon",
+  "titulo": "Friso del Partenón",
+  "autor": "Taller de Fidias",
+  "fecha": "c. 443–437 a. C.",
+  "fechaOrden": -440,
+  "tipo": "Relieve",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "La procesión avanza con variaciones sutiles de ritmo, gesto y profundidad a lo largo del templo.",
+  "localizacion": "Museo de la Acrópolis",
+  "ciudad": "Atenas",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20la%20Acr%C3%B3polis%20Atenas",
+  "pais": "Grecia",
+  "tecnicas": [
+    "Mármol pentélico",
+    "Bajorrelieve"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Bajorrelieve",
+    "Grecia",
+    "Grecia clásica",
+    "Grecia y Roma",
+    "Mármol pentélico",
+    "Relieve"
+  ],
+  "proporcion": [
+    2900,
+    1690
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Cavalcade_west_frieze_Parthenon_BM.jpg/1920px-Cavalcade_west_frieze_Parthenon_BM.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cavalcade_west_frieze_Parthenon_BM.jpg",
+    "alt": "Reproducción de Friso del Partenón, Taller de Fidias",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cavalcade_west_frieze_Parthenon_BM.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Taller de Fidias",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Cavalcade_west_frieze_Parthenon_BM.jpg/1920px-Cavalcade_west_frieze_Parthenon_BM.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cavalcade_west_frieze_Parthenon_BM.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "escultura",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa procesión avanza con variaciones sutiles de ritmo, gesto y profundidad a lo largo del templo.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Grecia clásica\n\nLos talleres griegos y romanos exploraron el cuerpo, el movimiento, el retrato y la narración monumental. Muchas obras griegas se conocen mediante copias romanas y reinterpretaciones posteriores.\n\n**Fecha:** c. 443–437 a. C.  \n**Ámbito:** Grecia  \n**Conservación o emplazamiento:** Museo de la Acrópolis, Atenas, Grecia",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Mármol pentélico\n- Bajorrelieve\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEstas piezas establecieron modelos duraderos para la escultura, la arquitectura y la representación del poder en Europa y el Mediterráneo.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Parthenon_Frieze)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Cavalcade_west_frieze_Parthenon_BM.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

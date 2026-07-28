@@ -1,0 +1,86 @@
+{
+  "id": "salida-tierra",
+  "titulo": "Salida de la Tierra",
+  "autor": "William Anders / NASA",
+  "fecha": "1968",
+  "fechaOrden": 1968,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía espacial",
+  "coleccion": "Fotografía",
+  "descripcion": "La Tierra coloreada aparece sobre el horizonte lunar y altera la percepción visual del planeta como mundo finito.",
+  "localizacion": "NASA",
+  "ciudad": "Washington D. C.",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=NASA%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Una de las imágenes ambientales más influyentes del siglo XX",
+  "tecnicas": [
+    "Fotografía en color",
+    "Hasselblad"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Estados Unidos",
+    "Fotografía",
+    "Fotografía en color",
+    "Fotografía espacial",
+    "Hasselblad"
+  ],
+  "proporcion": [
+    2400,
+    2400
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/1920px-NASA-Apollo8-Dec24-Earthrise.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg",
+    "alt": "Reproducción de Salida de la Tierra, William Anders / NASA",
+    "fuente": "https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · William Anders / NASA",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/1920px-NASA-Apollo8-Dec24-Earthrise.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "camara",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa Tierra coloreada aparece sobre el horizonte lunar y altera la percepción visual del planeta como mundo finito.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Fotografía espacial\n\nDesde los primeros experimentos hasta la imagen espacial, la fotografía combinó investigación técnica, testimonio, composición y circulación masiva.\n\n**Fecha:** 1968  \n**Ámbito:** Estados Unidos  \n**Conservación o emplazamiento:** NASA, Washington D. C., Estados Unidos",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Fotografía en color\n- Hasselblad\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEstas imágenes ayudaron a definir el fotoperiodismo, la documentación social, la representación científica y la memoria visual compartida del mundo contemporáneo.\n\nLa obra o la serie está asociada a **Una de las imágenes ambientales más influyentes del siglo XX**, un dato que se conserva en el catálogo para facilitar búsquedas e inventarios.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Earthrise)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "gran-buda-kamakura",
+  "titulo": "Gran Buda de Kamakura",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1252",
+  "fechaOrden": 1252,
+  "tipo": "Escultura",
+  "periodo": "Periodo Kamakura",
+  "coleccion": "Asia",
+  "descripcion": "La monumental figura sedente de Amida Buda equilibra masa, calma y una rigurosa simetría visible desde el recinto abierto de Kōtoku-in.",
+  "localizacion": "Kōtoku-in",
+  "ciudad": "Kamakura",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=K%C5%8Dtoku-in%20Kamakura",
+  "pais": "Japón",
+  "tecnicas": [
+    "Bronce fundido"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Asia",
+    "Bronce fundido",
+    "Escultura",
+    "Japón",
+    "Periodo Kamakura"
+  ],
+  "proporcion": [
+    4088,
+    2297
+  ],
+  "color": "#9a4b3d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Buddha%20of%20K%C5%8Dtoku-in%20(Kamakura%20Daibutsu).jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Buddha%20of%20K%C5%8Dtoku-in%20(Kamakura%20Daibutsu).jpg",
+    "alt": "Reproducción de Gran Buda de Kamakura",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The%20Great%20Buddha%20of%20K%C5%8Dtoku-in%20(Kamakura%20Daibutsu).jpg",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Fotografía: Dandy1022 · Kōtoku-in · Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Buddha%20of%20K%C5%8Dtoku-in%20(Kamakura%20Daibutsu).jpg?width=1400",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Great%20Buddha%20of%20K%C5%8Dtoku-in%20(Kamakura%20Daibutsu).jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa monumental figura sedente de Amida Buda equilibra masa, calma y una rigurosa simetría visible desde el recinto abierto de Kōtoku-in.\n\nLa proporción de la ficha respeta la reproducción para que forma, escala y ritmo no queden forzados por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Periodo Kamakura\n\nLa escultura fue realizada durante el periodo Kamakura, cuando nuevas escuelas budistas y un lenguaje visual de gran presencia física transformaron la cultura japonesa.\n\n**Fecha:** c. 1252  \n**Ámbito:** Japón  \n**Conservación o emplazamiento:** Kōtoku-in, Kamakura",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Bronce fundido\n\nLos materiales son parte activa de la lectura: condicionan la superficie, la escala, el modo de ejecución y también la conservación de la obra.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nLa silueta del Daibutsu se ha convertido en una de las imágenes más reconocibles del patrimonio escultórico de Japón.\n\nSu inclusión en Arteteca funciona como punto de partida para conectar culturas, técnicas y periodos del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/K%C5%8Dtoku-in)\n- [Archivo, autoría fotográfica y licencia](https://commons.wikimedia.org/wiki/File:The%20Great%20Buddha%20of%20K%C5%8Dtoku-in%20(Kamakura%20Daibutsu).jpg)\n\nLa licencia y el historial de la reproducción deben comprobarse en la ficha de Wikimedia Commons antes de reutilizarla fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

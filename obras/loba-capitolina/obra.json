@@ -1,0 +1,42 @@
+{
+  "id": "loba-capitolina",
+  "titulo": "Loba Capitolina",
+  "autor": "Autoría desconocida",
+  "fecha": "siglos XI–XII; gemelos del siglo XV",
+  "fechaOrden": 1150,
+  "tipo": "Escultura",
+  "periodo": "Recepción medieval de Roma",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "La loba y los gemelos transformaron una pieza medieval en emblema duradero de la fundación romana.",
+  "localizacion": "Museos Capitolinos",
+  "ciudad": "Roma",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Capitolinos%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Bronce",
+    "Fundición"
+  ],
+  "etiquetas": [
+    "Grecia y Roma",
+    "Recepción medieval de Roma",
+    "Italia",
+    "Escultura",
+    "Bronce",
+    "Fundición",
+    "arte universal"
+  ],
+  "proporcion": [
+    7489,
+    4876
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lupa_Capitolina%2C_Rome.jpg/1920px-Lupa_Capitolina%2C_Rome.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lupa_Capitolina%2C_Rome.jpg/3840px-Lupa_Capitolina%2C_Rome.jpg",
+    "alt": "Reproducción de Loba Capitolina, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lupa_Capitolina%2C_Rome.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

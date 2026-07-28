@@ -1,0 +1,40 @@
+{
+  "id": "senecio-klee",
+  "titulo": "Senecio",
+  "autor": "Paul Klee",
+  "fecha": "1922",
+  "fechaOrden": 1922,
+  "tipo": "Pintura",
+  "periodo": "Vanguardia y surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Un rostro se reduce a campos geométricos cálidos sin perder su ambigua presencia humana.",
+  "localizacion": "Kunstmuseum Basel",
+  "ciudad": "Basilea",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunstmuseum%20Basel%20Basilea",
+  "pais": "Suiza",
+  "tecnicas": [
+    "Óleo sobre gasa montada en tabla"
+  ],
+  "etiquetas": [
+    "Surrealismo y primeras vanguardias",
+    "Vanguardia y surrealismo",
+    "Suiza",
+    "Pintura",
+    "Óleo sobre gasa montada en tabla",
+    "arte universal"
+  ],
+  "proporcion": [
+    3712,
+    4046
+  ],
+  "color": "#66558b",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Paul_Klee%2C_1922%2C_Senecio%2C_oil_on_gauze%2C_40.3_%C3%97_37.4_cm%2C_Kunstmuseum_Basel.jpg/1920px-Paul_Klee%2C_1922%2C_Senecio%2C_oil_on_gauze%2C_40.3_%C3%97_37.4_cm%2C_Kunstmuseum_Basel.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Paul_Klee%2C_1922%2C_Senecio%2C_oil_on_gauze%2C_40.3_%C3%97_37.4_cm%2C_Kunstmuseum_Basel.jpg",
+    "alt": "Reproducción de Senecio, Paul Klee",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paul_Klee%2C_1922%2C_Senecio%2C_oil_on_gauze%2C_40.3_%C3%97_37.4_cm%2C_Kunstmuseum_Basel.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Paul Klee",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "boulevard-du-temple",
+  "titulo": "Boulevard du Temple",
+  "autor": "Louis Daguerre",
+  "fecha": "1838",
+  "fechaOrden": 1838,
+  "tipo": "Fotografía",
+  "periodo": "Daguerrotipo",
+  "coleccion": "Fotografía",
+  "descripcion": "La larga exposición vació la calle salvo por una figura inmóvil, una de las primeras personas registradas fotográficamente.",
+  "localizacion": "Bayerisches Nationalmuseum",
+  "ciudad": "Múnich",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bayerisches%20Nationalmuseum%20M%C3%BAnich",
+  "pais": "Francia",
+  "reconocimiento": "Primera representación fotográfica conocida de una persona",
+  "tecnicas": [
+    "Daguerrotipo"
+  ],
+  "etiquetas": [
+    "Fotografía",
+    "Daguerrotipo",
+    "Francia",
+    "arte universal"
+  ],
+  "proporcion": [
+    3441,
+    2472
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Boulevard_du_Temple_by_Daguerre.jpg/1920px-Boulevard_du_Temple_by_Daguerre.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Boulevard_du_Temple_by_Daguerre.jpg",
+    "alt": "Reproducción de Boulevard du Temple, Louis Daguerre",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Boulevard_du_Temple_by_Daguerre.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Louis Daguerre",
+    "foco": "center"
+  }
+}

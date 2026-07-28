@@ -1,0 +1,84 @@
+{
+  "id": "nebamun-caza-pantanos",
+  "titulo": "Nebamun cazando en los pantanos",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1350 a. C.",
+  "fechaOrden": -1350,
+  "tipo": "Pintura mural",
+  "periodo": "Dinastía XVIII",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "Aves, plantas y figuras se organizan en una superficie vibrante que celebra abundancia y renacimiento.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Temple sobre yeso"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "arte universal",
+    "Dinastía XVIII",
+    "Egipto",
+    "Pintura mural",
+    "Temple sobre yeso"
+  ],
+  "proporcion": [
+    1962,
+    1828
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TombofNebamun-2.jpg/1920px-TombofNebamun-2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/06/TombofNebamun-2.jpg",
+    "alt": "Reproducción de Nebamun cazando en los pantanos, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:TombofNebamun-2.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TombofNebamun-2.jpg/1920px-TombofNebamun-2.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/06/TombofNebamun-2.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nAves, plantas y figuras se organizan en una superficie vibrante que celebra abundancia y renacimiento.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Dinastía XVIII\n\nEl arte egipcio vinculó imagen, poder, culto funerario y permanencia. La frontalidad, la escala jerárquica y la elección de materiales respondían a funciones religiosas y políticas concretas.\n\n**Fecha:** c. 1350 a. C.  \n**Ámbito:** Egipto  \n**Conservación o emplazamiento:** British Museum, Londres, Egipto",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Temple sobre yeso\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu vocabulario visual ha condicionado la imaginación occidental sobre la Antigüedad y sigue siendo fundamental para estudiar la relación entre arte, escritura, ritual y autoridad.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Tomb_of_Nebamun)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:TombofNebamun-2.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

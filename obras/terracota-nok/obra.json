@@ -1,0 +1,42 @@
+{
+  "id": "terracota-nok",
+  "titulo": "Figura de terracota Nok",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 500 a. C.–200 d. C.",
+  "fechaOrden": -150,
+  "tipo": "Escultura",
+  "periodo": "Cultura Nok",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Cabeza, ojos perforados y peinado geométrico condensan una tradición escultórica conocida por hallazgos fragmentarios.",
+  "localizacion": "Museo Nacional de Nigeria",
+  "ciudad": "Lagos",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Nigeria%20Lagos",
+  "pais": "Nigeria",
+  "tecnicas": [
+    "Terracota",
+    "Modelado"
+  ],
+  "etiquetas": [
+    "África, Américas y Oceanía",
+    "Cultura Nok",
+    "Nigeria",
+    "Escultura",
+    "Terracota",
+    "Modelado",
+    "arte universal"
+  ],
+  "proporcion": [
+    2000,
+    3000
+  ],
+  "color": "#785d47",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nok%20sculpture%20Louvre%2070-1998-11-1.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nok%20sculpture%20Louvre%2070-1998-11-1.jpg",
+    "alt": "Reproducción de Figura de terracota Nok, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Nok%20sculpture%20Louvre%2070-1998-11-1.jpg",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Escultura Nok · Musée du Louvre · Wikimedia Commons",
+    "foco": "center"
+  }
+}

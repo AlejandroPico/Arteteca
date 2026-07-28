@@ -1,0 +1,42 @@
+{
+  "id": "discobolo",
+  "titulo": "Discóbolo",
+  "autor": "Mirón (original); copia romana",
+  "fecha": "c. 460–450 a. C.",
+  "fechaOrden": -455,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "El atleta queda suspendido en el instante de máxima tensión antes del lanzamiento.",
+  "localizacion": "Museo Nacional Romano",
+  "ciudad": "Roma",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20Romano%20Roma",
+  "pais": "Grecia",
+  "tecnicas": [
+    "Mármol",
+    "Copia romana de original en bronce"
+  ],
+  "etiquetas": [
+    "Grecia y Roma",
+    "Grecia clásica",
+    "Grecia",
+    "Escultura",
+    "Mármol",
+    "Copia romana de original en bronce",
+    "arte universal"
+  ],
+  "proporcion": [
+    2030,
+    3274
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg/1920px-Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/42/Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg",
+    "alt": "Reproducción de Discóbolo, Mirón (original); copia romana",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Roman_bronze_copy_of_Myron%E2%80%99s_Discobolos%2C_2nd_century_CE_%28Glyptothek_Munich%29.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Mirón (original); copia romana",
+    "foco": "center"
+  }
+}

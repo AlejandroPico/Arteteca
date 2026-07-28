@@ -1,0 +1,40 @@
+{
+  "id": "arte-pintura-vermeer",
+  "titulo": "El arte de la pintura",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1666–1668",
+  "fechaOrden": 1667,
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "Cortina, mapa, modelo y pintor convierten el interior en una reflexión sobre historia y representación.",
+  "localizacion": "Kunsthistorisches Museum",
+  "ciudad": "Viena",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunsthistorisches%20Museum%20Viena",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Barroco neerlandés",
+    "Países Bajos",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    6209,
+    7377
+  ],
+  "color": "#613f36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg/1920px-Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg/3840px-Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+    "alt": "Reproducción de El arte de la pintura, Johannes Vermeer",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Johannes Vermeer",
+    "foco": "center"
+  }
+}

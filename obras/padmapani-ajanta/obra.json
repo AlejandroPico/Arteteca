@@ -1,0 +1,41 @@
+{
+  "id": "padmapani-ajanta",
+  "titulo": "Bodhisattva Padmapani de Ajanta",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 450–500",
+  "fechaOrden": 475,
+  "tipo": "Pintura mural",
+  "periodo": "Arte budista de Ajanta",
+  "coleccion": "Asia",
+  "descripcion": "La figura del bodhisattva sostiene un loto y combina una presencia serena con una línea flexible, joyas minuciosas y transiciones suaves de color.",
+  "localizacion": "Cueva 1 de Ajanta",
+  "ciudad": "Maharashtra",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cueva%201%20de%20Ajanta%20Maharashtra",
+  "pais": "India",
+  "tecnicas": [
+    "Pigmento sobre pared de roca"
+  ],
+  "etiquetas": [
+    "Asia",
+    "Arte budista de Ajanta",
+    "India",
+    "Pintura mural",
+    "Pigmento sobre pared de roca",
+    "arte universal"
+  ],
+  "proporcion": [
+    457,
+    691
+  ],
+  "color": "#9a4b3d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ajanta%20Padmapani.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ajanta%20Padmapani.jpg",
+    "alt": "Reproducción de Bodhisattva Padmapani de Ajanta",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ajanta%20Padmapani.jpg",
+    "licencia": "Dominio público",
+    "credito": "Bodhisattva Padmapani · Cueva 1 de Ajanta · Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

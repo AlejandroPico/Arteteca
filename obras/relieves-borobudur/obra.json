@@ -1,0 +1,42 @@
+{
+  "id": "relieves-borobudur",
+  "titulo": "Relieves de Borobudur",
+  "autor": "Talleres Sailendra",
+  "fecha": "siglos VIII–IX",
+  "fechaOrden": 825,
+  "tipo": "Relieve y arquitectura",
+  "periodo": "Arte budista de Java",
+  "coleccion": "Asia",
+  "descripcion": "Kilómetros de relieves acompañan un ascenso arquitectónico concebido como itinerario espiritual.",
+  "localizacion": "Borobudur",
+  "ciudad": "Java Central",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Borobudur%20Java%20Central",
+  "pais": "Indonesia",
+  "tecnicas": [
+    "Andesita",
+    "Bajorrelieve"
+  ],
+  "etiquetas": [
+    "Asia",
+    "Arte budista de Java",
+    "Indonesia",
+    "Relieve y arquitectura",
+    "Andesita",
+    "Bajorrelieve",
+    "arte universal"
+  ],
+  "proporcion": [
+    5846,
+    3897
+  ],
+  "color": "#9a4b3d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/1920px-Pradaksina.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pradaksina.jpg",
+    "alt": "Reproducción de Relieves de Borobudur, Talleres Sailendra",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pradaksina.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres Sailendra",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "mama-papa-herido",
+  "titulo": "¡Mamá, papá está herido!",
+  "autor": "Yves Tanguy",
+  "fecha": "1927",
+  "fechaOrden": 1927,
+  "tipo": "Pintura",
+  "periodo": "Surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Formas biomórficas aisladas habitan un paisaje sin escala donde título e imagen se resisten a una lectura literal.",
+  "localizacion": "Museum of Modern Art",
+  "ciudad": "Nueva York",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20Nueva%20York",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Surrealismo y primeras vanguardias",
+    "Surrealismo",
+    "Francia",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    1599,
+    2000
+  ],
+  "color": "#66558b",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mama%2C_Papa_is_Wounded%21.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mama%2C_Papa_is_Wounded%21.jpg",
+    "alt": "Reproducción de ¡Mamá, papá está herido!, Yves Tanguy",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Mama%2C_Papa_is_Wounded%21.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Yves Tanguy",
+    "foco": "center"
+  }
+}

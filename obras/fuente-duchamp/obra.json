@@ -1,0 +1,41 @@
+{
+  "id": "fuente-duchamp",
+  "titulo": "Fuente",
+  "autor": "Marcel Duchamp",
+  "fecha": "1917",
+  "fechaOrden": 1917,
+  "tipo": "Readymade",
+  "periodo": "Dadaísmo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Un urinario industrial desplazado y firmado cuestionó autoría, gusto, institución y definición de obra de arte.",
+  "localizacion": "Tate Modern",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Tate%20Modern%20Londres",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Cerámica industrial",
+    "Readymade"
+  ],
+  "etiquetas": [
+    "Surrealismo y primeras vanguardias",
+    "Dadaísmo",
+    "Estados Unidos",
+    "Readymade",
+    "Cerámica industrial",
+    "arte universal"
+  ],
+  "proporcion": [
+    1416,
+    1849
+  ],
+  "color": "#66558b",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg",
+    "alt": "Reproducción de Fuente, Marcel Duchamp",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Marcel Duchamp",
+    "foco": "center"
+  }
+}

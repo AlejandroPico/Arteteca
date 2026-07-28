@@ -1,0 +1,46 @@
+{
+  "id": "patio-leones-alhambra",
+  "titulo": "Patio de los Leones",
+  "autor": "Talleres nazaríes",
+  "fecha": "c. 1362–1391",
+  "fechaOrden": 1375,
+  "tipo": "Arquitectura",
+  "periodo": "Arte nazarí",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Agua, columnas, yeserías y proporciones producen una arquitectura cambiante y sensorial.",
+  "localizacion": "Alhambra",
+  "ciudad": "Granada",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Alhambra%20Granada",
+  "pais": "España",
+  "tecnicas": [
+    "Mármol",
+    "Yesería",
+    "Madera",
+    "Cerámica"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Arte nazarí",
+    "España",
+    "Arquitectura",
+    "Mármol",
+    "Yesería",
+    "Madera",
+    "Cerámica",
+    "arte universal"
+  ],
+  "proporcion": [
+    3168,
+    4752
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fountain_in_Patio_de_los_Leones%2C_Alhambra%2C_16.08.14.jpg/1920px-Fountain_in_Patio_de_los_Leones%2C_Alhambra%2C_16.08.14.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fountain_in_Patio_de_los_Leones%2C_Alhambra%2C_16.08.14.jpg",
+    "alt": "Reproducción de Patio de los Leones, Talleres nazaríes",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Fountain_in_Patio_de_los_Leones%2C_Alhambra%2C_16.08.14.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres nazaríes",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "marco-aurelio-ecuestre",
+  "titulo": "Estatua ecuestre de Marco Aurelio",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 175 d. C.",
+  "fechaOrden": 175,
+  "tipo": "Escultura",
+  "periodo": "Roma imperial",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Caballo, gesto y escala proyectan autoridad serena sin representar una acción bélica directa.",
+  "localizacion": "Museos Capitolinos",
+  "ciudad": "Roma",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Capitolinos%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Bronce dorado",
+    "Fundición"
+  ],
+  "etiquetas": [
+    "Grecia y Roma",
+    "Roma imperial",
+    "Italia",
+    "Escultura",
+    "Bronce dorado",
+    "Fundición",
+    "arte universal"
+  ],
+  "proporcion": [
+    4872,
+    8844
+  ],
+  "color": "#6f7782",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Equestrian_statue_of_Marcus_Aurelius_%28Rome%29.jpg/1920px-Equestrian_statue_of_Marcus_Aurelius_%28Rome%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Equestrian_statue_of_Marcus_Aurelius_%28Rome%29.jpg/3840px-Equestrian_statue_of_Marcus_Aurelius_%28Rome%29.jpg",
+    "alt": "Reproducción de Estatua ecuestre de Marco Aurelio, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Equestrian_statue_of_Marcus_Aurelius_%28Rome%29.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

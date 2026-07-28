@@ -1,0 +1,42 @@
+{
+  "id": "escriba-sentado",
+  "titulo": "El escriba sentado",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 2600–2350 a. C.",
+  "fechaOrden": -2475,
+  "tipo": "Escultura",
+  "periodo": "Imperio Antiguo",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "La mirada incrustada y la postura atenta individualizan a un funcionario fuera de la rigidez regia.",
+  "localizacion": "Museo del Louvre",
+  "ciudad": "París",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%20Par%C3%ADs",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Piedra caliza pintada",
+    "Cristal de roca"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "Imperio Antiguo",
+    "Egipto",
+    "Escultura",
+    "Piedra caliza pintada",
+    "Cristal de roca",
+    "arte universal"
+  ],
+  "proporcion": [
+    7062,
+    7887
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Le_Scribe_accroupi_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_%C3%A9gyptiennes_E_3023.jpg/1920px-Le_Scribe_accroupi_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_%C3%A9gyptiennes_E_3023.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Le_Scribe_accroupi_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_%C3%A9gyptiennes_E_3023.jpg/3840px-Le_Scribe_accroupi_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_%C3%A9gyptiennes_E_3023.jpg",
+    "alt": "Reproducción de El escriba sentado, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Le_Scribe_accroupi_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_%C3%A9gyptiennes_E_3023.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

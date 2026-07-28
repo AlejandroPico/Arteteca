@@ -1,0 +1,42 @@
+{
+  "id": "nataraja-chola",
+  "titulo": "Shiva Nataraja",
+  "autor": "Talleres chola",
+  "fecha": "siglos XI–XII",
+  "fechaOrden": 1100,
+  "tipo": "Escultura",
+  "periodo": "Imperio chola",
+  "coleccion": "Asia",
+  "descripcion": "La danza cósmica integra destrucción, creación, conocimiento y ritmo dentro de un círculo de fuego.",
+  "localizacion": "Government Museum",
+  "ciudad": "Chennai",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Government%20Museum%20Chennai",
+  "pais": "India",
+  "tecnicas": [
+    "Bronce",
+    "Cera perdida"
+  ],
+  "etiquetas": [
+    "Asia",
+    "Imperio chola",
+    "India",
+    "Escultura",
+    "Bronce",
+    "Cera perdida",
+    "arte universal"
+  ],
+  "proporcion": [
+    2876,
+    3694
+  ],
+  "color": "#9a4b3d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shiva_as_the_Lord_of_Dance_LACMA_edit.jpg/1920px-Shiva_as_the_Lord_of_Dance_LACMA_edit.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Shiva_as_the_Lord_of_Dance_LACMA_edit.jpg",
+    "alt": "Reproducción de Shiva Nataraja, Talleres chola",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Shiva_as_the_Lord_of_Dance_LACMA_edit.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Talleres chola",
+    "foco": "center"
+  }
+}

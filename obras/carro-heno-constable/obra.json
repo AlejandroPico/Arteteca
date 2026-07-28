@@ -1,0 +1,40 @@
+{
+  "id": "carro-heno-constable",
+  "titulo": "El carro de heno",
+  "autor": "John Constable",
+  "fecha": "1821",
+  "fechaOrden": 1821,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo inglés",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "El trabajo rural y la humedad atmosférica se observan con una naturalidad construida mediante manchas de color.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Romanticismo, Realismo e Impresionismo",
+    "Romanticismo inglés",
+    "Reino Unido",
+    "Pintura",
+    "Óleo sobre lienzo",
+    "arte universal"
+  ],
+  "proporcion": [
+    6128,
+    4226
+  ],
+  "color": "#68584c",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg/1920px-John_Constable_-_The_Hay_Wain_%281821%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg",
+    "alt": "Reproducción de El carro de heno, John Constable",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_%281821%29.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · John Constable",
+    "foco": "center"
+  }
+}

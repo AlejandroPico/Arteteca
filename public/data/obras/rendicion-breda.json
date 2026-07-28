@@ -1,0 +1,84 @@
+{
+  "id": "rendicion-breda",
+  "titulo": "La rendición de Breda",
+  "autor": "Diego Velázquez",
+  "fecha": "1634–1635",
+  "fechaOrden": 1635,
+  "tipo": "Pintura",
+  "periodo": "Barroco español",
+  "coleccion": "Barroco",
+  "descripcion": "La entrega de llaves desplaza el énfasis desde la humillación hacia un encuentro entre comandantes.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "arte universal",
+    "Barroco",
+    "Barroco español",
+    "España",
+    "Pintura",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    3051,
+    2516
+  ],
+  "color": "#613f36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Velazquez-The_Surrender_of_Breda.jpg/1920px-Velazquez-The_Surrender_of_Breda.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Velazquez-The_Surrender_of_Breda.jpg",
+    "alt": "Reproducción de La rendición de Breda, Diego Velázquez",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Velazquez-The_Surrender_of_Breda.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Diego Velázquez",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Velazquez-The_Surrender_of_Breda.jpg/1920px-Velazquez-The_Surrender_of_Breda.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Velazquez-The_Surrender_of_Breda.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa entrega de llaves desplaza el énfasis desde la humillación hacia un encuentro entre comandantes.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Barroco español\n\nEl Barroco convirtió luz, gesto, materia y espacio en instrumentos de persuasión. La pintura y la escultura buscaron involucrar física y emocionalmente al espectador.\n\n**Fecha:** 1634–1635  \n**Ámbito:** España  \n**Conservación o emplazamiento:** Museo Nacional del Prado, Madrid, España",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Óleo sobre lienzo\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu teatralidad, naturalismo y dominio de la puesta en escena siguen influyendo en la fotografía, el cine, la escenografía y la cultura visual contemporánea.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/The_Surrender_of_Breda)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Velazquez-The_Surrender_of_Breda.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

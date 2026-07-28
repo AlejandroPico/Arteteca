@@ -1,0 +1,41 @@
+{
+  "id": "estela-akhenaton-familia",
+  "titulo": "Akenatón, Nefertiti y sus hijas",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1350 a. C.",
+  "fechaOrden": -1350,
+  "tipo": "Relieve",
+  "periodo": "Periodo de Amarna",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "La intimidad familiar convive con los rayos vivificadores de Atón en una escena religiosa excepcional.",
+  "localizacion": "Neues Museum",
+  "ciudad": "Berlín",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Neues%20Museum%20Berl%C3%ADn",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Piedra caliza",
+    "Relieve"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "Periodo de Amarna",
+    "Egipto",
+    "Relieve",
+    "Piedra caliza",
+    "arte universal"
+  ],
+  "proporcion": [
+    2400,
+    3000
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/GD-EG-Caire-Mus%C3%A9e066.JPG?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/GD-EG-Caire-Mus%C3%A9e066.JPG",
+    "alt": "Reproducción de Akenatón, Nefertiti y sus hijas, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:GD-EG-Caire-Mus%C3%A9e066.JPG",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Estela de Akenatón y su familia · Egyptian Museum · Wikimedia Commons",
+    "foco": "center"
+  }
+}

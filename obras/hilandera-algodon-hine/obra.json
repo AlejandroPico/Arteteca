@@ -1,0 +1,40 @@
+{
+  "id": "hilandera-algodon-hine",
+  "titulo": "Pequeña hilandera en una fábrica de algodón",
+  "autor": "Lewis Hine",
+  "fecha": "1908",
+  "fechaOrden": 1908,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía social",
+  "coleccion": "Fotografía",
+  "descripcion": "La escala de la niña frente a la maquinaria convirtió la documentación en argumento para la reforma laboral.",
+  "localizacion": "Library of Congress",
+  "ciudad": "Washington D. C.",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Library%20of%20Congress%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Parte de la campaña contra el trabajo infantil",
+  "tecnicas": [
+    "Gelatina de plata"
+  ],
+  "etiquetas": [
+    "Fotografía",
+    "Fotografía social",
+    "Estados Unidos",
+    "Gelatina de plata",
+    "arte universal"
+  ],
+  "proporcion": [
+    5000,
+    3618
+  ],
+  "color": "#465563",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis%20Hine%2C%20Spinner%20in%20Globe%20Cotton%20Mill%2C%20Augusta%2C%20Georgia%2C%201909.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis%20Hine%2C%20Spinner%20in%20Globe%20Cotton%20Mill%2C%20Augusta%2C%20Georgia%2C%201909.jpg",
+    "alt": "Reproducción de Pequeña hilandera en una fábrica de algodón, Lewis Hine",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lewis%20Hine%2C%20Spinner%20in%20Globe%20Cotton%20Mill%2C%20Augusta%2C%20Georgia%2C%201909.jpg",
+    "licencia": "Dominio público en Estados Unidos; colección Library of Congress",
+    "credito": "Lewis Hine · Library of Congress · Wikimedia Commons",
+    "foco": "center"
+  }
+}

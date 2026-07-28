@@ -1,0 +1,40 @@
+{
+  "id": "pantocrator-sinai",
+  "titulo": "Cristo Pantocrátor del Sinaí",
+  "autor": "Autoría desconocida",
+  "fecha": "siglo VI",
+  "fechaOrden": 550,
+  "tipo": "Icono",
+  "periodo": "Arte bizantino",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "La leve asimetría facial sostiene simultáneamente autoridad, humanidad y presencia sagrada.",
+  "localizacion": "Monasterio de Santa Catalina",
+  "ciudad": "Sinaí",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Monasterio%20de%20Santa%20Catalina%20Sina%C3%AD",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Encáustica sobre tabla"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Arte bizantino",
+    "Egipto",
+    "Icono",
+    "Encáustica sobre tabla",
+    "arte universal"
+  ],
+  "proporcion": [
+    2023,
+    3774
+  ],
+  "color": "#8b623d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Spas_vsederzhitel_sinay.jpg/1920px-Spas_vsederzhitel_sinay.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+    "alt": "Reproducción de Cristo Pantocrátor del Sinaí, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

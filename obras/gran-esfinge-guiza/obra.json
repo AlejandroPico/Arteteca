@@ -1,0 +1,40 @@
+{
+  "id": "gran-esfinge-guiza",
+  "titulo": "Gran Esfinge de Guiza",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 2558–2532 a. C.",
+  "fechaOrden": -2545,
+  "tipo": "Escultura monumental",
+  "periodo": "Imperio Antiguo",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "La cabeza real y el cuerpo de león funden vigilancia, poder solar y paisaje funerario.",
+  "localizacion": "Meseta de Guiza",
+  "ciudad": "Guiza",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Meseta%20de%20Guiza%20Guiza",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Caliza tallada"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "Imperio Antiguo",
+    "Egipto",
+    "Escultura monumental",
+    "Caliza tallada",
+    "arte universal"
+  ],
+  "proporcion": [
+    3872,
+    2404
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sphinx_with_the_third_pyramid.jpg/1920px-Sphinx_with_the_third_pyramid.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sphinx_with_the_third_pyramid.jpg",
+    "alt": "Reproducción de Gran Esfinge de Guiza, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sphinx_with_the_third_pyramid.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

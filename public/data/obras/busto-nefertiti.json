@@ -1,0 +1,86 @@
+{
+  "id": "busto-nefertiti",
+  "titulo": "Busto de Nefertiti",
+  "autor": "Tutmose (atribución)",
+  "fecha": "c. 1345 a. C.",
+  "fechaOrden": -1345,
+  "tipo": "Escultura",
+  "periodo": "Periodo de Amarna",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "El rostro combina simetría, policromía y una extraordinaria precisión en el modelado.",
+  "localizacion": "Neues Museum",
+  "ciudad": "Berlín",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Neues%20Museum%20Berl%C3%ADn",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Piedra caliza",
+    "Estuco policromado"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "arte universal",
+    "Egipto",
+    "Escultura",
+    "Estuco policromado",
+    "Periodo de Amarna",
+    "Piedra caliza"
+  ],
+  "proporcion": [
+    1282,
+    1877
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nofretete_Neues_Museum.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nofretete_Neues_Museum.jpg",
+    "alt": "Reproducción de Busto de Nefertiti, Tutmose (atribución)",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Nofretete_Neues_Museum.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Tutmose (atribución)",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nofretete_Neues_Museum.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nofretete_Neues_Museum.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "escultura",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nEl rostro combina simetría, policromía y una extraordinaria precisión en el modelado.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Periodo de Amarna\n\nEl arte egipcio vinculó imagen, poder, culto funerario y permanencia. La frontalidad, la escala jerárquica y la elección de materiales respondían a funciones religiosas y políticas concretas.\n\n**Fecha:** c. 1345 a. C.  \n**Ámbito:** Egipto  \n**Conservación o emplazamiento:** Neues Museum, Berlín, Egipto",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Piedra caliza\n- Estuco policromado\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu vocabulario visual ha condicionado la imaginación occidental sobre la Antigüedad y sigue siendo fundamental para estudiar la relación entre arte, escritura, ritual y autoridad.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Nefertiti_Bust)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Nofretete_Neues_Museum.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

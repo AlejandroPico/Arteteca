@@ -1,0 +1,86 @@
+{
+  "id": "paleta-narmer",
+  "titulo": "Paleta de Narmer",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 3100 a. C.",
+  "fechaOrden": -3100,
+  "tipo": "Relieve",
+  "periodo": "Periodo protodinástico",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "Sus registros condensan ceremonia, violencia y un programa temprano de realeza unificada.",
+  "localizacion": "Museo Egipcio",
+  "ciudad": "El Cairo",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Egipcio%20El%20Cairo",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Esquisto",
+    "Bajorrelieve"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "arte universal",
+    "Bajorrelieve",
+    "Egipto",
+    "Esquisto",
+    "Periodo protodinástico",
+    "Relieve"
+  ],
+  "proporcion": [
+    2566,
+    1808
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Narmer_Palette.jpg/1920px-Narmer_Palette.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/be/Narmer_Palette.jpg",
+    "alt": "Reproducción de Paleta de Narmer, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Narmer_Palette.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Narmer_Palette.jpg/1920px-Narmer_Palette.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/be/Narmer_Palette.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "escultura",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nSus registros condensan ceremonia, violencia y un programa temprano de realeza unificada.\n\nConviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## Periodo protodinástico\n\nEl arte egipcio vinculó imagen, poder, culto funerario y permanencia. La frontalidad, la escala jerárquica y la elección de materiales respondían a funciones religiosas y políticas concretas.\n\n**Fecha:** c. 3100 a. C.  \n**Ámbito:** Egipto  \n**Conservación o emplazamiento:** Museo Egipcio, El Cairo, Egipto",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está construida\n\n- Esquisto\n- Bajorrelieve\n\nLa identificación técnica funciona también como etiqueta interna del catálogo. Permite relacionar la obra con piezas de otros periodos que comparten soporte, procedimiento o modo de producción, sin confundir semejanza material con equivalencia histórica.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu vocabulario visual ha condicionado la imaginación occidental sobre la Antigüedad y sigue siendo fundamental para estudiar la relación entre arte, escritura, ritual y autoridad.\n\nSu inclusión en Arteteca no pretende cerrar una jerarquía: sirve como punto de partida para establecer conexiones con otras obras, culturas y medios del mosaico.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Referencias de esta ficha\n\n- [Artículo de referencia](https://en.wikipedia.org/wiki/Narmer_Palette)\n- [Archivo y condiciones de reutilización de la imagen](https://commons.wikimedia.org/wiki/File:Narmer_Palette.jpg)\n\nLa reproducción procede de Wikimedia Commons. La licencia exacta y el historial del archivo deben comprobarse siempre en su ficha de origen antes de reutilizarlo fuera de Arteteca.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "juicio-hunefer",
+  "titulo": "El juicio de Hunefer",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 1275 a. C.",
+  "fechaOrden": -1275,
+  "tipo": "Manuscrito",
+  "periodo": "Dinastía XIX",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "La pesada del corazón convierte doctrina funeraria y escritura jeroglífica en una secuencia narrativa.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
+  "pais": "Egipto",
+  "tecnicas": [
+    "Papiro pintado"
+  ],
+  "etiquetas": [
+    "Antiguo Egipto",
+    "Dinastía XIX",
+    "Egipto",
+    "Manuscrito",
+    "Papiro pintado",
+    "arte universal"
+  ],
+  "proporcion": [
+    2446,
+    1112
+  ],
+  "color": "#9b6b36",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg/1920px-The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg",
+    "alt": "Reproducción de El juicio de Hunefer, Autoría desconocida",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Autoría desconocida",
+    "foco": "center"
+  }
+}

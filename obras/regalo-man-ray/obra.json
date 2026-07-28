@@ -1,0 +1,44 @@
+{
+  "id": "regalo-man-ray",
+  "titulo": "Regalo",
+  "autor": "Man Ray",
+  "fecha": "1921",
+  "fechaOrden": 1921,
+  "tipo": "Objeto",
+  "periodo": "Dadaísmo y surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Una plancha con clavos vuelve inútil y agresivo un objeto doméstico mediante una intervención mínima.",
+  "localizacion": "Museum of Modern Art",
+  "ciudad": "Nueva York",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20Nueva%20York",
+  "pais": "Francia",
+  "tecnicas": [
+    "Hierro",
+    "Clavos",
+    "Readymade"
+  ],
+  "etiquetas": [
+    "Surrealismo y primeras vanguardias",
+    "Dadaísmo y surrealismo",
+    "Francia",
+    "Objeto",
+    "Hierro",
+    "Clavos",
+    "Readymade",
+    "arte universal"
+  ],
+  "proporcion": [
+    1248,
+    1960
+  ],
+  "color": "#66558b",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/%27Cadeau%27_by_Man_Ray%2C_iron_and_nails%2C_Tate_Modern.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/aa/%27Cadeau%27_by_Man_Ray%2C_iron_and_nails%2C_Tate_Modern.JPG",
+    "alt": "Reproducción de Regalo, Man Ray",
+    "fuente": "https://commons.wikimedia.org/wiki/File:%27Cadeau%27_by_Man_Ray%2C_iron_and_nails%2C_Tate_Modern.JPG",
+    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
+    "credito": "Reproducción: Wikimedia Commons · Man Ray",
+    "foco": "center"
+  }
+}

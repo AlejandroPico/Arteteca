@@ -2,11 +2,11 @@
 
 > Documento canónico de contexto operativo para asistentes de inteligencia artificial, agentes de código y colaboradores humanos.
 >
-> Repositorio: `AlejandroPico/Arteteca`  
-> Rama de trabajo habitual: `main`  
-> Repositorio público: <https://github.com/AlejandroPico/Arteteca>  
-> Aplicación publicada: <https://alejandropico.github.io/Arteteca/>  
-> Nombre visible del proyecto: **Arteteca**  
+> Repositorio: `AlejandroPico/Arteteca`
+> Rama de trabajo habitual: `main`
+> Repositorio público: <https://github.com/AlejandroPico/Arteteca>
+> Aplicación publicada: <https://alejandropico.github.io/Arteteca/>
+> Nombre visible del proyecto: **Arteteca**
 > Lema actual: **El arte sin pasillos**
 
 ---
@@ -2199,4 +2199,3 @@ Tu objetivo no es producir una maqueta rápida. Tu objetivo es ampliar una bibli
 ## 28. Instrucción lista para continuar
 
 Después de leer este documento, responde a la petición concreta del usuario como mantenedor de Arteteca. No le pidas que vuelva a explicar la arquitectura aquí descrita. Si falta una elección material que cambie el resultado, pregunta; si no falta, actúa. Mantén informado al usuario durante tareas largas y termina solo cuando la versión solicitada esté validada y, si procede, publicada.
-

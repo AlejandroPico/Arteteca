@@ -1,0 +1,41 @@
+{
+  "id": "tormenta-galilea",
+  "titulo": "La tormenta en el mar de Galilea",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "1633",
+  "fechaOrden": 1633,
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Una ola golpea la barca y dispersa a los discípulos en múltiples reacciones, desde el esfuerzo físico hasta el terror.",
+  "localizacion": "Isabella Stewart Gardner Museum",
+  "ciudad": "Boston",
+  "urlLocalizacion": "https://www.gardnermuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Isabella%20Stewart%20Gardner%20Museum%2C%20Boston",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Rembrandt van Rijn",
+    "Barroco neerlandés",
+    "Estados Unidos",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    160,
+    128
+  ],
+  "color": "#5b4937",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20Christ%20in%20the%20Storm%20on%20the%20Lake%20of%20Galilee.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20Christ%20in%20the%20Storm%20on%20the%20Lake%20of%20Galilee.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rembrandt%20Christ%20in%20the%20Storm%20on%20the%20Lake%20of%20Galilee.jpg",
+    "alt": "La tormenta en el mar de Galilea, de Rembrandt van Rijn",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rembrandt van Rijn · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

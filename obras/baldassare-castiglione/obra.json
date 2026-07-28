@@ -1,0 +1,41 @@
+{
+  "id": "baldassare-castiglione",
+  "titulo": "Retrato de Baldassare Castiglione",
+  "autor": "Rafael",
+  "fecha": "c. 1514–1515",
+  "fechaOrden": 1514,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "La gama de grises, negros y pieles concentra toda la atención en una mirada serena y cercana.",
+  "localizacion": "Museo del Louvre",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.louvre.fr/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Rafael",
+    "Alto Renacimiento",
+    "Francia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    67,
+    82
+  ],
+  "color": "#715b65",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20Baldassare%20Castiglione%20by%20Raphael.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20Baldassare%20Castiglione%20by%20Raphael.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Portrait%20of%20Baldassare%20Castiglione%20by%20Raphael.jpg",
+    "alt": "Retrato de Baldassare Castiglione, de Rafael",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rafael · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

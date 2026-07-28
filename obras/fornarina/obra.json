@@ -1,0 +1,41 @@
+{
+  "id": "fornarina",
+  "titulo": "La Fornarina",
+  "autor": "Rafael",
+  "fecha": "c. 1518–1519",
+  "fechaOrden": 1518,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Una mujer semidesnuda aparta un velo y muestra un brazalete con la firma de Rafael, entre intimidad y autorrepresentación del pintor.",
+  "localizacion": "Galleria Nazionale d’Arte Antica, Palazzo Barberini",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://barberinicorsini.org/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galleria%20Nazionale%20d%E2%80%99Arte%20Antica%2C%20Palazzo%20Barberini%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Rafael",
+    "Alto Renacimiento",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    60,
+    87
+  ],
+  "color": "#715b65",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20Fornarina%2C%20por%20Rafael.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20Fornarina%2C%20por%20Rafael.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La%20Fornarina%2C%20por%20Rafael.jpg",
+    "alt": "La Fornarina, de Rafael",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rafael · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "madonna-magnificat",
+  "titulo": "Madonna del Magnificat",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1481",
+  "fechaOrden": 1481,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Ángeles coronan a María mientras ella escribe el Magnificat y sostiene al Niño dentro de un tondo de ritmos circulares.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Temple sobre tabla"
+  ],
+  "etiquetas": [
+    "Sandro Botticelli",
+    "Primer Renacimiento",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    118,
+    118
+  ],
+  "color": "#8d654f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Madonna%20del%20Magnificat%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Madonna%20del%20Magnificat%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sandro%20Botticelli%20-%20Madonna%20del%20Magnificat%20-%20Google%20Art%20Project.jpg",
+    "alt": "Madonna del Magnificat, de Sandro Botticelli",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Sandro Botticelli · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

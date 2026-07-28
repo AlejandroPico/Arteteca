@@ -28,11 +28,13 @@
   let query = '';
   let selectedType = 'Todos';
   let selectedPeriod = 'Todos';
+  let selectedArtist = 'Todos';
   let order: OrdenCatalogo = 'azar';
   let limit = BATCH_SIZE;
   let activeArtwork: ObraResumen | null = null;
   let filtersOpen = false;
-  let filterFacet: 'tipo' | 'periodo' = 'tipo';
+  type FilterFacet = 'tipo' | 'periodo' | 'artista';
+  let filterFacet: FilterFacet = 'tipo';
   let filterQuery = '';
   let orderOpen = false;
   let searchOpen = false;
@@ -71,6 +73,7 @@
   function resetFilters() {
     selectedType = 'Todos';
     selectedPeriod = 'Todos';
+    selectedArtist = 'Todos';
     filterQuery = '';
     limit = BATCH_SIZE;
   }
@@ -78,18 +81,26 @@
   function selectFilter(value: string) {
     if (filterFacet === 'tipo') {
       selectedType = value;
-    } else {
+    } else if (filterFacet === 'periodo') {
       selectedPeriod = value;
+    } else {
+      selectedArtist = value;
     }
     limit = BATCH_SIZE;
   }
 
-  function filterOptionCount(facet: 'tipo' | 'periodo', value: string) {
+  function filterOptionCount(facet: FilterFacet, value: string) {
     return (catalog?.obras ?? []).filter((work) => {
       if (facet === 'tipo' && selectedPeriod !== 'Todos' && work.periodo !== selectedPeriod) return false;
+      if (facet === 'tipo' && selectedArtist !== 'Todos' && work.autor !== selectedArtist) return false;
       if (facet === 'periodo' && selectedType !== 'Todos' && work.tipo !== selectedType) return false;
+      if (facet === 'periodo' && selectedArtist !== 'Todos' && work.autor !== selectedArtist) return false;
+      if (facet === 'artista' && selectedType !== 'Todos' && work.tipo !== selectedType) return false;
+      if (facet === 'artista' && selectedPeriod !== 'Todos' && work.periodo !== selectedPeriod) return false;
       if (value === 'Todos') return true;
-      return facet === 'tipo' ? work.tipo === value : work.periodo === value;
+      if (facet === 'tipo') return work.tipo === value;
+      if (facet === 'periodo') return work.periodo === value;
+      return work.autor === value;
     }).length;
   }
 
@@ -133,6 +144,7 @@
     .filter((work) => {
       if (selectedType !== 'Todos' && work.tipo !== selectedType) return false;
       if (selectedPeriod !== 'Todos' && work.periodo !== selectedPeriod) return false;
+      if (selectedArtist !== 'Todos' && work.autor !== selectedArtist) return false;
       if (!normalizedQuery) return true;
       const haystack = normalizeForSearch(
         [work.titulo, work.tituloOriginal, work.autor, work.fecha, work.tipo, work.periodo, ...work.etiquetas]
@@ -148,13 +160,20 @@
       return 0;
     });
   $: visibleWorks = filteredWorks.slice(0, limit);
-  $: activeFilters = Number(selectedType !== 'Todos') + Number(selectedPeriod !== 'Todos');
+  $: activeFilters =
+    Number(selectedType !== 'Todos') +
+    Number(selectedPeriod !== 'Todos') +
+    Number(selectedArtist !== 'Todos');
   $: normalizedFilterQuery = normalizeForSearch(filterQuery);
-  $: currentFilterOptions = (filterFacet === 'tipo' ? catalog?.tipos : catalog?.periodos) ?? [];
+  $: currentFilterOptions =
+    (filterFacet === 'tipo' ? catalog?.tipos : filterFacet === 'periodo' ? catalog?.periodos : catalog?.artistas) ?? [];
   $: visibleFilterOptions = currentFilterOptions.filter((option) =>
     normalizedFilterQuery ? normalizeForSearch(option).includes(normalizedFilterQuery) : true,
   );
-  $: selectedFilterValue = filterFacet === 'tipo' ? selectedType : selectedPeriod;
+  $: selectedFilterValue =
+    filterFacet === 'tipo' ? selectedType : filterFacet === 'periodo' ? selectedPeriod : selectedArtist;
+  $: filterFacetLabel = filterFacet === 'tipo' ? 'tipo de obra' : filterFacet === 'periodo' ? 'periodo' : 'artista';
+  $: filterFacetPlural = filterFacet === 'tipo' ? 'tipos' : filterFacet === 'periodo' ? 'periodos' : 'artistas';
 
   onMount(() => {
     applyTheme((localStorage.getItem('arteteca-tema') as Tema | null) ?? 'auto');
@@ -309,13 +328,25 @@
               <small>{catalog?.periodos.length ?? 0}</small>
               {#if selectedPeriod !== 'Todos'}<i>{selectedPeriod}</i>{/if}
             </button>
+            <button
+              class:active={filterFacet === 'artista'}
+              type="button"
+              onclick={() => {
+                filterFacet = 'artista';
+                filterQuery = '';
+              }}
+            >
+              <span>Artista</span>
+              <small>{catalog?.artistas.length ?? 0}</small>
+              {#if selectedArtist !== 'Todos'}<i>{selectedArtist}</i>{/if}
+            </button>
           </nav>
 
           <label class="filter-browser__search">
             <Search size={16} />
             <input
               type="search"
-              placeholder={filterFacet === 'tipo' ? 'Buscar tipo de obra…' : 'Buscar periodo…'}
+              placeholder={`Buscar ${filterFacetLabel}…`}
               bind:value={filterQuery}
             />
             {#if filterQuery}
@@ -325,7 +356,7 @@
             {/if}
           </label>
 
-          <div class="filter-browser__list" role="listbox" aria-label={filterFacet === 'tipo' ? 'Tipos de obra' : 'Periodos'}>
+          <div class="filter-browser__list" role="listbox" aria-label={`Filtro por ${filterFacetLabel}`}>
             {#if !normalizedFilterQuery}
               <button
                 class:active={selectedFilterValue === 'Todos'}
@@ -334,7 +365,7 @@
                 aria-selected={selectedFilterValue === 'Todos'}
                 onclick={() => selectFilter('Todos')}
               >
-                <span>{selectedFilterValue === 'Todos' ? 'Toda la colección' : `Todos los ${filterFacet === 'tipo' ? 'tipos' : 'periodos'}`}</span>
+                <span>{selectedFilterValue === 'Todos' ? 'Toda la colección' : `Todos los ${filterFacetPlural}`}</span>
                 <strong>{filterOptionCount(filterFacet, 'Todos')}</strong>
                 {#if selectedFilterValue === 'Todos'}<Check size={15} />{/if}
               </button>

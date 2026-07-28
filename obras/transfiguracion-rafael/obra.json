@@ -1,0 +1,41 @@
+{
+  "id": "transfiguracion-rafael",
+  "titulo": "La Transfiguración",
+  "autor": "Rafael",
+  "fecha": "1516–1520",
+  "fechaOrden": 1516,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "La aparición luminosa de Cristo se eleva sobre una escena terrestre convulsa, uniendo revelación, enfermedad y esperanza.",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.museivaticani.va/content/museivaticani/en.html",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "Temple graso sobre tabla"
+  ],
+  "etiquetas": [
+    "Rafael",
+    "Alto Renacimiento",
+    "Ciudad del Vaticano",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    279,
+    405
+  ],
+  "color": "#715b65",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Transfiguration%20by%20Raphael%20in%20the%20Pinacoteca%20Vaticana%20of%20the%20Vatican%20Museum%20(5790228342).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Transfiguration%20by%20Raphael%20in%20the%20Pinacoteca%20Vaticana%20of%20the%20Vatican%20Museum%20(5790228342).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Transfiguration%20by%20Raphael%20in%20the%20Pinacoteca%20Vaticana%20of%20the%20Vatican%20Museum%20(5790228342).jpg",
+    "alt": "La Transfiguración, de Rafael",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rafael · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cena-emmaus-caravaggio",
+  "titulo": "La cena de Emaús",
+  "autor": "Caravaggio",
+  "fecha": "1601",
+  "fechaOrden": 1601,
+  "tipo": "Pintura",
+  "periodo": "Barroco italiano",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Los discípulos reconocen a Cristo en el instante de la bendición mientras brazos, frutas y cesta parecen atravesar el plano del cuadro.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Óleo y temple sobre lienzo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco italiano",
+    "Reino Unido",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    197,
+    141
+  ],
+  "color": "#4d4039",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Supper%20at%20Emmaus-Caravaggio%20(1601).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Supper%20at%20Emmaus-Caravaggio%20(1601).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Supper%20at%20Emmaus-Caravaggio%20(1601).jpg",
+    "alt": "La cena de Emaús, de Caravaggio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Caravaggio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

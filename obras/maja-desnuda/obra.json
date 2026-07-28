@@ -1,0 +1,41 @@
+{
+  "id": "maja-desnuda",
+  "titulo": "La maja desnuda",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1795–1800",
+  "fechaOrden": 1795,
+  "tipo": "Pintura",
+  "periodo": "Ilustración española",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Una mujer desnuda mira directamente al espectador desde un diván, sin el disfraz mitológico habitual del desnudo académico.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Francisco de Goya",
+    "Ilustración española",
+    "España",
+    "De la Ilustración al Romanticismo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    191,
+    98
+  ],
+  "color": "#595247",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Maja%20desnuda%20(museo%20del%20Prado).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Maja%20desnuda%20(museo%20del%20Prado).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Maja%20desnuda%20(museo%20del%20Prado).jpg",
+    "alt": "La maja desnuda, de Francisco de Goya",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Francisco de Goya · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

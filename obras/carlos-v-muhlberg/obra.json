@@ -1,0 +1,41 @@
+{
+  "id": "carlos-v-muhlberg",
+  "titulo": "Carlos V en Mühlberg",
+  "autor": "Tiziano Vecellio",
+  "fecha": "1548",
+  "fechaOrden": 1548,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "El emperador avanza solo a caballo, entre armadura brillante, bosque oscuro y un amanecer que convierte la victoria en imagen de gobierno.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Tiziano Vecellio",
+    "Renacimiento veneciano",
+    "España",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    283,
+    335
+  ],
+  "color": "#7c493c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20-%20Emperor%20Charles%20V%20at%20M%C3%BChlberg%20-%20WGA22965.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20-%20Emperor%20Charles%20V%20at%20M%C3%BChlberg%20-%20WGA22965.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Titian%20-%20Emperor%20Charles%20V%20at%20M%C3%BChlberg%20-%20WGA22965.jpg",
+    "alt": "Carlos V en Mühlberg, de Tiziano Vecellio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Tiziano Vecellio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "calumnia-apeles",
+  "titulo": "La calumnia de Apeles",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1494–1497",
+  "fechaOrden": 1494,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Personificaciones morales atraviesan una arquitectura de mármoles y relieves en una reconstrucción imaginaria de una pintura antigua perdida.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Temple sobre tabla"
+  ],
+  "etiquetas": [
+    "Sandro Botticelli",
+    "Primer Renacimiento",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    91,
+    62
+  ],
+  "color": "#8d654f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botticelli%2C%20Calumny%20of%20Apelles%2C%201495-99%2C%20Uffizi.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botticelli%2C%20Calumny%20of%20Apelles%2C%201495-99%2C%20Uffizi.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Botticelli%2C%20Calumny%20of%20Apelles%2C%201495-99%2C%20Uffizi.jpg",
+    "alt": "La calumnia de Apeles, de Sandro Botticelli",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Sandro Botticelli · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

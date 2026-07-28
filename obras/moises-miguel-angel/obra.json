@@ -1,0 +1,41 @@
+{
+  "id": "moises-miguel-angel",
+  "titulo": "Moisés",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1513–1515",
+  "fechaOrden": 1513,
+  "tipo": "Escultura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Sentado pero cargado de energía contenida, Moisés gira la cabeza mientras barba, paños y músculos registran fuerzas opuestas.",
+  "localizacion": "Basílica de San Pietro in Vincoli",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://turismoroma.it/en/places/basilica-san-pietro-vincoli",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20de%20San%20Pietro%20in%20Vincoli%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mármol"
+  ],
+  "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Alto Renacimiento",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    100,
+    235
+  ],
+  "color": "#6c665f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo's%20Moses%20in%20San%20Pietro%20in%20Vincoli.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo's%20Moses%20in%20San%20Pietro%20in%20Vincoli.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo's%20Moses%20in%20San%20Pietro%20in%20Vincoli.jpg",
+    "alt": "Moisés, de Miguel Ángel Buonarroti",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

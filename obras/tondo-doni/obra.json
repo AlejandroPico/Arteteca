@@ -1,0 +1,41 @@
+{
+  "id": "tondo-doni",
+  "titulo": "Tondo Doni",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1505–1507",
+  "fechaOrden": 1505,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "La Sagrada Familia se entrelaza como un volumen escultórico de colores incisivos ante un grupo de desnudos enigmáticos.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Temple sobre tabla"
+  ],
+  "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Alto Renacimiento",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    120,
+    120
+  ],
+  "color": "#6c665f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%2C%20tondo%20doni%2001.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%2C%20tondo%20doni%2001.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo%2C%20tondo%20doni%2001.jpg",
+    "alt": "Tondo Doni, de Miguel Ángel Buonarroti",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

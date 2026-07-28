@@ -1,0 +1,41 @@
+{
+  "id": "adoracion-magos-leonardo",
+  "titulo": "La Adoración de los Magos",
+  "autor": "Leonardo da Vinci",
+  "fecha": "1481–1482, inacabada",
+  "fechaOrden": 1481,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "La Virgen y el Niño forman el centro sereno de una multitud en espiral, entre ruinas, caballos y figuras apenas esbozadas.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Dibujo preparatorio y óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Primer Renacimiento",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    243,
+    246
+  ],
+  "color": "#556353",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20Adorazione%20dei%20Magi%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20Adorazione%20dei%20Magi%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Leonardo%20da%20Vinci%20-%20Adorazione%20dei%20Magi%20-%20Google%20Art%20Project.jpg",
+    "alt": "La Adoración de los Magos, de Leonardo da Vinci",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Leonardo da Vinci · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

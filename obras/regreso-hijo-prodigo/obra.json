@@ -1,0 +1,41 @@
+{
+  "id": "regreso-hijo-prodigo",
+  "titulo": "El regreso del hijo pródigo",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "c. 1668–1669",
+  "fechaOrden": 1668,
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco europeo",
+  "descripcion": "El padre inclina las manos sobre el hijo arrodillado mientras varias figuras observan desde una penumbra cargada de silencio.",
+  "localizacion": "Museo del Hermitage",
+  "ciudad": "San Petersburgo",
+  "urlLocalizacion": "https://www.hermitagemuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Hermitage%2C%20San%20Petersburgo",
+  "pais": "Rusia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Rembrandt van Rijn",
+    "Barroco neerlandés",
+    "Rusia",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    205,
+    262
+  ],
+  "color": "#5b4937",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt-The%20return%20of%20the%20prodigal%20son.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt-The%20return%20of%20the%20prodigal%20son.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rembrandt-The%20return%20of%20the%20prodigal%20son.jpg",
+    "alt": "El regreso del hijo pródigo, de Rembrandt van Rijn",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rembrandt van Rijn · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

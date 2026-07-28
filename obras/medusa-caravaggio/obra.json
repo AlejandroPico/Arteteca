@@ -1,0 +1,41 @@
+{
+  "id": "medusa-caravaggio",
+  "titulo": "Medusa",
+  "autor": "Caravaggio",
+  "fecha": "c. 1597–1598",
+  "fechaOrden": 1597,
+  "tipo": "Pintura",
+  "periodo": "Barroco italiano",
+  "coleccion": "Barroco europeo",
+  "descripcion": "La cabeza de Medusa grita sobre un escudo convexo mientras serpientes y sangre convierten el mito en una aparición física.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre lienzo montado en escudo de madera"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco italiano",
+    "Italia",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    60,
+    55
+  ],
+  "color": "#4d4039",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Medusa%20by%20Caravaggio.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Medusa%20by%20Caravaggio.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Medusa%20by%20Caravaggio.jpg",
+    "alt": "Medusa, de Caravaggio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Caravaggio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "vista-toledo",
+  "titulo": "Vista de Toledo",
+  "autor": "El Greco",
+  "fecha": "c. 1596–1600",
+  "fechaOrden": 1596,
+  "tipo": "Pintura",
+  "periodo": "Manierismo español",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "La ciudad se desplaza y recompone bajo un cielo tormentoso que convierte el paisaje en estado espiritual.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Manierismo español",
+    "Estados Unidos",
+    "Renacimiento y Manierismo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    121,
+    109
+  ],
+  "color": "#4d526b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/View%20of%20Toledo%20MET%20DP349564.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/View%20of%20Toledo%20MET%20DP349564.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:View%20of%20Toledo%20MET%20DP349564.jpg",
+    "alt": "Vista de Toledo, de El Greco",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "El Greco · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

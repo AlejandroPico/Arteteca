@@ -1,0 +1,41 @@
+{
+  "id": "betsabe-bano-rembrandt",
+  "titulo": "Betsabé en el baño",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "1654",
+  "fechaOrden": 1654,
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Betsabé sostiene la carta de David y permanece absorta mientras la historia se concentra en el peso psicológico de una decisión.",
+  "localizacion": "Museo del Louvre",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.louvre.fr/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Rembrandt van Rijn",
+    "Barroco neerlandés",
+    "Francia",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    142,
+    142
+  ],
+  "color": "#5b4937",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20Harmensz.%20van%20Rijn%20016.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20Harmensz.%20van%20Rijn%20016.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rembrandt%20Harmensz.%20van%20Rijn%20016.jpg",
+    "alt": "Betsabé en el baño, de Rembrandt van Rijn",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rembrandt van Rijn · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

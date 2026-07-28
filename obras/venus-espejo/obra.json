@@ -1,0 +1,41 @@
+{
+  "id": "venus-espejo",
+  "titulo": "La Venus del espejo",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1647–1651",
+  "fechaOrden": 1647,
+  "tipo": "Pintura",
+  "periodo": "Barroco español",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Venus aparece de espaldas mientras Cupido sostiene un espejo cuya imagen borrosa devuelve una mirada imposible de fijar.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Barroco español",
+    "Reino Unido",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    177,
+    122
+  ],
+  "color": "#574b43",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Diego%20Vel%C3%A1zquez%20-%20Rokeby%20Venus.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Diego%20Vel%C3%A1zquez%20-%20Rokeby%20Venus.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Diego%20Vel%C3%A1zquez%20-%20Rokeby%20Venus.jpg",
+    "alt": "La Venus del espejo, de Diego Velázquez",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Diego Velázquez · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

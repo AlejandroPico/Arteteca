@@ -1,0 +1,41 @@
+{
+  "id": "caballero-mano-pecho",
+  "titulo": "El caballero de la mano en el pecho",
+  "autor": "El Greco",
+  "fecha": "c. 1580",
+  "fechaOrden": 1580,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento español",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "Un hombre vestido de negro apoya la mano sobre el pecho y sostiene una mirada frontal de solemnidad contenida.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Renacimiento español",
+    "España",
+    "Renacimiento y Manierismo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    82,
+    66
+  ],
+  "color": "#4d526b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20caballero%20de%20la%20mano%20en%20el%20pecho.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20caballero%20de%20la%20mano%20en%20el%20pecho.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El%20caballero%20de%20la%20mano%20en%20el%20pecho.jpg",
+    "alt": "El caballero de la mano en el pecho, de El Greco",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "El Greco · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "anunciacion-leonardo",
+  "titulo": "La Anunciación",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1472–1475",
+  "fechaOrden": 1472,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Un jardín florentino, una mesa de mármol y dos figuras separadas por el gesto convierten el episodio sagrado en un estudio de espacio y naturaleza.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo y temple sobre tabla"
+  ],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Primer Renacimiento",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    217,
+    98
+  ],
+  "color": "#556353",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20Annunciazione%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20Annunciazione%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Leonardo%20da%20Vinci%20-%20Annunciazione%20-%20Google%20Art%20Project.jpg",
+    "alt": "La Anunciación, de Leonardo da Vinci",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Leonardo da Vinci · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

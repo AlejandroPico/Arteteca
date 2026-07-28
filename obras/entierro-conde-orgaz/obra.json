@@ -1,0 +1,41 @@
+{
+  "id": "entierro-conde-orgaz",
+  "titulo": "El entierro del conde de Orgaz",
+  "autor": "El Greco",
+  "fecha": "1586–1588",
+  "fechaOrden": 1586,
+  "tipo": "Pintura",
+  "periodo": "Manierismo español",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "Un entierro terrenal de retratos minuciosos se abre hacia una visión celeste de figuras alargadas y espacio incandescente.",
+  "localizacion": "Iglesia de Santo Tomé",
+  "ciudad": "Toledo",
+  "urlLocalizacion": "https://santotome.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Iglesia%20de%20Santo%20Tom%C3%A9%2C%20Toledo",
+  "pais": "España",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Manierismo español",
+    "España",
+    "Renacimiento y Manierismo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    360,
+    480
+  ],
+  "color": "#4d526b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG",
+    "alt": "El entierro del conde de Orgaz, de El Greco",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "El Greco · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

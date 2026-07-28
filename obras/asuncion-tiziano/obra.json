@@ -1,0 +1,41 @@
+{
+  "id": "asuncion-tiziano",
+  "titulo": "La Asunción de la Virgen",
+  "autor": "Tiziano Vecellio",
+  "fecha": "1516–1518",
+  "fechaOrden": 1516,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Apóstoles, Virgen y Dios Padre se distribuyen en tres zonas unidas por gestos ascendentes y una luz dorada.",
+  "localizacion": "Basílica de Santa Maria Gloriosa dei Frari",
+  "ciudad": "Venecia",
+  "urlLocalizacion": "https://www.basilicadeifrari.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20de%20Santa%20Maria%20Gloriosa%20dei%20Frari%2C%20Venecia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Tiziano Vecellio",
+    "Renacimiento veneciano",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    344,
+    690
+  ],
+  "color": "#7c493c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Basilica%20di%20Santa%20Maria%20Gloriosa%20dei%20Frari%20-%20The%20Assumption.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Basilica%20di%20Santa%20Maria%20Gloriosa%20dei%20Frari%20-%20The%20Assumption.JPG?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Basilica%20di%20Santa%20Maria%20Gloriosa%20dei%20Frari%20-%20The%20Assumption.JPG",
+    "alt": "La Asunción de la Virgen, de Tiziano Vecellio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Tiziano Vecellio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "inocencio-x-velazquez",
+  "titulo": "Retrato de Inocencio X",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1650",
+  "fechaOrden": 1650,
+  "tipo": "Pintura",
+  "periodo": "Barroco español",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Rojos sobre rojos rodean un rostro alerta cuya expresión combina autoridad, inteligencia y reserva.",
+  "localizacion": "Galería Doria Pamphilj",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://www.doriapamphilj.it/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Doria%20Pamphilj%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Barroco español",
+    "Italia",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    141,
+    120
+  ],
+  "color": "#574b43",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Retrato%20del%20Papa%20Inocencio%20X.%20Roma%2C%20by%20Diego%20Vel%C3%A1zquez.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Retrato%20del%20Papa%20Inocencio%20X.%20Roma%2C%20by%20Diego%20Vel%C3%A1zquez.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Retrato%20del%20Papa%20Inocencio%20X.%20Roma%2C%20by%20Diego%20Vel%C3%A1zquez.jpg",
+    "alt": "Retrato de Inocencio X, de Diego Velázquez",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Diego Velázquez · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -344,6 +344,7 @@ def create_database(path: Path, works: list[dict[str, Any]], build_id: str) -> N
         );
         CREATE INDEX idx_obras_tipo ON obras(tipo);
         CREATE INDEX idx_obras_periodo ON obras(periodo);
+        CREATE INDEX idx_obras_autor ON obras(autor);
         CREATE INDEX idx_obras_fecha ON obras(fecha_orden);
         CREATE INDEX idx_etiquetas_etiqueta ON etiquetas(etiqueta);
         """
@@ -478,6 +479,7 @@ def compile_catalog(*, check_only: bool) -> int:
         "total": len(summaries),
         "tipos": sorted({work["tipo"] for work in works}, key=str.casefold),
         "periodos": sorted({work["periodo"] for work in works}, key=str.casefold),
+        "artistas": sorted({work["autor"] for work in works}, key=str.casefold),
         "colecciones": sorted(
             {work["coleccion"] for work in works if work.get("coleccion")},
             key=str.casefold,

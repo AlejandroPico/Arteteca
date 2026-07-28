@@ -1,0 +1,41 @@
+{
+  "id": "virgen-rocas-louvre",
+  "titulo": "La Virgen de las Rocas",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1483–1486",
+  "fechaOrden": 1483,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Una pirámide humana emerge de una gruta húmeda donde gestos, miradas y agua conectan lo sagrado con una geología imaginada.",
+  "localizacion": "Museo del Louvre",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.louvre.fr/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre tabla transferida a lienzo"
+  ],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Alto Renacimiento",
+    "Francia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    122,
+    199
+  ],
+  "color": "#556353",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Virgin%20of%20the%20Rocks%20(Louvre).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Virgin%20of%20the%20Rocks%20(Louvre).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Virgin%20of%20the%20Rocks%20(Louvre).jpg",
+    "alt": "La Virgen de las Rocas, de Leonardo da Vinci",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Leonardo da Vinci · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

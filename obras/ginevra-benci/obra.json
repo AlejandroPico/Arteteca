@@ -1,0 +1,41 @@
+{
+  "id": "ginevra-benci",
+  "titulo": "Ginevra de’ Benci",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1474–1478",
+  "fechaOrden": 1474,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "El rostro inmóvil de Ginevra se recorta ante un enebro oscuro mientras el paisaje distante suaviza la severidad del primer plano.",
+  "localizacion": "National Gallery of Art",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.nga.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Art%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo y temple sobre tabla de álamo"
+  ],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Primer Renacimiento",
+    "Estados Unidos",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    38,
+    37
+  ],
+  "color": "#556353",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20Ginevra%20de'%20Benci%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20Ginevra%20de'%20Benci%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Leonardo%20da%20Vinci%20-%20Ginevra%20de'%20Benci%20-%20Google%20Art%20Project.jpg",
+    "alt": "Ginevra de’ Benci, de Leonardo da Vinci",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Leonardo da Vinci · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

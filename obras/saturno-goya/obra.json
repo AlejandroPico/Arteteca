@@ -1,0 +1,41 @@
+{
+  "id": "saturno-goya",
+  "titulo": "Saturno devorando a su hijo",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1820–1823",
+  "fechaOrden": 1820,
+  "tipo": "Pintura",
+  "periodo": "Pinturas negras",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Una figura gigantesca emerge de la oscuridad mientras devora un cuerpo, sin atributos heroicos ni distancia mitológica.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Técnica mixta trasladada de revoco a lienzo"
+  ],
+  "etiquetas": [
+    "Francisco de Goya",
+    "Pinturas negras",
+    "España",
+    "De la Ilustración al Romanticismo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    81,
+    143
+  ],
+  "color": "#595247",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco%20de%20Goya%2C%20Saturno%20devorando%20a%20su%20hijo%20(1819-1823).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco%20de%20Goya%2C%20Saturno%20devorando%20a%20su%20hijo%20(1819-1823).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Francisco%20de%20Goya%2C%20Saturno%20devorando%20a%20su%20hijo%20(1819-1823).jpg",
+    "alt": "Saturno devorando a su hijo, de Francisco de Goya",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Francisco de Goya · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

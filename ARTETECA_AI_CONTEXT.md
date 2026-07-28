@@ -110,11 +110,12 @@ El proyecto no debe imponer el gusto clásico de su creador como único criterio
 
 En la revisión de julio de 2026, Arteteca contiene:
 
-- 150 obras;
-- 740 pestañas documentales;
+- 200 obras;
+- 990 pestañas documentales;
 - 37 tipos de obra;
-- 89 periodos, movimientos o marcos culturales;
-- 14 colecciones editoriales.
+- 99 periodos, movimientos o marcos culturales;
+- 100 artistas o atribuciones;
+- 18 colecciones editoriales.
 
 Estos números son una fotografía temporal, no constantes de programación. No los escribas como valores fijos en la interfaz. El compilador y `public/data/catalogo.json` deben ser siempre quienes determinen las cifras vigentes.
 
@@ -1140,6 +1141,7 @@ buildId
 total
 tipos
 periodos
+artistas
 colecciones
 obras[]
 ```
@@ -1285,6 +1287,9 @@ ON obras(tipo);
 CREATE INDEX idx_obras_periodo
 ON obras(periodo);
 
+CREATE INDEX idx_obras_autor
+ON obras(autor);
+
 CREATE INDEX idx_obras_fecha
 ON obras(fecha_orden);
 
@@ -1377,15 +1382,15 @@ La búsqueda se expande hacia la izquierda. El menú debe permanecer limpio y co
 
 ### 14.5. Filtros
 
-El panel actual evita mostrar 89 periodos simultáneamente fuera de pantalla.
+El panel evita mostrar simultáneamente listas extensas de periodos o artistas fuera de pantalla.
 
 Características:
 
-- facetas `Tipo` y `Periodo`;
+- facetas `Tipo`, `Periodo` y `Artista`;
 - campo de búsqueda interno;
 - lista con desplazamiento propio;
-- conteo por opción;
-- selección contextual;
+- conteo contextual por opción, cruzado con las otras facetas activas;
+- selección combinable entre las tres facetas;
 - total de obras visibles;
 - limpiar filtros;
 - altura acotada a la ventana.
@@ -1516,6 +1521,7 @@ No añadas un botón visible de administración sin petición expresa.
 - colecciones;
 - tipos;
 - periodos;
+- artistas;
 - países o culturas;
 - conteos y barras.
 

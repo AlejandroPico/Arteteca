@@ -1,0 +1,41 @@
+{
+  "id": "esclavo-moribundo",
+  "titulo": "Esclavo moribundo",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "1513–1516",
+  "fechaOrden": 1513,
+  "tipo": "Escultura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "El cuerpo parece abandonar la tensión en un gesto ambiguo entre sueño, muerte y liberación.",
+  "localizacion": "Museo del Louvre",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.louvre.fr/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Mármol"
+  ],
+  "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Alto Renacimiento",
+    "Francia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    90,
+    229
+  ],
+  "color": "#6c665f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo-Buonarroti-dying-Slave-Louvre.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo-Buonarroti-dying-Slave-Louvre.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo-Buonarroti-dying-Slave-Louvre.jpg",
+    "alt": "Esclavo moribundo, de Miguel Ángel Buonarroti",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "juicio-final-miguel-angel",
+  "titulo": "El Juicio Final",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "1536–1541",
+  "fechaOrden": 1536,
+  "tipo": "Pintura mural",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Una multitud de cuerpos gira alrededor de Cristo en una visión sin arquitectura estable, atravesada por ascensos, caídas y resurrecciones.",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.museivaticani.va/content/museivaticani/en.html",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "Fresco"
+  ],
+  "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Manierismo",
+    "Ciudad del Vaticano",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    1220,
+    1370
+  ],
+  "color": "#6c665f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Last%20Judgement%20(Michelangelo).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Last%20Judgement%20(Michelangelo).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Last%20Judgement%20(Michelangelo).jpg",
+    "alt": "El Juicio Final, de Miguel Ángel Buonarroti",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

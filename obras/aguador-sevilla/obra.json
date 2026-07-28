@@ -1,0 +1,41 @@
+{
+  "id": "aguador-sevilla",
+  "titulo": "El aguador de Sevilla",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1620",
+  "fechaOrden": 1620,
+  "tipo": "Pintura",
+  "periodo": "Naturalismo barroco",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Un anciano entrega una copa a un muchacho; cántaros, agua y pieles reciben la misma atención grave que las figuras.",
+  "localizacion": "Apsley House, Wellington Collection",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.english-heritage.org.uk/visit/places/apsley-house/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Apsley%20House%2C%20Wellington%20Collection%2C%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Naturalismo barroco",
+    "Reino Unido",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    106,
+    81
+  ],
+  "color": "#574b43",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Diego%20Velazquez%20-%20The%20Waterseller%20of%20Seville.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Diego%20Velazquez%20-%20The%20Waterseller%20of%20Seville.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Diego%20Velazquez%20-%20The%20Waterseller%20of%20Seville.jpg",
+    "alt": "El aguador de Sevilla, de Diego Velázquez",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Diego Velázquez · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

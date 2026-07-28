@@ -1,0 +1,41 @@
+{
+  "id": "aquelarre-goya",
+  "titulo": "El aquelarre",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1820–1823",
+  "fechaOrden": 1820,
+  "tipo": "Pintura",
+  "periodo": "Pinturas negras",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Una multitud de rostros deformados rodea a un gran macho cabrío mientras una joven queda aislada en el extremo.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Técnica mixta trasladada de revoco a lienzo"
+  ],
+  "etiquetas": [
+    "Francisco de Goya",
+    "Pinturas negras",
+    "España",
+    "De la Ilustración al Romanticismo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    438,
+    140
+  ],
+  "color": "#595247",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco%20de%20Goya%20y%20Lucientes%20-%20Witches'%20Sabbath%20(The%20Great%20He-Goat).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco%20de%20Goya%20y%20Lucientes%20-%20Witches'%20Sabbath%20(The%20Great%20He-Goat).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Francisco%20de%20Goya%20y%20Lucientes%20-%20Witches'%20Sabbath%20(The%20Great%20He-Goat).jpg",
+    "alt": "El aquelarre, de Francisco de Goya",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Francisco de Goya · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

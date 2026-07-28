@@ -1,0 +1,41 @@
+{
+  "id": "natividad-mistica",
+  "titulo": "La Natividad mística",
+  "autor": "Sandro Botticelli",
+  "fecha": "1500–1501",
+  "fechaOrden": 1500,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento tardío",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Ángeles y humanos celebran y se abrazan alrededor del nacimiento de Cristo mientras pequeños demonios huyen bajo tierra.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Temple sobre lienzo"
+  ],
+  "etiquetas": [
+    "Sandro Botticelli",
+    "Renacimiento tardío",
+    "Reino Unido",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    75,
+    108
+  ],
+  "color": "#8d654f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mystic%20Nativity%2C%20Sandro%20Botticelli.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mystic%20Nativity%2C%20Sandro%20Botticelli.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Mystic%20Nativity%2C%20Sandro%20Botticelli.jpg",
+    "alt": "La Natividad mística, de Sandro Botticelli",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Sandro Botticelli · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

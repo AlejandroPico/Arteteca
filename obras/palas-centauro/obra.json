@@ -1,0 +1,41 @@
+{
+  "id": "palas-centauro",
+  "titulo": "Palas y el centauro",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1482–1485",
+  "fechaOrden": 1482,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Una figura femenina ricamente vestida sujeta al centauro por el cabello y enfrenta disciplina, deseo y poder en un paisaje cerrado.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Temple sobre lienzo"
+  ],
+  "etiquetas": [
+    "Sandro Botticelli",
+    "Primer Renacimiento",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    148,
+    207
+  ],
+  "color": "#8d654f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Pallade%20e%20il%20centauro%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Pallade%20e%20il%20centauro%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sandro%20Botticelli%20-%20Pallade%20e%20il%20centauro%20-%20Google%20Art%20Project.jpg",
+    "alt": "Palas y el centauro, de Sandro Botticelli",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Sandro Botticelli · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

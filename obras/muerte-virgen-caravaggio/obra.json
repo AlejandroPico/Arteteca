@@ -1,0 +1,41 @@
+{
+  "id": "muerte-virgen-caravaggio",
+  "titulo": "La muerte de la Virgen",
+  "autor": "Caravaggio",
+  "fecha": "1604–1606",
+  "fechaOrden": 1604,
+  "tipo": "Pintura",
+  "periodo": "Barroco italiano",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Los apóstoles rodean a María en una habitación desnuda donde una gran cortina roja y la luz lateral concentran el duelo.",
+  "localizacion": "Museo del Louvre",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.louvre.fr/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco italiano",
+    "Francia",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    369,
+    245
+  ],
+  "color": "#4d4039",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Death%20of%20the%20Virgin-Caravaggio%20(1606).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Death%20of%20the%20Virgin-Caravaggio%20(1606).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Death%20of%20the%20Virgin-Caravaggio%20(1606).jpg",
+    "alt": "La muerte de la Virgen, de Caravaggio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Caravaggio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "retrato-medalla-cosme",
+  "titulo": "Retrato de un hombre con la medalla de Cosme el Viejo",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1474–1475",
+  "fechaOrden": 1474,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Un joven mira de frente y presenta una medalla dorada que parece sobresalir físicamente de la tabla.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Temple sobre tabla con medalla de pastiglia"
+  ],
+  "etiquetas": [
+    "Sandro Botticelli",
+    "Primer Renacimiento",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    44,
+    57
+  ],
+  "color": "#8d654f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Portrait%20of%20a%20Man%20with%20a%20Medal%20of%20Cosimo%20the%20Elder.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Portrait%20of%20a%20Man%20with%20a%20Medal%20of%20Cosimo%20the%20Elder.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sandro%20Botticelli%20-%20Portrait%20of%20a%20Man%20with%20a%20Medal%20of%20Cosimo%20the%20Elder.jpg",
+    "alt": "Retrato de un hombre con la medalla de Cosme el Viejo, de Sandro Botticelli",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Sandro Botticelli · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -66,6 +66,7 @@ export interface Catalogo {
   total: number;
   tipos: string[];
   periodos: string[];
+  artistas: string[];
   colecciones: string[];
   obras: ObraResumen[];
 }

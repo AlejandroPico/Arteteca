@@ -12,7 +12,7 @@ La aplicación está publicada mediante GitHub Pages y construida con Svelte 5, 
 - Entrada editorial breve que se desvanece para mostrar el mosaico sin exigir desplazamiento.
 - Orden aleatorio nuevo en cada carga y botón **Redescubrir**.
 - Carga progresiva al hacer *scroll*.
-- Barra superior fija con búsqueda desplegable, filtros, orden y acceso a **Acerca de**.
+- Barra superior fija con búsqueda desplegable, filtros combinables por tipo, periodo y artista, orden y acceso a **Acerca de**.
 - Búsqueda por título, autor, fecha, técnica, tipo, periodo y etiquetas.
 - Filtros por tipo y periodo; orden aleatorio, cronológico o alfabético.
 - Modos claro, oscuro y automático.

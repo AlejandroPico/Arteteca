@@ -1,0 +1,41 @@
+{
+  "id": "apertura-quinto-sello",
+  "titulo": "La apertura del quinto sello",
+  "autor": "El Greco",
+  "fecha": "c. 1608–1614",
+  "fechaOrden": 1608,
+  "tipo": "Pintura",
+  "periodo": "Manierismo español",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "San Juan eleva los brazos ante un grupo de desnudos que reciben telas de colores en una visión fragmentaria del Apocalipsis.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Manierismo español",
+    "Estados Unidos",
+    "Renacimiento y Manierismo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    225,
+    193
+  ],
+  "color": "#4d526b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Greco%20-%20The%20Opening%20of%20the%20Fifth%20Seal%20(The%20Vision%20of%20St%20John)%20-%20WGA10637.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Greco%20-%20The%20Opening%20of%20the%20Fifth%20Seal%20(The%20Vision%20of%20St%20John)%20-%20WGA10637.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El%20Greco%20-%20The%20Opening%20of%20the%20Fifth%20Seal%20(The%20Vision%20of%20St%20John)%20-%20WGA10637.jpg",
+    "alt": "La apertura del quinto sello, de El Greco",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "El Greco · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

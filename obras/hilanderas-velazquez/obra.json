@@ -1,0 +1,41 @@
+{
+  "id": "hilanderas-velazquez",
+  "titulo": "Las hilanderas",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1655–1660",
+  "fechaOrden": 1655,
+  "tipo": "Pintura",
+  "periodo": "Barroco español",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Un taller de mujeres ocupa el primer plano mientras al fondo el mito de Aracne emerge ante un tapiz inspirado en Tiziano.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Barroco español",
+    "España",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    293,
+    220
+  ],
+  "color": "#574b43",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Velazquez-las%20hilanderas.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Velazquez-las%20hilanderas.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Velazquez-las%20hilanderas.jpg",
+    "alt": "Las hilanderas, de Diego Velázquez",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Diego Velázquez · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

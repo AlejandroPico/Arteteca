@@ -1,0 +1,41 @@
+{
+  "id": "madonna-sixtina",
+  "titulo": "Madonna Sixtina",
+  "autor": "Rafael",
+  "fecha": "1512–1513",
+  "fechaOrden": 1512,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "María avanza entre cortinas y nubes acompañada por san Sixto y santa Bárbara, sobre dos querubines convertidos en iconos populares.",
+  "localizacion": "Gemäldegalerie Alte Meister",
+  "ciudad": "Dresde",
+  "urlLocalizacion": "https://gemaeldegalerie.skd.museum/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gem%C3%A4ldegalerie%20Alte%20Meister%2C%20Dresde",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Rafael",
+    "Alto Renacimiento",
+    "Alemania",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    196,
+    265
+  ],
+  "color": "#715b65",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Raphael%20-%20Sistine%20Madonna.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Raphael%20-%20Sistine%20Madonna.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Raphael%20-%20Sistine%20Madonna.jpg",
+    "alt": "Madonna Sixtina, de Rafael",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rafael · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

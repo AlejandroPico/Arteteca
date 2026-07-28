@@ -1,0 +1,41 @@
+{
+  "id": "venus-urbino",
+  "titulo": "Venus de Urbino",
+  "autor": "Tiziano Vecellio",
+  "fecha": "1538",
+  "fechaOrden": 1538,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Una mujer desnuda sostiene la mirada del espectador en un interior doméstico donde flores, telas y sirvientas articulan deseo y matrimonio.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Tiziano Vecellio",
+    "Renacimiento veneciano",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    165,
+    119
+  ],
+  "color": "#7c493c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tiziano%20-%20Venere%20di%20Urbino%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tiziano%20-%20Venere%20di%20Urbino%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tiziano%20-%20Venere%20di%20Urbino%20-%20Google%20Art%20Project.jpg",
+    "alt": "Venus de Urbino, de Tiziano Vecellio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Tiziano Vecellio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

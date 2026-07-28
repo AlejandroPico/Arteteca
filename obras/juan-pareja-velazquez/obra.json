@@ -1,0 +1,41 @@
+{
+  "id": "juan-pareja-velazquez",
+  "titulo": "Juan de Pareja",
+  "autor": "Diego Velázquez",
+  "fecha": "1650",
+  "fechaOrden": 1650,
+  "tipo": "Pintura",
+  "periodo": "Barroco español",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Pareja ocupa el espacio con una seguridad frontal que convierte una gama austera en presencia inmediata.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Barroco español",
+    "Estados Unidos",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    81,
+    69
+  ],
+  "color": "#574b43",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vel%C3%A1zquez%2C%20juan%20de%20pareja%2C%201630.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vel%C3%A1zquez%2C%20juan%20de%20pareja%2C%201630.JPG?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vel%C3%A1zquez%2C%20juan%20de%20pareja%2C%201630.JPG",
+    "alt": "Juan de Pareja, de Diego Velázquez",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Diego Velázquez · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

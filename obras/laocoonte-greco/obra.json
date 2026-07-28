@@ -1,0 +1,41 @@
+{
+  "id": "laocoonte-greco",
+  "titulo": "Laocoonte",
+  "autor": "El Greco",
+  "fecha": "c. 1610–1614",
+  "fechaOrden": 1610,
+  "tipo": "Pintura",
+  "periodo": "Manierismo español",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "La muerte de Laocoonte y sus hijos ocurre ante una Toledo espectral, donde cuerpos pálidos y serpientes forman una tragedia inestable.",
+  "localizacion": "National Gallery of Art",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.nga.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Art%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Manierismo español",
+    "Estados Unidos",
+    "Renacimiento y Manierismo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    193,
+    142
+  ],
+  "color": "#4d526b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Greco%20(Domenikos%20Theotokopoulos)%20-%20Laoco%C3%B6n%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Greco%20(Domenikos%20Theotokopoulos)%20-%20Laoco%C3%B6n%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El%20Greco%20(Domenikos%20Theotokopoulos)%20-%20Laoco%C3%B6n%20-%20Google%20Art%20Project.jpg",
+    "alt": "Laocoonte, de El Greco",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "El Greco · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

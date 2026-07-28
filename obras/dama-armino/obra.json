@@ -1,0 +1,41 @@
+{
+  "id": "dama-armino",
+  "titulo": "La dama del armiño",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1489–1491",
+  "fechaOrden": 1489,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Cecilia Gallerani gira fuera del eje del retrato mientras el armiño repite su movimiento y convierte la pose en una escena psicológica.",
+  "localizacion": "Museo de los Príncipes Czartoryski",
+  "ciudad": "Cracovia",
+  "urlLocalizacion": "https://mnk.pl/branch/the-princes-czartoryski-museum",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20los%20Pr%C3%ADncipes%20Czartoryski%2C%20Cracovia",
+  "pais": "Polonia",
+  "tecnicas": [
+    "Óleo sobre tabla de nogal"
+  ],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Alto Renacimiento",
+    "Polonia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    39,
+    54
+  ],
+  "color": "#556353",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lady%20with%20an%20Ermine%20-%20Leonardo%20da%20Vinci%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lady%20with%20an%20Ermine%20-%20Leonardo%20da%20Vinci%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lady%20with%20an%20Ermine%20-%20Leonardo%20da%20Vinci%20-%20Google%20Art%20Project.jpg",
+    "alt": "La dama del armiño, de Leonardo da Vinci",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Leonardo da Vinci · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

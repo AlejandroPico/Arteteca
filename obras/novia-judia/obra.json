@@ -1,0 +1,41 @@
+{
+  "id": "novia-judia",
+  "titulo": "La novia judía",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "c. 1665–1669",
+  "fechaOrden": 1665,
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Una pareja se toca con solemnidad silenciosa; manos, mangas y joyas emergen de una materia pictórica espesa.",
+  "localizacion": "Rijksmuseum",
+  "ciudad": "Ámsterdam",
+  "urlLocalizacion": "https://www.rijksmuseum.nl/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Rijksmuseum%2C%20%C3%81msterdam",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Rembrandt van Rijn",
+    "Barroco neerlandés",
+    "Países Bajos",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    166,
+    121
+  ],
+  "color": "#5b4937",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20Harmensz.%20van%20Rijn%20-%20Portret%20van%20een%20paar%20als%20oudtestamentische%20figuren%2C%20genaamd%20'Het%20Joodse%20bruidje'%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20Harmensz.%20van%20Rijn%20-%20Portret%20van%20een%20paar%20als%20oudtestamentische%20figuren%2C%20genaamd%20'Het%20Joodse%20bruidje'%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rembrandt%20Harmensz.%20van%20Rijn%20-%20Portret%20van%20een%20paar%20als%20oudtestamentische%20figuren%2C%20genaamd%20'Het%20Joodse%20bruidje'%20-%20Google%20Art%20Project.jpg",
+    "alt": "La novia judía, de Rembrandt van Rijn",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rembrandt van Rijn · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

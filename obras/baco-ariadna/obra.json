@@ -1,0 +1,41 @@
+{
+  "id": "baco-ariadna",
+  "titulo": "Baco y Ariadna",
+  "autor": "Tiziano Vecellio",
+  "fecha": "1520–1523",
+  "fechaOrden": 1520,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Baco salta de su carro hacia Ariadna mientras una procesión báquica atraviesa un paisaje de azul intenso y cuerpos en torsión.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Tiziano Vecellio",
+    "Renacimiento veneciano",
+    "Reino Unido",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    191,
+    176
+  ],
+  "color": "#7c493c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20Bacchus%20and%20Ariadne.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20Bacchus%20and%20Ariadne.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Titian%20Bacchus%20and%20Ariadne.jpg",
+    "alt": "Baco y Ariadna, de Tiziano Vecellio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Tiziano Vecellio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

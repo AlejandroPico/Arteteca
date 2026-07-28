@@ -1,0 +1,41 @@
+{
+  "id": "desposorios-virgen-rafael",
+  "titulo": "Los desposorios de la Virgen",
+  "autor": "Rafael",
+  "fecha": "1504",
+  "fechaOrden": 1504,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "El templo central ordena una plaza abierta donde el intercambio de anillos se convierte en una demostración de perspectiva y equilibrio.",
+  "localizacion": "Pinacoteca de Brera",
+  "ciudad": "Milán",
+  "urlLocalizacion": "https://pinacotecabrera.org/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Pinacoteca%20de%20Brera%2C%20Mil%C3%A1n",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Rafael",
+    "Alto Renacimiento",
+    "Italia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    117,
+    170
+  ],
+  "color": "#715b65",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Raphael%20Marriage%20of%20the%20Virgin.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Raphael%20Marriage%20of%20the%20Virgin.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Raphael%20Marriage%20of%20the%20Virgin.jpg",
+    "alt": "Los desposorios de la Virgen, de Rafael",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rafael · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

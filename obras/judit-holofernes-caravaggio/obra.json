@@ -1,0 +1,41 @@
+{
+  "id": "judit-holofernes-caravaggio",
+  "titulo": "Judit decapitando a Holofernes",
+  "autor": "Caravaggio",
+  "fecha": "c. 1598–1599 o 1602",
+  "fechaOrden": 1598,
+  "tipo": "Pintura",
+  "periodo": "Barroco italiano",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Judit retrocede mientras corta el cuello de Holofernes y una sirvienta espera, en una escena atravesada por tela roja y luz frontal.",
+  "localizacion": "Galleria Nazionale d’Arte Antica, Palazzo Barberini",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://barberinicorsini.org/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galleria%20Nazionale%20d%E2%80%99Arte%20Antica%2C%20Palazzo%20Barberini%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco italiano",
+    "Italia",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    195,
+    145
+  ],
+  "color": "#4d4039",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Judith%20Beheading%20Holofernes-Caravaggio%20(c.1598-9).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Judith%20Beheading%20Holofernes-Caravaggio%20(c.1598-9).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Judith%20Beheading%20Holofernes-Caravaggio%20(c.1598-9).jpg",
+    "alt": "Judit decapitando a Holofernes, de Caravaggio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Caravaggio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

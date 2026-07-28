@@ -1,0 +1,41 @@
+{
+  "id": "autorretrato-1659-rembrandt",
+  "titulo": "Autorretrato con boina y cuello alzado",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "1659",
+  "fechaOrden": 1659,
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Rembrandt se presenta ante un fondo abierto, con rostro iluminado y una pincelada que registra edad, oficio y construcción de identidad.",
+  "localizacion": "National Gallery of Art",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.nga.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Art%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Rembrandt van Rijn",
+    "Barroco neerlandés",
+    "Estados Unidos",
+    "Barroco europeo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    66,
+    85
+  ],
+  "color": "#5b4937",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20van%20Rijn%2C%20Self-Portrait%2C%201659%2C%20NGA%2079.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20van%20Rijn%2C%20Self-Portrait%2C%201659%2C%20NGA%2079.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rembrandt%20van%20Rijn%2C%20Self-Portrait%2C%201659%2C%20NGA%2079.jpg",
+    "alt": "Autorretrato con boina y cuello alzado, de Rembrandt van Rijn",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rembrandt van Rijn · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

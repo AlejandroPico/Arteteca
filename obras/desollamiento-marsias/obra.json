@@ -1,0 +1,41 @@
+{
+  "id": "desollamiento-marsias",
+  "titulo": "El desollamiento de Marsias",
+  "autor": "Tiziano Vecellio",
+  "fecha": "c. 1570–1576",
+  "fechaOrden": 1570,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano tardío",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "La violencia del castigo de Marsias se disuelve en pinceladas densas, luces quebradas y una atmósfera de contemplación sombría.",
+  "localizacion": "Galería del Palacio Arzobispal de Kroměříž",
+  "ciudad": "Kroměříž",
+  "urlLocalizacion": "https://www.zamek-kromeriz.cz/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20del%20Palacio%20Arzobispal%20de%20Krom%C4%9B%C5%99%C3%AD%C5%BE%2C%20Krom%C4%9B%C5%99%C3%AD%C5%BE",
+  "pais": "Chequia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Tiziano Vecellio",
+    "Renacimiento veneciano tardío",
+    "Chequia",
+    "Renacimiento italiano",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    212,
+    207
+  ],
+  "color": "#7c493c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20-%20The%20Flaying%20of%20Marsyas.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20-%20The%20Flaying%20of%20Marsyas.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Titian%20-%20The%20Flaying%20of%20Marsyas.jpg",
+    "alt": "El desollamiento de Marsias, de Tiziano Vecellio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Tiziano Vecellio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

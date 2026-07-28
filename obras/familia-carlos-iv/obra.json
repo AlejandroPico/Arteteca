@@ -1,0 +1,41 @@
+{
+  "id": "familia-carlos-iv",
+  "titulo": "La familia de Carlos IV",
+  "autor": "Francisco de Goya",
+  "fecha": "1800–1801",
+  "fechaOrden": 1800,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo y Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "La familia real se presenta con sedas, condecoraciones y rostros individualizados mientras Goya aparece trabajando al fondo.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Francisco de Goya",
+    "Neoclasicismo y Romanticismo",
+    "España",
+    "De la Ilustración al Romanticismo",
+    "arte clásico",
+    "alta resolución"
+  ],
+  "proporcion": [
+    336,
+    280
+  ],
+  "color": "#595247",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20familia%20de%20Carlos%20IV%2C%20por%20Francisco%20de%20Goya.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20familia%20de%20Carlos%20IV%2C%20por%20Francisco%20de%20Goya.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La%20familia%20de%20Carlos%20IV%2C%20por%20Francisco%20de%20Goya.jpg",
+    "alt": "La familia de Carlos IV, de Francisco de Goya",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Francisco de Goya · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "ventanas-simultaneas-delaunay",
+  "titulo": "Ventanas simultáneas sobre la ciudad",
+  "autor": "Robert Delaunay",
+  "fecha": "1912",
+  "fechaOrden": 1912,
+  "tipo": "Pintura",
+  "periodo": "Orfismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Planos transparentes de color fragmentan la vista urbana y convierten la ventana en un laboratorio de luz.",
+  "localizacion": "Kunsthalle Hamburg",
+  "ciudad": "Hamburgo",
+  "urlLocalizacion": "https://www.hamburger-kunsthalle.de/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunsthalle%20Hamburg%2C%20Hamburgo",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "abstraccion",
+    "Abstracción y diseño moderno",
+    "Francia",
+    "Orfismo",
+    "Pintura",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    1229,
+    1335
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Robert%20Delaunay%2C%201912%2C%20Les%20Fen%C3%AAtres%20simultan%C3%A9e%20sur%20la%20ville%20(Simultaneous%20Windows%20on%20the%20City)%2C%2040%20x%2046%20cm%2C%20Kunsthalle%20Hamburg.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Robert%20Delaunay%2C%201912%2C%20Les%20Fen%C3%AAtres%20simultan%C3%A9e%20sur%20la%20ville%20(Simultaneous%20Windows%20on%20the%20City)%2C%2040%20x%2046%20cm%2C%20Kunsthalle%20Hamburg.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Robert%20Delaunay%2C%201912%2C%20Les%20Fen%C3%AAtres%20simultan%C3%A9e%20sur%20la%20ville%20(Simultaneous%20Windows%20on%20the%20City)%2C%2040%20x%2046%20cm%2C%20Kunsthalle%20Hamburg.jpg",
+    "alt": "Ventanas simultáneas sobre la ciudad, Robert Delaunay",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Robert Delaunay · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Robert%20Delaunay%2C%201912%2C%20Les%20Fen%C3%AAtres%20simultan%C3%A9e%20sur%20la%20ville%20(Simultaneous%20Windows%20on%20the%20City)%2C%2040%20x%2046%20cm%2C%20Kunsthalle%20Hamburg.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Robert%20Delaunay%2C%201912%2C%20Les%20Fen%C3%AAtres%20simultan%C3%A9e%20sur%20la%20ville%20(Simultaneous%20Windows%20on%20the%20City)%2C%2040%20x%2046%20cm%2C%20Kunsthalle%20Hamburg.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nPlanos transparentes de color fragmentan la vista urbana y convierten la ventana en un laboratorio de luz.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Óleo sobre lienzo.\n- **Tiempo:** 1912, dentro de Orfismo.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nDelaunay exploró contrastes simultáneos y la experiencia moderna de ciudad, aviación y publicidad dentro de una pintura cercana a la abstracción.\n\nVentanas simultáneas sobre la ciudad permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Kunsthalle Hamburg, Hamburgo, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Óleo sobre lienzo**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLa serie fue decisiva para el orfismo y para una concepción del color como fuerza constructiva autónoma.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Robert%20Delaunay%2C%201912%2C%20Les%20Fen%C3%AAtres%20simultan%C3%A9e%20sur%20la%20ville%20(Simultaneous%20Windows%20on%20the%20City)%2C%2040%20x%2046%20cm%2C%20Kunsthalle%20Hamburg.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Robert_Delaunay)\n- [Sitio de la institución o del lugar](https://www.hamburger-kunsthalle.de/en)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

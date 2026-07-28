@@ -1,0 +1,43 @@
+{
+  "id": "entrada-metro-guimard",
+  "titulo": "Entrada del Metro de París",
+  "autor": "Hector Guimard",
+  "fecha": "c. 1900",
+  "fechaOrden": 1900,
+  "tipo": "Diseño urbano",
+  "periodo": "Art Nouveau",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Piezas modulares de hierro fundido forman tallos, lámparas y rótulos que identifican el transporte metropolitano.",
+  "localizacion": "Metro de París",
+  "ciudad": "París",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Paris_Metro_entrances_by_Hector_Guimard",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Metro%20de%20Par%C3%ADs%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Hierro fundido",
+    "Vidrio",
+    "Diseño modular"
+  ],
+  "etiquetas": [
+    "Art Nouveau y artes decorativas",
+    "Francia",
+    "artnouveau",
+    "Diseño urbano",
+    "Art Nouveau"
+  ],
+  "proporcion": [
+    5184,
+    3456
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg",
+    "alt": "Entrada del Metro de París, Hector Guimard",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Hector Guimard · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

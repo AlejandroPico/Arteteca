@@ -1,0 +1,85 @@
+{
+  "id": "composicion-vii-kandinsky",
+  "titulo": "Composición VII",
+  "autor": "Vasili Kandinsky",
+  "fecha": "1913",
+  "fechaOrden": 1913,
+  "tipo": "Pintura",
+  "periodo": "Abstracción lírica",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Capas de líneas, remolinos y choques cromáticos construyen una imagen sin centro estable y de intensidad casi musical.",
+  "localizacion": "Galería Estatal Tretiakov",
+  "ciudad": "Moscú",
+  "urlLocalizacion": "https://www.tretyakovgallery.ru/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Estatal%20Tretiakov%2C%20Mosc%C3%BA",
+  "pais": "Rusia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "abstraccion",
+    "Abstracción lírica",
+    "Abstracción y diseño moderno",
+    "Pintura",
+    "Rusia",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    7015,
+    4661
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg",
+    "alt": "Composición VII, Vasili Kandinsky",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Vasili Kandinsky · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nCapas de líneas, remolinos y choques cromáticos construyen una imagen sin centro estable y de intensidad casi musical.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Óleo sobre lienzo.\n- **Tiempo:** 1913, dentro de Abstracción lírica.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nKandinsky defendió la capacidad autónoma de color y forma para producir efectos espirituales y emocionales sin representar objetos reconocibles.\n\nComposición VII permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Galería Estatal Tretiakov, Moscú, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Óleo sobre lienzo**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLa obra es una referencia fundamental de la abstracción anterior a la Primera Guerra Mundial.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Composition_VII)\n- [Sitio de la institución o del lugar](https://www.tretyakovgallery.ru/en/)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

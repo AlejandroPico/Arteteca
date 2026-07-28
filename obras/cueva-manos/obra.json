@@ -1,0 +1,43 @@
+{
+  "id": "cueva-manos",
+  "titulo": "Cueva de las Manos",
+  "autor": "Comunidades cazadoras-recolectoras de Patagonia",
+  "fecha": "c. 7300 a. C.–700 d. C.",
+  "fechaOrden": -3500,
+  "tipo": "Pintura rupestre",
+  "periodo": "Holoceno temprano y medio",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Centenares de siluetas de manos realizadas con pigmento pulverizado se superponen a escenas de caza y signos geométricos.",
+  "localizacion": "Cueva de las Manos",
+  "ciudad": "Santa Cruz",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/936/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cueva%20de%20las%20Manos%2C%20Santa%20Cruz",
+  "pais": "Argentina",
+  "tecnicas": [
+    "Pigmentos minerales",
+    "Estarcido sobre roca"
+  ],
+  "etiquetas": [
+    "Prehistoria y arte rupestre",
+    "Argentina",
+    "prehistoria",
+    "Pintura rupestre",
+    "Holoceno temprano y medio"
+  ],
+  "proporcion": [
+    1600,
+    1200
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SantaCruz-CuevaManos-P2210651b.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SantaCruz-CuevaManos-P2210651b.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:SantaCruz-CuevaManos-P2210651b.jpg",
+    "alt": "Cueva de las Manos, Comunidades cazadoras-recolectoras de Patagonia",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Comunidades cazadoras-recolectoras de Patagonia · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO"
+}
+

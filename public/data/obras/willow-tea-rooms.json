@@ -1,0 +1,91 @@
+{
+  "id": "willow-tea-rooms",
+  "titulo": "Willow Tea Rooms",
+  "autor": "Charles Rennie Mackintosh y Margaret Macdonald",
+  "fecha": "1903",
+  "fechaOrden": 1903,
+  "tipo": "Arquitectura e interiorismo",
+  "periodo": "Glasgow Style",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Fachada, mobiliario, lámparas y paneles forman un interior total basado en líneas verticales, geometría y símbolos vegetales.",
+  "localizacion": "Willow Tea Rooms",
+  "ciudad": "Glasgow",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Willow_Tearooms",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Willow%20Tea%20Rooms%2C%20Glasgow",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Arquitectura",
+    "Mobiliario",
+    "Vidrio",
+    "Metalistería"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arquitectura e interiorismo",
+    "Art Nouveau y artes decorativas",
+    "artnouveau",
+    "Glasgow Style",
+    "Metalistería",
+    "Mobiliario",
+    "Reino Unido",
+    "Vidrio"
+  ],
+  "proporcion": [
+    3366,
+    4890
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mackintosh_At_The_Willow.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mackintosh_At_The_Willow.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Mackintosh_At_The_Willow.jpg",
+    "alt": "Willow Tea Rooms, Charles Rennie Mackintosh y Margaret Macdonald",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Charles Rennie Mackintosh y Margaret Macdonald · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mackintosh_At_The_Willow.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mackintosh_At_The_Willow.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nFachada, mobiliario, lámparas y paneles forman un interior total basado en líneas verticales, geometría y símbolos vegetales.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Arquitectura, Mobiliario, Vidrio, Metalistería.\n- **Tiempo:** 1903, dentro de Glasgow Style.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nMackintosh y Macdonald desarrollaron en Glasgow un lenguaje que combinaba estructura geométrica, figura estilizada y diseño integral.\n\nWillow Tea Rooms permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Willow Tea Rooms, Glasgow, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Arquitectura**, **Mobiliario**, **Vidrio**, **Metalistería**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nEl conjunto enlaza Art Nouveau, Arts and Crafts y posteriores corrientes del diseño moderno.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mackintosh_At_The_Willow.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Willow_Tearooms)\n- [Sitio de la institución o del lugar](https://en.wikipedia.org/wiki/Willow_Tearooms)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

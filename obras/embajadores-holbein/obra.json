@@ -1,0 +1,41 @@
+{
+  "id": "embajadores-holbein",
+  "titulo": "Los embajadores",
+  "autor": "Hans Holbein el Joven",
+  "fecha": "1533",
+  "fechaOrden": 1533,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Dos diplomáticos posan entre instrumentos de conocimiento mientras una calavera anamórfica atraviesa el primer plano.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Renacimiento",
+    "Reino Unido",
+    "renacimiento",
+    "Pintura",
+    "Renacimiento nórdico"
+  ],
+  "proporcion": [
+    30000,
+    29560
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+    "alt": "Los embajadores, Hans Holbein el Joven",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Hans Holbein el Joven · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

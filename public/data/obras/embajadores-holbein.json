@@ -1,0 +1,85 @@
+{
+  "id": "embajadores-holbein",
+  "titulo": "Los embajadores",
+  "autor": "Hans Holbein el Joven",
+  "fecha": "1533",
+  "fechaOrden": 1533,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Dos diplomáticos posan entre instrumentos de conocimiento mientras una calavera anamórfica atraviesa el primer plano.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Pintura",
+    "Reino Unido",
+    "renacimiento",
+    "Renacimiento",
+    "Renacimiento nórdico",
+    "Óleo sobre tabla"
+  ],
+  "proporcion": [
+    30000,
+    29560
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+    "alt": "Los embajadores, Hans Holbein el Joven",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Hans Holbein el Joven · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nDos diplomáticos posan entre instrumentos de conocimiento mientras una calavera anamórfica atraviesa el primer plano.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Óleo sobre tabla.\n- **Tiempo:** 1533, dentro de Renacimiento nórdico.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nLa obra relaciona diplomacia, ciencia, música, religión y mortalidad en un momento de tensiones políticas y confesionales europeas.\n\nLos embajadores permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en National Gallery, Londres, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Óleo sobre tabla**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLa anamorfosis de la calavera es un ejemplo canónico de cómo la perspectiva puede ocultar y revelar significados.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/The_Ambassadors_(Holbein))\n- [Sitio de la institución o del lugar](https://www.nationalgallery.org.uk/)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "composicion-vii-kandinsky",
+  "titulo": "Composición VII",
+  "autor": "Vasili Kandinsky",
+  "fecha": "1913",
+  "fechaOrden": 1913,
+  "tipo": "Pintura",
+  "periodo": "Abstracción lírica",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Capas de líneas, remolinos y choques cromáticos construyen una imagen sin centro estable y de intensidad casi musical.",
+  "localizacion": "Galería Estatal Tretiakov",
+  "ciudad": "Moscú",
+  "urlLocalizacion": "https://www.tretyakovgallery.ru/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Estatal%20Tretiakov%2C%20Mosc%C3%BA",
+  "pais": "Rusia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Abstracción y diseño moderno",
+    "Rusia",
+    "abstraccion",
+    "Pintura",
+    "Abstracción lírica"
+  ],
+  "proporcion": [
+    7015,
+    4661
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg",
+    "alt": "Composición VII, Vasili Kandinsky",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Vasili Kandinsky · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

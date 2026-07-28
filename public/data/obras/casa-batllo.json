@@ -1,0 +1,91 @@
+{
+  "id": "casa-batllo",
+  "titulo": "Casa Batlló",
+  "autor": "Antoni Gaudí",
+  "fecha": "1904–1906",
+  "fechaOrden": 1906,
+  "tipo": "Arquitectura",
+  "periodo": "Modernisme catalán",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Fachada, patio e interiores convierten cerámica, vidrio, madera y hierro en un organismo de curvas y reflejos.",
+  "localizacion": "Casa Batlló",
+  "ciudad": "Barcelona",
+  "urlLocalizacion": "https://www.casabatllo.es/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Casa%20Batll%C3%B3%2C%20Barcelona",
+  "pais": "España",
+  "tecnicas": [
+    "Arquitectura",
+    "Trencadís",
+    "Hierro",
+    "Madera"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Art Nouveau y artes decorativas",
+    "artnouveau",
+    "España",
+    "Hierro",
+    "Madera",
+    "Modernisme catalán",
+    "Trencadís"
+  ],
+  "proporcion": [
+    2244,
+    2765
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+    "alt": "Casa Batlló, Antoni Gaudí",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Antoni Gaudí · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nFachada, patio e interiores convierten cerámica, vidrio, madera y hierro en un organismo de curvas y reflejos.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Arquitectura, Trencadís, Hierro, Madera.\n- **Tiempo:** 1904–1906, dentro de Modernisme catalán.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nGaudí reformó un edificio existente como un diseño integral donde estructura, ventilación, mobiliario y ornamentación forman un solo sistema.\n\nCasa Batlló permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Casa Batlló, Barcelona, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Arquitectura**, **Trencadís**, **Hierro**, **Madera**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nEs uno de los emblemas del Modernisme y una referencia internacional de arquitectura orgánica.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Casa_Batll%C3%B3)\n- [Sitio de la institución o del lugar](https://www.casabatllo.es/en/)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

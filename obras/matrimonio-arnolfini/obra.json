@@ -1,0 +1,41 @@
+{
+  "id": "matrimonio-arnolfini",
+  "titulo": "Retrato de Giovanni Arnolfini y su esposa",
+  "autor": "Jan van Eyck",
+  "fecha": "1434",
+  "fechaOrden": 1434,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Una pareja ocupa un interior minucioso donde espejo, luz, tejidos y objetos cotidianos multiplican las preguntas sobre identidad y ceremonia.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "Óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Renacimiento",
+    "Países Bajos",
+    "renacimiento",
+    "Pintura",
+    "Renacimiento nórdico"
+  ],
+  "proporcion": [
+    8283,
+    11331
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Arnolfini_portrait_(1434).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Arnolfini_portrait_(1434).jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg",
+    "alt": "Retrato de Giovanni Arnolfini y su esposa, Jan van Eyck",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Jan van Eyck · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

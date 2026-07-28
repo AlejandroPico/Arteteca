@@ -1,0 +1,41 @@
+{
+  "id": "broadway-boogie-woogie",
+  "titulo": "Broadway Boogie Woogie",
+  "autor": "Piet Mondrian",
+  "fecha": "1942–1943",
+  "fechaOrden": 1943,
+  "tipo": "Pintura",
+  "periodo": "Neoplasticismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Pequeños módulos de color sustituyen las líneas negras y convierten la cuadrícula de Manhattan en un ritmo vibrante.",
+  "localizacion": "Museum of Modern Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Abstracción y diseño moderno",
+    "Estados Unidos",
+    "abstraccion",
+    "Pintura",
+    "Neoplasticismo"
+  ],
+  "proporcion": [
+    4104,
+    4111
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg",
+    "alt": "Broadway Boogie Woogie, Piet Mondrian",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Piet Mondrian · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

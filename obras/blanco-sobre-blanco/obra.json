@@ -1,0 +1,41 @@
+{
+  "id": "blanco-sobre-blanco",
+  "titulo": "Blanco sobre blanco",
+  "autor": "Kazimir Malévich",
+  "fecha": "1918",
+  "fechaOrden": 1918,
+  "tipo": "Pintura",
+  "periodo": "Suprematismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Un cuadrado blanco inclinado apenas se distingue del fondo y lleva la reducción suprematista hasta el límite de la visibilidad.",
+  "localizacion": "Museum of Modern Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20Nueva%20York",
+  "pais": "Rusia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Abstracción y diseño moderno",
+    "Rusia",
+    "abstraccion",
+    "Pintura",
+    "Suprematismo"
+  ],
+  "proporcion": [
+    2000,
+    2000
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/White_on_White_(Malevich%2C_1918).png?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/White_on_White_(Malevich%2C_1918).png",
+    "fuente": "https://commons.wikimedia.org/wiki/File:White_on_White_(Malevich%2C_1918).png",
+    "alt": "Blanco sobre blanco, Kazimir Malévich",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Kazimir Malévich · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

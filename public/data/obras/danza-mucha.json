@@ -1,0 +1,85 @@
+{
+  "id": "danza-mucha",
+  "titulo": "La danza",
+  "autor": "Alphonse Mucha",
+  "fecha": "1898",
+  "fechaOrden": 1898,
+  "tipo": "Panel decorativo",
+  "periodo": "Art Nouveau",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Una figura femenina suspendida entre telas y motivos florales personifica la danza mediante una línea continua y musical.",
+  "localizacion": "Varias colecciones",
+  "ciudad": "",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Varias%20colecciones%2C%20",
+  "pais": "Francia",
+  "tecnicas": [
+    "Litografía en color"
+  ],
+  "etiquetas": [
+    "Art Nouveau",
+    "Art Nouveau y artes decorativas",
+    "artnouveau",
+    "Francia",
+    "Litografía en color",
+    "Panel decorativo"
+  ],
+  "proporcion": [
+    1159,
+    1763
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alfons%20Mucha%20-%20The%20Arts%20Dance%2C%201898.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alfons%20Mucha%20-%20The%20Arts%20Dance%2C%201898.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Alfons%20Mucha%20-%20The%20Arts%20Dance%2C%201898.jpg",
+    "alt": "La danza, Alphonse Mucha",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Alphonse Mucha · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alfons%20Mucha%20-%20The%20Arts%20Dance%2C%201898.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alfons%20Mucha%20-%20The%20Arts%20Dance%2C%201898.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nUna figura femenina suspendida entre telas y motivos florales personifica la danza mediante una línea continua y musical.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Litografía en color.\n- **Tiempo:** 1898, dentro de Art Nouveau.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nLos paneles decorativos de Mucha llevaron imágenes artísticas reproducibles a interiores domésticos y mercados internacionales.\n\nLa danza permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Varias colecciones, , añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Litografía en color**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLa serie consolidó la relación entre ilustración, publicidad y artes decorativas característica del Art Nouveau.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alfons%20Mucha%20-%20The%20Arts%20Dance%2C%201898.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Alphonse_Mucha)\n- [Sitio de la institución o del lugar](https://en.wikipedia.org/wiki/Alphonse_Mucha)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

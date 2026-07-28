@@ -1,0 +1,85 @@
+{
+  "id": "escuela-atenas",
+  "titulo": "La escuela de Atenas",
+  "autor": "Rafael",
+  "fecha": "1509–1511",
+  "fechaOrden": 1510,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Filósofos de la Antigüedad convergen en una arquitectura ideal cuyo centro perspectivo coincide con Platón y Aristóteles.",
+  "localizacion": "Estancias de Rafael, Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/The_School_of_Athens",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Estancias%20de%20Rafael%2C%20Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Italia",
+  "tecnicas": [
+    "Fresco"
+  ],
+  "etiquetas": [
+    "Alto Renacimiento",
+    "Fresco",
+    "Italia",
+    "Pintura mural",
+    "renacimiento",
+    "Renacimiento"
+  ],
+  "proporcion": [
+    3820,
+    2964
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+    "alt": "La escuela de Atenas, Rafael",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Rafael · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nFilósofos de la Antigüedad convergen en una arquitectura ideal cuyo centro perspectivo coincide con Platón y Aristóteles.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Fresco.\n- **Tiempo:** 1509–1511, dentro de Alto Renacimiento.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nEl programa de la Stanza della Segnatura relacionó teología, filosofía, poesía y justicia dentro de la corte papal.\n\nLa escuela de Atenas permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Estancias de Rafael, Museos Vaticanos, Ciudad del Vaticano, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Fresco**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLa obra se convirtió en modelo de composición monumental, perspectiva y representación visual del conocimiento.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/The_School_of_Athens)\n- [Sitio de la institución o del lugar](https://en.wikipedia.org/wiki/The_School_of_Athens)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

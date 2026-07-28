@@ -1,0 +1,89 @@
+{
+  "id": "renos-nadadores",
+  "titulo": "Renos nadadores",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 13.000 a. C.",
+  "fechaOrden": -13000,
+  "tipo": "Escultura",
+  "periodo": "Magdaleniense",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Dos renos tallados uno detrás de otro forman una composición compacta que sigue la curvatura de una punta de colmillo de mamut.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.britishmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%2C%20Londres",
+  "pais": "Francia",
+  "tecnicas": [
+    "Marfil de mamut",
+    "Talla",
+    "Grabado"
+  ],
+  "etiquetas": [
+    "Escultura",
+    "Francia",
+    "Grabado",
+    "Magdaleniense",
+    "Marfil de mamut",
+    "prehistoria",
+    "Prehistoria y arte rupestre",
+    "Talla"
+  ],
+  "proporcion": [
+    2605,
+    1861
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg",
+    "alt": "Renos nadadores, Autoría desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nDos renos tallados uno detrás de otro forman una composición compacta que sigue la curvatura de una punta de colmillo de mamut.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Marfil de mamut, Talla, Grabado.\n- **Tiempo:** c. 13.000 a. C., dentro de Magdaleniense.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nLa escultura portátil magdaleniense combinó observación animal, conocimiento del material y una economía formal adaptada a soportes pequeños.\n\nRenos nadadores permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en British Museum, Londres, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Marfil de mamut**, **Talla**, **Grabado**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLa pieza es esencial para comprender la sofisticación de la talla paleolítica y la movilidad de sus objetos.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Swimming_Reindeer)\n- [Sitio de la institución o del lugar](https://www.britishmuseum.org/)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

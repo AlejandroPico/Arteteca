@@ -1,0 +1,41 @@
+{
+  "id": "escuela-atenas",
+  "titulo": "La escuela de Atenas",
+  "autor": "Rafael",
+  "fecha": "1509–1511",
+  "fechaOrden": 1510,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Filósofos de la Antigüedad convergen en una arquitectura ideal cuyo centro perspectivo coincide con Platón y Aristóteles.",
+  "localizacion": "Estancias de Rafael, Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/The_School_of_Athens",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Estancias%20de%20Rafael%2C%20Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Italia",
+  "tecnicas": [
+    "Fresco"
+  ],
+  "etiquetas": [
+    "Renacimiento",
+    "Italia",
+    "renacimiento",
+    "Pintura mural",
+    "Alto Renacimiento"
+  ],
+  "proporcion": [
+    3820,
+    2964
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+    "alt": "La escuela de Atenas, Rafael",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Rafael · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

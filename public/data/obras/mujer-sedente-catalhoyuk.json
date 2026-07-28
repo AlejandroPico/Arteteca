@@ -1,0 +1,87 @@
+{
+  "id": "mujer-sedente-catalhoyuk",
+  "titulo": "Mujer sedente de Çatalhöyük",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 6000 a. C.",
+  "fechaOrden": -6000,
+  "tipo": "Escultura",
+  "periodo": "Neolítico",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "La figura sedente aparece flanqueada por felinos y modelada con una volumetría enfática en arcilla cocida.",
+  "localizacion": "Museo de las Civilizaciones de Anatolia",
+  "ciudad": "Ankara",
+  "urlLocalizacion": "https://muze.gov.tr/muze-detay?SectionId=AMM01&DistId=MRK",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20las%20Civilizaciones%20de%20Anatolia%2C%20Ankara",
+  "pais": "Turquía",
+  "tecnicas": [
+    "Terracota",
+    "Modelado"
+  ],
+  "etiquetas": [
+    "Escultura",
+    "Modelado",
+    "Neolítico",
+    "prehistoria",
+    "Prehistoria y arte rupestre",
+    "Terracota",
+    "Turquía"
+  ],
+  "proporcion": [
+    2099,
+    2824
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg",
+    "alt": "Mujer sedente de Çatalhöyük, Autoría desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nLa figura sedente aparece flanqueada por felinos y modelada con una volumetría enfática en arcilla cocida.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Terracota, Modelado.\n- **Tiempo:** c. 6000 a. C., dentro de Neolítico.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nÇatalhöyük fue un asentamiento neolítico denso con arquitectura doméstica, enterramientos, pintura mural y numerosos objetos modelados.\n\nMujer sedente de Çatalhöyük permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Museo de las Civilizaciones de Anatolia, Ankara, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Terracota**, **Modelado**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nHa ocupado un lugar central —y discutido— en las interpretaciones sobre género, ritual y autoridad en el Neolítico.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Seated_Woman_of_%C3%87atalh%C3%B6y%C3%BCk)\n- [Sitio de la institución o del lugar](https://muze.gov.tr/muze-detay?SectionId=AMM01&DistId=MRK)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

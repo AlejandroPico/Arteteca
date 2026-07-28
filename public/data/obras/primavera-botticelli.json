@@ -1,0 +1,85 @@
+{
+  "id": "primavera-botticelli",
+  "titulo": "La primavera",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1477–1482",
+  "fechaOrden": 1480,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento italiano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Figuras mitológicas ocupan un jardín de naranjos articulado por ritmos de manos, telas, flores y miradas.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Temple sobre tabla"
+  ],
+  "etiquetas": [
+    "Italia",
+    "Pintura",
+    "renacimiento",
+    "Renacimiento",
+    "Renacimiento italiano",
+    "Temple sobre tabla"
+  ],
+  "proporcion": [
+    4926,
+    3236
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botticelli-primavera.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botticelli-primavera.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg",
+    "alt": "La primavera, Sandro Botticelli",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Sandro Botticelli · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botticelli-primavera.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botticelli-primavera.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nFiguras mitológicas ocupan un jardín de naranjos articulado por ritmos de manos, telas, flores y miradas.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Temple sobre tabla.\n- **Tiempo:** c. 1477–1482, dentro de Renacimiento italiano.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nLa obra se relaciona con la cultura medicea y con interpretaciones humanistas del amor, la fertilidad y la poesía antigua.\n\nLa primavera permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Galería Uffizi, Florencia, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Temple sobre tabla**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nSu densidad iconográfica ha generado lecturas diversas y la mantiene como una de las grandes imágenes del Quattrocento.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Primavera_(Botticelli))\n- [Sitio de la institución o del lugar](https://www.uffizi.it/en/the-uffizi)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

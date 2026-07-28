@@ -1,0 +1,85 @@
+{
+  "id": "broadway-boogie-woogie",
+  "titulo": "Broadway Boogie Woogie",
+  "autor": "Piet Mondrian",
+  "fecha": "1942–1943",
+  "fechaOrden": 1943,
+  "tipo": "Pintura",
+  "periodo": "Neoplasticismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Pequeños módulos de color sustituyen las líneas negras y convierten la cuadrícula de Manhattan en un ritmo vibrante.",
+  "localizacion": "Museum of Modern Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "abstraccion",
+    "Abstracción y diseño moderno",
+    "Estados Unidos",
+    "Neoplasticismo",
+    "Pintura",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    4104,
+    4111
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg",
+    "alt": "Broadway Boogie Woogie, Piet Mondrian",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Piet Mondrian · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nPequeños módulos de color sustituyen las líneas negras y convierten la cuadrícula de Manhattan en un ritmo vibrante.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Óleo sobre lienzo.\n- **Tiempo:** 1942–1943, dentro de Neoplasticismo.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nTras instalarse en Nueva York, Mondrian respondió a la retícula urbana y a la música boogie-woogie con un sistema más fragmentado y luminoso.\n\nBroadway Boogie Woogie permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Museum of Modern Art, Nueva York, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Óleo sobre lienzo**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLa obra llevó el neoplasticismo hacia una energía nueva y quedó como síntesis entre ciudad, música y abstracción.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Broadway_Boogie_Woogie)\n- [Sitio de la institución o del lugar](https://www.moma.org/)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

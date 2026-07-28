@@ -1,0 +1,40 @@
+{
+  "id": "ritmo-uno-delaunay",
+  "titulo": "Ritmo n.º 1",
+  "autor": "Robert Delaunay",
+  "fecha": "1938",
+  "fechaOrden": 1938,
+  "tipo": "Pintura mural",
+  "periodo": "Orfismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Arcos y discos de gran escala organizan el color como una maquinaria circular destinada a un espacio público.",
+  "localizacion": "Musée d’Art Moderne de Paris",
+  "ciudad": "París",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Sonia_Delaunay",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20d%E2%80%99Art%20Moderne%20de%20Paris%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Abstracción y diseño moderno",
+    "Francia",
+    "abstraccion",
+    "Pintura mural",
+    "Orfismo"
+  ],
+  "proporcion": [
+    2985,
+    2715
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Robert%20Delaunay%2C%201938%2C%20Rythme%20n%C2%B01%2C%20Decoration%20for%20the%20Salon%20des%20Tuileries%2C%20oil%20on%20canvas%2C%20Mus%C3%A9e%20d'Art%20Moderne%20de%20la%20ville%20de%20Paris.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Robert%20Delaunay%2C%201938%2C%20Rythme%20n%C2%B01%2C%20Decoration%20for%20the%20Salon%20des%20Tuileries%2C%20oil%20on%20canvas%2C%20Mus%C3%A9e%20d'Art%20Moderne%20de%20la%20ville%20de%20Paris.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Robert%20Delaunay%2C%201938%2C%20Rythme%20n%C2%B01%2C%20Decoration%20for%20the%20Salon%20des%20Tuileries%2C%20oil%20on%20canvas%2C%20Mus%C3%A9e%20d'Art%20Moderne%20de%20la%20ville%20de%20Paris.jpg",
+    "alt": "Ritmo n.º 1, Robert Delaunay",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Robert Delaunay · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}

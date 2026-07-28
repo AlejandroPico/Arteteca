@@ -1,0 +1,86 @@
+{
+  "id": "gran-dios-sefar",
+  "titulo": "Gran dios de Sefar",
+  "autor": "Artistas de Tassili n’Ajjer",
+  "fecha": "c. 6000–4000 a. C.",
+  "fechaOrden": -5000,
+  "tipo": "Pintura rupestre",
+  "periodo": "Periodo de las Cabezas Redondas",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Una gran figura frontal de contorno redondeado domina un conjunto de personajes menores en un abrigo del Sahara central.",
+  "localizacion": "Tassili n’Ajjer",
+  "ciudad": "Djanet",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Round_Head_Period",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Tassili%20n%E2%80%99Ajjer%2C%20Djanet",
+  "pais": "Argelia",
+  "tecnicas": [
+    "Pigmento sobre roca"
+  ],
+  "etiquetas": [
+    "Argelia",
+    "Periodo de las Cabezas Redondas",
+    "Pigmento sobre roca",
+    "Pintura rupestre",
+    "prehistoria",
+    "Prehistoria y arte rupestre"
+  ],
+  "proporcion": [
+    654,
+    965
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fondazione_Passar%C3%A9_V1_056.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fondazione_Passar%C3%A9_V1_056.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Fondazione_Passar%C3%A9_V1_056.jpg",
+    "alt": "Gran dios de Sefar, Artistas de Tassili n’Ajjer",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Artistas de Tassili n’Ajjer · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fondazione_Passar%C3%A9_V1_056.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fondazione_Passar%C3%A9_V1_056.jpg"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nUna gran figura frontal de contorno redondeado domina un conjunto de personajes menores en un abrigo del Sahara central.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Pigmento sobre roca.\n- **Tiempo:** c. 6000–4000 a. C., dentro de Periodo de las Cabezas Redondas.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nLos abrigos de Tassili conservan miles de imágenes que documentan cambios ambientales, fauna, prácticas sociales y lenguajes visuales del Sahara.\n\nGran dios de Sefar permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Tassili n’Ajjer, Djanet, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Pigmento sobre roca**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nEl conjunto amplía la historia del arte rupestre más allá de Europa y permite estudiar una larga secuencia cultural africana.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fondazione_Passar%C3%A9_V1_056.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Round_Head_Period)\n- [Sitio de la institución o del lugar](https://en.wikipedia.org/wiki/Round_Head_Period)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

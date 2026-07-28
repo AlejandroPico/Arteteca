@@ -1,0 +1,42 @@
+{
+  "id": "beso-klimt",
+  "titulo": "El beso",
+  "autor": "Gustav Klimt",
+  "fecha": "1907–1908",
+  "fechaOrden": 1908,
+  "tipo": "Pintura",
+  "periodo": "Secesión vienesa",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Una pareja queda envuelta por oro, patrones geométricos y flores hasta casi fundirse con la superficie ornamental.",
+  "localizacion": "Österreichische Galerie Belvedere",
+  "ciudad": "Viena",
+  "urlLocalizacion": "https://www.belvedere.at/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=%C3%96sterreichische%20Galerie%20Belvedere%2C%20Viena",
+  "pais": "Austria",
+  "tecnicas": [
+    "Óleo",
+    "Pan de oro y plata sobre lienzo"
+  ],
+  "etiquetas": [
+    "Art Nouveau y artes decorativas",
+    "Austria",
+    "artnouveau",
+    "Pintura",
+    "Secesión vienesa"
+  ],
+  "proporcion": [
+    7376,
+    7401
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+    "alt": "El beso, Gustav Klimt",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Gustav Klimt · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

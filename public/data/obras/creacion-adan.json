@@ -1,0 +1,85 @@
+{
+  "id": "creacion-adan",
+  "titulo": "La creación de Adán",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1511–1512",
+  "fechaOrden": 1512,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Dos manos casi se tocan y concentran la transmisión de vida dentro de una escena de enorme claridad gestual.",
+  "localizacion": "Capilla Sixtina",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/The_Creation_of_Adam",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Capilla%20Sixtina%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Italia",
+  "tecnicas": [
+    "Fresco"
+  ],
+  "etiquetas": [
+    "Alto Renacimiento",
+    "Fresco",
+    "Italia",
+    "Pintura mural",
+    "renacimiento",
+    "Renacimiento"
+  ],
+  "proporcion": [
+    3524,
+    1599
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo_-_Creation_of_Adam_(cropped).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo_-_Creation_of_Adam_(cropped).jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg",
+    "alt": "La creación de Adán, Miguel Ángel Buonarroti",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo_-_Creation_of_Adam_(cropped).jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo_-_Creation_of_Adam_(cropped).jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nDos manos casi se tocan y concentran la transmisión de vida dentro de una escena de enorme claridad gestual.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Fresco.\n- **Tiempo:** c. 1511–1512, dentro de Alto Renacimiento.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nMiguel Ángel pintó la bóveda de la Capilla Sixtina como una secuencia monumental de episodios del Génesis, profetas y antepasados.\n\nLa creación de Adán permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Capilla Sixtina, Ciudad del Vaticano, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Fresco**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nEl intervalo entre los dedos de Dios y Adán es uno de los gestos más citados de toda la historia visual.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/The_Creation_of_Adam)\n- [Sitio de la institución o del lugar](https://en.wikipedia.org/wiki/The_Creation_of_Adam)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

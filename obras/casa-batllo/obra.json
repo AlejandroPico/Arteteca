@@ -1,0 +1,45 @@
+{
+  "id": "casa-batllo",
+  "titulo": "Casa Batlló",
+  "autor": "Antoni Gaudí",
+  "fecha": "1904–1906",
+  "fechaOrden": 1906,
+  "tipo": "Arquitectura",
+  "periodo": "Modernisme catalán",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Fachada, patio e interiores convierten cerámica, vidrio, madera y hierro en un organismo de curvas y reflejos.",
+  "localizacion": "Casa Batlló",
+  "ciudad": "Barcelona",
+  "urlLocalizacion": "https://www.casabatllo.es/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Casa%20Batll%C3%B3%2C%20Barcelona",
+  "pais": "España",
+  "tecnicas": [
+    "Arquitectura",
+    "Trencadís",
+    "Hierro",
+    "Madera"
+  ],
+  "etiquetas": [
+    "Art Nouveau y artes decorativas",
+    "España",
+    "artnouveau",
+    "Arquitectura",
+    "Modernisme catalán"
+  ],
+  "proporcion": [
+    2244,
+    2765
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+    "alt": "Casa Batlló, Antoni Gaudí",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Antoni Gaudí · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO"
+}
+

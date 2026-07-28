@@ -1,0 +1,41 @@
+{
+  "id": "composicion-rojo-azul-amarillo",
+  "titulo": "Composición con rojo, azul y amarillo",
+  "autor": "Piet Mondrian",
+  "fecha": "1930",
+  "fechaOrden": 1930,
+  "tipo": "Pintura",
+  "periodo": "De Stijl",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Líneas negras de distinto grosor delimitan campos blancos y tres colores primarios dentro de un equilibrio asimétrico.",
+  "localizacion": "Kunsthaus Zürich",
+  "ciudad": "Zúrich",
+  "urlLocalizacion": "https://www.kunsthaus.ch/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunsthaus%20Z%C3%BCrich%2C%20Z%C3%BArich",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Abstracción y diseño moderno",
+    "Países Bajos",
+    "abstraccion",
+    "Pintura",
+    "De Stijl"
+  ],
+  "proporcion": [
+    5918,
+    6000
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg",
+    "alt": "Composición con rojo, azul y amarillo, Piet Mondrian",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Piet Mondrian · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

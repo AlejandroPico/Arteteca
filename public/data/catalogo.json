@@ -1,15 +1,19 @@
 {
   "version": 1,
-  "buildId": "d77b37353fbd1c57",
-  "total": 110,
+  "buildId": "bc1d030f9b9f8a2a",
+  "total": 150,
   "tipos": [
     "Arquitectura",
     "Arquitectura e interiorismo",
+    "Arquitectura megalítica",
     "Arquitectura y relieve",
     "Arte rupestre",
     "Artes decorativas",
+    "Cartel",
     "Conjunto arquitectónico",
     "Cronofotografía",
+    "Dibujo rupestre",
+    "Diseño urbano",
     "Escultura",
     "Escultura arquitectónica",
     "Escultura e instalación",
@@ -25,17 +29,23 @@
     "Objeto",
     "Obra sobre papel",
     "Orfebrería",
+    "Panel decorativo",
     "Pintura",
     "Pintura mural",
+    "Pintura rupestre",
     "Readymade",
     "Relieve",
     "Relieve y arquitectura",
     "Rollo pintado",
     "Textil",
+    "Tríptico",
     "Vidriera"
   ],
   "periodos": [
+    "Abstracción lírica",
+    "Alto Renacimiento",
     "Art déco",
+    "Art Nouveau",
     "Arte aborigen australiano",
     "Arte bizantino",
     "Arte budista de Ajanta",
@@ -53,15 +63,19 @@
     "Arte románico",
     "Arte safávida",
     "Arte yoruba",
+    "Auriñaciense",
     "Barroco",
     "Barroco español",
     "Barroco flamenco",
     "Barroco italiano",
     "Barroco neerlandés",
+    "Bauhaus",
+    "Cubismo y maquinismo",
     "Cultura Nok",
     "Dadaísmo",
     "Dadaísmo y surrealismo",
     "Daguerrotipo",
+    "De Stijl",
     "Dinastía IV",
     "Dinastía Qin",
     "Dinastía Song",
@@ -75,18 +89,28 @@
     "Fotografía pionera",
     "Fotografía social",
     "Fotoperiodismo",
+    "Glasgow Style",
     "Gran Zimbabue",
     "Grecia clásica",
     "Gótico",
     "Gótico internacional",
     "Helenismo",
     "Helenismo tardío",
+    "Holoceno temprano y medio",
     "Imperio Antiguo",
     "Imperio chola",
     "Impresionismo",
+    "Magdaleniense",
+    "Modernisme catalán",
+    "Natufiense",
+    "Neolítico",
+    "Neolítico y Edad del Bronce",
+    "Neoplasticismo",
+    "Orfismo",
     "Orfismo y dadaísmo",
     "Paleolítico superior",
     "Periodo de Amarna",
+    "Periodo de las Cabezas Redondas",
     "Periodo Heian",
     "Periodo Kamakura",
     "Periodo protodinástico",
@@ -95,18 +119,24 @@
     "Realismo",
     "Recepción medieval de Roma",
     "Renacimiento",
+    "Renacimiento italiano",
+    "Renacimiento nórdico",
+    "Renacimiento veneciano",
     "Roma imperial",
     "Roma republicana",
     "Romanticismo",
     "Romanticismo inglés",
+    "Secesión vienesa",
     "Suprematismo",
     "Surrealismo",
     "Ukiyo-e",
     "Vanguardia y surrealismo"
   ],
   "colecciones": [
+    "Abstracción y diseño moderno",
     "Antiguo Egipto",
     "Art déco",
+    "Art Nouveau y artes decorativas",
     "Arte medieval y religioso",
     "Asia",
     "Barroco",
@@ -260,6 +290,150 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "amantes-ain-sakhri",
+      "titulo": "Amantes de Ain Sakhri",
+      "tituloOriginal": null,
+      "autor": "Autoría desconocida",
+      "fecha": "c. 9000 a. C.",
+      "fechaOrden": -9000,
+      "tipo": "Escultura",
+      "periodo": "Natufiense",
+      "coleccion": "Prehistoria y arte rupestre",
+      "reconocimiento": null,
+      "descripcion": "Una pequeña piedra calcárea tallada sugiere dos cuerpos abrazados mediante volúmenes mínimos y una lectura que cambia al girarla.",
+      "localizacion": "British Museum",
+      "ciudad": "Londres",
+      "urlLocalizacion": "https://www.britishmuseum.org/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%2C%20Londres",
+      "pais": "Palestina",
+      "tecnicas": [
+        "Calcita",
+        "Talla"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        3222,
+        4679
+      ],
+      "color": "#8c5f3f",
+      "etiquetas": [
+        "Calcita",
+        "Escultura",
+        "Natufiense",
+        "Palestina",
+        "prehistoria",
+        "Prehistoria y arte rupestre",
+        "Talla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg",
+        "alt": "Amantes de Ain Sakhri, Autoría desconocida",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
+      "id": "amarillo-rojo-azul",
+      "titulo": "Amarillo, rojo y azul",
+      "tituloOriginal": null,
+      "autor": "Vasili Kandinsky",
+      "fecha": "1925",
+      "fechaOrden": 1925,
+      "tipo": "Pintura",
+      "periodo": "Bauhaus",
+      "coleccion": "Abstracción y diseño moderno",
+      "reconocimiento": null,
+      "descripcion": "Geometrías nítidas y formas orgánicas se equilibran a ambos lados de una superficie donde el color funciona como estructura.",
+      "localizacion": "Centre Pompidou",
+      "ciudad": "París",
+      "urlLocalizacion": "https://www.centrepompidou.fr/en/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Centre%20Pompidou%2C%20Par%C3%ADs",
+      "pais": "Alemania",
+      "tecnicas": [
+        "Óleo sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        4000,
+        2552
+      ],
+      "color": "#a04c3b",
+      "etiquetas": [
+        "abstraccion",
+        "Abstracción y diseño moderno",
+        "Alemania",
+        "Bauhaus",
+        "Pintura",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gelb-Rot-Blau%2C%20by%20Wassily%20Kandinsky%2C%20Centre%20Pompidou.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Gelb-Rot-Blau%2C%20by%20Wassily%20Kandinsky%2C%20Centre%20Pompidou.jpg",
+        "alt": "Amarillo, rojo y azul, Vasili Kandinsky",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Vasili Kandinsky · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gelb-Rot-Blau%2C%20by%20Wassily%20Kandinsky%2C%20Centre%20Pompidou.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -837,6 +1011,155 @@
       ]
     },
     {
+      "id": "bauhaus-dessau",
+      "titulo": "Edificio de la Bauhaus en Dessau",
+      "tituloOriginal": null,
+      "autor": "Walter Gropius",
+      "fecha": "1925–1926",
+      "fechaOrden": 1926,
+      "tipo": "Arquitectura",
+      "periodo": "Bauhaus",
+      "coleccion": "Abstracción y diseño moderno",
+      "reconocimiento": "Patrimonio Mundial de la UNESCO",
+      "descripcion": "Volúmenes especializados, fachada de vidrio y circulaciones visibles expresan un programa de enseñanza y producción colectiva.",
+      "localizacion": "Bauhaus Dessau",
+      "ciudad": "Dessau",
+      "urlLocalizacion": "https://www.bauhaus-dessau.de/en/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bauhaus%20Dessau%2C%20Dessau",
+      "pais": "Alemania",
+      "tecnicas": [
+        "Hormigón armado",
+        "Vidrio",
+        "Acero",
+        "Arquitectura"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        6202,
+        3876
+      ],
+      "color": "#a04c3b",
+      "etiquetas": [
+        "abstraccion",
+        "Abstracción y diseño moderno",
+        "Acero",
+        "Alemania",
+        "Arquitectura",
+        "Bauhaus",
+        "Hormigón armado",
+        "Vidrio"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg",
+        "alt": "Edificio de la Bauhaus en Dessau, Walter Gropius",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Walter Gropius · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
+      "id": "beso-klimt",
+      "titulo": "El beso",
+      "tituloOriginal": null,
+      "autor": "Gustav Klimt",
+      "fecha": "1907–1908",
+      "fechaOrden": 1908,
+      "tipo": "Pintura",
+      "periodo": "Secesión vienesa",
+      "coleccion": "Art Nouveau y artes decorativas",
+      "reconocimiento": null,
+      "descripcion": "Una pareja queda envuelta por oro, patrones geométricos y flores hasta casi fundirse con la superficie ornamental.",
+      "localizacion": "Österreichische Galerie Belvedere",
+      "ciudad": "Viena",
+      "urlLocalizacion": "https://www.belvedere.at/en",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=%C3%96sterreichische%20Galerie%20Belvedere%2C%20Viena",
+      "pais": "Austria",
+      "tecnicas": [
+        "Óleo",
+        "Pan de oro y plata sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        7376,
+        7401
+      ],
+      "color": "#3f7067",
+      "etiquetas": [
+        "Art Nouveau y artes decorativas",
+        "artnouveau",
+        "Austria",
+        "Pan de oro y plata sobre lienzo",
+        "Pintura",
+        "Secesión vienesa",
+        "Óleo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+        "alt": "El beso, Gustav Klimt",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Gustav Klimt · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "bisontes-altamira",
       "titulo": "Bisontes de Altamira",
       "tituloOriginal": null,
@@ -900,6 +1223,77 @@
           "id": "tecnica",
           "titulo": "Técnica y acceso",
           "icono": "tecnica"
+        }
+      ]
+    },
+    {
+      "id": "blanco-sobre-blanco",
+      "titulo": "Blanco sobre blanco",
+      "tituloOriginal": null,
+      "autor": "Kazimir Malévich",
+      "fecha": "1918",
+      "fechaOrden": 1918,
+      "tipo": "Pintura",
+      "periodo": "Suprematismo",
+      "coleccion": "Abstracción y diseño moderno",
+      "reconocimiento": null,
+      "descripcion": "Un cuadrado blanco inclinado apenas se distingue del fondo y lleva la reducción suprematista hasta el límite de la visibilidad.",
+      "localizacion": "Museum of Modern Art",
+      "ciudad": "Nueva York",
+      "urlLocalizacion": "https://www.moma.org/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20Nueva%20York",
+      "pais": "Rusia",
+      "tecnicas": [
+        "Óleo sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        2000,
+        2000
+      ],
+      "color": "#a04c3b",
+      "etiquetas": [
+        "abstraccion",
+        "Abstracción y diseño moderno",
+        "Pintura",
+        "Rusia",
+        "Suprematismo",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/White_on_White_(Malevich%2C_1918).png?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:White_on_White_(Malevich%2C_1918).png",
+        "alt": "Blanco sobre blanco, Kazimir Malévich",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Kazimir Malévich · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/White_on_White_(Malevich%2C_1918).png?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -969,6 +1363,77 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "broadway-boogie-woogie",
+      "titulo": "Broadway Boogie Woogie",
+      "tituloOriginal": null,
+      "autor": "Piet Mondrian",
+      "fecha": "1942–1943",
+      "fechaOrden": 1943,
+      "tipo": "Pintura",
+      "periodo": "Neoplasticismo",
+      "coleccion": "Abstracción y diseño moderno",
+      "reconocimiento": null,
+      "descripcion": "Pequeños módulos de color sustituyen las líneas negras y convierten la cuadrícula de Manhattan en un ritmo vibrante.",
+      "localizacion": "Museum of Modern Art",
+      "ciudad": "Nueva York",
+      "urlLocalizacion": "https://www.moma.org/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%2C%20Nueva%20York",
+      "pais": "Estados Unidos",
+      "tecnicas": [
+        "Óleo sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        4104,
+        4111
+      ],
+      "color": "#a04c3b",
+      "etiquetas": [
+        "abstraccion",
+        "Abstracción y diseño moderno",
+        "Estados Unidos",
+        "Neoplasticismo",
+        "Pintura",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg",
+        "alt": "Broadway Boogie Woogie, Piet Mondrian",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Piet Mondrian · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -1621,6 +2086,82 @@
       ]
     },
     {
+      "id": "casa-batllo",
+      "titulo": "Casa Batlló",
+      "tituloOriginal": null,
+      "autor": "Antoni Gaudí",
+      "fecha": "1904–1906",
+      "fechaOrden": 1906,
+      "tipo": "Arquitectura",
+      "periodo": "Modernisme catalán",
+      "coleccion": "Art Nouveau y artes decorativas",
+      "reconocimiento": "Patrimonio Mundial de la UNESCO",
+      "descripcion": "Fachada, patio e interiores convierten cerámica, vidrio, madera y hierro en un organismo de curvas y reflejos.",
+      "localizacion": "Casa Batlló",
+      "ciudad": "Barcelona",
+      "urlLocalizacion": "https://www.casabatllo.es/en/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Casa%20Batll%C3%B3%2C%20Barcelona",
+      "pais": "España",
+      "tecnicas": [
+        "Arquitectura",
+        "Trencadís",
+        "Hierro",
+        "Madera"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        2244,
+        2765
+      ],
+      "color": "#3f7067",
+      "etiquetas": [
+        "Arquitectura",
+        "Art Nouveau y artes decorativas",
+        "artnouveau",
+        "España",
+        "Hierro",
+        "Madera",
+        "Modernisme catalán",
+        "Trencadís"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+        "alt": "Casa Batlló, Antoni Gaudí",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Antoni Gaudí · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "chrysler-building",
       "titulo": "Chrysler Building",
       "tituloOriginal": null,
@@ -1690,6 +2231,77 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "ciudad-leger",
+      "titulo": "La ciudad",
+      "tituloOriginal": null,
+      "autor": "Fernand Léger",
+      "fecha": "1919",
+      "fechaOrden": 1919,
+      "tipo": "Pintura",
+      "periodo": "Cubismo y maquinismo",
+      "coleccion": "Abstracción y diseño moderno",
+      "reconocimiento": null,
+      "descripcion": "Escaleras, discos, letras y fragmentos mecánicos comprimen la experiencia de la metrópolis en una superficie rítmica.",
+      "localizacion": "Philadelphia Museum of Art",
+      "ciudad": "Filadelfia",
+      "urlLocalizacion": "https://philamuseum.org/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Philadelphia%20Museum%20of%20Art%2C%20Filadelfia",
+      "pais": "Francia",
+      "tecnicas": [
+        "Óleo sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        1604,
+        1238
+      ],
+      "color": "#a04c3b",
+      "etiquetas": [
+        "abstraccion",
+        "Abstracción y diseño moderno",
+        "Cubismo y maquinismo",
+        "Francia",
+        "Pintura",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fernand%20L%C3%A9ger%2C%201919%2C%20The%20City%20(La%20Ville)%2C%20oil%20on%20canvas%2C%20231.1%20x%20298.4%20cm%2C%20Philadelphia%20Museum%20of%20Art.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Fernand%20L%C3%A9ger%2C%201919%2C%20The%20City%20(La%20Ville)%2C%20oil%20on%20canvas%2C%20231.1%20x%20298.4%20cm%2C%20Philadelphia%20Museum%20of%20Art.jpg",
+        "alt": "La ciudad, Fernand Léger",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Fernand Léger · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fernand%20L%C3%A9ger%2C%201919%2C%20The%20City%20(La%20Ville)%2C%20oil%20on%20canvas%2C%20231.1%20x%20298.4%20cm%2C%20Philadelphia%20Museum%20of%20Art.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -1765,6 +2377,290 @@
       ]
     },
     {
+      "id": "composicion-rojo-azul-amarillo",
+      "titulo": "Composición con rojo, azul y amarillo",
+      "tituloOriginal": null,
+      "autor": "Piet Mondrian",
+      "fecha": "1930",
+      "fechaOrden": 1930,
+      "tipo": "Pintura",
+      "periodo": "De Stijl",
+      "coleccion": "Abstracción y diseño moderno",
+      "reconocimiento": null,
+      "descripcion": "Líneas negras de distinto grosor delimitan campos blancos y tres colores primarios dentro de un equilibrio asimétrico.",
+      "localizacion": "Kunsthaus Zürich",
+      "ciudad": "Zúrich",
+      "urlLocalizacion": "https://www.kunsthaus.ch/en/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunsthaus%20Z%C3%BCrich%2C%20Z%C3%BArich",
+      "pais": "Países Bajos",
+      "tecnicas": [
+        "Óleo sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        5918,
+        6000
+      ],
+      "color": "#a04c3b",
+      "etiquetas": [
+        "abstraccion",
+        "Abstracción y diseño moderno",
+        "De Stijl",
+        "Países Bajos",
+        "Pintura",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg",
+        "alt": "Composición con rojo, azul y amarillo, Piet Mondrian",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Piet Mondrian · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
+      "id": "composicion-suprematista-malevich",
+      "titulo": "Composición suprematista",
+      "tituloOriginal": null,
+      "autor": "Kazimir Malévich",
+      "fecha": "1916",
+      "fechaOrden": 1916,
+      "tipo": "Pintura",
+      "periodo": "Suprematismo",
+      "coleccion": "Abstracción y diseño moderno",
+      "reconocimiento": null,
+      "descripcion": "Rectángulos y pequeñas formas de color parecen flotar y girar sobre un campo blanco sin horizonte.",
+      "localizacion": "Colección particular",
+      "ciudad": "",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Suprematist_Composition",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecci%C3%B3n%20particular%2C%20",
+      "pais": "Rusia",
+      "tecnicas": [
+        "Óleo sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        2296,
+        2869
+      ],
+      "color": "#a04c3b",
+      "etiquetas": [
+        "abstraccion",
+        "Abstracción y diseño moderno",
+        "Pintura",
+        "Rusia",
+        "Suprematismo",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Suprematist_Composition_-_Kazimir_Malevich.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Suprematist_Composition_-_Kazimir_Malevich.jpg",
+        "alt": "Composición suprematista, Kazimir Malévich",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Kazimir Malévich · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Suprematist_Composition_-_Kazimir_Malevich.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
+      "id": "composicion-vii-kandinsky",
+      "titulo": "Composición VII",
+      "tituloOriginal": null,
+      "autor": "Vasili Kandinsky",
+      "fecha": "1913",
+      "fechaOrden": 1913,
+      "tipo": "Pintura",
+      "periodo": "Abstracción lírica",
+      "coleccion": "Abstracción y diseño moderno",
+      "reconocimiento": null,
+      "descripcion": "Capas de líneas, remolinos y choques cromáticos construyen una imagen sin centro estable y de intensidad casi musical.",
+      "localizacion": "Galería Estatal Tretiakov",
+      "ciudad": "Moscú",
+      "urlLocalizacion": "https://www.tretyakovgallery.ru/en/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Estatal%20Tretiakov%2C%20Mosc%C3%BA",
+      "pais": "Rusia",
+      "tecnicas": [
+        "Óleo sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        7015,
+        4661
+      ],
+      "color": "#a04c3b",
+      "etiquetas": [
+        "abstraccion",
+        "Abstracción lírica",
+        "Abstracción y diseño moderno",
+        "Pintura",
+        "Rusia",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg",
+        "alt": "Composición VII, Vasili Kandinsky",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Vasili Kandinsky · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
+      "id": "creacion-adan",
+      "titulo": "La creación de Adán",
+      "tituloOriginal": null,
+      "autor": "Miguel Ángel Buonarroti",
+      "fecha": "c. 1511–1512",
+      "fechaOrden": 1512,
+      "tipo": "Pintura mural",
+      "periodo": "Alto Renacimiento",
+      "coleccion": "Renacimiento",
+      "reconocimiento": null,
+      "descripcion": "Dos manos casi se tocan y concentran la transmisión de vida dentro de una escena de enorme claridad gestual.",
+      "localizacion": "Capilla Sixtina",
+      "ciudad": "Ciudad del Vaticano",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/The_Creation_of_Adam",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Capilla%20Sixtina%2C%20Ciudad%20del%20Vaticano",
+      "pais": "Italia",
+      "tecnicas": [
+        "Fresco"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        3524,
+        1599
+      ],
+      "color": "#526551",
+      "etiquetas": [
+        "Alto Renacimiento",
+        "Fresco",
+        "Italia",
+        "Pintura mural",
+        "renacimiento",
+        "Renacimiento"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo_-_Creation_of_Adam_(cropped).jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg",
+        "alt": "La creación de Adán, Miguel Ángel Buonarroti",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Miguel Ángel Buonarroti · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo_-_Creation_of_Adam_(cropped).jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "cuadrado-negro-malevich",
       "titulo": "Cuadrado negro",
       "tituloOriginal": null,
@@ -1832,6 +2728,150 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "cueva-manos",
+      "titulo": "Cueva de las Manos",
+      "tituloOriginal": null,
+      "autor": "Comunidades cazadoras-recolectoras de Patagonia",
+      "fecha": "c. 7300 a. C.–700 d. C.",
+      "fechaOrden": -3500,
+      "tipo": "Pintura rupestre",
+      "periodo": "Holoceno temprano y medio",
+      "coleccion": "Prehistoria y arte rupestre",
+      "reconocimiento": "Patrimonio Mundial de la UNESCO",
+      "descripcion": "Centenares de siluetas de manos realizadas con pigmento pulverizado se superponen a escenas de caza y signos geométricos.",
+      "localizacion": "Cueva de las Manos",
+      "ciudad": "Santa Cruz",
+      "urlLocalizacion": "https://whc.unesco.org/en/list/936/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cueva%20de%20las%20Manos%2C%20Santa%20Cruz",
+      "pais": "Argentina",
+      "tecnicas": [
+        "Pigmentos minerales",
+        "Estarcido sobre roca"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        1600,
+        1200
+      ],
+      "color": "#8c5f3f",
+      "etiquetas": [
+        "Argentina",
+        "Estarcido sobre roca",
+        "Holoceno temprano y medio",
+        "Pigmentos minerales",
+        "Pintura rupestre",
+        "prehistoria",
+        "Prehistoria y arte rupestre"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SantaCruz-CuevaManos-P2210651b.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:SantaCruz-CuevaManos-P2210651b.jpg",
+        "alt": "Cueva de las Manos, Comunidades cazadoras-recolectoras de Patagonia",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Comunidades cazadoras-recolectoras de Patagonia · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SantaCruz-CuevaManos-P2210651b.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
+      "id": "danza-mucha",
+      "titulo": "La danza",
+      "tituloOriginal": null,
+      "autor": "Alphonse Mucha",
+      "fecha": "1898",
+      "fechaOrden": 1898,
+      "tipo": "Panel decorativo",
+      "periodo": "Art Nouveau",
+      "coleccion": "Art Nouveau y artes decorativas",
+      "reconocimiento": null,
+      "descripcion": "Una figura femenina suspendida entre telas y motivos florales personifica la danza mediante una línea continua y musical.",
+      "localizacion": "Varias colecciones",
+      "ciudad": "",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Varias%20colecciones%2C%20",
+      "pais": "Francia",
+      "tecnicas": [
+        "Litografía en color"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        1159,
+        1763
+      ],
+      "color": "#3f7067",
+      "etiquetas": [
+        "Art Nouveau",
+        "Art Nouveau y artes decorativas",
+        "artnouveau",
+        "Francia",
+        "Litografía en color",
+        "Panel decorativo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alfons%20Mucha%20-%20The%20Arts%20Dance%2C%201898.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Alfons%20Mucha%20-%20The%20Arts%20Dance%2C%201898.jpg",
+        "alt": "La danza, Alphonse Mucha",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Alphonse Mucha · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alfons%20Mucha%20-%20The%20Arts%20Dance%2C%201898.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -2411,6 +3451,77 @@
       ]
     },
     {
+      "id": "embajadores-holbein",
+      "titulo": "Los embajadores",
+      "tituloOriginal": null,
+      "autor": "Hans Holbein el Joven",
+      "fecha": "1533",
+      "fechaOrden": 1533,
+      "tipo": "Pintura",
+      "periodo": "Renacimiento nórdico",
+      "coleccion": "Renacimiento",
+      "reconocimiento": null,
+      "descripcion": "Dos diplomáticos posan entre instrumentos de conocimiento mientras una calavera anamórfica atraviesa el primer plano.",
+      "localizacion": "National Gallery",
+      "ciudad": "Londres",
+      "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+      "pais": "Reino Unido",
+      "tecnicas": [
+        "Óleo sobre tabla"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        30000,
+        29560
+      ],
+      "color": "#526551",
+      "etiquetas": [
+        "Pintura",
+        "Reino Unido",
+        "renacimiento",
+        "Renacimiento",
+        "Renacimiento nórdico",
+        "Óleo sobre tabla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+        "alt": "Los embajadores, Hans Holbein el Joven",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Hans Holbein el Joven · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "empire-state-building",
       "titulo": "Empire State Building",
       "tituloOriginal": null,
@@ -2555,6 +3666,81 @@
       ]
     },
     {
+      "id": "entrada-metro-guimard",
+      "titulo": "Entrada del Metro de París",
+      "tituloOriginal": null,
+      "autor": "Hector Guimard",
+      "fecha": "c. 1900",
+      "fechaOrden": 1900,
+      "tipo": "Diseño urbano",
+      "periodo": "Art Nouveau",
+      "coleccion": "Art Nouveau y artes decorativas",
+      "reconocimiento": null,
+      "descripcion": "Piezas modulares de hierro fundido forman tallos, lámparas y rótulos que identifican el transporte metropolitano.",
+      "localizacion": "Metro de París",
+      "ciudad": "París",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Paris_Metro_entrances_by_Hector_Guimard",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Metro%20de%20Par%C3%ADs%2C%20Par%C3%ADs",
+      "pais": "Francia",
+      "tecnicas": [
+        "Hierro fundido",
+        "Vidrio",
+        "Diseño modular"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        5184,
+        3456
+      ],
+      "color": "#3f7067",
+      "etiquetas": [
+        "Art Nouveau",
+        "Art Nouveau y artes decorativas",
+        "artnouveau",
+        "Diseño modular",
+        "Diseño urbano",
+        "Francia",
+        "Hierro fundido",
+        "Vidrio"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg",
+        "alt": "Entrada del Metro de París, Hector Guimard",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Hector Guimard · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "entrepuente-stieglitz",
       "titulo": "El entrepuente",
       "tituloOriginal": null,
@@ -2694,6 +3880,77 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "escuela-atenas",
+      "titulo": "La escuela de Atenas",
+      "tituloOriginal": null,
+      "autor": "Rafael",
+      "fecha": "1509–1511",
+      "fechaOrden": 1510,
+      "tipo": "Pintura mural",
+      "periodo": "Alto Renacimiento",
+      "coleccion": "Renacimiento",
+      "reconocimiento": null,
+      "descripcion": "Filósofos de la Antigüedad convergen en una arquitectura ideal cuyo centro perspectivo coincide con Platón y Aristóteles.",
+      "localizacion": "Estancias de Rafael, Museos Vaticanos",
+      "ciudad": "Ciudad del Vaticano",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/The_School_of_Athens",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Estancias%20de%20Rafael%2C%20Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+      "pais": "Italia",
+      "tecnicas": [
+        "Fresco"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        3820,
+        2964
+      ],
+      "color": "#526551",
+      "etiquetas": [
+        "Alto Renacimiento",
+        "Fresco",
+        "Italia",
+        "Pintura mural",
+        "renacimiento",
+        "Renacimiento"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+        "alt": "La escuela de Atenas, Rafael",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Rafael · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -3058,6 +4315,83 @@
       ]
     },
     {
+      "id": "friso-beethoven",
+      "titulo": "Friso de Beethoven",
+      "tituloOriginal": null,
+      "autor": "Gustav Klimt",
+      "fecha": "1902",
+      "fechaOrden": 1902,
+      "tipo": "Pintura mural",
+      "periodo": "Secesión vienesa",
+      "coleccion": "Art Nouveau y artes decorativas",
+      "reconocimiento": null,
+      "descripcion": "Una secuencia mural alegórica transforma la búsqueda de felicidad en figuras planas, materiales brillantes y ritmos continuos.",
+      "localizacion": "Secession Building",
+      "ciudad": "Viena",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Beethoven_Frieze",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Secession%20Building%2C%20Viena",
+      "pais": "Austria",
+      "tecnicas": [
+        "Caseína",
+        "Estuco",
+        "Pan de oro",
+        "Materiales mixtos"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        3508,
+        2492
+      ],
+      "color": "#3f7067",
+      "etiquetas": [
+        "Art Nouveau y artes decorativas",
+        "artnouveau",
+        "Austria",
+        "Caseína",
+        "Estuco",
+        "Materiales mixtos",
+        "Pan de oro",
+        "Pintura mural",
+        "Secesión vienesa"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gustav_Klimt_-_Beethovenfries%2C_%22Die_Sehnsucht_nach_dem_Gl%C3%BCck%22_(nach_Richard_Wagners_Interpretation_der_IX._Sinfonie_von_Ludwig_van_Beethoven)_-_5987_-_%C3%96sterreichische_Galerie_Belvedere.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Beethovenfries%2C_%22Die_Sehnsucht_nach_dem_Gl%C3%BCck%22_(nach_Richard_Wagners_Interpretation_der_IX._Sinfonie_von_Ludwig_van_Beethoven)_-_5987_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
+        "alt": "Friso de Beethoven, Gustav Klimt",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Gustav Klimt · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gustav_Klimt_-_Beethovenfries%2C_%22Die_Sehnsucht_nach_dem_Gl%C3%BCck%22_(nach_Richard_Wagners_Interpretation_der_IX._Sinfonie_von_Ludwig_van_Beethoven)_-_5987_-_%C3%96sterreichische_Galerie_Belvedere.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "friso-partenon",
       "titulo": "Friso del Partenón",
       "tituloOriginal": null,
@@ -3341,6 +4675,77 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "gran-dios-sefar",
+      "titulo": "Gran dios de Sefar",
+      "tituloOriginal": null,
+      "autor": "Artistas de Tassili n’Ajjer",
+      "fecha": "c. 6000–4000 a. C.",
+      "fechaOrden": -5000,
+      "tipo": "Pintura rupestre",
+      "periodo": "Periodo de las Cabezas Redondas",
+      "coleccion": "Prehistoria y arte rupestre",
+      "reconocimiento": "Patrimonio Mundial de la UNESCO",
+      "descripcion": "Una gran figura frontal de contorno redondeado domina un conjunto de personajes menores en un abrigo del Sahara central.",
+      "localizacion": "Tassili n’Ajjer",
+      "ciudad": "Djanet",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Round_Head_Period",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Tassili%20n%E2%80%99Ajjer%2C%20Djanet",
+      "pais": "Argelia",
+      "tecnicas": [
+        "Pigmento sobre roca"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        654,
+        965
+      ],
+      "color": "#8c5f3f",
+      "etiquetas": [
+        "Argelia",
+        "Periodo de las Cabezas Redondas",
+        "Pigmento sobre roca",
+        "Pintura rupestre",
+        "prehistoria",
+        "Prehistoria y arte rupestre"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fondazione_Passar%C3%A9_V1_056.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Fondazione_Passar%C3%A9_V1_056.jpg",
+        "alt": "Gran dios de Sefar, Artistas de Tassili n’Ajjer",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Artistas de Tassili n’Ajjer · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fondazione_Passar%C3%A9_V1_056.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -3780,6 +5185,79 @@
       ]
     },
     {
+      "id": "hombre-leon",
+      "titulo": "Hombre-león de Hohlenstein-Stadel",
+      "tituloOriginal": null,
+      "autor": "Autoría desconocida",
+      "fecha": "c. 40.000–35.000 a. C.",
+      "fechaOrden": -37500,
+      "tipo": "Escultura",
+      "periodo": "Paleolítico superior",
+      "coleccion": "Prehistoria y arte rupestre",
+      "reconocimiento": null,
+      "descripcion": "La figura combina rasgos humanos y felinos en una talla de marfil de mamut ensamblada a partir de numerosos fragmentos.",
+      "localizacion": "Museum Ulm",
+      "ciudad": "Ulm",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Lion-man",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20Ulm%2C%20Ulm",
+      "pais": "Alemania",
+      "tecnicas": [
+        "Marfil de mamut",
+        "Talla"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        2218,
+        3944
+      ],
+      "color": "#8c5f3f",
+      "etiquetas": [
+        "Alemania",
+        "Escultura",
+        "Marfil de mamut",
+        "Paleolítico superior",
+        "prehistoria",
+        "Prehistoria y arte rupestre",
+        "Talla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Loewenmensch1.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Loewenmensch1.jpg",
+        "alt": "Hombre-león de Hohlenstein-Stadel, Autoría desconocida",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Loewenmensch1.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "hoover-building",
       "titulo": "Hoover Building",
       "tituloOriginal": null,
@@ -3854,6 +5332,83 @@
       ]
     },
     {
+      "id": "hotel-tassel",
+      "titulo": "Hôtel Tassel",
+      "tituloOriginal": null,
+      "autor": "Victor Horta",
+      "fecha": "1892–1893",
+      "fechaOrden": 1893,
+      "tipo": "Arquitectura e interiorismo",
+      "periodo": "Art Nouveau",
+      "coleccion": "Art Nouveau y artes decorativas",
+      "reconocimiento": "Patrimonio Mundial de la UNESCO",
+      "descripcion": "Hierro visto, mosaico, vidrio y líneas vegetales recorren una vivienda organizada alrededor de luz y movimiento.",
+      "localizacion": "Hôtel Tassel",
+      "ciudad": "Bruselas",
+      "urlLocalizacion": "https://whc.unesco.org/en/list/1005/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel%20Tassel%2C%20Bruselas",
+      "pais": "Bélgica",
+      "tecnicas": [
+        "Arquitectura",
+        "Hierro",
+        "Vidrio",
+        "Mosaico"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        1698,
+        2682
+      ],
+      "color": "#3f7067",
+      "etiquetas": [
+        "Arquitectura",
+        "Arquitectura e interiorismo",
+        "Art Nouveau",
+        "Art Nouveau y artes decorativas",
+        "artnouveau",
+        "Bélgica",
+        "Hierro",
+        "Mosaico",
+        "Vidrio"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Victor_Horta_Hotel_Tassel.JPG?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Victor_Horta_Hotel_Tassel.JPG",
+        "alt": "Hôtel Tassel, Victor Horta",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Victor Horta · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Victor_Horta_Hotel_Tassel.JPG?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "impresion-sol-naciente",
       "titulo": "Impresión, sol naciente",
       "tituloOriginal": null,
@@ -3921,6 +5476,148 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "jardin-delicias",
+      "titulo": "El jardín de las delicias",
+      "tituloOriginal": null,
+      "autor": "El Bosco",
+      "fecha": "c. 1490–1510",
+      "fechaOrden": 1500,
+      "tipo": "Tríptico",
+      "periodo": "Renacimiento nórdico",
+      "coleccion": "Renacimiento",
+      "reconocimiento": null,
+      "descripcion": "Tres paneles despliegan creación, placer y castigo mediante arquitecturas imposibles, criaturas híbridas y centenares de episodios.",
+      "localizacion": "Museo Nacional del Prado",
+      "ciudad": "Madrid",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+      "pais": "Países Bajos",
+      "tecnicas": [
+        "Óleo sobre tabla"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        39137,
+        22279
+      ],
+      "color": "#526551",
+      "etiquetas": [
+        "Países Bajos",
+        "renacimiento",
+        "Renacimiento",
+        "Renacimiento nórdico",
+        "Tríptico",
+        "Óleo sobre tabla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Garden_of_earthly_delights.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:The_Garden_of_earthly_delights.jpg",
+        "alt": "El jardín de las delicias, El Bosco",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "El Bosco · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Garden_of_earthly_delights.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
+      "id": "job-mucha",
+      "titulo": "Job",
+      "tituloOriginal": null,
+      "autor": "Alphonse Mucha",
+      "fecha": "1896",
+      "fechaOrden": 1896,
+      "tipo": "Cartel",
+      "periodo": "Art Nouveau",
+      "coleccion": "Art Nouveau y artes decorativas",
+      "reconocimiento": null,
+      "descripcion": "El perfil de una mujer, el cabello ondulante y el marco ornamental convierten un anuncio comercial en una imagen autónoma.",
+      "localizacion": "Varias colecciones",
+      "ciudad": "",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Varias%20colecciones%2C%20",
+      "pais": "Francia",
+      "tecnicas": [
+        "Litografía en color"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        5784,
+        8311
+      ],
+      "color": "#3f7067",
+      "etiquetas": [
+        "Art Nouveau",
+        "Art Nouveau y artes decorativas",
+        "artnouveau",
+        "Cartel",
+        "Francia",
+        "Litografía en color"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alphonse%20Mucha%20-%20Advertisment%20for%20Job%20cigarettes%2C%201896.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Alphonse%20Mucha%20-%20Advertisment%20for%20Job%20cigarettes%2C%201896.jpg",
+        "alt": "Job, Alphonse Mucha",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Alphonse Mucha · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alphonse%20Mucha%20-%20Advertisment%20for%20Job%20cigarettes%2C%201896.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -4280,6 +5977,81 @@
           "id": "mitos",
           "titulo": "Mitos y teorías",
           "icono": "misterio"
+        }
+      ]
+    },
+    {
+      "id": "lampara-libelula-tiffany",
+      "titulo": "Lámpara Libélula",
+      "tituloOriginal": null,
+      "autor": "Tiffany Studios",
+      "fecha": "c. 1899–1910",
+      "fechaOrden": 1905,
+      "tipo": "Artes decorativas",
+      "periodo": "Art Nouveau",
+      "coleccion": "Art Nouveau y artes decorativas",
+      "reconocimiento": null,
+      "descripcion": "Libélulas de vidrio coloreado rodean una pantalla luminosa ensamblada con plomo y apoyada sobre un pie orgánico.",
+      "localizacion": "Varias colecciones",
+      "ciudad": "",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Tiffany_lamp",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Varias%20colecciones%2C%20",
+      "pais": "Estados Unidos",
+      "tecnicas": [
+        "Vidrio opalescente",
+        "Plomo",
+        "Bronce"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        5655,
+        2736
+      ],
+      "color": "#3f7067",
+      "etiquetas": [
+        "Art Nouveau",
+        "Art Nouveau y artes decorativas",
+        "Artes decorativas",
+        "artnouveau",
+        "Bronce",
+        "Estados Unidos",
+        "Plomo",
+        "Vidrio opalescente"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dragonfly%20Lamp%2C%20Tiffany%20Studios%2C%20Dayton%20Art%20Institute.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Dragonfly%20Lamp%2C%20Tiffany%20Studios%2C%20Dayton%20Art%20Institute.jpg",
+        "alt": "Lámpara Libélula, Tiffany Studios",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Tiffany Studios · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dragonfly%20Lamp%2C%20Tiffany%20Studios%2C%20Dayton%20Art%20Institute.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -4929,6 +6701,80 @@
       ]
     },
     {
+      "id": "majolikahaus",
+      "titulo": "Majolikahaus",
+      "tituloOriginal": null,
+      "autor": "Otto Wagner",
+      "fecha": "1898–1899",
+      "fechaOrden": 1899,
+      "tipo": "Arquitectura",
+      "periodo": "Secesión vienesa",
+      "coleccion": "Art Nouveau y artes decorativas",
+      "reconocimiento": null,
+      "descripcion": "Una retícula de apartamentos queda recubierta por azulejos cerámicos con flores que responden a la escala de la calle.",
+      "localizacion": "Majolikahaus",
+      "ciudad": "Viena",
+      "urlLocalizacion": "https://www.wien.info/en/see-do/sights-from-a-to-z/otto-wagner-355664",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Majolikahaus%2C%20Viena",
+      "pais": "Austria",
+      "tecnicas": [
+        "Arquitectura",
+        "Cerámica vidriada",
+        "Hierro"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        2024,
+        1376
+      ],
+      "color": "#3f7067",
+      "etiquetas": [
+        "Arquitectura",
+        "Art Nouveau y artes decorativas",
+        "artnouveau",
+        "Austria",
+        "Cerámica vidriada",
+        "Hierro",
+        "Secesión vienesa"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wien_-_Majolika-Haus.JPG?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Wien_-_Majolika-Haus.JPG",
+        "alt": "Majolikahaus, Otto Wagner",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Otto Wagner · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wien_-_Majolika-Haus.JPG?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "mama-papa-herido",
       "titulo": "¡Mamá, papá está herido!",
       "tituloOriginal": null,
@@ -5367,6 +7213,77 @@
       ]
     },
     {
+      "id": "matrimonio-arnolfini",
+      "titulo": "Retrato de Giovanni Arnolfini y su esposa",
+      "tituloOriginal": null,
+      "autor": "Jan van Eyck",
+      "fecha": "1434",
+      "fechaOrden": 1434,
+      "tipo": "Pintura",
+      "periodo": "Renacimiento nórdico",
+      "coleccion": "Renacimiento",
+      "reconocimiento": null,
+      "descripcion": "Una pareja ocupa un interior minucioso donde espejo, luz, tejidos y objetos cotidianos multiplican las preguntas sobre identidad y ceremonia.",
+      "localizacion": "National Gallery",
+      "ciudad": "Londres",
+      "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+      "pais": "Países Bajos",
+      "tecnicas": [
+        "Óleo sobre tabla"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        8283,
+        11331
+      ],
+      "color": "#526551",
+      "etiquetas": [
+        "Países Bajos",
+        "Pintura",
+        "renacimiento",
+        "Renacimiento",
+        "Renacimiento nórdico",
+        "Óleo sobre tabla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Arnolfini_portrait_(1434).jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg",
+        "alt": "Retrato de Giovanni Arnolfini y su esposa, Jan van Eyck",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Jan van Eyck · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Arnolfini_portrait_(1434).jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "mecanico-central-electrica",
       "titulo": "Mecánico trabajando en una central eléctrica",
       "tituloOriginal": null,
@@ -5510,6 +7427,79 @@
       ]
     },
     {
+      "id": "mona-lisa",
+      "titulo": "Mona Lisa",
+      "tituloOriginal": null,
+      "autor": "Leonardo da Vinci",
+      "fecha": "c. 1503–1519",
+      "fechaOrden": 1510,
+      "tipo": "Pintura",
+      "periodo": "Alto Renacimiento",
+      "coleccion": "Renacimiento",
+      "reconocimiento": null,
+      "descripcion": "El retrato une una pose estable, transiciones atmosféricas casi imperceptibles y una expresión deliberadamente esquiva.",
+      "localizacion": "Museo del Louvre",
+      "ciudad": "París",
+      "urlLocalizacion": "https://www.louvre.fr/en",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%2C%20Par%C3%ADs",
+      "pais": "Italia",
+      "tecnicas": [
+        "Óleo sobre tabla de álamo",
+        "Sfumato"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        7601,
+        11348
+      ],
+      "color": "#526551",
+      "etiquetas": [
+        "Alto Renacimiento",
+        "Italia",
+        "Pintura",
+        "renacimiento",
+        "Renacimiento",
+        "Sfumato",
+        "Óleo sobre tabla de álamo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_natural_color.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_natural_color.jpg",
+        "alt": "Mona Lisa, Leonardo da Vinci",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Leonardo da Vinci · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_natural_color.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "mosaico-alejandro",
       "titulo": "Mosaico de Alejandro",
       "tituloOriginal": null,
@@ -5577,6 +7567,150 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "mujer-sedente-catalhoyuk",
+      "titulo": "Mujer sedente de Çatalhöyük",
+      "tituloOriginal": null,
+      "autor": "Autoría desconocida",
+      "fecha": "c. 6000 a. C.",
+      "fechaOrden": -6000,
+      "tipo": "Escultura",
+      "periodo": "Neolítico",
+      "coleccion": "Prehistoria y arte rupestre",
+      "reconocimiento": null,
+      "descripcion": "La figura sedente aparece flanqueada por felinos y modelada con una volumetría enfática en arcilla cocida.",
+      "localizacion": "Museo de las Civilizaciones de Anatolia",
+      "ciudad": "Ankara",
+      "urlLocalizacion": "https://muze.gov.tr/muze-detay?SectionId=AMM01&DistId=MRK",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20las%20Civilizaciones%20de%20Anatolia%2C%20Ankara",
+      "pais": "Turquía",
+      "tecnicas": [
+        "Terracota",
+        "Modelado"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        2099,
+        2824
+      ],
+      "color": "#8c5f3f",
+      "etiquetas": [
+        "Escultura",
+        "Modelado",
+        "Neolítico",
+        "prehistoria",
+        "Prehistoria y arte rupestre",
+        "Terracota",
+        "Turquía"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg",
+        "alt": "Mujer sedente de Çatalhöyük, Autoría desconocida",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
+      "id": "nacimiento-venus-botticelli",
+      "titulo": "El nacimiento de Venus",
+      "tituloOriginal": null,
+      "autor": "Sandro Botticelli",
+      "fecha": "c. 1484–1486",
+      "fechaOrden": 1485,
+      "tipo": "Pintura",
+      "periodo": "Renacimiento italiano",
+      "coleccion": "Renacimiento",
+      "reconocimiento": null,
+      "descripcion": "Venus llega a la orilla sobre una concha mientras viento, flores y telas convierten el mito en una coreografía lineal.",
+      "localizacion": "Galería Uffizi",
+      "ciudad": "Florencia",
+      "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+      "pais": "Italia",
+      "tecnicas": [
+        "Temple sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        30000,
+        18840
+      ],
+      "color": "#526551",
+      "etiquetas": [
+        "Italia",
+        "Pintura",
+        "renacimiento",
+        "Renacimiento",
+        "Renacimiento italiano",
+        "Temple sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+        "alt": "El nacimiento de Venus, Sandro Botticelli",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Sandro Botticelli · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -6089,6 +8223,81 @@
       ]
     },
     {
+      "id": "panel-leones-chauvet",
+      "titulo": "Panel de los Leones de Chauvet",
+      "tituloOriginal": null,
+      "autor": "Autoría colectiva desconocida",
+      "fecha": "c. 36.000–30.000 a. C.",
+      "fechaOrden": -33000,
+      "tipo": "Dibujo rupestre",
+      "periodo": "Auriñaciense",
+      "coleccion": "Prehistoria y arte rupestre",
+      "reconocimiento": "Patrimonio Mundial de la UNESCO",
+      "descripcion": "Una sucesión de cabezas de león parece avanzar sobre la roca mediante perfiles repetidos, carbón y aprovechamiento del relieve natural.",
+      "localizacion": "Cueva de Chauvet-Pont-d’Arc",
+      "ciudad": "Vallon-Pont-d’Arc",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Chauvet_Cave",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cueva%20de%20Chauvet-Pont-d%E2%80%99Arc%2C%20Vallon-Pont-d%E2%80%99Arc",
+      "pais": "Francia",
+      "tecnicas": [
+        "Carbón",
+        "Dibujo sobre roca",
+        "Difuminado"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        1824,
+        1840
+      ],
+      "color": "#8c5f3f",
+      "etiquetas": [
+        "Auriñaciense",
+        "Carbón",
+        "Dibujo rupestre",
+        "Dibujo sobre roca",
+        "Difuminado",
+        "Francia",
+        "prehistoria",
+        "Prehistoria y arte rupestre"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paintings_from_the_Chauvet_cave_(museum_replica).jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Paintings_from_the_Chauvet_cave_(museum_replica).jpg",
+        "alt": "Panel de los Leones de Chauvet, Autoría colectiva desconocida",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Réplica museográfica de las pinturas de Chauvet · Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paintings_from_the_Chauvet_cave_(museum_replica).jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "pantocrator-sinai",
       "titulo": "Cristo Pantocrátor del Sinaí",
       "tituloOriginal": null,
@@ -6310,6 +8519,79 @@
       ]
     },
     {
+      "id": "pieta-miguel-angel",
+      "titulo": "Piedad del Vaticano",
+      "tituloOriginal": null,
+      "autor": "Miguel Ángel Buonarroti",
+      "fecha": "1498–1499",
+      "fechaOrden": 1499,
+      "tipo": "Escultura",
+      "periodo": "Alto Renacimiento",
+      "coleccion": "Renacimiento",
+      "reconocimiento": null,
+      "descripcion": "María sostiene el cuerpo de Cristo dentro de una composición piramidal donde el mármol alterna superficies pulidas y pliegues profundos.",
+      "localizacion": "Basílica de San Pedro",
+      "ciudad": "Ciudad del Vaticano",
+      "urlLocalizacion": "https://www.basilicasanpietro.va/en.html",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20de%20San%20Pedro%2C%20Ciudad%20del%20Vaticano",
+      "pais": "Italia",
+      "tecnicas": [
+        "Mármol de Carrara",
+        "Talla"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        1584,
+        1660
+      ],
+      "color": "#526551",
+      "etiquetas": [
+        "Alto Renacimiento",
+        "Escultura",
+        "Italia",
+        "Mármol de Carrara",
+        "renacimiento",
+        "Renacimiento",
+        "Talla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pieta_de_Michelangelo_-_Vaticano.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Pieta_de_Michelangelo_-_Vaticano.jpg",
+        "alt": "Piedad del Vaticano, Miguel Ángel Buonarroti",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Miguel Ángel Buonarroti · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pieta_de_Michelangelo_-_Vaticano.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "pixide-al-mughira",
       "titulo": "Píxide de al-Mughira",
       "tituloOriginal": null,
@@ -6448,6 +8730,77 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "primavera-botticelli",
+      "titulo": "La primavera",
+      "tituloOriginal": null,
+      "autor": "Sandro Botticelli",
+      "fecha": "c. 1477–1482",
+      "fechaOrden": 1480,
+      "tipo": "Pintura",
+      "periodo": "Renacimiento italiano",
+      "coleccion": "Renacimiento",
+      "reconocimiento": null,
+      "descripcion": "Figuras mitológicas ocupan un jardín de naranjos articulado por ritmos de manos, telas, flores y miradas.",
+      "localizacion": "Galería Uffizi",
+      "ciudad": "Florencia",
+      "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+      "pais": "Italia",
+      "tecnicas": [
+        "Temple sobre tabla"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        4926,
+        3236
+      ],
+      "color": "#526551",
+      "etiquetas": [
+        "Italia",
+        "Pintura",
+        "renacimiento",
+        "Renacimiento",
+        "Renacimiento italiano",
+        "Temple sobre tabla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botticelli-primavera.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg",
+        "alt": "La primavera, Sandro Botticelli",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Sandro Botticelli · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botticelli-primavera.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -6747,6 +9100,152 @@
       ]
     },
     {
+      "id": "renos-nadadores",
+      "titulo": "Renos nadadores",
+      "tituloOriginal": null,
+      "autor": "Autoría desconocida",
+      "fecha": "c. 13.000 a. C.",
+      "fechaOrden": -13000,
+      "tipo": "Escultura",
+      "periodo": "Magdaleniense",
+      "coleccion": "Prehistoria y arte rupestre",
+      "reconocimiento": null,
+      "descripcion": "Dos renos tallados uno detrás de otro forman una composición compacta que sigue la curvatura de una punta de colmillo de mamut.",
+      "localizacion": "British Museum",
+      "ciudad": "Londres",
+      "urlLocalizacion": "https://www.britishmuseum.org/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%2C%20Londres",
+      "pais": "Francia",
+      "tecnicas": [
+        "Marfil de mamut",
+        "Talla",
+        "Grabado"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        2605,
+        1861
+      ],
+      "color": "#8c5f3f",
+      "etiquetas": [
+        "Escultura",
+        "Francia",
+        "Grabado",
+        "Magdaleniense",
+        "Marfil de mamut",
+        "prehistoria",
+        "Prehistoria y arte rupestre",
+        "Talla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg",
+        "alt": "Renos nadadores, Autoría desconocida",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
+      "id": "ritmo-uno-delaunay",
+      "titulo": "Ritmo n.º 1",
+      "tituloOriginal": null,
+      "autor": "Robert Delaunay",
+      "fecha": "1938",
+      "fechaOrden": 1938,
+      "tipo": "Pintura mural",
+      "periodo": "Orfismo",
+      "coleccion": "Abstracción y diseño moderno",
+      "reconocimiento": null,
+      "descripcion": "Arcos y discos de gran escala organizan el color como una maquinaria circular destinada a un espacio público.",
+      "localizacion": "Musée d’Art Moderne de Paris",
+      "ciudad": "París",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Sonia_Delaunay",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20d%E2%80%99Art%20Moderne%20de%20Paris%2C%20Par%C3%ADs",
+      "pais": "Francia",
+      "tecnicas": [
+        "Óleo sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        2985,
+        2715
+      ],
+      "color": "#a04c3b",
+      "etiquetas": [
+        "abstraccion",
+        "Abstracción y diseño moderno",
+        "Francia",
+        "Orfismo",
+        "Pintura mural",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Robert%20Delaunay%2C%201938%2C%20Rythme%20n%C2%B01%2C%20Decoration%20for%20the%20Salon%20des%20Tuileries%2C%20oil%20on%20canvas%2C%20Mus%C3%A9e%20d'Art%20Moderne%20de%20la%20ville%20de%20Paris.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Robert%20Delaunay%2C%201938%2C%20Rythme%20n%C2%B01%2C%20Decoration%20for%20the%20Salon%20des%20Tuileries%2C%20oil%20on%20canvas%2C%20Mus%C3%A9e%20d'Art%20Moderne%20de%20la%20ville%20de%20Paris.jpg",
+        "alt": "Ritmo n.º 1, Robert Delaunay",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Robert Delaunay · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Robert%20Delaunay%2C%201938%2C%20Rythme%20n%C2%B01%2C%20Decoration%20for%20the%20Salon%20des%20Tuileries%2C%20oil%20on%20canvas%2C%20Mus%C3%A9e%20d'Art%20Moderne%20de%20la%20ville%20de%20Paris.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "rockefeller-center",
       "titulo": "Rockefeller Center",
       "tituloOriginal": null,
@@ -6959,6 +9458,81 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "sala-toros-lascaux",
+      "titulo": "Sala de los Toros de Lascaux",
+      "tituloOriginal": null,
+      "autor": "Autoría colectiva desconocida",
+      "fecha": "c. 17.000 a. C.",
+      "fechaOrden": -17000,
+      "tipo": "Pintura rupestre",
+      "periodo": "Magdaleniense",
+      "coleccion": "Prehistoria y arte rupestre",
+      "reconocimiento": "Patrimonio Mundial de la UNESCO",
+      "descripcion": "Toros, caballos y ciervos recorren la roca con cambios de escala y superposiciones que convierten la cueva en un espacio visual envolvente.",
+      "localizacion": "Cueva de Lascaux",
+      "ciudad": "Montignac-Lascaux",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Lascaux",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cueva%20de%20Lascaux%2C%20Montignac-Lascaux",
+      "pais": "Francia",
+      "tecnicas": [
+        "Pigmentos minerales",
+        "Carbón",
+        "Pintura sobre roca"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        720,
+        472
+      ],
+      "color": "#8c5f3f",
+      "etiquetas": [
+        "Carbón",
+        "Francia",
+        "Magdaleniense",
+        "Pigmentos minerales",
+        "Pintura rupestre",
+        "Pintura sobre roca",
+        "prehistoria",
+        "Prehistoria y arte rupestre"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lascaux_painting.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+        "alt": "Sala de los Toros de Lascaux, Autoría colectiva desconocida",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Autoría colectiva desconocida · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lascaux_painting.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -7252,6 +9826,81 @@
       ]
     },
     {
+      "id": "stonehenge",
+      "titulo": "Stonehenge",
+      "tituloOriginal": null,
+      "autor": "Comunidades neolíticas y de la Edad del Bronce",
+      "fecha": "c. 3000–1600 a. C.",
+      "fechaOrden": -2300,
+      "tipo": "Arquitectura megalítica",
+      "periodo": "Neolítico y Edad del Bronce",
+      "coleccion": "Prehistoria y arte rupestre",
+      "reconocimiento": "Patrimonio Mundial de la UNESCO",
+      "descripcion": "Anillos de grandes piedras, dinteles y movimientos de tierra construyen un monumento alineado con ciclos solares y transformado durante siglos.",
+      "localizacion": "Stonehenge",
+      "ciudad": "Wiltshire",
+      "urlLocalizacion": "https://www.english-heritage.org.uk/visit/places/stonehenge/",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Stonehenge%2C%20Wiltshire",
+      "pais": "Reino Unido",
+      "tecnicas": [
+        "Sarsen",
+        "Piedras azules",
+        "Construcción megalítica"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        2816,
+        2112
+      ],
+      "color": "#8c5f3f",
+      "etiquetas": [
+        "Arquitectura megalítica",
+        "Construcción megalítica",
+        "Neolítico y Edad del Bronce",
+        "Piedras azules",
+        "prehistoria",
+        "Prehistoria y arte rupestre",
+        "Reino Unido",
+        "Sarsen"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stonehenge2007_07_30.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+        "alt": "Stonehenge, Comunidades neolíticas y de la Edad del Bronce",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Comunidades neolíticas y de la Edad del Bronce · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stonehenge2007_07_30.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "talla-maori-tekoteko",
       "titulo": "Tekoteko maorí",
       "tituloOriginal": null,
@@ -7392,6 +10041,77 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "tempestad-giorgione",
+      "titulo": "La tempestad",
+      "tituloOriginal": null,
+      "autor": "Giorgione",
+      "fecha": "c. 1506–1508",
+      "fechaOrden": 1507,
+      "tipo": "Pintura",
+      "periodo": "Renacimiento veneciano",
+      "coleccion": "Renacimiento",
+      "reconocimiento": null,
+      "descripcion": "Una mujer con un niño y un hombre permanecen separados ante una ciudad, vegetación húmeda y un relámpago inminente.",
+      "localizacion": "Gallerie dell’Accademia",
+      "ciudad": "Venecia",
+      "urlLocalizacion": "https://www.gallerieaccademia.it/en",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gallerie%20dell%E2%80%99Accademia%2C%20Venecia",
+      "pais": "Italia",
+      "tecnicas": [
+        "Óleo sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        3329,
+        3696
+      ],
+      "color": "#526551",
+      "etiquetas": [
+        "Italia",
+        "Pintura",
+        "renacimiento",
+        "Renacimiento",
+        "Renacimiento veneciano",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giorgione_-_Das_Gewitter.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Giorgione_-_Das_Gewitter.jpg",
+        "alt": "La tempestad, Giorgione",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Giorgione · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giorgione_-_Das_Gewitter.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -7683,6 +10403,77 @@
       ]
     },
     {
+      "id": "ventanas-simultaneas-delaunay",
+      "titulo": "Ventanas simultáneas sobre la ciudad",
+      "tituloOriginal": null,
+      "autor": "Robert Delaunay",
+      "fecha": "1912",
+      "fechaOrden": 1912,
+      "tipo": "Pintura",
+      "periodo": "Orfismo",
+      "coleccion": "Abstracción y diseño moderno",
+      "reconocimiento": null,
+      "descripcion": "Planos transparentes de color fragmentan la vista urbana y convierten la ventana en un laboratorio de luz.",
+      "localizacion": "Kunsthalle Hamburg",
+      "ciudad": "Hamburgo",
+      "urlLocalizacion": "https://www.hamburger-kunsthalle.de/en",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunsthalle%20Hamburg%2C%20Hamburgo",
+      "pais": "Francia",
+      "tecnicas": [
+        "Óleo sobre lienzo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        1229,
+        1335
+      ],
+      "color": "#a04c3b",
+      "etiquetas": [
+        "abstraccion",
+        "Abstracción y diseño moderno",
+        "Francia",
+        "Orfismo",
+        "Pintura",
+        "Óleo sobre lienzo"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Robert%20Delaunay%2C%201912%2C%20Les%20Fen%C3%AAtres%20simultan%C3%A9e%20sur%20la%20ville%20(Simultaneous%20Windows%20on%20the%20City)%2C%2040%20x%2046%20cm%2C%20Kunsthalle%20Hamburg.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Robert%20Delaunay%2C%201912%2C%20Les%20Fen%C3%AAtres%20simultan%C3%A9e%20sur%20la%20ville%20(Simultaneous%20Windows%20on%20the%20City)%2C%2040%20x%2046%20cm%2C%20Kunsthalle%20Hamburg.jpg",
+        "alt": "Ventanas simultáneas sobre la ciudad, Robert Delaunay",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Robert Delaunay · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Robert%20Delaunay%2C%201912%2C%20Les%20Fen%C3%AAtres%20simultan%C3%A9e%20sur%20la%20ville%20(Simultaneous%20Windows%20on%20the%20City)%2C%2040%20x%2046%20cm%2C%20Kunsthalle%20Hamburg.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
+        }
+      ]
+    },
+    {
       "id": "venus-milo",
       "titulo": "Venus de Milo",
       "tituloOriginal": null,
@@ -7752,6 +10543,81 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "venus-willendorf",
+      "titulo": "Venus de Willendorf",
+      "tituloOriginal": null,
+      "autor": "Autoría desconocida",
+      "fecha": "c. 28.000–25.000 a. C.",
+      "fechaOrden": -26500,
+      "tipo": "Escultura",
+      "periodo": "Paleolítico superior",
+      "coleccion": "Prehistoria y arte rupestre",
+      "reconocimiento": null,
+      "descripcion": "Una figura de apenas once centímetros concentra el cuerpo en volúmenes rotundos y conserva restos de ocre rojo.",
+      "localizacion": "Museo de Historia Natural",
+      "ciudad": "Viena",
+      "urlLocalizacion": "https://www.nhm-wien.ac.at/en",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Historia%20Natural%2C%20Viena",
+      "pais": "Austria",
+      "tecnicas": [
+        "Caliza oolítica",
+        "Talla",
+        "Ocre rojo"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        1428,
+        2684
+      ],
+      "color": "#8c5f3f",
+      "etiquetas": [
+        "Austria",
+        "Caliza oolítica",
+        "Escultura",
+        "Ocre rojo",
+        "Paleolítico superior",
+        "prehistoria",
+        "Prehistoria y arte rupestre",
+        "Talla"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Venus_von_Willendorf_01.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Venus_von_Willendorf_01.jpg",
+        "alt": "Venus de Willendorf, Autoría desconocida",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Venus_von_Willendorf_01.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     },
@@ -8033,6 +10899,83 @@
           "id": "fuentes",
           "titulo": "Fuentes",
           "icono": "enlace"
+        }
+      ]
+    },
+    {
+      "id": "willow-tea-rooms",
+      "titulo": "Willow Tea Rooms",
+      "tituloOriginal": null,
+      "autor": "Charles Rennie Mackintosh y Margaret Macdonald",
+      "fecha": "1903",
+      "fechaOrden": 1903,
+      "tipo": "Arquitectura e interiorismo",
+      "periodo": "Glasgow Style",
+      "coleccion": "Art Nouveau y artes decorativas",
+      "reconocimiento": null,
+      "descripcion": "Fachada, mobiliario, lámparas y paneles forman un interior total basado en líneas verticales, geometría y símbolos vegetales.",
+      "localizacion": "Willow Tea Rooms",
+      "ciudad": "Glasgow",
+      "urlLocalizacion": "https://en.wikipedia.org/wiki/Willow_Tearooms",
+      "urlMapa": "https://www.google.com/maps/search/?api=1&query=Willow%20Tea%20Rooms%2C%20Glasgow",
+      "pais": "Reino Unido",
+      "tecnicas": [
+        "Arquitectura",
+        "Mobiliario",
+        "Vidrio",
+        "Metalistería"
+      ],
+      "tieneAltaResolucion": true,
+      "proporcion": [
+        3366,
+        4890
+      ],
+      "color": "#3f7067",
+      "etiquetas": [
+        "Arquitectura",
+        "Arquitectura e interiorismo",
+        "Art Nouveau y artes decorativas",
+        "artnouveau",
+        "Glasgow Style",
+        "Metalistería",
+        "Mobiliario",
+        "Reino Unido",
+        "Vidrio"
+      ],
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mackintosh_At_The_Willow.jpg?width=1600",
+        "fuente": "https://commons.wikimedia.org/wiki/File:Mackintosh_At_The_Willow.jpg",
+        "alt": "Willow Tea Rooms, Charles Rennie Mackintosh y Margaret Macdonald",
+        "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+        "credito": "Charles Rennie Mackintosh y Margaret Macdonald · reproducción o fotografía en Wikimedia Commons",
+        "foco": "center",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mackintosh_At_The_Willow.jpg?width=1600"
+      },
+      "pestanas": [
+        {
+          "id": "mirada",
+          "titulo": "Mirar la obra",
+          "icono": "ojo"
+        },
+        {
+          "id": "contexto",
+          "titulo": "Contexto",
+          "icono": "historia"
+        },
+        {
+          "id": "tecnica",
+          "titulo": "Técnica y materia",
+          "icono": "tecnica"
+        },
+        {
+          "id": "legado",
+          "titulo": "Legado",
+          "icono": "legado"
+        },
+        {
+          "id": "fuentes",
+          "titulo": "Fuentes",
+          "icono": "archivo"
         }
       ]
     }

@@ -1,0 +1,43 @@
+{
+  "id": "lampara-libelula-tiffany",
+  "titulo": "Lámpara Libélula",
+  "autor": "Tiffany Studios",
+  "fecha": "c. 1899–1910",
+  "fechaOrden": 1905,
+  "tipo": "Artes decorativas",
+  "periodo": "Art Nouveau",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Libélulas de vidrio coloreado rodean una pantalla luminosa ensamblada con plomo y apoyada sobre un pie orgánico.",
+  "localizacion": "Varias colecciones",
+  "ciudad": "",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Tiffany_lamp",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Varias%20colecciones%2C%20",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Vidrio opalescente",
+    "Plomo",
+    "Bronce"
+  ],
+  "etiquetas": [
+    "Art Nouveau y artes decorativas",
+    "Estados Unidos",
+    "artnouveau",
+    "Artes decorativas",
+    "Art Nouveau"
+  ],
+  "proporcion": [
+    5655,
+    2736
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dragonfly%20Lamp%2C%20Tiffany%20Studios%2C%20Dayton%20Art%20Institute.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dragonfly%20Lamp%2C%20Tiffany%20Studios%2C%20Dayton%20Art%20Institute.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Dragonfly%20Lamp%2C%20Tiffany%20Studios%2C%20Dayton%20Art%20Institute.jpg",
+    "alt": "Lámpara Libélula, Tiffany Studios",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Tiffany Studios · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

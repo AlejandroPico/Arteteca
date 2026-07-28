@@ -1,0 +1,44 @@
+{
+  "id": "sala-toros-lascaux",
+  "titulo": "Sala de los Toros de Lascaux",
+  "autor": "Autoría colectiva desconocida",
+  "fecha": "c. 17.000 a. C.",
+  "fechaOrden": -17000,
+  "tipo": "Pintura rupestre",
+  "periodo": "Magdaleniense",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Toros, caballos y ciervos recorren la roca con cambios de escala y superposiciones que convierten la cueva en un espacio visual envolvente.",
+  "localizacion": "Cueva de Lascaux",
+  "ciudad": "Montignac-Lascaux",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Lascaux",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cueva%20de%20Lascaux%2C%20Montignac-Lascaux",
+  "pais": "Francia",
+  "tecnicas": [
+    "Pigmentos minerales",
+    "Carbón",
+    "Pintura sobre roca"
+  ],
+  "etiquetas": [
+    "Prehistoria y arte rupestre",
+    "Francia",
+    "prehistoria",
+    "Pintura rupestre",
+    "Magdaleniense"
+  ],
+  "proporcion": [
+    720,
+    472
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lascaux_painting.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lascaux_painting.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+    "alt": "Sala de los Toros de Lascaux, Autoría colectiva desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría colectiva desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO"
+}
+

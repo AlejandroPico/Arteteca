@@ -1,0 +1,44 @@
+{
+  "id": "friso-beethoven",
+  "titulo": "Friso de Beethoven",
+  "autor": "Gustav Klimt",
+  "fecha": "1902",
+  "fechaOrden": 1902,
+  "tipo": "Pintura mural",
+  "periodo": "Secesión vienesa",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Una secuencia mural alegórica transforma la búsqueda de felicidad en figuras planas, materiales brillantes y ritmos continuos.",
+  "localizacion": "Secession Building",
+  "ciudad": "Viena",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Beethoven_Frieze",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Secession%20Building%2C%20Viena",
+  "pais": "Austria",
+  "tecnicas": [
+    "Caseína",
+    "Estuco",
+    "Pan de oro",
+    "Materiales mixtos"
+  ],
+  "etiquetas": [
+    "Art Nouveau y artes decorativas",
+    "Austria",
+    "artnouveau",
+    "Pintura mural",
+    "Secesión vienesa"
+  ],
+  "proporcion": [
+    3508,
+    2492
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gustav_Klimt_-_Beethovenfries%2C_%22Die_Sehnsucht_nach_dem_Gl%C3%BCck%22_(nach_Richard_Wagners_Interpretation_der_IX._Sinfonie_von_Ludwig_van_Beethoven)_-_5987_-_%C3%96sterreichische_Galerie_Belvedere.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gustav_Klimt_-_Beethovenfries%2C_%22Die_Sehnsucht_nach_dem_Gl%C3%BCck%22_(nach_Richard_Wagners_Interpretation_der_IX._Sinfonie_von_Ludwig_van_Beethoven)_-_5987_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Beethovenfries%2C_%22Die_Sehnsucht_nach_dem_Gl%C3%BCck%22_(nach_Richard_Wagners_Interpretation_der_IX._Sinfonie_von_Ludwig_van_Beethoven)_-_5987_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
+    "alt": "Friso de Beethoven, Gustav Klimt",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Gustav Klimt · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

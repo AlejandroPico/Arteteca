@@ -1,0 +1,92 @@
+{
+  "id": "hotel-tassel",
+  "titulo": "Hôtel Tassel",
+  "autor": "Victor Horta",
+  "fecha": "1892–1893",
+  "fechaOrden": 1893,
+  "tipo": "Arquitectura e interiorismo",
+  "periodo": "Art Nouveau",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Hierro visto, mosaico, vidrio y líneas vegetales recorren una vivienda organizada alrededor de luz y movimiento.",
+  "localizacion": "Hôtel Tassel",
+  "ciudad": "Bruselas",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/1005/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel%20Tassel%2C%20Bruselas",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "Arquitectura",
+    "Hierro",
+    "Vidrio",
+    "Mosaico"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arquitectura e interiorismo",
+    "Art Nouveau",
+    "Art Nouveau y artes decorativas",
+    "artnouveau",
+    "Bélgica",
+    "Hierro",
+    "Mosaico",
+    "Vidrio"
+  ],
+  "proporcion": [
+    1698,
+    2682
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Victor_Horta_Hotel_Tassel.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Victor_Horta_Hotel_Tassel.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Victor_Horta_Hotel_Tassel.JPG",
+    "alt": "Hôtel Tassel, Victor Horta",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Victor Horta · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Victor_Horta_Hotel_Tassel.JPG?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Victor_Horta_Hotel_Tassel.JPG"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nHierro visto, mosaico, vidrio y líneas vegetales recorren una vivienda organizada alrededor de luz y movimiento.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Arquitectura, Hierro, Vidrio, Mosaico.\n- **Tiempo:** 1892–1893, dentro de Art Nouveau.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nHorta utilizó materiales industriales sin ocultarlos y coordinó estructura, decoración y mobiliario dentro de una unidad espacial.\n\nHôtel Tassel permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Hôtel Tassel, Bruselas, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Arquitectura**, **Hierro**, **Vidrio**, **Mosaico**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLa casa se considera una de las primeras formulaciones arquitectónicas plenamente desarrolladas del Art Nouveau.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Victor_Horta_Hotel_Tassel.JPG)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/H%C3%B4tel_Tassel)\n- [Sitio de la institución o del lugar](https://whc.unesco.org/en/list/1005/)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

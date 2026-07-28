@@ -1,0 +1,89 @@
+{
+  "id": "entrada-metro-guimard",
+  "titulo": "Entrada del Metro de París",
+  "autor": "Hector Guimard",
+  "fecha": "c. 1900",
+  "fechaOrden": 1900,
+  "tipo": "Diseño urbano",
+  "periodo": "Art Nouveau",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Piezas modulares de hierro fundido forman tallos, lámparas y rótulos que identifican el transporte metropolitano.",
+  "localizacion": "Metro de París",
+  "ciudad": "París",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Paris_Metro_entrances_by_Hector_Guimard",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Metro%20de%20Par%C3%ADs%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Hierro fundido",
+    "Vidrio",
+    "Diseño modular"
+  ],
+  "etiquetas": [
+    "Art Nouveau",
+    "Art Nouveau y artes decorativas",
+    "artnouveau",
+    "Diseño modular",
+    "Diseño urbano",
+    "Francia",
+    "Hierro fundido",
+    "Vidrio"
+  ],
+  "proporcion": [
+    5184,
+    3456
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg",
+    "alt": "Entrada del Metro de París, Hector Guimard",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Hector Guimard · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nPiezas modulares de hierro fundido forman tallos, lámparas y rótulos que identifican el transporte metropolitano.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Hierro fundido, Vidrio, Diseño modular.\n- **Tiempo:** c. 1900, dentro de Art Nouveau.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nGuimard convirtió infraestructura seriada en identidad visual urbana y adaptó elementos prefabricados a estaciones diferentes.\n\nEntrada del Metro de París permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Metro de París, París, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Hierro fundido**, **Vidrio**, **Diseño modular**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLas entradas fijaron el imaginario gráfico del París moderno y demostraron que el diseño público podía ser funcional y poético.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:M%C3%A9tro_P%C3%A8re_Lachaise_sous_la_neige_01.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Paris_Metro_entrances_by_Hector_Guimard)\n- [Sitio de la institución o del lugar](https://en.wikipedia.org/wiki/Paris_Metro_entrances_by_Hector_Guimard)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

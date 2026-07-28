@@ -1,0 +1,42 @@
+{
+  "id": "hombre-leon",
+  "titulo": "Hombre-león de Hohlenstein-Stadel",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 40.000–35.000 a. C.",
+  "fechaOrden": -37500,
+  "tipo": "Escultura",
+  "periodo": "Paleolítico superior",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "La figura combina rasgos humanos y felinos en una talla de marfil de mamut ensamblada a partir de numerosos fragmentos.",
+  "localizacion": "Museum Ulm",
+  "ciudad": "Ulm",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Lion-man",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20Ulm%2C%20Ulm",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Marfil de mamut",
+    "Talla"
+  ],
+  "etiquetas": [
+    "Prehistoria y arte rupestre",
+    "Alemania",
+    "prehistoria",
+    "Escultura",
+    "Paleolítico superior"
+  ],
+  "proporcion": [
+    2218,
+    3944
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Loewenmensch1.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Loewenmensch1.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Loewenmensch1.jpg",
+    "alt": "Hombre-león de Hohlenstein-Stadel, Autoría desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

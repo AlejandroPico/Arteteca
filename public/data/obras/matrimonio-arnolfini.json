@@ -1,0 +1,85 @@
+{
+  "id": "matrimonio-arnolfini",
+  "titulo": "Retrato de Giovanni Arnolfini y su esposa",
+  "autor": "Jan van Eyck",
+  "fecha": "1434",
+  "fechaOrden": 1434,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Una pareja ocupa un interior minucioso donde espejo, luz, tejidos y objetos cotidianos multiplican las preguntas sobre identidad y ceremonia.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "Óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Países Bajos",
+    "Pintura",
+    "renacimiento",
+    "Renacimiento",
+    "Renacimiento nórdico",
+    "Óleo sobre tabla"
+  ],
+  "proporcion": [
+    8283,
+    11331
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Arnolfini_portrait_(1434).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Arnolfini_portrait_(1434).jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg",
+    "alt": "Retrato de Giovanni Arnolfini y su esposa, Jan van Eyck",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Jan van Eyck · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Arnolfini_portrait_(1434).jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Arnolfini_portrait_(1434).jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nUna pareja ocupa un interior minucioso donde espejo, luz, tejidos y objetos cotidianos multiplican las preguntas sobre identidad y ceremonia.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Óleo sobre tabla.\n- **Tiempo:** 1434, dentro de Renacimiento nórdico.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nLa pintura flamenca del siglo XV desarrolló una extraordinaria precisión óptica mediante capas de óleo y una atención intensa a superficies y reflejos.\n\nRetrato de Giovanni Arnolfini y su esposa permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en National Gallery, Londres, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Óleo sobre tabla**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nEl espejo convexo y la firma han convertido la obra en uno de los grandes enigmas interpretativos del retrato europeo.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Arnolfini_Portrait)\n- [Sitio de la institución o del lugar](https://www.nationalgallery.org.uk/)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

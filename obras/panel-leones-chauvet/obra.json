@@ -1,0 +1,44 @@
+{
+  "id": "panel-leones-chauvet",
+  "titulo": "Panel de los Leones de Chauvet",
+  "autor": "Autoría colectiva desconocida",
+  "fecha": "c. 36.000–30.000 a. C.",
+  "fechaOrden": -33000,
+  "tipo": "Dibujo rupestre",
+  "periodo": "Auriñaciense",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Una sucesión de cabezas de león parece avanzar sobre la roca mediante perfiles repetidos, carbón y aprovechamiento del relieve natural.",
+  "localizacion": "Cueva de Chauvet-Pont-d’Arc",
+  "ciudad": "Vallon-Pont-d’Arc",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Chauvet_Cave",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cueva%20de%20Chauvet-Pont-d%E2%80%99Arc%2C%20Vallon-Pont-d%E2%80%99Arc",
+  "pais": "Francia",
+  "tecnicas": [
+    "Carbón",
+    "Dibujo sobre roca",
+    "Difuminado"
+  ],
+  "etiquetas": [
+    "Prehistoria y arte rupestre",
+    "Francia",
+    "prehistoria",
+    "Dibujo rupestre",
+    "Auriñaciense"
+  ],
+  "proporcion": [
+    1824,
+    1840
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paintings_from_the_Chauvet_cave_(museum_replica).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paintings_from_the_Chauvet_cave_(museum_replica).jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paintings_from_the_Chauvet_cave_(museum_replica).jpg",
+    "alt": "Panel de los Leones de Chauvet, Autoría colectiva desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Réplica museográfica de las pinturas de Chauvet · Wikimedia Commons",
+    "foco": "center"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO"
+}
+

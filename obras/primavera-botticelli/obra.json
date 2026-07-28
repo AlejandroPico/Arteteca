@@ -1,0 +1,41 @@
+{
+  "id": "primavera-botticelli",
+  "titulo": "La primavera",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1477–1482",
+  "fechaOrden": 1480,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento italiano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Figuras mitológicas ocupan un jardín de naranjos articulado por ritmos de manos, telas, flores y miradas.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Temple sobre tabla"
+  ],
+  "etiquetas": [
+    "Renacimiento",
+    "Italia",
+    "renacimiento",
+    "Pintura",
+    "Renacimiento italiano"
+  ],
+  "proporcion": [
+    4926,
+    3236
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botticelli-primavera.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botticelli-primavera.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg",
+    "alt": "La primavera, Sandro Botticelli",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Sandro Botticelli · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

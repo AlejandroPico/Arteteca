@@ -1,0 +1,89 @@
+{
+  "id": "venus-willendorf",
+  "titulo": "Venus de Willendorf",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 28.000–25.000 a. C.",
+  "fechaOrden": -26500,
+  "tipo": "Escultura",
+  "periodo": "Paleolítico superior",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Una figura de apenas once centímetros concentra el cuerpo en volúmenes rotundos y conserva restos de ocre rojo.",
+  "localizacion": "Museo de Historia Natural",
+  "ciudad": "Viena",
+  "urlLocalizacion": "https://www.nhm-wien.ac.at/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Historia%20Natural%2C%20Viena",
+  "pais": "Austria",
+  "tecnicas": [
+    "Caliza oolítica",
+    "Talla",
+    "Ocre rojo"
+  ],
+  "etiquetas": [
+    "Austria",
+    "Caliza oolítica",
+    "Escultura",
+    "Ocre rojo",
+    "Paleolítico superior",
+    "prehistoria",
+    "Prehistoria y arte rupestre",
+    "Talla"
+  ],
+  "proporcion": [
+    1428,
+    2684
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Venus_von_Willendorf_01.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Venus_von_Willendorf_01.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Venus_von_Willendorf_01.jpg",
+    "alt": "Venus de Willendorf, Autoría desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Venus_von_Willendorf_01.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Venus_von_Willendorf_01.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nUna figura de apenas once centímetros concentra el cuerpo en volúmenes rotundos y conserva restos de ocre rojo.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Caliza oolítica, Talla, Ocre rojo.\n- **Tiempo:** c. 28.000–25.000 a. C., dentro de Paleolítico superior.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nLas pequeñas figuras paleolíticas muestran cómo comunidades móviles transformaron piedra, hueso y marfil en objetos portátiles cuya función exacta sigue abierta al debate.\n\nVenus de Willendorf permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Museo de Historia Natural, Viena, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Caliza oolítica**, **Talla**, **Ocre rojo**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nEs una de las imágenes más conocidas del Paleolítico europeo y un caso central para discutir interpretación, cuerpo y contexto arqueológico.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Venus_von_Willendorf_01.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Venus_of_Willendorf)\n- [Sitio de la institución o del lugar](https://www.nhm-wien.ac.at/en)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

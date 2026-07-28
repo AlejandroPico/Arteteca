@@ -1,0 +1,41 @@
+{
+  "id": "nacimiento-venus-botticelli",
+  "titulo": "El nacimiento de Venus",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1484–1486",
+  "fechaOrden": 1485,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento italiano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Venus llega a la orilla sobre una concha mientras viento, flores y telas convierten el mito en una coreografía lineal.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Temple sobre lienzo"
+  ],
+  "etiquetas": [
+    "Renacimiento",
+    "Italia",
+    "renacimiento",
+    "Pintura",
+    "Renacimiento italiano"
+  ],
+  "proporcion": [
+    30000,
+    18840
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "alt": "El nacimiento de Venus, Sandro Botticelli",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Sandro Botticelli · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

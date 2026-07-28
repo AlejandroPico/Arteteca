@@ -1,0 +1,41 @@
+{
+  "id": "composicion-suprematista-malevich",
+  "titulo": "Composición suprematista",
+  "autor": "Kazimir Malévich",
+  "fecha": "1916",
+  "fechaOrden": 1916,
+  "tipo": "Pintura",
+  "periodo": "Suprematismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Rectángulos y pequeñas formas de color parecen flotar y girar sobre un campo blanco sin horizonte.",
+  "localizacion": "Colección particular",
+  "ciudad": "",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Suprematist_Composition",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecci%C3%B3n%20particular%2C%20",
+  "pais": "Rusia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Abstracción y diseño moderno",
+    "Rusia",
+    "abstraccion",
+    "Pintura",
+    "Suprematismo"
+  ],
+  "proporcion": [
+    2296,
+    2869
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Suprematist_Composition_-_Kazimir_Malevich.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Suprematist_Composition_-_Kazimir_Malevich.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Suprematist_Composition_-_Kazimir_Malevich.jpg",
+    "alt": "Composición suprematista, Kazimir Malévich",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Kazimir Malévich · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

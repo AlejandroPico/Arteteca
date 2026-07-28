@@ -1,0 +1,85 @@
+{
+  "id": "jardin-delicias",
+  "titulo": "El jardín de las delicias",
+  "autor": "El Bosco",
+  "fecha": "c. 1490–1510",
+  "fechaOrden": 1500,
+  "tipo": "Tríptico",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Tres paneles despliegan creación, placer y castigo mediante arquitecturas imposibles, criaturas híbridas y centenares de episodios.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "Óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Países Bajos",
+    "renacimiento",
+    "Renacimiento",
+    "Renacimiento nórdico",
+    "Tríptico",
+    "Óleo sobre tabla"
+  ],
+  "proporcion": [
+    39137,
+    22279
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Garden_of_earthly_delights.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Garden_of_earthly_delights.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Garden_of_earthly_delights.jpg",
+    "alt": "El jardín de las delicias, El Bosco",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "El Bosco · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Garden_of_earthly_delights.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Garden_of_earthly_delights.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nTres paneles despliegan creación, placer y castigo mediante arquitecturas imposibles, criaturas híbridas y centenares de episodios.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Óleo sobre tabla.\n- **Tiempo:** c. 1490–1510, dentro de Renacimiento nórdico.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nEl tríptico combina tradiciones religiosas, cultura cortesana y una imaginación visual cuya interpretación global continúa discutida.\n\nEl jardín de las delicias permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Museo Nacional del Prado, Madrid, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Óleo sobre tabla**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nSu capacidad para producir mundos enteros influyó en el surrealismo y permanece activa en el cine, la ilustración y la cultura digital.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Garden_of_earthly_delights.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights)\n- [Sitio de la institución o del lugar](https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

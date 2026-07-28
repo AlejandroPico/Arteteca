@@ -1,0 +1,45 @@
+{
+  "id": "hotel-tassel",
+  "titulo": "Hôtel Tassel",
+  "autor": "Victor Horta",
+  "fecha": "1892–1893",
+  "fechaOrden": 1893,
+  "tipo": "Arquitectura e interiorismo",
+  "periodo": "Art Nouveau",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Hierro visto, mosaico, vidrio y líneas vegetales recorren una vivienda organizada alrededor de luz y movimiento.",
+  "localizacion": "Hôtel Tassel",
+  "ciudad": "Bruselas",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/1005/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=H%C3%B4tel%20Tassel%2C%20Bruselas",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "Arquitectura",
+    "Hierro",
+    "Vidrio",
+    "Mosaico"
+  ],
+  "etiquetas": [
+    "Art Nouveau y artes decorativas",
+    "Bélgica",
+    "artnouveau",
+    "Arquitectura e interiorismo",
+    "Art Nouveau"
+  ],
+  "proporcion": [
+    1698,
+    2682
+  ],
+  "color": "#3f7067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Victor_Horta_Hotel_Tassel.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Victor_Horta_Hotel_Tassel.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Victor_Horta_Hotel_Tassel.JPG",
+    "alt": "Hôtel Tassel, Victor Horta",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Victor Horta · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO"
+}
+

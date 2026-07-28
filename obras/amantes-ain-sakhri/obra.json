@@ -1,0 +1,42 @@
+{
+  "id": "amantes-ain-sakhri",
+  "titulo": "Amantes de Ain Sakhri",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 9000 a. C.",
+  "fechaOrden": -9000,
+  "tipo": "Escultura",
+  "periodo": "Natufiense",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Una pequeña piedra calcárea tallada sugiere dos cuerpos abrazados mediante volúmenes mínimos y una lectura que cambia al girarla.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.britishmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%2C%20Londres",
+  "pais": "Palestina",
+  "tecnicas": [
+    "Calcita",
+    "Talla"
+  ],
+  "etiquetas": [
+    "Prehistoria y arte rupestre",
+    "Palestina",
+    "prehistoria",
+    "Escultura",
+    "Natufiense"
+  ],
+  "proporcion": [
+    3222,
+    4679
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg",
+    "alt": "Amantes de Ain Sakhri, Autoría desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

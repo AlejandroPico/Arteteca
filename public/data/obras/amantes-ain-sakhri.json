@@ -1,0 +1,87 @@
+{
+  "id": "amantes-ain-sakhri",
+  "titulo": "Amantes de Ain Sakhri",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 9000 a. C.",
+  "fechaOrden": -9000,
+  "tipo": "Escultura",
+  "periodo": "Natufiense",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Una pequeña piedra calcárea tallada sugiere dos cuerpos abrazados mediante volúmenes mínimos y una lectura que cambia al girarla.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.britishmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%2C%20Londres",
+  "pais": "Palestina",
+  "tecnicas": [
+    "Calcita",
+    "Talla"
+  ],
+  "etiquetas": [
+    "Calcita",
+    "Escultura",
+    "Natufiense",
+    "Palestina",
+    "prehistoria",
+    "Prehistoria y arte rupestre",
+    "Talla"
+  ],
+  "proporcion": [
+    3222,
+    4679
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg",
+    "alt": "Amantes de Ain Sakhri, Autoría desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nUna pequeña piedra calcárea tallada sugiere dos cuerpos abrazados mediante volúmenes mínimos y una lectura que cambia al girarla.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Calcita, Talla.\n- **Tiempo:** c. 9000 a. C., dentro de Natufiense.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nLa cultura natufiense se desarrolló durante la transición hacia formas de vida más sedentarias en el Levante antes de la agricultura plenamente establecida.\n\nAmantes de Ain Sakhri permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en British Museum, Londres, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Calcita**, **Talla**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLa pieza destaca por su capacidad para condensar intimidad y ambigüedad espacial con recursos extremadamente reducidos.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ain_Sakhri_Lovers_-_British_Museum_-_Joy_of_Museums.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Ain_Sakhri_figurine)\n- [Sitio de la institución o del lugar](https://www.britishmuseum.org/)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

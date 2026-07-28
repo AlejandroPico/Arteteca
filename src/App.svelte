@@ -32,6 +32,8 @@
   let limit = BATCH_SIZE;
   let activeArtwork: ObraResumen | null = null;
   let filtersOpen = false;
+  let filterFacet: 'tipo' | 'periodo' = 'tipo';
+  let filterQuery = '';
   let orderOpen = false;
   let searchOpen = false;
   let aboutOpen = false;
@@ -67,10 +69,28 @@
   }
 
   function resetFilters() {
-    query = '';
     selectedType = 'Todos';
     selectedPeriod = 'Todos';
+    filterQuery = '';
     limit = BATCH_SIZE;
+  }
+
+  function selectFilter(value: string) {
+    if (filterFacet === 'tipo') {
+      selectedType = value;
+    } else {
+      selectedPeriod = value;
+    }
+    limit = BATCH_SIZE;
+  }
+
+  function filterOptionCount(facet: 'tipo' | 'periodo', value: string) {
+    return (catalog?.obras ?? []).filter((work) => {
+      if (facet === 'tipo' && selectedPeriod !== 'Todos' && work.periodo !== selectedPeriod) return false;
+      if (facet === 'periodo' && selectedType !== 'Todos' && work.tipo !== selectedType) return false;
+      if (value === 'Todos') return true;
+      return facet === 'tipo' ? work.tipo === value : work.periodo === value;
+    }).length;
   }
 
   function openArtwork(work: ObraResumen) {
@@ -129,6 +149,12 @@
     });
   $: visibleWorks = filteredWorks.slice(0, limit);
   $: activeFilters = Number(selectedType !== 'Todos') + Number(selectedPeriod !== 'Todos');
+  $: normalizedFilterQuery = normalizeForSearch(filterQuery);
+  $: currentFilterOptions = (filterFacet === 'tipo' ? catalog?.tipos : catalog?.periodos) ?? [];
+  $: visibleFilterOptions = currentFilterOptions.filter((option) =>
+    normalizedFilterQuery ? normalizeForSearch(option).includes(normalizedFilterQuery) : true,
+  );
+  $: selectedFilterValue = filterFacet === 'tipo' ? selectedType : selectedPeriod;
 
   onMount(() => {
     applyTheme((localStorage.getItem('arteteca-tema') as Tema | null) ?? 'auto');
@@ -233,6 +259,7 @@
           filtersOpen = !filtersOpen;
           orderOpen = false;
           searchOpen = false;
+          if (filtersOpen) filterQuery = '';
         }}
       >
         <SlidersHorizontal size={18} />
@@ -241,44 +268,107 @@
       </button>
 
       {#if filtersOpen}
-        <div class="header-popover header-popover--filters">
-          <fieldset>
-            <legend>Tipo de obra</legend>
-            <div class="filter-options">
-              {#each ['Todos', ...(catalog?.tipos ?? [])] as type}
-                <button
-                  class:active={selectedType === type}
-                  type="button"
-                  onclick={() => {
-                    selectedType = type;
-                    limit = BATCH_SIZE;
-                  }}
-                >
-                  {#if selectedType === type}<Check size={14} />{/if}{type}
-                </button>
-              {/each}
+        <div class="header-popover header-popover--filters" role="dialog" aria-label="Filtrar la colección">
+          <header class="filter-browser__header">
+            <div>
+              <span class="eyebrow">Explorar el catálogo</span>
+              <h2>Filtrar la colección</h2>
             </div>
-          </fieldset>
-          <fieldset>
-            <legend>Periodo</legend>
-            <div class="filter-options">
-              {#each ['Todos', ...(catalog?.periodos ?? [])] as period}
-                <button
-                  class:active={selectedPeriod === period}
-                  type="button"
-                  onclick={() => {
-                    selectedPeriod = period;
-                    limit = BATCH_SIZE;
-                  }}
-                >
-                  {#if selectedPeriod === period}<Check size={14} />{/if}{period}
-                </button>
-              {/each}
+            <button
+              class="filter-browser__close"
+              type="button"
+              aria-label="Cerrar filtros"
+              onclick={() => (filtersOpen = false)}
+            >
+              <X size={18} />
+            </button>
+          </header>
+
+          <nav class="filter-browser__facets" aria-label="Categorías de filtro">
+            <button
+              class:active={filterFacet === 'tipo'}
+              type="button"
+              onclick={() => {
+                filterFacet = 'tipo';
+                filterQuery = '';
+              }}
+            >
+              <span>Tipo</span>
+              <small>{catalog?.tipos.length ?? 0}</small>
+              {#if selectedType !== 'Todos'}<i>{selectedType}</i>{/if}
+            </button>
+            <button
+              class:active={filterFacet === 'periodo'}
+              type="button"
+              onclick={() => {
+                filterFacet = 'periodo';
+                filterQuery = '';
+              }}
+            >
+              <span>Periodo</span>
+              <small>{catalog?.periodos.length ?? 0}</small>
+              {#if selectedPeriod !== 'Todos'}<i>{selectedPeriod}</i>{/if}
+            </button>
+          </nav>
+
+          <label class="filter-browser__search">
+            <Search size={16} />
+            <input
+              type="search"
+              placeholder={filterFacet === 'tipo' ? 'Buscar tipo de obra…' : 'Buscar periodo…'}
+              bind:value={filterQuery}
+            />
+            {#if filterQuery}
+              <button type="button" aria-label="Borrar búsqueda de filtros" onclick={() => (filterQuery = '')}>
+                <X size={14} />
+              </button>
+            {/if}
+          </label>
+
+          <div class="filter-browser__list" role="listbox" aria-label={filterFacet === 'tipo' ? 'Tipos de obra' : 'Periodos'}>
+            {#if !normalizedFilterQuery}
+              <button
+                class:active={selectedFilterValue === 'Todos'}
+                type="button"
+                role="option"
+                aria-selected={selectedFilterValue === 'Todos'}
+                onclick={() => selectFilter('Todos')}
+              >
+                <span>{selectedFilterValue === 'Todos' ? 'Toda la colección' : `Todos los ${filterFacet === 'tipo' ? 'tipos' : 'periodos'}`}</span>
+                <strong>{filterOptionCount(filterFacet, 'Todos')}</strong>
+                {#if selectedFilterValue === 'Todos'}<Check size={15} />{/if}
+              </button>
+            {/if}
+
+            {#each visibleFilterOptions as option}
+              <button
+                class:active={selectedFilterValue === option}
+                type="button"
+                role="option"
+                aria-selected={selectedFilterValue === option}
+                onclick={() => selectFilter(option)}
+              >
+                <span>{option}</span>
+                <strong>{filterOptionCount(filterFacet, option)}</strong>
+                {#if selectedFilterValue === option}<Check size={15} />{/if}
+              </button>
+            {:else}
+              <p class="filter-browser__empty">No hay coincidencias para «{filterQuery}».</p>
+            {/each}
+          </div>
+
+          <footer class="filter-browser__footer">
+            <div>
+              <strong>{filteredWorks.length}</strong>
+              <span>{filteredWorks.length === 1 ? 'obra visible' : 'obras visibles'}</span>
             </div>
-          </fieldset>
-          {#if activeFilters}
-            <button class="clear-filters" type="button" onclick={resetFilters}>Limpiar filtros</button>
-          {/if}
+            {#if activeFilters}
+              <button class="clear-filters" type="button" onclick={resetFilters}>Limpiar {activeFilters}</button>
+            {/if}
+            <button class="filter-browser__apply" type="button" onclick={() => (filtersOpen = false)}>
+              Ver colección
+            </button>
+          </footer>
         </div>
       {/if}
     </div>

@@ -1,0 +1,42 @@
+{
+  "id": "mujer-sedente-catalhoyuk",
+  "titulo": "Mujer sedente de Çatalhöyük",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 6000 a. C.",
+  "fechaOrden": -6000,
+  "tipo": "Escultura",
+  "periodo": "Neolítico",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "La figura sedente aparece flanqueada por felinos y modelada con una volumetría enfática en arcilla cocida.",
+  "localizacion": "Museo de las Civilizaciones de Anatolia",
+  "ciudad": "Ankara",
+  "urlLocalizacion": "https://muze.gov.tr/muze-detay?SectionId=AMM01&DistId=MRK",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20las%20Civilizaciones%20de%20Anatolia%2C%20Ankara",
+  "pais": "Turquía",
+  "tecnicas": [
+    "Terracota",
+    "Modelado"
+  ],
+  "etiquetas": [
+    "Prehistoria y arte rupestre",
+    "Turquía",
+    "prehistoria",
+    "Escultura",
+    "Neolítico"
+  ],
+  "proporcion": [
+    2099,
+    2824
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk_oturan_ilah%C9%99_fiqurunun_%C3%B6nd%C9%99n_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC.jpg",
+    "alt": "Mujer sedente de Çatalhöyük, Autoría desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

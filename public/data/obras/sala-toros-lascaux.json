@@ -1,0 +1,90 @@
+{
+  "id": "sala-toros-lascaux",
+  "titulo": "Sala de los Toros de Lascaux",
+  "autor": "Autoría colectiva desconocida",
+  "fecha": "c. 17.000 a. C.",
+  "fechaOrden": -17000,
+  "tipo": "Pintura rupestre",
+  "periodo": "Magdaleniense",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Toros, caballos y ciervos recorren la roca con cambios de escala y superposiciones que convierten la cueva en un espacio visual envolvente.",
+  "localizacion": "Cueva de Lascaux",
+  "ciudad": "Montignac-Lascaux",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Lascaux",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cueva%20de%20Lascaux%2C%20Montignac-Lascaux",
+  "pais": "Francia",
+  "tecnicas": [
+    "Pigmentos minerales",
+    "Carbón",
+    "Pintura sobre roca"
+  ],
+  "etiquetas": [
+    "Carbón",
+    "Francia",
+    "Magdaleniense",
+    "Pigmentos minerales",
+    "Pintura rupestre",
+    "Pintura sobre roca",
+    "prehistoria",
+    "Prehistoria y arte rupestre"
+  ],
+  "proporcion": [
+    720,
+    472
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lascaux_painting.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lascaux_painting.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+    "alt": "Sala de los Toros de Lascaux, Autoría colectiva desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría colectiva desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lascaux_painting.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lascaux_painting.jpg"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Una entrada visual\n\nToros, caballos y ciervos recorren la roca con cambios de escala y superposiciones que convierten la cueva en un espacio visual envolvente.\n\nLa escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.\n\n## Claves de observación\n\n- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.\n- **Materia:** Pigmentos minerales, Carbón, Pintura sobre roca.\n- **Tiempo:** c. 17.000 a. C., dentro de Magdaleniense.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## La obra en su tiempo\n\nLascaux reúne centenares de figuras animales y signos ejecutados con distintas técnicas en un sistema subterráneo cuyo acceso original exigía luz artificial.\n\nSala de los Toros de Lascaux permite relacionar una pieza concreta con procesos más amplios de su época. Su presencia en Cueva de Lascaux, Montignac-Lascaux, añade además una historia posterior de conservación, estudio y exposición pública.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica y materia",
+      "icono": "tecnica",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra combina **Pigmentos minerales**, **Carbón**, **Pintura sobre roca**. Estos recursos no son un simple vehículo: determinan el color, la textura, la escala, la resistencia y la manera en que la pieza responde a la luz o al espacio.\n\nLa imagen digital facilita una inspección cercana, pero no sustituye la experiencia material. En una obra original también cuentan el tamaño real, el soporte, los accidentes de la superficie y las huellas de conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado",
+      "icono": "legado",
+      "orden": 40,
+      "contenido": "## Una imagen que permanece\n\nLa complejidad espacial y técnica del conjunto alteró de manera decisiva la comprensión moderna del arte paleolítico.\n\nSu inclusión en Arteteca busca situarla junto a obras de otros continentes, medios y cronologías: no como una clasificación definitiva, sino como una puerta de entrada para establecer conexiones y seguir investigando.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "archivo",
+      "orden": 90,
+      "contenido": "## Imagen y consulta\n\n- [Ficha de la imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg)\n- [Artículo de referencia en Wikipedia](https://en.wikipedia.org/wiki/Lascaux)\n- [Sitio de la institución o del lugar](https://en.wikipedia.org/wiki/Lascaux)\n\nLa atribución y la licencia específicas de la reproducción pueden consultarse en la ficha de Wikimedia Commons enlazada. Los datos se presentan como una síntesis introductoria y deben contrastarse con el catálogo de la institución responsable para investigación especializada.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

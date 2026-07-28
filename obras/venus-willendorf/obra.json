@@ -1,0 +1,43 @@
+{
+  "id": "venus-willendorf",
+  "titulo": "Venus de Willendorf",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 28.000–25.000 a. C.",
+  "fechaOrden": -26500,
+  "tipo": "Escultura",
+  "periodo": "Paleolítico superior",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Una figura de apenas once centímetros concentra el cuerpo en volúmenes rotundos y conserva restos de ocre rojo.",
+  "localizacion": "Museo de Historia Natural",
+  "ciudad": "Viena",
+  "urlLocalizacion": "https://www.nhm-wien.ac.at/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Historia%20Natural%2C%20Viena",
+  "pais": "Austria",
+  "tecnicas": [
+    "Caliza oolítica",
+    "Talla",
+    "Ocre rojo"
+  ],
+  "etiquetas": [
+    "Prehistoria y arte rupestre",
+    "Austria",
+    "prehistoria",
+    "Escultura",
+    "Paleolítico superior"
+  ],
+  "proporcion": [
+    1428,
+    2684
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Venus_von_Willendorf_01.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Venus_von_Willendorf_01.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Venus_von_Willendorf_01.jpg",
+    "alt": "Venus de Willendorf, Autoría desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

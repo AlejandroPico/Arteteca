@@ -1,0 +1,45 @@
+{
+  "id": "bauhaus-dessau",
+  "titulo": "Edificio de la Bauhaus en Dessau",
+  "autor": "Walter Gropius",
+  "fecha": "1925–1926",
+  "fechaOrden": 1926,
+  "tipo": "Arquitectura",
+  "periodo": "Bauhaus",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Volúmenes especializados, fachada de vidrio y circulaciones visibles expresan un programa de enseñanza y producción colectiva.",
+  "localizacion": "Bauhaus Dessau",
+  "ciudad": "Dessau",
+  "urlLocalizacion": "https://www.bauhaus-dessau.de/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bauhaus%20Dessau%2C%20Dessau",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Hormigón armado",
+    "Vidrio",
+    "Acero",
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "Abstracción y diseño moderno",
+    "Alemania",
+    "abstraccion",
+    "Arquitectura",
+    "Bauhaus"
+  ],
+  "proporcion": [
+    6202,
+    3876
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg",
+    "alt": "Edificio de la Bauhaus en Dessau, Walter Gropius",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Walter Gropius · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO"
+}
+

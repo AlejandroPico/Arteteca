@@ -1,0 +1,41 @@
+{
+  "id": "amarillo-rojo-azul",
+  "titulo": "Amarillo, rojo y azul",
+  "autor": "Vasili Kandinsky",
+  "fecha": "1925",
+  "fechaOrden": 1925,
+  "tipo": "Pintura",
+  "periodo": "Bauhaus",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Geometrías nítidas y formas orgánicas se equilibran a ambos lados de una superficie donde el color funciona como estructura.",
+  "localizacion": "Centre Pompidou",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.centrepompidou.fr/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Centre%20Pompidou%2C%20Par%C3%ADs",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Abstracción y diseño moderno",
+    "Alemania",
+    "abstraccion",
+    "Pintura",
+    "Bauhaus"
+  ],
+  "proporcion": [
+    4000,
+    2552
+  ],
+  "color": "#a04c3b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gelb-Rot-Blau%2C%20by%20Wassily%20Kandinsky%2C%20Centre%20Pompidou.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gelb-Rot-Blau%2C%20by%20Wassily%20Kandinsky%2C%20Centre%20Pompidou.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gelb-Rot-Blau%2C%20by%20Wassily%20Kandinsky%2C%20Centre%20Pompidou.jpg",
+    "alt": "Amarillo, rojo y azul, Vasili Kandinsky",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Vasili Kandinsky · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

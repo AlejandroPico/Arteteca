@@ -1,0 +1,42 @@
+{
+  "id": "pieta-miguel-angel",
+  "titulo": "Piedad del Vaticano",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "1498–1499",
+  "fechaOrden": 1499,
+  "tipo": "Escultura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "María sostiene el cuerpo de Cristo dentro de una composición piramidal donde el mármol alterna superficies pulidas y pliegues profundos.",
+  "localizacion": "Basílica de San Pedro",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.basilicasanpietro.va/en.html",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20de%20San%20Pedro%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mármol de Carrara",
+    "Talla"
+  ],
+  "etiquetas": [
+    "Renacimiento",
+    "Italia",
+    "renacimiento",
+    "Escultura",
+    "Alto Renacimiento"
+  ],
+  "proporcion": [
+    1584,
+    1660
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pieta_de_Michelangelo_-_Vaticano.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pieta_de_Michelangelo_-_Vaticano.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pieta_de_Michelangelo_-_Vaticano.jpg",
+    "alt": "Piedad del Vaticano, Miguel Ángel Buonarroti",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

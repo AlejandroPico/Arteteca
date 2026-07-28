@@ -1,0 +1,43 @@
+{
+  "id": "renos-nadadores",
+  "titulo": "Renos nadadores",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 13.000 a. C.",
+  "fechaOrden": -13000,
+  "tipo": "Escultura",
+  "periodo": "Magdaleniense",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Dos renos tallados uno detrás de otro forman una composición compacta que sigue la curvatura de una punta de colmillo de mamut.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.britishmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%2C%20Londres",
+  "pais": "Francia",
+  "tecnicas": [
+    "Marfil de mamut",
+    "Talla",
+    "Grabado"
+  ],
+  "etiquetas": [
+    "Prehistoria y arte rupestre",
+    "Francia",
+    "prehistoria",
+    "Escultura",
+    "Magdaleniense"
+  ],
+  "proporcion": [
+    2605,
+    1861
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sleeping_Reindeer_3_2918856445_7d66cc4796_o.jpg",
+    "alt": "Renos nadadores, Autoría desconocida",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Autoría desconocida · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

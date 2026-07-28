@@ -1,0 +1,42 @@
+{
+  "id": "gran-dios-sefar",
+  "titulo": "Gran dios de Sefar",
+  "autor": "Artistas de Tassili n’Ajjer",
+  "fecha": "c. 6000–4000 a. C.",
+  "fechaOrden": -5000,
+  "tipo": "Pintura rupestre",
+  "periodo": "Periodo de las Cabezas Redondas",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Una gran figura frontal de contorno redondeado domina un conjunto de personajes menores en un abrigo del Sahara central.",
+  "localizacion": "Tassili n’Ajjer",
+  "ciudad": "Djanet",
+  "urlLocalizacion": "https://en.wikipedia.org/wiki/Round_Head_Period",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Tassili%20n%E2%80%99Ajjer%2C%20Djanet",
+  "pais": "Argelia",
+  "tecnicas": [
+    "Pigmento sobre roca"
+  ],
+  "etiquetas": [
+    "Prehistoria y arte rupestre",
+    "Argelia",
+    "prehistoria",
+    "Pintura rupestre",
+    "Periodo de las Cabezas Redondas"
+  ],
+  "proporcion": [
+    654,
+    965
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fondazione_Passar%C3%A9_V1_056.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fondazione_Passar%C3%A9_V1_056.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Fondazione_Passar%C3%A9_V1_056.jpg",
+    "alt": "Gran dios de Sefar, Artistas de Tassili n’Ajjer",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Artistas de Tassili n’Ajjer · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO"
+}
+

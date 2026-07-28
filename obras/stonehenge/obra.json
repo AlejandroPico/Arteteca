@@ -1,0 +1,44 @@
+{
+  "id": "stonehenge",
+  "titulo": "Stonehenge",
+  "autor": "Comunidades neolíticas y de la Edad del Bronce",
+  "fecha": "c. 3000–1600 a. C.",
+  "fechaOrden": -2300,
+  "tipo": "Arquitectura megalítica",
+  "periodo": "Neolítico y Edad del Bronce",
+  "coleccion": "Prehistoria y arte rupestre",
+  "descripcion": "Anillos de grandes piedras, dinteles y movimientos de tierra construyen un monumento alineado con ciclos solares y transformado durante siglos.",
+  "localizacion": "Stonehenge",
+  "ciudad": "Wiltshire",
+  "urlLocalizacion": "https://www.english-heritage.org.uk/visit/places/stonehenge/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Stonehenge%2C%20Wiltshire",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Sarsen",
+    "Piedras azules",
+    "Construcción megalítica"
+  ],
+  "etiquetas": [
+    "Prehistoria y arte rupestre",
+    "Reino Unido",
+    "prehistoria",
+    "Arquitectura megalítica",
+    "Neolítico y Edad del Bronce"
+  ],
+  "proporcion": [
+    2816,
+    2112
+  ],
+  "color": "#8c5f3f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stonehenge2007_07_30.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stonehenge2007_07_30.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+    "alt": "Stonehenge, Comunidades neolíticas y de la Edad del Bronce",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Comunidades neolíticas y de la Edad del Bronce · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "reconocimiento": "Patrimonio Mundial de la UNESCO"
+}
+

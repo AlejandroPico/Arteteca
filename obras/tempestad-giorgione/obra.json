@@ -1,0 +1,41 @@
+{
+  "id": "tempestad-giorgione",
+  "titulo": "La tempestad",
+  "autor": "Giorgione",
+  "fecha": "c. 1506–1508",
+  "fechaOrden": 1507,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Una mujer con un niño y un hombre permanecen separados ante una ciudad, vegetación húmeda y un relámpago inminente.",
+  "localizacion": "Gallerie dell’Accademia",
+  "ciudad": "Venecia",
+  "urlLocalizacion": "https://www.gallerieaccademia.it/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gallerie%20dell%E2%80%99Accademia%2C%20Venecia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Renacimiento",
+    "Italia",
+    "renacimiento",
+    "Pintura",
+    "Renacimiento veneciano"
+  ],
+  "proporcion": [
+    3329,
+    3696
+  ],
+  "color": "#526551",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giorgione_-_Das_Gewitter.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giorgione_-_Das_Gewitter.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Giorgione_-_Das_Gewitter.jpg",
+    "alt": "La tempestad, Giorgione",
+    "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
+    "credito": "Giorgione · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

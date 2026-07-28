@@ -1,0 +1,95 @@
+{
+  "id": "la-conversion-de-san-pablo-buonarroti",
+  "titulo": "La conversión de San Pablo",
+  "tituloOriginal": "The Conversion of Saul",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1542",
+  "fechaOrden": 1542,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Fresco de Miguel Ángel.",
+  "localizacion": "Capilla Paulina",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q1034868",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Capilla%20Paulina%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "fresco"
+  ],
+  "etiquetas": [
+    "Alto Renacimiento",
+    "Ciudad del Vaticano",
+    "fresco",
+    "Guía maestra 2026",
+    "Miguel Ángel Buonarroti",
+    "Pintura mural",
+    "Renacimiento",
+    "Wikidata Q2432043"
+  ],
+  "proporcion": [
+    2748,
+    2580
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg/1920px-Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/08/Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg",
+    "alt": "La conversión de San Pablo, Miguel Ángel Buonarroti",
+    "licencia": "Public domain",
+    "credito": "Copied from an art book",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg/1920px-Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/08/Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2432043",
+    "qid": "Q2432043",
+    "guia": "La Conversión de San Pablo (Capilla Paolina)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La conversión de San Pablo** se incorpora al mosaico como pintura mural de **Miguel Ángel Buonarroti**. Fresco de Miguel Ángel.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Miguel Ángel Buonarroti\n- **Datación registrada:** c. 1542\n- **Periodo de navegación:** Alto Renacimiento\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Capilla Paulina\n- **Lugar asociado:** Ciudad del Vaticano\n- **País asociado a la colección:** Ciudad del Vaticano\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Conversión de San Pablo (Capilla Paolina)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q2432043** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura mural\n- **Materiales o técnicas consignados:** fresco\n- **Dimensiones de la obra:** 661 cm × 625 cm\n- **Archivo digital:** 2748 × 2580 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Miguel Ángel Buonarroti** y del **Alto Renacimiento** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q2432043)](https://www.wikidata.org/wiki/Q2432043)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg)\n- [Colección o institución asociada](https://www.wikidata.org/wiki/Q1034868)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

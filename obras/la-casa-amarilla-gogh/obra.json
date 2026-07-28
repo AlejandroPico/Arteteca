@@ -1,0 +1,51 @@
+{
+  "id": "la-casa-amarilla-gogh",
+  "titulo": "La Casa Amarilla",
+  "tituloOriginal": "The Yellow House",
+  "autor": "Vincent van Gogh",
+  "fecha": "c. 1888",
+  "fechaOrden": 1888,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Pintura de Vincent van Gogh.",
+  "localizacion": "Museo van Gogh",
+  "ciudad": "Amsterdam",
+  "urlLocalizacion": "http://www.vangoghmuseum.nl/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20van%20Gogh%2C%20Amsterdam",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Vincent van Gogh",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Países Bajos",
+    "Pintura",
+    "Wikidata Q2200610",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6917,
+    5366
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vincent_van_Gogh_-_The_yellow_house_%28%27The_street%27%29.jpg/1920px-Vincent_van_Gogh_-_The_yellow_house_%28%27The_street%27%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Vincent_van_Gogh_-_The_yellow_house_%28%27The_street%27%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_yellow_house_(%27The_street%27).jpg",
+    "alt": "La Casa Amarilla, Vincent van Gogh",
+    "licencia": "Public domain",
+    "credito": "Van Gogh Museum",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2200610",
+    "qid": "Q2200610",
+    "guia": "La Casa Amarilla (Van Gogh Museum)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

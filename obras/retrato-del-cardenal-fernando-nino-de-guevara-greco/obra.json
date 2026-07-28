@@ -1,0 +1,51 @@
+{
+  "id": "retrato-del-cardenal-fernando-nino-de-guevara-greco",
+  "titulo": "Retrato del cardenal Fernando Niño de Guevara",
+  "tituloOriginal": "Cardinal Fernando Niño de Guevara",
+  "autor": "El Greco",
+  "fecha": "c. 1600",
+  "fechaOrden": 1600,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "Cuadro de El Greco.",
+  "localizacion": "Museo Metropolitano de Arte",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Metropolitano%20de%20Arte%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Manierismo",
+    "Renacimiento y Manierismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q3784753",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2378,
+    3722
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cardinal_Fernando_Ni%C3%B1o_de_Guevara_%281541%E2%80%931609%29_MET_DT854.jpg/1920px-Cardinal_Fernando_Ni%C3%B1o_de_Guevara_%281541%E2%80%931609%29_MET_DT854.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Cardinal_Fernando_Ni%C3%B1o_de_Guevara_%281541%E2%80%931609%29_MET_DT854.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cardinal_Fernando_Ni%C3%B1o_de_Guevara_(1541%E2%80%931609)_MET_DT854.jpg",
+    "alt": "Retrato del cardenal Fernando Niño de Guevara, El Greco",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3784753",
+    "qid": "Q3784753",
+    "guia": "Retrato del Cardenal Fernando de Niño de Guevara",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "la-puerta-del-infierno-rodin",
+  "titulo": "La puerta del Infierno",
+  "tituloOriginal": "The Gates of Hell",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1880",
+  "fechaOrden": 1880,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Grupo escultórico creado por Auguste Rodin.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "oro",
+    "plata"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Obra de arte",
+    "Wikidata Q2003287",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2073,
+    3343
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rodin_Porte_enfer.jpg/1920px-Rodin_Porte_enfer.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/09/Rodin_Porte_enfer.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rodin_Porte_enfer.jpg",
+    "alt": "La puerta del Infierno, Auguste Rodin",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2003287",
+    "qid": "Q2003287",
+    "guia": "Las Puertas del Infierno (Musée Rodin)",
+    "coincidencia": 0.897,
+    "importada": "2026-07-28"
+  }
+}

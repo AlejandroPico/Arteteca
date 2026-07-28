@@ -1,0 +1,51 @@
+{
+  "id": "napoleon-cruzando-los-alpes-david",
+  "titulo": "Napoleón cruzando los Alpes",
+  "tituloOriginal": "Napoleon Crossing the Alps",
+  "autor": "Jacques-Louis David",
+  "fecha": "c. 1801",
+  "fechaOrden": 1801,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Jacques-Louis David en el castillo de Charlottenburg.",
+  "localizacion": "Prussian Palaces and Gardens Foundation Berlin-Brandenburg",
+  "ciudad": "Potsdam",
+  "urlLocalizacion": "https://www.spsg.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Prussian%20Palaces%20and%20Gardens%20Foundation%20Berlin-Brandenburg%2C%20Potsdam",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jacques-Louis David",
+    "Neoclasicismo",
+    "De la Ilustración al Romanticismo",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q23650268",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1024,
+    1197
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bonaparte_David_Charlottenburg.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bonaparte_David_Charlottenburg.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bonaparte_David_Charlottenburg.jpg",
+    "alt": "Napoleón cruzando los Alpes, Jacques-Louis David",
+    "licencia": "Public domain",
+    "credito": "https://genius.com/albums/Mrb-the-gentleman-rhymer/I-say",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q23650268",
+    "qid": "Q23650268",
+    "guia": "Napoleón Cruzando los Alpes (Château de Malmaison / Versalles)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

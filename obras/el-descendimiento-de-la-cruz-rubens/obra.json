@@ -1,0 +1,50 @@
+{
+  "id": "el-descendimiento-de-la-cruz-rubens",
+  "titulo": "El Descendimiento de la cruz",
+  "tituloOriginal": "The Deposition",
+  "autor": "Peter Paul Rubens",
+  "fecha": "c. 1602",
+  "fechaOrden": 1602,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Peter Paul Rubens.",
+  "localizacion": "Galería Borghese",
+  "ciudad": "Roma Capitale",
+  "urlLocalizacion": "https://galleriaborghese.cultura.gov.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Borghese%2C%20Roma%20Capitale",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Peter Paul Rubens",
+    "Barroco",
+    "Italia",
+    "Pintura",
+    "Wikidata Q3705720",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2778,
+    3593
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Peter_Paul_Rubens_-_The_Deposition_%28Galleria_Borghese.jpg/1920px-Peter_Paul_Rubens_-_The_Deposition_%28Galleria_Borghese.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/22/Peter_Paul_Rubens_-_The_Deposition_%28Galleria_Borghese.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Deposition_(Galleria_Borghese.jpg",
+    "alt": "El Descendimiento de la cruz, Peter Paul Rubens",
+    "licencia": "Public domain",
+    "credito": "https://www.collezionegalleriaborghese.it/en/opere/lamentation-over-the-dead-christ",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3705720",
+    "qid": "Q3705720",
+    "guia": "El Descendimiento de la Cruz (Catedral de Amberes)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

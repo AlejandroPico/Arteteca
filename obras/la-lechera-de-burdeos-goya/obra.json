@@ -1,0 +1,51 @@
+{
+  "id": "la-lechera-de-burdeos-goya",
+  "titulo": "La lechera de Burdeos",
+  "tituloOriginal": "The Milkmaid of Bordeaux",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1827",
+  "fechaOrden": 1827,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Francisco de Goya.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Francisco de Goya",
+    "Romanticismo",
+    "De la Ilustración al Romanticismo",
+    "España",
+    "Pintura",
+    "Wikidata Q2088930",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2319,
+    2584
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Goya_MilkMaid.jpg/1920px-Goya_MilkMaid.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Goya_MilkMaid.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Goya_MilkMaid.jpg",
+    "alt": "La lechera de Burdeos, Francisco de Goya",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"g/goya/8/812goya\"",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2088930",
+    "qid": "Q2088930",
+    "guia": "La Lechera de Burdeos",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

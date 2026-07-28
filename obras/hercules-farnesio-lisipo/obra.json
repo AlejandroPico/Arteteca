@@ -1,0 +1,50 @@
+{
+  "id": "hercules-farnesio-lisipo",
+  "titulo": "Hércules Farnesio",
+  "tituloOriginal": "Farnese Hercules",
+  "autor": "Lisipo",
+  "fecha": "c. 400 a. C.",
+  "fechaOrden": -400,
+  "tipo": "Escultura",
+  "periodo": "Helenismo",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Escultura de Glykon de Atenas, copia de un perdido original en bronce atribuido a Lisipo.",
+  "localizacion": "Museo Arqueológico Nacional de Nápoles",
+  "ciudad": "Nápoles",
+  "urlLocalizacion": "https://www.museoarcheologiconapoli.it",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Arqueol%C3%B3gico%20Nacional%20de%20N%C3%A1poles%2C%20N%C3%A1poles",
+  "pais": "Italia",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Lisipo",
+    "Helenismo",
+    "Grecia y Roma",
+    "Italia",
+    "Escultura",
+    "Wikidata Q374591",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2300,
+    4025
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg/1920px-Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg",
+    "alt": "Hércules Farnesio, Lisipo",
+    "licencia": "CC BY 2.5",
+    "credito": "Marie-Lan Nguyen (2011)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q374591",
+    "qid": "Q374591",
+    "guia": "Hércules Farnesio",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

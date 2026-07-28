@@ -1,0 +1,52 @@
+{
+  "id": "maesta-di-ognissanti-giotto",
+  "titulo": "Maestà di Ognissanti",
+  "tituloOriginal": "Madonna Enthroned",
+  "autor": "Giotto",
+  "fecha": "c. 1300",
+  "fechaOrden": 1300,
+  "tipo": "Retablo",
+  "periodo": "Protorrenacimiento",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Cuadro de Giotto di Bondone.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "témpera",
+    "tabla",
+    "oro"
+  ],
+  "etiquetas": [
+    "Giotto",
+    "Protorrenacimiento",
+    "Arte medieval y religioso",
+    "Italia",
+    "Retablo",
+    "Wikidata Q2016193",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2719,
+    4181
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg/1920px-Madonna_di_Ognissanti_by_Giotto.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Madonna_di_Ognissanti_by_Giotto.jpg",
+    "alt": "Maestà di Ognissanti, Giotto",
+    "licencia": "Public domain",
+    "credito": "Own work by Campocorvino",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2016193",
+    "qid": "Q2016193",
+    "guia": "Maestà Ognissanti (Uffizi)",
+    "coincidencia": 0.914,
+    "importada": "2026-07-28"
+  }
+}

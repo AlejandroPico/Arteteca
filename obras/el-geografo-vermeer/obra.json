@@ -1,0 +1,50 @@
+{
+  "id": "el-geografo-vermeer",
+  "titulo": "El geógrafo",
+  "tituloOriginal": "The Geographer",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1668",
+  "fechaOrden": 1668,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Johannes Vermeer.",
+  "localizacion": "Museo Städel",
+  "ciudad": "Fráncfort del Meno",
+  "urlLocalizacion": "https://www.staedelmuseum.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20St%C3%A4del%2C%20Fr%C3%A1ncfort%20del%20Meno",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Johannes Vermeer",
+    "Barroco",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q45130",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    16557,
+    18526
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Johannes_Vermeer%2C_Der_Geograf%2C_1669.png/1920px-Johannes_Vermeer%2C_Der_Geograf%2C_1669.png",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Johannes_Vermeer%2C_Der_Geograf%2C_1669.png",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer,_Der_Geograf,_1669.png",
+    "alt": "El geógrafo, Johannes Vermeer",
+    "licencia": "Public domain",
+    "credito": "https://sammlung.staedelmuseum.de/de/werk/der-geograf",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q45130",
+    "qid": "Q45130",
+    "guia": "El Geógrafo (Städel, Fráncfort)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

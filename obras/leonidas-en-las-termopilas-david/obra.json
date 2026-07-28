@@ -1,0 +1,50 @@
+{
+  "id": "leonidas-en-las-termopilas-david",
+  "titulo": "Leónidas en las Termópilas",
+  "tituloOriginal": "Leonidas at Thermopylae",
+  "autor": "Jacques-Louis David",
+  "fecha": "c. 1814",
+  "fechaOrden": 1814,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Jacques-Louis David.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jacques-Louis David",
+    "Neoclasicismo",
+    "De la Ilustración al Romanticismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q972295",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    9655,
+    7124
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_%3B_L_3711.jpg/1920px-L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_%3B_L_3711.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/91/L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_%3B_L_3711.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_;_L_3711.jpg",
+    "alt": "Leónidas en las Termópilas, Jacques-Louis David",
+    "licencia": "Public domain",
+    "credito": "photo Shonagon 2025-03-15",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q972295",
+    "qid": "Q972295",
+    "guia": "Leónidas en las Termópilas",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

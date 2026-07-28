@@ -1,0 +1,51 @@
+{
+  "id": "el-circo-seurat",
+  "titulo": "El circo",
+  "tituloOriginal": "The Circus",
+  "autor": "Georges Seurat",
+  "fecha": "c. 1891",
+  "fechaOrden": 1891,
+  "tipo": "Pintura",
+  "periodo": "Neoimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Georges Seurat.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Georges Seurat",
+    "Neoimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q2275610",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3918,
+    4855
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg/1920px-Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/98/Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+    "alt": "El circo, Georges Seurat",
+    "licencia": "Public domain",
+    "credito": "agFX4peHSDwt_g at Google Cultural Institute maximum zoom level",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2275610",
+    "qid": "Q2275610",
+    "guia": "El Circo (Museo d'Orsay)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

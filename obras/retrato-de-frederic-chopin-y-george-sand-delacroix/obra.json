@@ -1,0 +1,51 @@
+{
+  "id": "retrato-de-frederic-chopin-y-george-sand-delacroix",
+  "titulo": "Retrato de Frédéric Chopin y George Sand",
+  "tituloOriginal": "Portrait of Frédéric Chopin and George Sand",
+  "autor": "Eugène Delacroix",
+  "fecha": "c. 1837",
+  "fechaOrden": 1837,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Eugène Delacroix.",
+  "localizacion": "Ordrupgaard",
+  "ciudad": "Gentofte",
+  "urlLocalizacion": "http://www.ordrupgaard.dk",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Ordrupgaard%2C%20Gentofte",
+  "pais": "Dinamarca",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Eugène Delacroix",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Dinamarca",
+    "Pintura",
+    "Wikidata Q4992187",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    929,
+    727
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/ChopinSandDelacroix.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/e4/ChopinSandDelacroix.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:ChopinSandDelacroix.jpg",
+    "alt": "Retrato de Frédéric Chopin y George Sand, Eugène Delacroix",
+    "licencia": "Public domain",
+    "credito": "based on (now separate) portraits of Chopin and Sand, which were divided in the late 19th century",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4992187",
+    "qid": "Q4992187",
+    "guia": "Retrato de Frédéric Chopin (Louvre)",
+    "coincidencia": 0.786,
+    "importada": "2026-07-28"
+  }
+}

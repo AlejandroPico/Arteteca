@@ -1,0 +1,51 @@
+{
+  "id": "la-muerte-de-socrates-david",
+  "titulo": "La muerte de Sócrates",
+  "tituloOriginal": "The Death of Socrates",
+  "autor": "Jacques-Louis David",
+  "fecha": "c. 1787",
+  "fechaOrden": 1787,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Pintura de Jacques-Louis David.",
+  "localizacion": "Museo Metropolitano de Arte",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Metropolitano%20de%20Arte%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jacques-Louis David",
+    "Neoclasicismo",
+    "De la Ilustración al Romanticismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q1752990",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4000,
+    2663
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Death_of_Socrates_MET_DP-13139-001.jpg/1920px-The_Death_of_Socrates_MET_DP-13139-001.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_Death_of_Socrates_MET_DP-13139-001.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Death_of_Socrates_MET_DP-13139-001.jpg",
+    "alt": "La muerte de Sócrates, Jacques-Louis David",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1752990",
+    "qid": "Q1752990",
+    "guia": "La Muerte de Sócrates (MET, Nueva York)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

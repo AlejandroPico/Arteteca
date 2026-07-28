@@ -1,0 +1,52 @@
+{
+  "id": "crucifijo-del-santo-spirito-buonarroti",
+  "titulo": "Crucifijo del Santo Spirito",
+  "tituloOriginal": "Crucifix",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1493",
+  "fechaOrden": 1493,
+  "tipo": "Escultura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Crucifijo de madera atribuido a Miguel Ángel y conservado en Santo Spirito.",
+  "localizacion": "basílica del Santo Spirito",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.basilicasantospirito.it",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=bas%C3%ADlica%20del%20Santo%20Spirito%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "estopa",
+    "madera",
+    "pintura"
+  ],
+  "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Italia",
+    "Escultura",
+    "Wikidata Q1572984",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1724,
+    2556
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Installazione_florens_2012_crocifisso_michelangelo_02.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/42/Installazione_florens_2012_crocifisso_michelangelo_02.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Installazione_florens_2012_crocifisso_michelangelo_02.JPG",
+    "alt": "Crucifijo del Santo Spirito, Miguel Ángel Buonarroti",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1572984",
+    "qid": "Q1572984",
+    "guia": "Crucifijo de Santo Spirito",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "la-lechera-vermeer",
+  "titulo": "La lechera",
+  "tituloOriginal": "The Milkmaid",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1660",
+  "fechaOrden": 1660,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Johannes Vermeer.",
+  "localizacion": "Rijksmuseum",
+  "ciudad": "Amsterdam",
+  "urlLocalizacion": "https://www.rijksmuseum.nl/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Rijksmuseum%2C%20Amsterdam",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "lienzo",
+    "óleo"
+  ],
+  "etiquetas": [
+    "Johannes Vermeer",
+    "Barroco",
+    "Países Bajos",
+    "Pintura",
+    "Wikidata Q167605",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4000,
+    4485
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/1920px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "alt": "La lechera, Johannes Vermeer",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — AHrw. Z3. Av6. Zhjg 9. AHrw. Z3. Av6. Zhjg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q167605",
+    "qid": "Q167605",
+    "guia": "La Lechera (Rijksmuseum, Ámsterdam)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

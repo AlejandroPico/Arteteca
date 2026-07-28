@@ -1,0 +1,51 @@
+{
+  "id": "la-clase-de-danza-degas",
+  "titulo": "La clase de danza",
+  "tituloOriginal": "The Dance Class",
+  "autor": "Edgar Degas",
+  "fecha": "c. 1874",
+  "fechaOrden": 1874,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Edgar Degas.",
+  "localizacion": "Museo Metropolitano de Arte",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Metropolitano%20de%20Arte%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Edgar Degas",
+    "Impresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q18758802",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3406,
+    3682
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Edgar_Degas_The_Dance_Class.jpg/1920px-Edgar_Degas_The_Dance_Class.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Edgar_Degas_The_Dance_Class.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_The_Dance_Class.jpg",
+    "alt": "La clase de danza, Edgar Degas",
+    "licencia": "Public domain",
+    "credito": "Metropolitan Museum of Art",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18758802",
+    "qid": "Q18758802",
+    "guia": "La Clase de Danza (Museo d'Orsay)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

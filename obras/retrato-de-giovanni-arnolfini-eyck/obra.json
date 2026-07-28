@@ -1,0 +1,51 @@
+{
+  "id": "retrato-de-giovanni-arnolfini-eyck",
+  "titulo": "Retrato de Giovanni Arnolfini",
+  "tituloOriginal": "Portrait of Giovanni di Nicolao Arnolfini",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1440",
+  "fechaOrden": 1440,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jan van Eyck.",
+  "localizacion": "Gemäldegalerie de Berlín",
+  "ciudad": "Mitte",
+  "urlLocalizacion": "http://www.smb.museum/gg",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gem%C3%A4ldegalerie%20de%20Berl%C3%ADn%2C%20Mitte",
+  "pais": "Alemania",
+  "tecnicas": [
+    "panel de roble",
+    "óleo"
+  ],
+  "etiquetas": [
+    "Jan van Eyck",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q3937546",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2872,
+    4000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Jan_van_Eyck_%28um_1390-1400_-_1441%29_-_Portrait_of_a_man_%28from_the_Arnolfini_family%5E%29_Around_1440_-_523A_-_Gem%C3%A4ldegalerie.jpg/1920px-Jan_van_Eyck_%28um_1390-1400_-_1441%29_-_Portrait_of_a_man_%28from_the_Arnolfini_family%5E%29_Around_1440_-_523A_-_Gem%C3%A4ldegalerie.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Jan_van_Eyck_%28um_1390-1400_-_1441%29_-_Portrait_of_a_man_%28from_the_Arnolfini_family%5E%29_Around_1440_-_523A_-_Gem%C3%A4ldegalerie.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_van_Eyck_(um_1390-1400_-_1441)_-_Portrait_of_a_man_(from_the_Arnolfini_family%5E)_Around_1440_-_523A_-_Gem%C3%A4ldegalerie.jpg",
+    "alt": "Retrato de Giovanni Arnolfini, Jan van Eyck",
+    "licencia": "Public domain",
+    "credito": "Staatliche Museen zu Berlin",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3937546",
+    "qid": "Q3937546",
+    "guia": "Retrato de Giovanni di Nicolao Arnolfini",
+    "coincidencia": 0.82,
+    "importada": "2026-07-28"
+  }
+}

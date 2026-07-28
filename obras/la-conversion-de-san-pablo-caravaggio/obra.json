@@ -1,0 +1,49 @@
+{
+  "id": "la-conversion-de-san-pablo-caravaggio",
+  "titulo": "La conversión de San Pablo",
+  "tituloOriginal": "The Conversion of Saint Paul",
+  "autor": "Caravaggio",
+  "fecha": "c. 1600",
+  "fechaOrden": 1600,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Caravaggio.",
+  "localizacion": "familia Odescalchi",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q938697",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=familia%20Odescalchi",
+  "pais": "Estados Pontificios",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco",
+    "Estados Pontificios",
+    "Pintura",
+    "Wikidata Q1448203",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    10335,
+    12900
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Conversion_of_Saint_Paul-Caravaggio_%28c._1600-1%29.jpg/1920px-The_Conversion_of_Saint_Paul-Caravaggio_%28c._1600-1%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_Conversion_of_Saint_Paul-Caravaggio_%28c._1600-1%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Conversion_of_Saint_Paul-Caravaggio_(c._1600-1).jpg",
+    "alt": "La conversión de San Pablo, Caravaggio",
+    "licencia": "Public domain",
+    "credito": "Self-scanned",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1448203",
+    "qid": "Q1448203",
+    "guia": "La Conversión de San Pablo (Santa Maria del Popolo, Roma)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

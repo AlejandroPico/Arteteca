@@ -1,0 +1,50 @@
+{
+  "id": "las-tres-gracias-rubens",
+  "titulo": "Las tres Gracias",
+  "tituloOriginal": "The Three Graces",
+  "autor": "Peter Paul Rubens",
+  "fecha": "c. 1630",
+  "fechaOrden": 1630,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Peter Paul Rubens.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Peter Paul Rubens",
+    "Barroco",
+    "España",
+    "Pintura",
+    "Wikidata Q2268524",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    24620,
+    30000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/The_Three_Graces%2C_by_Peter_Paul_Rubens%2C_from_Prado_in_Google_Earth.jpg/1920px-The_Three_Graces%2C_by_Peter_Paul_Rubens%2C_from_Prado_in_Google_Earth.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_Three_Graces%2C_by_Peter_Paul_Rubens%2C_from_Prado_in_Google_Earth.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Three_Graces,_by_Peter_Paul_Rubens,_from_Prado_in_Google_Earth.jpg",
+    "alt": "Las tres Gracias, Peter Paul Rubens",
+    "licencia": "Public domain",
+    "credito": "The Prado in Google Earth: Home page 7 th level of zoom, JPEG compression quality: Photoshop 10.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2268524",
+    "qid": "Q2268524",
+    "guia": "Las Tres Gracias (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

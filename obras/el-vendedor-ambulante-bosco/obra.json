@@ -1,0 +1,50 @@
+{
+  "id": "el-vendedor-ambulante-bosco",
+  "titulo": "El vendedor ambulante",
+  "tituloOriginal": "The Wayfarer",
+  "autor": "El Bosco",
+  "fecha": "c. 1500",
+  "fechaOrden": 1500,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jerónimo Bosch.",
+  "localizacion": "Jacques Goudstikker collection",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q2284748",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Jacques%20Goudstikker%20collection",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "El Bosco",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Países Bajos",
+    "Pintura",
+    "Wikidata Q2400652",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5877,
+    5957
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jheronimus_Bosch_-_The_Pedlar_-_Google_Art_Project.jpg/1920px-Jheronimus_Bosch_-_The_Pedlar_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Jheronimus_Bosch_-_The_Pedlar_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jheronimus_Bosch_-_The_Pedlar_-_Google_Art_Project.jpg",
+    "alt": "El vendedor ambulante, El Bosco",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — ywEW3aK67Jz_BA",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2400652",
+    "qid": "Q2400652",
+    "guia": "El Mochuelo / El vendedor ambulante (Róterdam)",
+    "coincidencia": 0.791,
+    "importada": "2026-07-28"
+  }
+}

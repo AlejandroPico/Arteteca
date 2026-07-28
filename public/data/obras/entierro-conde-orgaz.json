@@ -1,0 +1,87 @@
+{
+  "id": "entierro-conde-orgaz",
+  "titulo": "El entierro del conde de Orgaz",
+  "autor": "El Greco",
+  "fecha": "1586–1588",
+  "fechaOrden": 1586,
+  "tipo": "Pintura",
+  "periodo": "Manierismo español",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "Un entierro terrenal de retratos minuciosos se abre hacia una visión celeste de figuras alargadas y espacio incandescente.",
+  "localizacion": "Iglesia de Santo Tomé",
+  "ciudad": "Toledo",
+  "urlLocalizacion": "https://santotome.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Iglesia%20de%20Santo%20Tom%C3%A9%2C%20Toledo",
+  "pais": "España",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "El Greco",
+    "España",
+    "Manierismo español",
+    "Pintura",
+    "Renacimiento y Manierismo",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    360,
+    480
+  ],
+  "color": "#4d526b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG",
+    "alt": "El entierro del conde de Orgaz, de El Greco",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "El Greco · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nUn entierro terrenal de retratos minuciosos se abre hacia una visión celeste de figuras alargadas y espacio incandescente.\n\n## Una pista visual\n\nLa línea de cabezas separa tierra y cielo; el alma asciende por el eje central como una pequeña forma translúcida.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nEl encargo conmemoraba una leyenda local según la cual san Esteban y san Agustín descendieron para enterrar al benefactor Gonzalo Ruiz de Toledo.\n\n**Autor:** El Greco  \n**Fecha:** 1586–1588  \n**Marco:** Manierismo español  \n**Conservación actual:** Iglesia de Santo Tomé, Toledo.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Óleo sobre lienzo**. Su formato aproximado, expresado como relación entre ancho y alto, es **360:480**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSe convirtió en la gran síntesis de retrato, liturgia y visión del Greco toledano.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de El Greco con otras obras de **Manierismo español**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG)\n- [Sitio oficial de Iglesia de Santo Tomé](https://santotome.org/)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Iglesia%20de%20Santo%20Tom%C3%A9%2C%20Toledo)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

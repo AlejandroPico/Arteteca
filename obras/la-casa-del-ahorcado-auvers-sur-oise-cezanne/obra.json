@@ -1,0 +1,51 @@
+{
+  "id": "la-casa-del-ahorcado-auvers-sur-oise-cezanne",
+  "titulo": "La casa del ahorcado, Auvers-sur-Oise",
+  "tituloOriginal": "La Maison du pendu, Auvers-sur-Oise",
+  "autor": "Paul Cézanne",
+  "fecha": "c. 1874",
+  "fechaOrden": 1874,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Cézanne.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Paul Cézanne",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q3821663",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1460,
+    1200
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_FWN_81.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7c/La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_FWN_81.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_Maison_du_pendu,_Auvers-sur-Oise,_par_Paul_C%C3%A9zanne,_FWN_81.jpg",
+    "alt": "La casa del ahorcado, Auvers-sur-Oise, Paul Cézanne",
+    "licencia": "Public domain",
+    "credito": "https://www.cezannecatalogue.com/catalogue/entry.php?id=206",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3821663",
+    "qid": "Q3821663",
+    "guia": "La Casa del Ahorcado en Auvers (Orsay)",
+    "coincidencia": 0.809,
+    "importada": "2026-07-28"
+  }
+}

@@ -14,7 +14,7 @@ La aplicación está publicada mediante GitHub Pages y construida con Svelte 5, 
 - Carga progresiva al hacer *scroll*.
 - Barra superior fija con búsqueda desplegable, filtros combinables por tipo, periodo y artista, orden y acceso a **Acerca de**.
 - Búsqueda por título, autor, fecha, técnica, tipo, periodo y etiquetas.
-- Filtros por tipo y periodo; orden aleatorio, cronológico o alfabético.
+- Filtros por tipo, periodo y artista; orden aleatorio, cronológico o alfabético.
 - Modos claro, oscuro y automático.
 - Ficha ampliada, navegación entre obras y visor inmersivo con rueda, pellizco, zoom y arrastre.
 - Ventana editorial sobre el proyecto con enlaces al porfolio del autor y al repositorio público.

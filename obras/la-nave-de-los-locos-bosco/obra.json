@@ -1,0 +1,50 @@
+{
+  "id": "la-nave-de-los-locos-bosco",
+  "titulo": "La nave de los locos",
+  "tituloOriginal": "Ship of Fools",
+  "autor": "El Bosco",
+  "fecha": "c. 1500",
+  "fechaOrden": 1500,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Pintura de El Bosco.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "El Bosco",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Francia",
+    "Pintura",
+    "Wikidata Q405814",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1540,
+    2874
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jheronimus_Bosch_011.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Jheronimus_Bosch_011.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jheronimus_Bosch_011.jpg",
+    "alt": "La nave de los locos, El Bosco",
+    "licencia": "Public domain",
+    "credito": "http://www.hetnoordbrabantsmuseum.nl/english/press-jheronimus-bosch/persbeelden-eng/ Previously: www.arthistory.cc : Home : Info : Pic",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q405814",
+    "qid": "Q405814",
+    "guia": "La Nave de los Locos (Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "la-trinidad-greco",
+  "titulo": "La Trinidad",
+  "tituloOriginal": "The Holy Trinity",
+  "autor": "El Greco",
+  "fecha": "c. 1577",
+  "fechaOrden": 1577,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "Cuadro de El Greco.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Manierismo",
+    "Renacimiento y Manierismo",
+    "España",
+    "Pintura",
+    "Wikidata Q6553555",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1759,
+    3051
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/La_Trinidad_%28El_Greco%2C_1577-1579%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/fe/La_Trinidad_%28El_Greco%2C_1577-1579%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_Trinidad_(El_Greco,_1577-1579).jpg",
+    "alt": "La Trinidad, El Greco",
+    "licencia": "Public domain",
+    "credito": "[2]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6553555",
+    "qid": "Q6553555",
+    "guia": "La Trinidad (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

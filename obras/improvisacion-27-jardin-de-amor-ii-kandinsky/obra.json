@@ -1,0 +1,51 @@
+{
+  "id": "improvisacion-27-jardin-de-amor-ii-kandinsky",
+  "titulo": "Improvisación 27 (Jardín de amor II)",
+  "tituloOriginal": "Improvisation 27 (Garden of Love II)",
+  "autor": "Vasili Kandinsky",
+  "fecha": "c. 1912",
+  "fechaOrden": 1912,
+  "tipo": "Pintura",
+  "periodo": "Abstracción",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Cuadro de Vasily Kandinsky.",
+  "localizacion": "Museo Metropolitano de Arte",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Metropolitano%20de%20Arte%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Vasili Kandinsky",
+    "Abstracción",
+    "Abstracción y diseño moderno",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q19919146",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3907,
+    3338
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Improvisation_27_%28Garden_of_Love_II%29_MET_DP236124.jpg/1920px-Improvisation_27_%28Garden_of_Love_II%29_MET_DP236124.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Improvisation_27_%28Garden_of_Love_II%29_MET_DP236124.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Improvisation_27_(Garden_of_Love_II)_MET_DP236124.jpg",
+    "alt": "Improvisación 27 (Jardín de amor II), Vasili Kandinsky",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19919146",
+    "qid": "Q19919146",
+    "guia": "Improvisación 27 / Jardín del Amor II (MET)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

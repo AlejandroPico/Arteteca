@@ -1,0 +1,51 @@
+{
+  "id": "tarde-de-domingo-en-la-isla-de-la-grande-jatte-seurat",
+  "titulo": "Tarde de domingo en la isla de la Grande Jatte",
+  "tituloOriginal": "A Sunday Afternoon on the Island of La Grande Jatte",
+  "autor": "Georges Seurat",
+  "fecha": "c. 1884",
+  "fechaOrden": 1884,
+  "tipo": "Pintura",
+  "periodo": "Neoimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Georges Seurat.",
+  "localizacion": "Instituto de Arte de Chicago",
+  "ciudad": "Chicago",
+  "urlLocalizacion": "https://www.artic.edu",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Instituto%20de%20Arte%20de%20Chicago%2C%20Chicago",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Georges Seurat",
+    "Neoimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q1044742",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    20000,
+    13313
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/1920px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg",
+    "alt": "Tarde de domingo en la isla de la Grande Jatte, Georges Seurat",
+    "licencia": "Public domain",
+    "credito": "https://www.bostonglobe.com/arts/theater-dance/2016/09/01/huntington-two-georges-one-sondheim/OR1D4DPM8GsME67aXEjWiP/story.html",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1044742",
+    "qid": "Q1044742",
+    "guia": "Tarde de Domingo en la Isla de la Grande Jatte (Art Institute of Chicago)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

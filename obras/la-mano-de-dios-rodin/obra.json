@@ -1,0 +1,50 @@
+{
+  "id": "la-mano-de-dios-rodin",
+  "titulo": "La Mano de Dios",
+  "tituloOriginal": "The hand of God",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1895",
+  "fechaOrden": 1895,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Auguste Rodin.",
+  "localizacion": "Museo Nacional de Bellas Artes",
+  "ciudad": "Buenos Aires",
+  "urlLocalizacion": "https://www.bellasartes.gob.ar/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Bellas%20Artes%2C%20Buenos%20Aires",
+  "pais": "Argentina",
+  "tecnicas": [
+    "bronce"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Argentina",
+    "Escultura",
+    "Wikidata Q26744344",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1500,
+    1000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Main_de_Dieu_-_Auguste_Rodin.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Main_de_Dieu_-_Auguste_Rodin.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Main_de_Dieu_-_Auguste_Rodin.jpg",
+    "alt": "La Mano de Dios, Auguste Rodin",
+    "licencia": "Public domain",
+    "credito": "MNBA logo This file, part of the Collection of the Fine Arts Museum, was provided to Wikimedia Commons thanks to an agreement between the Museo Nacional de Bellas Artes and Wikimedia Argentina .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26744344",
+    "qid": "Q26744344",
+    "guia": "La Mano de Dios (Musée Rodin)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

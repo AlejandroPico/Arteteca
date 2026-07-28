@@ -1,0 +1,97 @@
+{
+  "id": "historias-de-lucrecia-botticelli",
+  "titulo": "Historias de Lucrecia",
+  "tituloOriginal": "The Story of Lucretia",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1500",
+  "fechaOrden": 1500,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento italiano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Sandro Botticelli.",
+  "localizacion": "museo Isabella Stewart Gardner",
+  "ciudad": "Boston",
+  "urlLocalizacion": "https://www.gardnermuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=museo%20Isabella%20Stewart%20Gardner%2C%20Boston",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "témpera",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Estados Unidos",
+    "Guía maestra 2026",
+    "Pintura",
+    "Renacimiento",
+    "Renacimiento italiano",
+    "Sandro Botticelli",
+    "tabla",
+    "témpera",
+    "Wikidata Q1115514"
+  ],
+  "proporcion": [
+    4244,
+    2000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg/1920px-Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg",
+    "alt": "Historias de Lucrecia, Sandro Botticelli",
+    "licencia": "Public domain",
+    "credito": "Isabella Stewart Gardner Museum",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg/1920px-Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1115514",
+    "qid": "Q1115514",
+    "guia": "Historia de Lucrecia",
+    "coincidencia": 0.909,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Historias de Lucrecia** se incorpora al mosaico como pintura de **Sandro Botticelli**. Cuadro de Sandro Botticelli.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Sandro Botticelli\n- **Datación registrada:** c. 1500\n- **Periodo de navegación:** Renacimiento italiano\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** museo Isabella Stewart Gardner\n- **Lugar asociado:** Boston\n- **País asociado a la colección:** Estados Unidos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Historia de Lucrecia». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q1115514** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** témpera, tabla\n- **Dimensiones de la obra:** 180 cm × 84 cm\n- **Archivo digital:** 4244 × 2000 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Sandro Botticelli** y del **Renacimiento italiano** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q1115514)](https://www.wikidata.org/wiki/Q1115514)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg)\n- [Colección o institución asociada](https://www.gardnermuseum.org/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

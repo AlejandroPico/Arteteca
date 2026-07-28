@@ -1,0 +1,50 @@
+{
+  "id": "el-principe-baltasar-carlos-a-caballo-velazquez",
+  "titulo": "El príncipe Baltasar Carlos a caballo",
+  "tituloOriginal": "Equestrian Portrait of Prince Balthasar Charles",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1634",
+  "fechaOrden": 1634,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Diego Velázquez.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Barroco",
+    "España",
+    "Pintura",
+    "Wikidata Q1133881",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2532,
+    3051
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vel%C3%A1zquez_-_Pr%C3%ADncipe_Baltasar_Carlos_%28Museo_del_Prado%2C_1634-35%29.jpg/1920px-Vel%C3%A1zquez_-_Pr%C3%ADncipe_Baltasar_Carlos_%28Museo_del_Prado%2C_1634-35%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vel%C3%A1zquez_-_Pr%C3%ADncipe_Baltasar_Carlos_%28Museo_del_Prado%2C_1634-35%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vel%C3%A1zquez_-_Pr%C3%ADncipe_Baltasar_Carlos_(Museo_del_Prado,_1634-35).jpg",
+    "alt": "El príncipe Baltasar Carlos a caballo, Diego Velázquez",
+    "licencia": "Public domain",
+    "credito": "Museo del Prado, Madrid",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1133881",
+    "qid": "Q1133881",
+    "guia": "Retrato del Infante Baltasar Carlos a Caballo (Prado)",
+    "coincidencia": 0.725,
+    "importada": "2026-07-28"
+  }
+}

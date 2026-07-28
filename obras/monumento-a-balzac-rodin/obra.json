@@ -1,0 +1,50 @@
+{
+  "id": "monumento-a-balzac-rodin",
+  "titulo": "Monumento a Balzac",
+  "tituloOriginal": "Monument to Balzac",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1890",
+  "fechaOrden": 1890,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Auguste Rodin.",
+  "localizacion": "Museo de Arte Moderno",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.moma.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Moderno%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "bronce"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Escultura",
+    "Wikidata Q2770535",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4000,
+    6000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Balzac_door_Auguste_Rodin.jpg/1920px-Balzac_door_Auguste_Rodin.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/10/Balzac_door_Auguste_Rodin.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Balzac_door_Auguste_Rodin.jpg",
+    "alt": "Monumento a Balzac, Auguste Rodin",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2770535",
+    "qid": "Q2770535",
+    "guia": "Monumento a Balzac (París)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

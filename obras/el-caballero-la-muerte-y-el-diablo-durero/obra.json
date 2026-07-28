@@ -1,0 +1,51 @@
+{
+  "id": "el-caballero-la-muerte-y-el-diablo-durero",
+  "titulo": "El caballero, la muerte y el diablo",
+  "tituloOriginal": "Knight, Death, and the Devil",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1513",
+  "fechaOrden": 1513,
+  "tipo": "Grabado",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Grabado de Alberto Durero.",
+  "localizacion": "Galería Nacional de Arte",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "http://www.nga.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Nacional%20de%20Arte%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "papel verjurado",
+    "grabado en cobre"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Estados Unidos",
+    "Grabado",
+    "Wikidata Q1755464",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3087,
+    4000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg/1920px-Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Knight,_Death_and_Devil,_1513,_NGA_6637.jpg",
+    "alt": "El caballero, la muerte y el diablo, Alberto Durero",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the National Gallery of Art . Please see the Gallery's Open Access Policy .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1755464",
+    "qid": "Q1755464",
+    "guia": "El Caballero, la Muerte y el Diablo (Grabado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "la-boda-campesina-viejo",
+  "titulo": "La boda campesina",
+  "tituloOriginal": "The Peasant Wedding",
+  "autor": "Pieter Brueghel el Viejo",
+  "fecha": "c. 1567",
+  "fechaOrden": 1567,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Pieter Brueghel el Viejo.",
+  "localizacion": "Museo de Historia del Arte de Viena",
+  "ciudad": "Innere Stadt",
+  "urlLocalizacion": "https://www.khm.at/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Historia%20del%20Arte%20de%20Viena%2C%20Innere%20Stadt",
+  "pais": "Austria",
+  "tecnicas": [
+    "óleo",
+    "panel de roble"
+  ],
+  "etiquetas": [
+    "Pieter Brueghel el Viejo",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Austria",
+    "Pintura",
+    "Wikidata Q603751",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    7681,
+    5311
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg/1920px-Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/af/Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg",
+    "alt": "La boda campesina, Pieter Brueghel el Viejo",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — hgGvote2WI8P3w",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q603751",
+    "qid": "Q603751",
+    "guia": "Boda Campesina (Viena)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

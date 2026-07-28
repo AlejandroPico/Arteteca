@@ -1,0 +1,50 @@
+{
+  "id": "afrodita-de-cnido-praxiteles",
+  "titulo": "Afrodita de Cnido",
+  "tituloOriginal": "Aphrodite of Knidos",
+  "autor": "Praxíteles",
+  "fecha": "c. 300 a. C.",
+  "fechaOrden": -300,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica tardía",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Escultura de Praxíteles.",
+  "localizacion": "Cnido",
+  "ciudad": "Provincia de Muğla",
+  "urlLocalizacion": "http://www.muze.gov.tr/knidos-en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cnido%2C%20Provincia%20de%20Mu%C4%9Fla",
+  "pais": "Turquía",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Praxíteles",
+    "Grecia clásica tardía",
+    "Grecia y Roma",
+    "Turquía",
+    "Escultura",
+    "Wikidata Q618535",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1550,
+    3625
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cnidus_Aphrodite_Altemps_Inv8619.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cnidus_Aphrodite_Altemps_Inv8619.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cnidus_Aphrodite_Altemps_Inv8619.jpg",
+    "alt": "Afrodita de Cnido, Praxíteles",
+    "licencia": "Public domain",
+    "credito": "Marie-Lan Nguyen (September 2009)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q618535",
+    "qid": "Q618535",
+    "guia": "Afrodita de Cnido",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

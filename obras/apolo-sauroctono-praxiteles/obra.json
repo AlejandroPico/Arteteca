@@ -1,0 +1,46 @@
+{
+  "id": "apolo-sauroctono-praxiteles",
+  "titulo": "Apolo Sauróctono",
+  "tituloOriginal": "Apollo Sauroctonos",
+  "autor": "Praxíteles",
+  "fecha": "c. 350 a. C.",
+  "fechaOrden": -350,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica tardía",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Artistic type.",
+  "pais": "Grecia",
+  "tecnicas": [
+    "mármol de Paros"
+  ],
+  "etiquetas": [
+    "Praxíteles",
+    "Grecia clásica tardía",
+    "Grecia y Roma",
+    "Grecia",
+    "Escultura",
+    "Wikidata Q619265",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    329,
+    600
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Apollo_Saurocton_Louvre.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/22/Apollo_Saurocton_Louvre.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Apollo_Saurocton_Louvre.jpg",
+    "alt": "Apolo Sauróctono, Praxíteles",
+    "licencia": "Public domain",
+    "credito": "Baldiri (10-04-2005)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q619265",
+    "qid": "Q619265",
+    "guia": "Apolo Sauróctono (Apolo matando al lagarto)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

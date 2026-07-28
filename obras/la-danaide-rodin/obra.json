@@ -1,0 +1,51 @@
+{
+  "id": "la-danaide-rodin",
+  "titulo": "La danaide",
+  "tituloOriginal": "Danaid",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1889",
+  "fechaOrden": 1889,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura hecha por Auguste Rodin.",
+  "localizacion": "Galería Nacional de Finlandia",
+  "ciudad": "Helsinki",
+  "urlLocalizacion": "http://www.fng.fi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Nacional%20de%20Finlandia%2C%20Helsinki",
+  "pais": "Finlandia",
+  "tecnicas": [
+    "mármol",
+    "bronce"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Finlandia",
+    "Escultura",
+    "Wikidata Q11855751",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2560,
+    1920
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ny_Carlsberg_Glyptothek_-_Rodin_-_Danaide.jpg/1920px-Ny_Carlsberg_Glyptothek_-_Rodin_-_Danaide.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ny_Carlsberg_Glyptothek_-_Rodin_-_Danaide.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ny_Carlsberg_Glyptothek_-_Rodin_-_Danaide.jpg",
+    "alt": "La danaide, Auguste Rodin",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11855751",
+    "qid": "Q11855751",
+    "guia": "La Danaide (Musée d'Orsay)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

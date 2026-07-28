@@ -1,0 +1,87 @@
+{
+  "id": "baco-ariadna",
+  "titulo": "Baco y Ariadna",
+  "autor": "Tiziano Vecellio",
+  "fecha": "1520–1523",
+  "fechaOrden": 1520,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Baco salta de su carro hacia Ariadna mientras una procesión báquica atraviesa un paisaje de azul intenso y cuerpos en torsión.",
+  "localizacion": "National Gallery",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "Pintura",
+    "Reino Unido",
+    "Renacimiento italiano",
+    "Renacimiento veneciano",
+    "Tiziano Vecellio",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    191,
+    176
+  ],
+  "color": "#7c493c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20Bacchus%20and%20Ariadne.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20Bacchus%20and%20Ariadne.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Titian%20Bacchus%20and%20Ariadne.jpg",
+    "alt": "Baco y Ariadna, de Tiziano Vecellio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Tiziano Vecellio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20Bacchus%20and%20Ariadne.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20Bacchus%20and%20Ariadne.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nBaco salta de su carro hacia Ariadna mientras una procesión báquica atraviesa un paisaje de azul intenso y cuerpos en torsión.\n\n## Una pista visual\n\nLa diagonal entre Ariadna y Baco detiene el tumulto; arriba, la corona estelar anuncia la transformación del abandono.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nFormó parte del ciclo mitológico para el camerino de alabastro de Alfonso I d’Este en Ferrara.\n\n**Autor:** Tiziano Vecellio  \n**Fecha:** 1520–1523  \n**Marco:** Renacimiento veneciano  \n**Conservación actual:** National Gallery, Londres.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Óleo sobre lienzo**. Su formato aproximado, expresado como relación entre ancho y alto, es **191:176**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nConvirtió mito, movimiento y color veneciano en una de las narraciones más enérgicas del Renacimiento.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Tiziano Vecellio con otras obras de **Renacimiento veneciano**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Titian%20Bacchus%20and%20Ariadne.jpg)\n- [Sitio oficial de National Gallery](https://www.nationalgallery.org.uk/)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=National%20Gallery%2C%20Londres)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

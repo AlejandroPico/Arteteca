@@ -1,0 +1,50 @@
+{
+  "id": "la-adoracion-de-los-magos-rubens",
+  "titulo": "La Adoración de los Magos",
+  "tituloOriginal": "Adoration of the Magi",
+  "autor": "Peter Paul Rubens",
+  "fecha": "c. 1624",
+  "fechaOrden": 1624,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Peter Paul Rubens.",
+  "localizacion": "Museo Real de Bellas Artes de Amberes",
+  "ciudad": "Amberes",
+  "urlLocalizacion": "https://www.kmska.be",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Real%20de%20Bellas%20Artes%20de%20Amberes%2C%20Amberes",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Peter Paul Rubens",
+    "Barroco",
+    "Bélgica",
+    "Pintura",
+    "Wikidata Q5861089",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5208,
+    7052
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Peter_Paul_Rubens_-_Adoration_of_the_Magi_%28KMSKA%29.jpg/1920px-Peter_Paul_Rubens_-_Adoration_of_the_Magi_%28KMSKA%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/95/Peter_Paul_Rubens_-_Adoration_of_the_Magi_%28KMSKA%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Adoration_of_the_Magi_(KMSKA).jpg",
+    "alt": "La Adoración de los Magos, Peter Paul Rubens",
+    "licencia": "CC0",
+    "credito": "Royal Museum of Fine Arts Antwerp",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5861089",
+    "qid": "Q5861089",
+    "guia": "La Adoración de los Magos (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

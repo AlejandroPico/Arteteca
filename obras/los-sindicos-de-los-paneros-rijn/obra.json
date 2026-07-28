@@ -1,0 +1,50 @@
+{
+  "id": "los-sindicos-de-los-paneros-rijn",
+  "titulo": "Los síndicos de los pañeros",
+  "tituloOriginal": "Syndics of the Drapers' Guild",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "c. 1662",
+  "fechaOrden": 1662,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Rembrandt.",
+  "localizacion": "Rijksmuseum",
+  "ciudad": "Amsterdam",
+  "urlLocalizacion": "https://www.rijksmuseum.nl/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Rijksmuseum%2C%20Amsterdam",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Rembrandt van Rijn",
+    "Barroco",
+    "Países Bajos",
+    "Pintura",
+    "Wikidata Q1170480",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5918,
+    4000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_%28waardijns%29_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg/1920px-Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_%28waardijns%29_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/95/Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_%28waardijns%29_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_(waardijns)_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg",
+    "alt": "Los síndicos de los pañeros, Rembrandt van Rijn",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — ZgHt6DZhk-6SVw",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1170480",
+    "qid": "Q1170480",
+    "guia": "Los Síndicos de los Gremios de Pañeros (Rijksmuseum)",
+    "coincidencia": 0.789,
+    "importada": "2026-07-28"
+  }
+}

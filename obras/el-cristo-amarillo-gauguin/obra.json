@@ -1,0 +1,51 @@
+{
+  "id": "el-cristo-amarillo-gauguin",
+  "titulo": "El Cristo amarillo",
+  "tituloOriginal": "The Yellow Christ",
+  "autor": "Paul Gauguin",
+  "fecha": "c. 1889",
+  "fechaOrden": 1889,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Gauguin.",
+  "localizacion": "Museo Albright-Knox",
+  "ciudad": "Búfalo",
+  "urlLocalizacion": "http://www.albrightknox.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Albright-Knox%2C%20B%C3%BAfalo",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Paul Gauguin",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q500951",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3152,
+    3965
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Paul_Gauguin_-_The_Yellow_Christ_%28Le_Christ_jaune%29_1889.jpg/1920px-Paul_Gauguin_-_The_Yellow_Christ_%28Le_Christ_jaune%29_1889.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/54/Paul_Gauguin_-_The_Yellow_Christ_%28Le_Christ_jaune%29_1889.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_-_The_Yellow_Christ_(Le_Christ_jaune)_1889.jpg",
+    "alt": "El Cristo amarillo, Paul Gauguin",
+    "licencia": "Public domain",
+    "credito": "Buffalo AKG Art Museum",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q500951",
+    "qid": "Q500951",
+    "guia": "El Cristo Amarillo (Albright-Knox Art Gallery, Buffalo)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

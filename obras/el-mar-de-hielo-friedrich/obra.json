@@ -1,0 +1,51 @@
+{
+  "id": "el-mar-de-hielo-friedrich",
+  "titulo": "El mar de hielo",
+  "tituloOriginal": "The Sea of Ice",
+  "autor": "Caspar David Friedrich",
+  "fecha": "c. 1823",
+  "fechaOrden": 1823,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Pintura de Caspar David Friedrich.",
+  "localizacion": "Kunsthalle de Hamburgo",
+  "ciudad": "Hamburg-Mitte",
+  "urlLocalizacion": "https://www.hamburger-kunsthalle.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunsthalle%20de%20Hamburgo%2C%20Hamburg-Mitte",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Caspar David Friedrich",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q194137",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2048,
+    1552
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Friedrich%2C_Caspar_David_-_Eismeer.jpg/1920px-Friedrich%2C_Caspar_David_-_Eismeer.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/77/Friedrich%2C_Caspar_David_-_Eismeer.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Friedrich,_Caspar_David_-_Eismeer.jpg",
+    "alt": "El mar de hielo, Caspar David Friedrich",
+    "licencia": "Public domain",
+    "credito": "https://online-sammlung.hamburger-kunsthalle.de/de/objekt/HK-1051",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q194137",
+    "qid": "Q194137",
+    "guia": "El Mar de Hielo / El Naufragio de la Esperanza (Hamburgo)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "la-coronacion-de-napoleon-david",
+  "titulo": "La coronación de Napoleón",
+  "tituloOriginal": "The Coronation of Napoleon",
+  "autor": "Jacques-Louis David",
+  "fecha": "c. 1807",
+  "fechaOrden": 1807,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Jacques-Louis David.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jacques-Louis David",
+    "Neoclasicismo",
+    "De la Ilustración al Romanticismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q1231009",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    11058,
+    6874
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Le_Sacre_de_Napol%C3%A9on_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3699_%3B_MR_1437.jpg/1920px-Le_Sacre_de_Napol%C3%A9on_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3699_%3B_MR_1437.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Le_Sacre_de_Napol%C3%A9on_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3699_%3B_MR_1437.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Le_Sacre_de_Napol%C3%A9on_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3699_;_MR_1437.jpg",
+    "alt": "La coronación de Napoleón, Jacques-Louis David",
+    "licencia": "Public domain",
+    "credito": "photo Shonagon 2025-05-28",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1231009",
+    "qid": "Q1231009",
+    "guia": "La Coronación de Napoleón (Museo del Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

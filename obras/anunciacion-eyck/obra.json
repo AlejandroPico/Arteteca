@@ -1,0 +1,51 @@
+{
+  "id": "anunciacion-eyck",
+  "titulo": "Anunciación",
+  "tituloOriginal": "Annunciation",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1440",
+  "fechaOrden": 1440,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Óleo sobre tabla de Jan van Eyck, conservado en el Museo Thyssen-Bornemisza de Madrid.",
+  "localizacion": "Museo Nacional Thyssen-Bornemisza",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museothyssen.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20Thyssen-Bornemisza%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Jan van Eyck",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "España",
+    "Pintura",
+    "Wikidata Q2516599",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5911,
+    4802
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jan_van_Eyck%2C_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg/1920px-Jan_van_Eyck%2C_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jan_van_Eyck%2C_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_van_Eyck,_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg",
+    "alt": "Anunciación, Jan van Eyck",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — pAEtGeYidzZQPA",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2516599",
+    "qid": "Q2516599",
+    "guia": "La Anunciación (National Gallery, Washington)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

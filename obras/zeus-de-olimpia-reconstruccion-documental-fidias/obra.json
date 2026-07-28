@@ -1,0 +1,53 @@
+{
+  "id": "zeus-de-olimpia-reconstruccion-documental-fidias",
+  "titulo": "Zeus de Olimpia (reconstrucción documental)",
+  "tituloOriginal": "Statue of Zeus at Olympia",
+  "autor": "Fidias",
+  "fecha": "c. 430 a. C.",
+  "fechaOrden": -430,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Estatua gigante de Zeus hecho de oro y marfil ubicado en Olimpia, Grecia y una de las siete maravillas del mundo antiguo.",
+  "localizacion": "Templo de Zeus Olímpico",
+  "ciudad": "municipio de la Antigua Olimpia",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q197019",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Templo%20de%20Zeus%20Ol%C3%ADmpico%2C%20municipio%20de%20la%20Antigua%20Olimpia",
+  "pais": "Grecia",
+  "tecnicas": [
+    "marfil",
+    "oro",
+    "ébano",
+    "madera"
+  ],
+  "etiquetas": [
+    "Fidias",
+    "Grecia clásica",
+    "Grecia y Roma",
+    "Grecia",
+    "Escultura",
+    "Wikidata Q46239",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    684,
+    866
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/66/Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg",
+    "alt": "Zeus de Olimpia (reconstrucción documental), Fidias",
+    "licencia": "Public domain",
+    "credito": "Kansalliskirjasto",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q46239",
+    "qid": "Q46239",
+    "guia": "Estatua de Zeus en Olimpia (Una de las Siete Maravillas del Mundo Antiguo)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

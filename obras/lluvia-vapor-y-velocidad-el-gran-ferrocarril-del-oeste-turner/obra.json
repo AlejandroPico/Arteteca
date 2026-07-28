@@ -1,0 +1,51 @@
+{
+  "id": "lluvia-vapor-y-velocidad-el-gran-ferrocarril-del-oeste-turner",
+  "titulo": "Lluvia, vapor y velocidad. El gran ferrocarril del Oeste",
+  "tituloOriginal": "Rain, Steam and Speed – The Great Western Railway",
+  "autor": "J. M. W. Turner",
+  "fecha": "c. 1843",
+  "fechaOrden": 1843,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Pintura de Joseph Mallord William Turner (1844).",
+  "localizacion": "National Gallery de Londres",
+  "ciudad": "Ciudad de Westminster",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20de%20Londres%2C%20Ciudad%20de%20Westminster",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "J. M. W. Turner",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q2339059",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5661,
+    4226
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg/1920px-Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/96/Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Turner_-_Rain,_Steam_and_Speed_-_National_Gallery_file.jpg",
+    "alt": "Lluvia, vapor y velocidad. El gran ferrocarril del Oeste, J. M. W. Turner",
+    "licencia": "Public domain",
+    "credito": "National Gallery, London",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2339059",
+    "qid": "Q2339059",
+    "guia": "Lluvia, Vapor y Velocidad: El Gran Ferrocarril del Oeste (National Gallery)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

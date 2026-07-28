@@ -1,0 +1,51 @@
+{
+  "id": "la-edad-de-bronce-rodin",
+  "titulo": "La edad de bronce",
+  "tituloOriginal": "The Age of Bronze",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1877",
+  "fechaOrden": 1877,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Auguste Rodin.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "bronce",
+    "pátina"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Escultura",
+    "Wikidata Q526178",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4935,
+    7723
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bemberg_Fondation_Toulouse_-_L%27Age_d%27Airain_-_Auguste_Rodin_%281875-1876%29_Inv.3084_Bronze_%C3%A0_patine_brune.jpg/1920px-Bemberg_Fondation_Toulouse_-_L%27Age_d%27Airain_-_Auguste_Rodin_%281875-1876%29_Inv.3084_Bronze_%C3%A0_patine_brune.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bemberg_Fondation_Toulouse_-_L%27Age_d%27Airain_-_Auguste_Rodin_%281875-1876%29_Inv.3084_Bronze_%C3%A0_patine_brune.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bemberg_Fondation_Toulouse_-_L%27Age_d%27Airain_-_Auguste_Rodin_(1875-1876)_Inv.3084_Bronze_%C3%A0_patine_brune.jpg",
+    "alt": "La edad de bronce, Auguste Rodin",
+    "licencia": "Public domain",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q526178",
+    "qid": "Q526178",
+    "guia": "La Edad de Bronce (Musée d'Orsay)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "santa-maria-novella-crucifix-by-giotto-giotto",
+  "titulo": "Crucifijo de Santa Maria Novella",
+  "autor": "Giotto",
+  "fecha": "c. 1290",
+  "fechaOrden": 1290,
+  "tipo": "Pintura",
+  "periodo": "Protorrenacimiento",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Crucifijo pintado por Giotto para Santa Maria Novella, en Florencia.",
+  "localizacion": "iglesia de Santa María Novella",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.smn.it",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=iglesia%20de%20Santa%20Mar%C3%ADa%20Novella%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "témpera",
+    "madera"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Escultura",
+    "Giotto",
+    "Guía maestra 2026",
+    "Italia",
+    "madera",
+    "Pintura",
+    "Protorrenacimiento",
+    "témpera",
+    "Wikidata Q3005520"
+  ],
+  "proporcion": [
+    3855,
+    5080
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg/1920px-Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Giotto._the-crucifix-1290-1300_Florence,_Santa_Maria_Novella.jpg",
+    "alt": "Crucifijo de Santa Maria Novella, Giotto",
+    "licencia": "Public domain",
+    "credito": "http://www.aiwaz.net/panopticon/giotto-di-bondone/gc20",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg/1920px-Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3005520",
+    "qid": "Q3005520",
+    "guia": "Crucifijo de Santa Maria Novella",
+    "coincidencia": 0.738,
+    "importada": "2026-07-28"
+  },
+  "tituloOriginal": "Santa Maria Novella Crucifix by Giotto",
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Crucifijo de Santa Maria Novella** se incorpora al mosaico como pintura de **Giotto**. Crucifijo pintado por Giotto para Santa Maria Novella, en Florencia.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Giotto\n- **Datación registrada:** c. 1290\n- **Periodo de navegación:** Protorrenacimiento\n- **Colección temática:** Arte medieval y religioso\n- **Colección o ubicación:** iglesia de Santa María Novella\n- **Lugar asociado:** Florencia\n- **País asociado a la colección:** Italia\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Crucifijo de Santa Maria Novella». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q3005520** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** témpera, madera\n- **Dimensiones de la obra:** 406 cm × 578 cm\n- **Archivo digital:** 3855 × 5080 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Giotto** y del **Protorrenacimiento** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q3005520)](https://www.wikidata.org/wiki/Q3005520)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giotto._the-crucifix-1290-1300_Florence,_Santa_Maria_Novella.jpg)\n- [Colección o institución asociada](https://www.smn.it)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

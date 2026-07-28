@@ -1,0 +1,50 @@
+{
+  "id": "la-decapitacion-de-san-juan-bautista-caravaggio",
+  "titulo": "La decapitación de San Juan Bautista",
+  "tituloOriginal": "The Beheading of Saint John the Baptist",
+  "autor": "Caravaggio",
+  "fecha": "c. 1608",
+  "fechaOrden": 1608,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Caravaggio.",
+  "localizacion": "Concatedral de San Juan",
+  "ciudad": "La Valeta",
+  "urlLocalizacion": "http://www.stjohnscocathedral.com/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Concatedral%20de%20San%20Juan%2C%20La%20Valeta",
+  "pais": "Malta",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco",
+    "Malta",
+    "Pintura",
+    "Wikidata Q2727560",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1772,
+    1225
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/La_decapitaci%C3%B3n_de_San_Juan_Bautista%2C_por_Caravaggio.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b2/La_decapitaci%C3%B3n_de_San_Juan_Bautista%2C_por_Caravaggio.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_decapitaci%C3%B3n_de_San_Juan_Bautista,_por_Caravaggio.jpg",
+    "alt": "La decapitación de San Juan Bautista, Caravaggio",
+    "licencia": "Public domain",
+    "credito": "St John’s Co-Cathedral",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2727560",
+    "qid": "Q2727560",
+    "guia": "La Decapitación de San Juan Bautista (Catedral de San Juan, La Valeta)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "la-caida-de-los-condenados-rubens",
+  "titulo": "La Caída de los Condenados",
+  "tituloOriginal": "The Fall of the Damned",
+  "autor": "Peter Paul Rubens",
+  "fecha": "c. 1621",
+  "fechaOrden": 1621,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Peter Paul Rubens.",
+  "localizacion": "Colecciones de Pinturas del Estado de Baviera",
+  "ciudad": "Múnich",
+  "urlLocalizacion": "http://www.pinakothek.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecciones%20de%20Pinturas%20del%20Estado%20de%20Baviera%2C%20M%C3%BAnich",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Peter Paul Rubens",
+    "Barroco",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q203259",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2920,
+    3750
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Peter_Paul_Rubens_-_Fall_of_the_damned.jpg/1920px-Peter_Paul_Rubens_-_Fall_of_the_damned.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/12/Peter_Paul_Rubens_-_Fall_of_the_damned.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Fall_of_the_damned.jpg",
+    "alt": "La Caída de los Condenados, Peter Paul Rubens",
+    "licencia": "Public domain",
+    "credito": "https://www.sammlung.pinakothek.de/de/artwork/7yxYmWNxYm",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q203259",
+    "qid": "Q203259",
+    "guia": "La Caída de los Condenados (Múnich)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

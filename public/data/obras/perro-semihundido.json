@@ -1,0 +1,87 @@
+{
+  "id": "perro-semihundido",
+  "titulo": "El perro semihundido",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1820–1823",
+  "fechaOrden": 1820,
+  "tipo": "Pintura",
+  "periodo": "Pinturas negras",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Una pequeña cabeza de perro asoma tras una gran pendiente o masa indeterminada, rodeada por un espacio casi vacío.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Técnica mixta trasladada de revoco a lienzo"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "De la Ilustración al Romanticismo",
+    "España",
+    "Francisco de Goya",
+    "Pintura",
+    "Pinturas negras",
+    "Técnica mixta trasladada de revoco a lienzo"
+  ],
+  "proporcion": [
+    80,
+    132
+  ],
+  "color": "#595247",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Goya%20Dog.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Goya%20Dog.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Goya%20Dog.jpg",
+    "alt": "El perro semihundido, de Francisco de Goya",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Francisco de Goya · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Goya%20Dog.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Goya%20Dog.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nUna pequeña cabeza de perro asoma tras una gran pendiente o masa indeterminada, rodeada por un espacio casi vacío.\n\n## Una pista visual\n\nLa desproporción entre la figura mínima y el campo vacío produce la emoción; no es necesario decidir qué representa la pendiente.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nComo las demás Pinturas negras, formó parte de la decoración privada de la Quinta del Sordo y su apariencia cambió con el traslado.\n\n**Autor:** Francisco de Goya  \n**Fecha:** c. 1820–1823  \n**Marco:** Pinturas negras  \n**Conservación actual:** Museo Nacional del Prado, Madrid.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Técnica mixta trasladada de revoco a lienzo**. Su formato aproximado, expresado como relación entre ancho y alto, es **80:132**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu economía extrema fue leída por generaciones posteriores como sorprendentemente moderna y existencial.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Francisco de Goya con otras obras de **Pinturas negras**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Goya%20Dog.jpg)\n- [Sitio oficial de Museo Nacional del Prado](https://www.museodelprado.es/)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

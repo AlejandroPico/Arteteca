@@ -1,0 +1,50 @@
+{
+  "id": "narciso-caravaggio",
+  "titulo": "Narciso",
+  "tituloOriginal": "Narcissuss",
+  "autor": "Caravaggio",
+  "fecha": "c. 1597",
+  "fechaOrden": 1597,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Caravaggio.",
+  "localizacion": "Galería Nacional de Arte Antiguo",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://www.barberinicorsini.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Nacional%20de%20Arte%20Antiguo%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco",
+    "Italia",
+    "Pintura",
+    "Wikidata Q746716",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4443,
+    5209
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caravaggio_-_Narciso_%281597-1599%29.jpg/1920px-Caravaggio_-_Narciso_%281597-1599%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/66/Caravaggio_-_Narciso_%281597-1599%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Narciso_(1597-1599).jpg",
+    "alt": "Narciso, Caravaggio",
+    "licencia": "Public domain",
+    "credito": "https://barberinicorsini.org/collezione/opera/?id=WE4286",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q746716",
+    "qid": "Q746716",
+    "guia": "Narciso (Galleria Nazionale, Roma)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

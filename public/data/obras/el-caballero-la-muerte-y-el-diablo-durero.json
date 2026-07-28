@@ -1,0 +1,97 @@
+{
+  "id": "el-caballero-la-muerte-y-el-diablo-durero",
+  "titulo": "El caballero, la muerte y el diablo",
+  "tituloOriginal": "Knight, Death, and the Devil",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1513",
+  "fechaOrden": 1513,
+  "tipo": "Grabado",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Grabado de Alberto Durero.",
+  "localizacion": "Galería Nacional de Arte",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "http://www.nga.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Nacional%20de%20Arte%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "papel verjurado",
+    "grabado en cobre"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Estados Unidos",
+    "Grabado",
+    "grabado en cobre",
+    "Guía maestra 2026",
+    "papel verjurado",
+    "Renacimiento",
+    "Renacimiento nórdico",
+    "Wikidata Q1755464"
+  ],
+  "proporcion": [
+    3087,
+    4000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg/1920px-Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Knight,_Death_and_Devil,_1513,_NGA_6637.jpg",
+    "alt": "El caballero, la muerte y el diablo, Alberto Durero",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the National Gallery of Art . Please see the Gallery's Open Access Policy .",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg/1920px-Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1755464",
+    "qid": "Q1755464",
+    "guia": "El Caballero, la Muerte y el Diablo (Grabado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**El caballero, la muerte y el diablo** se incorpora al mosaico como grabado de **Alberto Durero**. Grabado de Alberto Durero.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Alberto Durero\n- **Datación registrada:** c. 1513\n- **Periodo de navegación:** Renacimiento nórdico\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Galería Nacional de Arte\n- **Lugar asociado:** Washington D. C.\n- **País asociado a la colección:** Estados Unidos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «El Caballero, la Muerte y el Diablo (Grabado)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q1755464** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Grabado\n- **Materiales o técnicas consignados:** papel verjurado, grabado en cobre\n- **Dimensiones de la obra:** 19 cm × 24,8 cm\n- **Archivo digital:** 3087 × 4000 píxeles\n- **Licencia indicada en Commons:** CC0\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Alberto Durero** y del **Renacimiento nórdico** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q1755464)](https://www.wikidata.org/wiki/Q1755464)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Knight,_Death_and_Devil,_1513,_NGA_6637.jpg)\n- [Colección o institución asociada](http://www.nga.gov/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

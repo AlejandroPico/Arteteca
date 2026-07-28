@@ -1,0 +1,51 @@
+{
+  "id": "santa-maria-novella-crucifix-by-giotto-giotto",
+  "titulo": "Crucifijo de Santa Maria Novella",
+  "autor": "Giotto",
+  "fecha": "c. 1290",
+  "fechaOrden": 1290,
+  "tipo": "Pintura",
+  "periodo": "Protorrenacimiento",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Crucifijo pintado por Giotto para Santa Maria Novella, en Florencia.",
+  "localizacion": "iglesia de Santa María Novella",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.smn.it",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=iglesia%20de%20Santa%20Mar%C3%ADa%20Novella%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "témpera",
+    "madera"
+  ],
+  "etiquetas": [
+    "Giotto",
+    "Protorrenacimiento",
+    "Arte medieval y religioso",
+    "Italia",
+    "Escultura",
+    "Wikidata Q3005520",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3855,
+    5080
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg/1920px-Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Giotto._the-crucifix-1290-1300_Florence%2C_Santa_Maria_Novella.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Giotto._the-crucifix-1290-1300_Florence,_Santa_Maria_Novella.jpg",
+    "alt": "Crucifijo de Santa Maria Novella, Giotto",
+    "licencia": "Public domain",
+    "credito": "http://www.aiwaz.net/panopticon/giotto-di-bondone/gc20",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3005520",
+    "qid": "Q3005520",
+    "guia": "Crucifijo de Santa Maria Novella",
+    "coincidencia": 0.738,
+    "importada": "2026-07-28"
+  },
+  "tituloOriginal": "Santa Maria Novella Crucifix by Giotto"
+}

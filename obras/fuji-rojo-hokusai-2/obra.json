@@ -1,0 +1,48 @@
+{
+  "id": "fuji-rojo-hokusai-2",
+  "titulo": "Fuji rojo",
+  "tituloOriginal": "Fine Wind, Clear Morning",
+  "autor": "Katsushika Hokusai",
+  "fecha": "c. 1830",
+  "fechaOrden": 1830,
+  "tipo": "Grabado",
+  "periodo": "Ukiyo-e",
+  "coleccion": "Asia",
+  "descripcion": "Grabado de Katsushika Hokusai.",
+  "localizacion": "Museo de Arte de Indianápolis",
+  "ciudad": "Indianápolis",
+  "urlLocalizacion": "http://www.imamuseum.org",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20de%20Indian%C3%A1polis%2C%20Indian%C3%A1polis",
+  "pais": "Estados Unidos",
+  "tecnicas": [],
+  "etiquetas": [
+    "Katsushika Hokusai",
+    "Ukiyo-e",
+    "Asia",
+    "Estados Unidos",
+    "Grabado",
+    "Wikidata Q3565037",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5803,
+    3918
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_%28Gaif%C5%AB_kaisei%29_-_Google_Art_Project.jpg/1920px-Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_%28Gaif%C5%AB_kaisei%29_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/25/Katsushika_Hokusai_-_Fine_Wind%2C_Clear_Morning_%28Gaif%C5%AB_kaisei%29_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai_-_Fine_Wind,_Clear_Morning_(Gaif%C5%AB_kaisei)_-_Google_Art_Project.jpg",
+    "alt": "Fuji rojo, Katsushika Hokusai",
+    "licencia": "Public domain",
+    "credito": "iwHKYC1Qfk9NCg at Google Cultural Institute maximum zoom level",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3565037",
+    "qid": "Q3565037",
+    "guia": "El Monte Fuji en días claros / Fuji Rojo",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

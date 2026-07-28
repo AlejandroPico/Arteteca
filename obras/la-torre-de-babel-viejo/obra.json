@@ -1,0 +1,44 @@
+{
+  "id": "la-torre-de-babel-viejo",
+  "titulo": "La torre de Babel",
+  "tituloOriginal": "The Tower of Babel",
+  "autor": "Pieter Brueghel el Viejo",
+  "fecha": "c. 1563",
+  "fechaOrden": 1563,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Torre de de babel.",
+  "tecnicas": [
+    "óleo"
+  ],
+  "etiquetas": [
+    "Pieter Brueghel el Viejo",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Pintura",
+    "Wikidata Q699091",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    30000,
+    21952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/1920px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg",
+    "alt": "La torre de Babel, Pieter Brueghel el Viejo",
+    "licencia": "Public domain",
+    "credito": "Levels adjusted from File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project.jpg , originally from Google Art Project.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q699091",
+    "qid": "Q699091",
+    "guia": "La Torre de Babel (Kunsthistorisches Museum, Viena)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

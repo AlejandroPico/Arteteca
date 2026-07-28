@@ -1,0 +1,52 @@
+{
+  "id": "el-caracol-matisse",
+  "titulo": "El caracol",
+  "tituloOriginal": "The Snail",
+  "autor": "Henri Matisse",
+  "fecha": "c. 1953",
+  "fechaOrden": 1953,
+  "tipo": "Pintura",
+  "periodo": "Fauvismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Cuadro de Henri Matisse.",
+  "localizacion": "Tate",
+  "ciudad": "Ciudad de Westminster",
+  "urlLocalizacion": "http://www.tate.org.uk",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Tate%2C%20Ciudad%20de%20Westminster",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "gouache",
+    "papel",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Henri Matisse",
+    "Fauvismo",
+    "Surrealismo y primeras vanguardias",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q3203218",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    240,
+    240
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Matisse_-_Carra%2C_P18.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Matisse_-_Carra%2C_P18.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Matisse_-_Carra,_P18.jpg",
+    "alt": "El caracol, Henri Matisse",
+    "licencia": "Public domain",
+    "credito": "https://archive.org/details/toutloeuvrepeint0000unse",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3203218",
+    "qid": "Q3203218",
+    "guia": "El Caracol (Tate Modern, Londres)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

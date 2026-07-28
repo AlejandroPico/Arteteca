@@ -1,0 +1,51 @@
+{
+  "id": "adan-y-eva-durero",
+  "titulo": "Adán y Eva",
+  "tituloOriginal": "Adam and Eve",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1507",
+  "fechaOrden": 1507,
+  "tipo": "Grabado",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Pareja de cuadros de Durero.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "panel"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "España",
+    "Grabado",
+    "Wikidata Q351300",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2337,
+    2934
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Albrecht_D%C3%BCrer_-_Adam_and_Eve_%28Prado%29_2.jpg/1920px-Albrecht_D%C3%BCrer_-_Adam_and_Eve_%28Prado%29_2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Albrecht_D%C3%BCrer_-_Adam_and_Eve_%28Prado%29_2.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Adam_and_Eve_(Prado)_2.jpg",
+    "alt": "Adán y Eva, Alberto Durero",
+    "licencia": "Public domain",
+    "credito": "Galería online del Museo del Prado de Madrid: Adán y Eva",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q351300",
+    "qid": "Q351300",
+    "guia": "Adán y Eva (Pinturas en el Prado y Grabado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

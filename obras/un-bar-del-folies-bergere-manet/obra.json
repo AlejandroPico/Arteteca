@@ -1,0 +1,51 @@
+{
+  "id": "un-bar-del-folies-bergere-manet",
+  "titulo": "Un bar del Folies Bergère",
+  "tituloOriginal": "A Bar at the Folies-Bergère",
+  "autor": "Édouard Manet",
+  "fecha": "c. 1882",
+  "fechaOrden": 1882,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Édouard Manet.",
+  "localizacion": "Courtauld Gallery",
+  "ciudad": "Ciudad de Westminster",
+  "urlLocalizacion": "https://courtauld.ac.uk/gallery",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Courtauld%20Gallery%2C%20Ciudad%20de%20Westminster",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Édouard Manet",
+    "Realismo y modernidad",
+    "Romanticismo, Realismo e Impresionismo",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q1245354",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4330,
+    3221
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Un_bar_aux_Folies-Berg%C3%A8re_d%27E._Manet_%28Fondation_Vuitton%2C_Paris%29_%2833539037428%29.jpg/1920px-Un_bar_aux_Folies-Berg%C3%A8re_d%27E._Manet_%28Fondation_Vuitton%2C_Paris%29_%2833539037428%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/13/Un_bar_aux_Folies-Berg%C3%A8re_d%27E._Manet_%28Fondation_Vuitton%2C_Paris%29_%2833539037428%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Un_bar_aux_Folies-Berg%C3%A8re_d%27E._Manet_(Fondation_Vuitton,_Paris)_(33539037428).jpg",
+    "alt": "Un bar del Folies Bergère, Édouard Manet",
+    "licencia": "CC BY 2.0",
+    "credito": "Un bar aux Folies-Bergère d'E. Manet (Fondation Vuitton, Paris)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1245354",
+    "qid": "Q1245354",
+    "guia": "Un Bar en el Folies-Bergère (Courtauld Gallery, Londres)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

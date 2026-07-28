@@ -1,0 +1,50 @@
+{
+  "id": "autorretrato-malevich",
+  "titulo": "Autorretrato",
+  "tituloOriginal": "Self-portrait",
+  "autor": "Kazimir Malévich",
+  "fecha": "c. 1933",
+  "fechaOrden": 1933,
+  "tipo": "Pintura",
+  "periodo": "Suprematismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Cuadro de Kazimir Malévich.",
+  "localizacion": "Museo Estatal Ruso",
+  "ciudad": "San Petersburgo",
+  "urlLocalizacion": "http://en.rusmuseum.ru/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Estatal%20Ruso%2C%20San%20Petersburgo",
+  "pais": "Rusia",
+  "tecnicas": [
+    "óleo"
+  ],
+  "etiquetas": [
+    "Kazimir Malévich",
+    "Suprematismo",
+    "Abstracción y diseño moderno",
+    "Rusia",
+    "Pintura",
+    "Wikidata Q28914341",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    579,
+    687
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kazimir_Malevich_-_Self-Portrait.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kazimir_Malevich_-_Self-Portrait.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Kazimir_Malevich_-_Self-Portrait.jpg",
+    "alt": "Autorretrato, Kazimir Malévich",
+    "licencia": "Public domain",
+    "credito": "http://www.abcgallery.com : Home : Info : Pic",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q28914341",
+    "qid": "Q28914341",
+    "guia": "Autorretrato (1933)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

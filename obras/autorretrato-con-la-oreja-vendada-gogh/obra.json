@@ -1,0 +1,45 @@
+{
+  "id": "autorretrato-con-la-oreja-vendada-gogh",
+  "titulo": "Autorretrato con la oreja vendada",
+  "tituloOriginal": "Self-Portrait With a Bandaged Ear",
+  "autor": "Vincent van Gogh",
+  "fecha": "c. 1889",
+  "fechaOrden": 1889,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Vincent van Gogh.",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Vincent van Gogh",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Pintura",
+    "Wikidata Q19363214",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3876,
+    4326
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg/1920px-Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/02/Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg",
+    "alt": "Autorretrato con la oreja vendada, Vincent van Gogh",
+    "licencia": "Public domain",
+    "credito": "repro from artbook",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19363214",
+    "qid": "Q19363214",
+    "guia": "Autorretrato con la Oreja Vendada (Courtauld Gallery, Londres)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

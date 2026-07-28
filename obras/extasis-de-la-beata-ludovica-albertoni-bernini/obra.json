@@ -1,0 +1,49 @@
+{
+  "id": "extasis-de-la-beata-ludovica-albertoni-bernini",
+  "titulo": "Éxtasis de la beata Ludovica Albertoni",
+  "tituloOriginal": "Saint Ludovica Albertoni",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "c. 1670",
+  "fechaOrden": 1670,
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Conjunto escultórico de Gian Lorenzo Bernini dedicado a la beata Ludovica Albertoni.",
+  "localizacion": "San Francesco a Ripa",
+  "ciudad": "Roma",
+  "urlLocalizacion": "http://www.sanfrancescoaripa.com/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=San%20Francesco%20a%20Ripa%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Italia",
+    "Escultura",
+    "Wikidata Q3733361",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5036,
+    3351
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beata_Ludovica_Albertoni_%28Bernini%29.jpg/1920px-Beata_Ludovica_Albertoni_%28Bernini%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/64/Beata_Ludovica_Albertoni_%28Bernini%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Beata_Ludovica_Albertoni_(Bernini).jpg",
+    "alt": "Éxtasis de la beata Ludovica Albertoni, Gian Lorenzo Bernini",
+    "licencia": "CC BY 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3733361",
+    "qid": "Q3733361",
+    "guia": "Beata Ludovica Albertoni (San Francesco a Ripa, Roma)",
+    "coincidencia": 0.852,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "monumento-a-balzac-rodin",
+  "titulo": "Monumento a Balzac",
+  "tituloOriginal": "Monument to Balzac",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1890",
+  "fechaOrden": 1890,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Auguste Rodin.",
+  "localizacion": "Museo de Arte Moderno",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.moma.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20Moderno%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "bronce"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "bronce",
+    "Escultura",
+    "Escultura moderna",
+    "Estados Unidos",
+    "Guía maestra 2026",
+    "Romanticismo, Realismo e Impresionismo",
+    "Wikidata Q2770535"
+  ],
+  "proporcion": [
+    4000,
+    6000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Balzac_door_Auguste_Rodin.jpg/1920px-Balzac_door_Auguste_Rodin.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/10/Balzac_door_Auguste_Rodin.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Balzac_door_Auguste_Rodin.jpg",
+    "alt": "Monumento a Balzac, Auguste Rodin",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Balzac_door_Auguste_Rodin.jpg/1920px-Balzac_door_Auguste_Rodin.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/10/Balzac_door_Auguste_Rodin.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2770535",
+    "qid": "Q2770535",
+    "guia": "Monumento a Balzac (París)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Monumento a Balzac** se incorpora al mosaico como escultura de **Auguste Rodin**. Escultura de Auguste Rodin.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Auguste Rodin\n- **Datación registrada:** c. 1890\n- **Periodo de navegación:** Escultura moderna\n- **Colección temática:** Romanticismo, Realismo e Impresionismo\n- **Colección o ubicación:** Museo de Arte Moderno\n- **Lugar asociado:** Manhattan\n- **País asociado a la colección:** Estados Unidos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Monumento a Balzac (París)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q2770535** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Escultura\n- **Materiales o técnicas consignados:** bronce\n- **Dimensiones de la obra:** No consignadas en Wikidata\n- **Archivo digital:** 4000 × 6000 píxeles\n- **Licencia indicada en Commons:** CC BY-SA 4.0\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Auguste Rodin** y del **Escultura moderna** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q2770535)](https://www.wikidata.org/wiki/Q2770535)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Balzac_door_Auguste_Rodin.jpg)\n- [Colección o institución asociada](https://www.moma.org/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

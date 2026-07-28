@@ -1,0 +1,51 @@
+{
+  "id": "madonna-rucellai-buoninsegna",
+  "titulo": "Madonna Rucellai",
+  "tituloOriginal": "Rucellai Madonna",
+  "autor": "Duccio di Buoninsegna",
+  "fecha": "c. 1285",
+  "fechaOrden": 1285,
+  "tipo": "Pintura",
+  "periodo": "Gótico sienés",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Cuadro de Duccio.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "témpera",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Duccio di Buoninsegna",
+    "Gótico sienés",
+    "Arte medieval y religioso",
+    "Italia",
+    "Pintura",
+    "Wikidata Q948745",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2600,
+    4248
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Duccio_-_Maest%C3%A0_-_Google_Art_Project.jpg/1920px-Duccio_-_Maest%C3%A0_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/41/Duccio_-_Maest%C3%A0_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Duccio_-_Maest%C3%A0_-_Google_Art_Project.jpg",
+    "alt": "Madonna Rucellai, Duccio di Buoninsegna",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — LgFyCpDuHQ6z1g",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q948745",
+    "qid": "Q948745",
+    "guia": "Madonna Rucellai (Uffizi)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

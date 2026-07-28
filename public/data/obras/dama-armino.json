@@ -1,0 +1,87 @@
+{
+  "id": "dama-armino",
+  "titulo": "La dama del armiño",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1489–1491",
+  "fechaOrden": 1489,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Cecilia Gallerani gira fuera del eje del retrato mientras el armiño repite su movimiento y convierte la pose en una escena psicológica.",
+  "localizacion": "Museo de los Príncipes Czartoryski",
+  "ciudad": "Cracovia",
+  "urlLocalizacion": "https://mnk.pl/branch/the-princes-czartoryski-museum",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20los%20Pr%C3%ADncipes%20Czartoryski%2C%20Cracovia",
+  "pais": "Polonia",
+  "tecnicas": [
+    "Óleo sobre tabla de nogal"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "Alto Renacimiento",
+    "arte clásico",
+    "Leonardo da Vinci",
+    "Pintura",
+    "Polonia",
+    "Renacimiento italiano",
+    "Óleo sobre tabla de nogal"
+  ],
+  "proporcion": [
+    39,
+    54
+  ],
+  "color": "#556353",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lady%20with%20an%20Ermine%20-%20Leonardo%20da%20Vinci%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lady%20with%20an%20Ermine%20-%20Leonardo%20da%20Vinci%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lady%20with%20an%20Ermine%20-%20Leonardo%20da%20Vinci%20-%20Google%20Art%20Project.jpg",
+    "alt": "La dama del armiño, de Leonardo da Vinci",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Leonardo da Vinci · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lady%20with%20an%20Ermine%20-%20Leonardo%20da%20Vinci%20-%20Google%20Art%20Project.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lady%20with%20an%20Ermine%20-%20Leonardo%20da%20Vinci%20-%20Google%20Art%20Project.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nCecilia Gallerani gira fuera del eje del retrato mientras el armiño repite su movimiento y convierte la pose en una escena psicológica.\n\n## Una pista visual\n\nCompara la tensión de la mano con la cabeza del animal y observa cómo ambas figuras parecen reaccionar a algo situado fuera del cuadro.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nEl retrato se relaciona con la corte milanesa de Ludovico Sforza y con una etapa decisiva de Leonardo como pintor cortesano.\n\n**Autor:** Leonardo da Vinci  \n**Fecha:** c. 1489–1491  \n**Marco:** Alto Renacimiento  \n**Conservación actual:** Museo de los Príncipes Czartoryski, Cracovia.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Óleo sobre tabla de nogal**. Su formato aproximado, expresado como relación entre ancho y alto, es **39:54**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEs uno de los retratos que transformaron la efigie renacentista en presencia mental y narrativa.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Leonardo da Vinci con otras obras de **Alto Renacimiento**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lady%20with%20an%20Ermine%20-%20Leonardo%20da%20Vinci%20-%20Google%20Art%20Project.jpg)\n- [Sitio oficial de Museo de los Príncipes Czartoryski](https://mnk.pl/branch/the-princes-czartoryski-museum)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Museo%20de%20los%20Pr%C3%ADncipes%20Czartoryski%2C%20Cracovia)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

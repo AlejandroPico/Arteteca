@@ -1,0 +1,50 @@
+{
+  "id": "baco-caravaggio",
+  "titulo": "Baco",
+  "tituloOriginal": "Bacchus",
+  "autor": "Caravaggio",
+  "fecha": "c. 1593",
+  "fechaOrden": 1593,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Caravaggio.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco",
+    "Italia",
+    "Pintura",
+    "Wikidata Q2011510",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2633,
+    3000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Baco%2C_por_Caravaggio.jpg/1920px-Baco%2C_por_Caravaggio.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/96/Baco%2C_por_Caravaggio.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Baco,_por_Caravaggio.jpg",
+    "alt": "Baco, Caravaggio",
+    "licencia": "Public domain",
+    "credito": "Uffizi",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2011510",
+    "qid": "Q2011510",
+    "guia": "Baco (Uffizi)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

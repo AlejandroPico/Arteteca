@@ -1,0 +1,51 @@
+{
+  "id": "el-jardin-del-artista-en-giverny-monet",
+  "titulo": "El jardín del artista en Giverny",
+  "tituloOriginal": "The artist's garden at Giverny",
+  "autor": "Claude Monet",
+  "fecha": "c. 1900",
+  "fechaOrden": 1900,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Claude Monet.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Claude Monet",
+    "Impresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q3794124",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    977,
+    871
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Monet_-_Monets_Garten_in_Giverny.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Monet_-_Monets_Garten_in_Giverny.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Monet_-_Monets_Garten_in_Giverny.jpg",
+    "alt": "El jardín del artista en Giverny, Claude Monet",
+    "licencia": "Public domain",
+    "credito": "TeNeues greeting card",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3794124",
+    "qid": "Q3794124",
+    "guia": "El Jardín del Artista en Giverny",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

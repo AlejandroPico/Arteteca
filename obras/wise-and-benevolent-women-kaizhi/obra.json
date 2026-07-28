@@ -1,0 +1,50 @@
+{
+  "id": "wise-and-benevolent-women-kaizhi",
+  "titulo": "Damas sabias y benévolas",
+  "autor": "Gu Kaizhi",
+  "fecha": "c. 350",
+  "fechaOrden": 350,
+  "tipo": "Pintura",
+  "periodo": "Dinastía Jin",
+  "coleccion": "Asia",
+  "descripcion": "Cuadro de Gu Kaizhi.",
+  "localizacion": "Palace Museum",
+  "ciudad": "Donghuamen Subdistricto",
+  "urlLocalizacion": "http://www.dpm.org.cn/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palace%20Museum%2C%20Donghuamen%20Subdistricto",
+  "pais": "República Popular China",
+  "tecnicas": [
+    "seda"
+  ],
+  "etiquetas": [
+    "Gu Kaizhi",
+    "Dinastía Jin",
+    "Asia",
+    "República Popular China",
+    "Pintura",
+    "Wikidata Q9445481",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    10571,
+    600
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gu_Kaizhi._Wise_and_Benevolent_Women._Scroll._Song_copy_of_4_century_work._Palace_museum%2C_Beizing.jpg/1920px-Gu_Kaizhi._Wise_and_Benevolent_Women._Scroll._Song_copy_of_4_century_work._Palace_museum%2C_Beizing.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Gu_Kaizhi._Wise_and_Benevolent_Women._Scroll._Song_copy_of_4_century_work._Palace_museum%2C_Beizing.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gu_Kaizhi._Wise_and_Benevolent_Women._Scroll._Song_copy_of_4_century_work._Palace_museum,_Beizing.jpg",
+    "alt": "Damas sabias y benévolas, Gu Kaizhi",
+    "licencia": "Public domain",
+    "credito": "http://www.gongbi.net/web/day_100102/20100102_04a0a969e67681336d91h4gRr2nS8YEK.jpg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q9445481",
+    "qid": "Q9445481",
+    "guia": "Damas sabias y benévolas (Wise and Benevolent Women)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "tituloOriginal": "Wise and Benevolent Women"
+}

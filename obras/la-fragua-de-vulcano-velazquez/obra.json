@@ -1,0 +1,50 @@
+{
+  "id": "la-fragua-de-vulcano-velazquez",
+  "titulo": "La fragua de Vulcano",
+  "tituloOriginal": "Apollo in the Forge of Vulcan",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1630",
+  "fechaOrden": 1630,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Velázquez.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Barroco",
+    "España",
+    "Pintura",
+    "Wikidata Q247282",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2952,
+    2293
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vel%C3%A1zquez_-_La_Fragua_de_Vulcano_%28Museo_del_Prado%2C_1630%29.jpg/1920px-Vel%C3%A1zquez_-_La_Fragua_de_Vulcano_%28Museo_del_Prado%2C_1630%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Vel%C3%A1zquez_-_La_Fragua_de_Vulcano_%28Museo_del_Prado%2C_1630%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vel%C3%A1zquez_-_La_Fragua_de_Vulcano_(Museo_del_Prado,_1630).jpg",
+    "alt": "La fragua de Vulcano, Diego Velázquez",
+    "licencia": "Public domain",
+    "credito": "[2]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q247282",
+    "qid": "Q247282",
+    "guia": "La Fragua de Vulcano (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

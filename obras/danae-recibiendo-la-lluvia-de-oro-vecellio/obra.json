@@ -1,0 +1,51 @@
+{
+  "id": "danae-recibiendo-la-lluvia-de-oro-vecellio",
+  "titulo": "Dánae recibiendo la lluvia de oro",
+  "tituloOriginal": "Danaë",
+  "autor": "Tiziano Vecellio",
+  "fecha": "c. 1560",
+  "fechaOrden": 1560,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Tiziano.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Tiziano Vecellio",
+    "Renacimiento veneciano",
+    "Renacimiento",
+    "España",
+    "Pintura",
+    "Wikidata Q14425553",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2952,
+    2102
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tizian_-_Danae_receiving_the_Golden_Rain_-_Prado.jpg/1920px-Tizian_-_Danae_receiving_the_Golden_Rain_-_Prado.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tizian_-_Danae_receiving_the_Golden_Rain_-_Prado.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tizian_-_Danae_receiving_the_Golden_Rain_-_Prado.jpg",
+    "alt": "Dánae recibiendo la lluvia de oro, Tiziano Vecellio",
+    "licencia": "Public domain",
+    "credito": "Official gallery link Enlace a la galería oficial",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q14425553",
+    "qid": "Q14425553",
+    "guia": "Dánae recibiendo la Lluvia de Oro (Prado / Nápoles)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

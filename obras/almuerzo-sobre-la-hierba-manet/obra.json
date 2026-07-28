@@ -1,0 +1,50 @@
+{
+  "id": "almuerzo-sobre-la-hierba-manet",
+  "titulo": "Almuerzo sobre la hierba",
+  "tituloOriginal": "Luncheon on the Grass",
+  "autor": "Édouard Manet",
+  "fecha": "c. 1863",
+  "fechaOrden": 1863,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Édouard Manet.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "lienzo",
+    "óleo"
+  ],
+  "etiquetas": [
+    "Édouard Manet",
+    "Realismo y modernidad",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q152509",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5649,
+    4389
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/1920px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg",
+    "alt": "Almuerzo sobre la hierba, Édouard Manet",
+    "licencia": "Public domain",
+    "credito": "twELHYoc3ID_VA at Google Cultural Institute maximum zoom level",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q152509",
+    "qid": "Q152509",
+    "guia": "Almuerzo sobre la Hierba / Le Déjeuner sur l'herbe (Museo d'Orsay)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

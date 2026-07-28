@@ -1,0 +1,48 @@
+{
+  "id": "el-rapto-de-proserpina-bernini",
+  "titulo": "El rapto de Proserpina",
+  "tituloOriginal": "The Rape of Proserpina",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "c. 1624",
+  "fechaOrden": 1624,
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Escultura de Gian Lorenzo Bernini.",
+  "localizacion": "Colección Borghese",
+  "urlLocalizacion": "https://galleriaborghese.beniculturali.it/il-museo/la-collezione/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecci%C3%B3n%20Borghese",
+  "pais": "Italia",
+  "tecnicas": [
+    "Marbre blanc"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Italia",
+    "Escultura",
+    "Wikidata Q2352789",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4452,
+    6768
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rape_of_Prosepina_September_2015-3a.jpg/1920px-Rape_of_Prosepina_September_2015-3a.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/36/Rape_of_Prosepina_September_2015-3a.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rape_of_Prosepina_September_2015-3a.jpg",
+    "alt": "El rapto de Proserpina, Gian Lorenzo Bernini",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2352789",
+    "qid": "Q2352789",
+    "guia": "El Rapto de Proserpina (Galería Borghese)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

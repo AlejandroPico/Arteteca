@@ -1,0 +1,51 @@
+{
+  "id": "de-donde-venimos-quienes-somos-adonde-vamos-gauguin",
+  "titulo": "¿De dónde venimos? ¿Quiénes somos? ¿Adónde vamos?",
+  "tituloOriginal": "Where Do We Come From? What Are We? Where Are We Going?",
+  "autor": "Paul Gauguin",
+  "fecha": "c. 1897",
+  "fechaOrden": 1897,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Pintura de Paul Gauguin.",
+  "localizacion": "Museo de Bellas Artes de Boston",
+  "ciudad": "Boston",
+  "urlLocalizacion": "http://www.mfa.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Bellas%20Artes%20de%20Boston%2C%20Boston",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Paul Gauguin",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q890678",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5400,
+    1987
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_%281897-98%29.jpg/1920px-Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_%281897-98%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_%281897-98%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_(1897-98).jpg",
+    "alt": "¿De dónde venimos? ¿Quiénes somos? ¿Adónde vamos?, Paul Gauguin",
+    "licencia": "Public domain",
+    "credito": "Wildenstein Plattner Institute",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q890678",
+    "qid": "Q890678",
+    "guia": "¿De dónde venimos? ¿Quiénes somos? ¿Adónde vamos? (Museum of Fine Arts, Boston)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "la-carga-de-la-caballeria-roja-malevich",
+  "titulo": "La carga de la caballería roja",
+  "tituloOriginal": "Red Cavalry Riding",
+  "autor": "Kazimir Malévich",
+  "fecha": "c. 1932",
+  "fechaOrden": 1932,
+  "tipo": "Pintura",
+  "periodo": "Suprematismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Cuadro de Kazimir Malévich.",
+  "localizacion": "Museo Estatal Ruso",
+  "ciudad": "San Petersburgo",
+  "urlLocalizacion": "http://en.rusmuseum.ru/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Estatal%20Ruso%2C%20San%20Petersburgo",
+  "pais": "Rusia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Abstracción y diseño moderno",
+    "Guía maestra 2026",
+    "Kazimir Malévich",
+    "lienzo",
+    "Pintura",
+    "Rusia",
+    "Suprematismo",
+    "Wikidata Q1523506",
+    "óleo"
+  ],
+  "proporcion": [
+    4924,
+    3210
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Red_Cavalry_Riding.jpg/1920px-Red_Cavalry_Riding.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/23/Red_Cavalry_Riding.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Red_Cavalry_Riding.jpg",
+    "alt": "La carga de la caballería roja, Kazimir Malévich",
+    "licencia": "Public domain",
+    "credito": "http://www.rusmuseum.ru/ru/exhibitions/virtual/red/135.html",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Red_Cavalry_Riding.jpg/1920px-Red_Cavalry_Riding.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/23/Red_Cavalry_Riding.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1523506",
+    "qid": "Q1523506",
+    "guia": "Caballería Roja (Museo Ruso, San Petersburgo)",
+    "coincidencia": 0.824,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La carga de la caballería roja** se incorpora al mosaico como pintura de **Kazimir Malévich**. Cuadro de Kazimir Malévich.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Kazimir Malévich\n- **Datación registrada:** c. 1932\n- **Periodo de navegación:** Suprematismo\n- **Colección temática:** Abstracción y diseño moderno\n- **Colección o ubicación:** Museo Estatal Ruso\n- **Lugar asociado:** San Petersburgo\n- **País asociado a la colección:** Rusia\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Caballería Roja (Museo Ruso, San Petersburgo)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q1523506** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 140 cm × 91 cm\n- **Archivo digital:** 4924 × 3210 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Kazimir Malévich** y del **Suprematismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q1523506)](https://www.wikidata.org/wiki/Q1523506)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_Cavalry_Riding.jpg)\n- [Colección o institución asociada](http://en.rusmuseum.ru/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

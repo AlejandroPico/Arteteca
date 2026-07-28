@@ -1,0 +1,47 @@
+{
+  "id": "nenufares-monet",
+  "titulo": "Nenúfares",
+  "tituloOriginal": "Water Lilies",
+  "autor": "Claude Monet",
+  "fecha": "c. 1914",
+  "fechaOrden": 1914,
+  "tipo": "Serie artística",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Serie de aproximadamente 250 pinturas de Claude Monet dedicadas a los nenúfares.",
+  "localizacion": "Francia",
+  "urlLocalizacion": "https://www.service-public.fr/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Francia",
+  "pais": "Francia",
+  "tecnicas": [],
+  "etiquetas": [
+    "Claude Monet",
+    "Impresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Serie artística",
+    "Wikidata Q1189907",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5472,
+    3648
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Claude_Monet_Seerosen_um_1915_Neue_Pinakothek-4.jpg/1920px-Claude_Monet_Seerosen_um_1915_Neue_Pinakothek-4.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/93/Claude_Monet_Seerosen_um_1915_Neue_Pinakothek-4.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Claude_Monet_Seerosen_um_1915_Neue_Pinakothek-4.jpg",
+    "alt": "Nenúfares, Claude Monet",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1189907",
+    "qid": "Q1189907",
+    "guia": "Serie de los Nenúfares / Nymphéas (Musée de l'Orangerie, París)",
+    "coincidencia": 0.727,
+    "importada": "2026-07-28"
+  }
+}

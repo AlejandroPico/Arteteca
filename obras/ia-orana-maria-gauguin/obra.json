@@ -1,0 +1,50 @@
+{
+  "id": "ia-orana-maria-gauguin",
+  "titulo": "Ia Orana Maria",
+  "autor": "Paul Gauguin",
+  "fecha": "c. 1891",
+  "fechaOrden": 1891,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Gauguin.",
+  "localizacion": "Museo Metropolitano de Arte",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Metropolitano%20de%20Arte%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Paul Gauguin",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q1118465",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4546,
+    5858
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paul_Gauguin_Ia_Orana_Maria_%28Hail_Mary%29_The_Metropolitan_Museum_of_Art1.jpg/1920px-Paul_Gauguin_Ia_Orana_Maria_%28Hail_Mary%29_The_Metropolitan_Museum_of_Art1.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Paul_Gauguin_Ia_Orana_Maria_%28Hail_Mary%29_The_Metropolitan_Museum_of_Art1.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_Ia_Orana_Maria_(Hail_Mary)_The_Metropolitan_Museum_of_Art1.jpg",
+    "alt": "Ia Orana Maria, Paul Gauguin",
+    "licencia": "Public domain",
+    "credito": "https://www.metmuseum.org/collection/the-collection-online/search/438821",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1118465",
+    "qid": "Q1118465",
+    "guia": "La Orana Maria (Ave María - MET)",
+    "coincidencia": 0.87,
+    "importada": "2026-07-28"
+  }
+}

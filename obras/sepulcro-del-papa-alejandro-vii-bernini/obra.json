@@ -1,0 +1,50 @@
+{
+  "id": "sepulcro-del-papa-alejandro-vii-bernini",
+  "titulo": "Sepulcro del papa Alejandro VII",
+  "tituloOriginal": "Tomb of Pope Alexander VII",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "c. 1670",
+  "fechaOrden": 1670,
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Funerary monument by Gianlorenzo Bernini.",
+  "localizacion": "basílica de San Pedro",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.basilicasanpietro.va/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=bas%C3%ADlica%20de%20San%20Pedro%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "mármol",
+    "bronce"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Ciudad del Vaticano",
+    "Escultura",
+    "Wikidata Q1808677",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2592,
+    3888
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/0_Monument_fun%C3%A9raire_du_pape_Alexandre_VII_-_St-Pierre_-_Vatican_%281%29.jpg/1920px-0_Monument_fun%C3%A9raire_du_pape_Alexandre_VII_-_St-Pierre_-_Vatican_%281%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9c/0_Monument_fun%C3%A9raire_du_pape_Alexandre_VII_-_St-Pierre_-_Vatican_%281%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:0_Monument_fun%C3%A9raire_du_pape_Alexandre_VII_-_St-Pierre_-_Vatican_(1).jpg",
+    "alt": "Sepulcro del papa Alejandro VII, Gian Lorenzo Bernini",
+    "licencia": "CC BY 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1808677",
+    "qid": "Q1808677",
+    "guia": "Tumba del Papa Alejandro VII (Vaticano)",
+    "coincidencia": 0.75,
+    "importada": "2026-07-28"
+  }
+}

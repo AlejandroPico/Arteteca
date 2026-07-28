@@ -1,0 +1,52 @@
+{
+  "id": "liebre-joven-durero",
+  "titulo": "Liebre joven",
+  "tituloOriginal": "Young Hare",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1502",
+  "fechaOrden": 1502,
+  "tipo": "Dibujo",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Watercolor by Albrecht Dürer.",
+  "localizacion": "Albertina",
+  "ciudad": "Innere Stadt",
+  "urlLocalizacion": "http://www.albertina.at/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Albertina%2C%20Innere%20Stadt",
+  "pais": "Austria",
+  "tecnicas": [
+    "top color",
+    "papel",
+    "acuarela"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Austria",
+    "Dibujo",
+    "Wikidata Q699388",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3731,
+    4123
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/1920px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg",
+    "alt": "Liebre joven, Alberto Durero",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture: Home page – Image",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q699388",
+    "qid": "Q699388",
+    "guia": "El Liebre Joven (Acuarela - Albertina, Viena)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "bust-of-cardinal-scipione-borghese-bernini",
+  "titulo": "Busto del cardenal Scipione Borghese",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "c. 1632",
+  "fechaOrden": 1632,
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Segunda versión del busto de Scipione Borghese realizada por Gian Lorenzo Bernini.",
+  "localizacion": "Galería Borghese",
+  "ciudad": "Roma Capitale",
+  "urlLocalizacion": "https://galleriaborghese.cultura.gov.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Borghese%2C%20Roma%20Capitale",
+  "pais": "Italia",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Italia",
+    "Escultura",
+    "Wikidata Q51102494",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1796,
+    2500
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Gian_lorenzo_bernini%2C_ritratto_del_cardinale_scipione_borghese%2C_1632_ca%2C_CCLXV_01.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/25/Gian_lorenzo_bernini%2C_ritratto_del_cardinale_scipione_borghese%2C_1632_ca%2C_CCLXV_01.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gian_lorenzo_bernini,_ritratto_del_cardinale_scipione_borghese,_1632_ca,_CCLXV_01.JPG",
+    "alt": "Busto del cardenal Scipione Borghese, Gian Lorenzo Bernini",
+    "licencia": "CC BY 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q51102494",
+    "qid": "Q51102494",
+    "guia": "Busto de Scipione Borghese",
+    "coincidencia": 0.727,
+    "importada": "2026-07-28"
+  },
+  "tituloOriginal": "Bust of Cardinal Scipione Borghese"
+}

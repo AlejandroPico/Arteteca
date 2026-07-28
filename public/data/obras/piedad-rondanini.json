@@ -1,0 +1,87 @@
+{
+  "id": "piedad-rondanini",
+  "titulo": "Piedad Rondanini",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1552–1564",
+  "fechaOrden": 1552,
+  "tipo": "Escultura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Madre e hijo se funden en una columna estrecha cuya superficie inacabada conserva cambios, cortes y renuncias.",
+  "localizacion": "Museo della Pietà Rondanini, Castello Sforzesco",
+  "ciudad": "Milán",
+  "urlLocalizacion": "https://www.milanocastello.it/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20della%20Piet%C3%A0%20Rondanini%2C%20Castello%20Sforzesco%2C%20Mil%C3%A1n",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mármol inacabado"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "Escultura",
+    "Italia",
+    "Manierismo",
+    "Miguel Ángel Buonarroti",
+    "Mármol inacabado",
+    "Renacimiento italiano"
+  ],
+  "proporcion": [
+    68,
+    195
+  ],
+  "color": "#6c665f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%20piet%C3%A0%20rondanini.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%20piet%C3%A0%20rondanini.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo%20piet%C3%A0%20rondanini.jpg",
+    "alt": "Piedad Rondanini, de Miguel Ángel Buonarroti",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%20piet%C3%A0%20rondanini.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%20piet%C3%A0%20rondanini.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nMadre e hijo se funden en una columna estrecha cuya superficie inacabada conserva cambios, cortes y renuncias.\n\n## Una pista visual\n\nNo busques acabado uniforme: compara el brazo pulido abandonado con los cuerpos reducidos y casi desmaterializados.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nMiguel Ángel trabajó en ella hasta los últimos días de su vida y alteró radicalmente una primera concepción más robusta.\n\n**Autor:** Miguel Ángel Buonarroti  \n**Fecha:** c. 1552–1564  \n**Marco:** Manierismo  \n**Conservación actual:** Museo della Pietà Rondanini, Castello Sforzesco, Milán.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Mármol inacabado**. Su formato aproximado, expresado como relación entre ancho y alto, es **68:195**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu fragilidad y proceso visible la acercaron especialmente a la sensibilidad escultórica moderna.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Miguel Ángel Buonarroti con otras obras de **Manierismo**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michelangelo%20piet%C3%A0%20rondanini.jpg)\n- [Sitio oficial de Museo della Pietà Rondanini, Castello Sforzesco](https://www.milanocastello.it/en)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Museo%20della%20Piet%C3%A0%20Rondanini%2C%20Castello%20Sforzesco%2C%20Mil%C3%A1n)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

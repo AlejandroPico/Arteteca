@@ -1,0 +1,48 @@
+{
+  "id": "montana-sainte-victoire-cezanne",
+  "titulo": "Montaña Sainte-Victoire",
+  "tituloOriginal": "Mont Sainte-Victoire",
+  "autor": "Paul Cézanne",
+  "fecha": "c. 1902",
+  "fechaOrden": 1902,
+  "tipo": "Serie artística",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Serie pictórica de Paul Cézanne dedicada a la montaña Sainte-Victoire.",
+  "localizacion": "Museo de Arte de la Universidad de Princeton",
+  "ciudad": "Princeton",
+  "urlLocalizacion": "http://artmuseum.princeton.edu",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20de%20la%20Universidad%20de%20Princeton%2C%20Princeton",
+  "pais": "Estados Unidos",
+  "tecnicas": [],
+  "etiquetas": [
+    "Paul Cézanne",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Serie artística",
+    "Wikidata Q3494409",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1610,
+    2000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1904%2C_C%C3%A9zanne%2C_Mont_Sainte-Victoire.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1904%2C_C%C3%A9zanne%2C_Mont_Sainte-Victoire.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:1904,_C%C3%A9zanne,_Mont_Sainte-Victoire.jpg",
+    "alt": "Montaña Sainte-Victoire, Paul Cézanne",
+    "licencia": "Public domain",
+    "credito": "Henry and Rose Pearlman Collection",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3494409",
+    "qid": "Q3494409",
+    "guia": "Serie de la Montaña Sainte-Victoire (Philadelphia / Baltimore / Orsay)",
+    "coincidencia": 0.88,
+    "importada": "2026-07-28"
+  }
+}

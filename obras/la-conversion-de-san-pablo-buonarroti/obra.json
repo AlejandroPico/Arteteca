@@ -1,0 +1,50 @@
+{
+  "id": "la-conversion-de-san-pablo-buonarroti",
+  "titulo": "La conversión de San Pablo",
+  "tituloOriginal": "The Conversion of Saul",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1542",
+  "fechaOrden": 1542,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Fresco de Miguel Ángel.",
+  "localizacion": "Capilla Paulina",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q1034868",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Capilla%20Paulina%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "fresco"
+  ],
+  "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Ciudad del Vaticano",
+    "Pintura mural",
+    "Wikidata Q2432043",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2748,
+    2580
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg/1920px-Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/08/Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Bekehrung_des_heiligen_Paulus.jpeg",
+    "alt": "La conversión de San Pablo, Miguel Ángel Buonarroti",
+    "licencia": "Public domain",
+    "credito": "Copied from an art book",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2432043",
+    "qid": "Q2432043",
+    "guia": "La Conversión de San Pablo (Capilla Paolina)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

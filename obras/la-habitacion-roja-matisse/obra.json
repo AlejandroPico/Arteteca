@@ -1,0 +1,51 @@
+{
+  "id": "la-habitacion-roja-matisse",
+  "titulo": "La habitación roja",
+  "tituloOriginal": "The Dessert: Harmony in Red (The Red Room)",
+  "autor": "Henri Matisse",
+  "fecha": "c. 1907",
+  "fechaOrden": 1907,
+  "tipo": "Pintura",
+  "periodo": "Fauvismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Cuadro de Henri Matisse.",
+  "localizacion": "Museo del Hermitage",
+  "ciudad": "San Petersburgo",
+  "urlLocalizacion": "https://hermitagemuseum.org",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Hermitage%2C%20San%20Petersburgo",
+  "pais": "Rusia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Henri Matisse",
+    "Fauvismo",
+    "Surrealismo y primeras vanguardias",
+    "Rusia",
+    "Pintura",
+    "Wikidata Q921429",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1999,
+    1649
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/La_Desserte_rouge%2C_par_Henri_Matisse.jpg/1920px-La_Desserte_rouge%2C_par_Henri_Matisse.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/cf/La_Desserte_rouge%2C_par_Henri_Matisse.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_Desserte_rouge,_par_Henri_Matisse.jpg",
+    "alt": "La habitación roja, Henri Matisse",
+    "licencia": "Public domain",
+    "credito": "https://www.cineclubdecaen.com/peinture/peintres/matisse/desserterouge.jpg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q921429",
+    "qid": "Q921429",
+    "guia": "La Habitación Roja / Armonía en Rojo (Hermitage)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

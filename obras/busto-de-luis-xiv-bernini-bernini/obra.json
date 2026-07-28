@@ -1,0 +1,49 @@
+{
+  "id": "busto-de-luis-xiv-bernini-bernini",
+  "titulo": "Busto de Luis XIV (Bernini)",
+  "tituloOriginal": "Bust of Louis XIV",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "c. 1665",
+  "fechaOrden": 1665,
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Busto escultórico de Luis XIV realizado por Gian Lorenzo Bernini.",
+  "localizacion": "Museum of the History of France",
+  "ciudad": "Versalles",
+  "urlLocalizacion": "http://www.museehistoiredefrance.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20History%20of%20France%2C%20Versalles",
+  "pais": "Francia",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Francia",
+    "Escultura",
+    "Wikidata Q2928781",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3333,
+    2334
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ch%C3%A2teau_de_Versailles%2C_salon_de_Diane%2C_buste_de_Louis_XIV%2C_Bernin_%281665%29_03.jpg/1920px-Ch%C3%A2teau_de_Versailles%2C_salon_de_Diane%2C_buste_de_Louis_XIV%2C_Bernin_%281665%29_03.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ch%C3%A2teau_de_Versailles%2C_salon_de_Diane%2C_buste_de_Louis_XIV%2C_Bernin_%281665%29_03.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Versailles,_salon_de_Diane,_buste_de_Louis_XIV,_Bernin_(1665)_03.jpg",
+    "alt": "Busto de Luis XIV (Bernini), Gian Lorenzo Bernini",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Photograph: Own work , 25 March 2011, Coyau",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2928781",
+    "qid": "Q2928781",
+    "guia": "Busto del Rey Luis XIV (Versalles)",
+    "coincidencia": 0.75,
+    "importada": "2026-07-28"
+  }
+}

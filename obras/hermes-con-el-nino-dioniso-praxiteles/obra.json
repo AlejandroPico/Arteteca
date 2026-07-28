@@ -1,0 +1,50 @@
+{
+  "id": "hermes-con-el-nino-dioniso-praxiteles",
+  "titulo": "Hermes con el niño Dioniso",
+  "tituloOriginal": "Hermes and the Infant Dionysus",
+  "autor": "Praxíteles",
+  "fecha": "c. 330 a. C.",
+  "fechaOrden": -330,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica tardía",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Escultura atribuida a Praxíteles hallada en Olimpia, Grecia.",
+  "localizacion": "Museo Arqueológico de Olimpia",
+  "ciudad": "municipio de la Antigua Olimpia",
+  "urlLocalizacion": "http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=7126",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Arqueol%C3%B3gico%20de%20Olimpia%2C%20municipio%20de%20la%20Antigua%20Olimpia",
+  "pais": "Grecia",
+  "tecnicas": [
+    "mármol de Paros"
+  ],
+  "etiquetas": [
+    "Praxíteles",
+    "Grecia clásica tardía",
+    "Grecia y Roma",
+    "Grecia",
+    "Escultura",
+    "Wikidata Q1518432",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2439,
+    4924
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/02_2020_Grecia_photo_Paolo_Villa_FO190024_%28Museo_archeologico_di_Olimpia_-_Statua_Ermes_con_Dioniso_Bambino_scolpita_da_Prassitele%2C_Arte_pre_Ellenistica%2C_senza_gimp%29-edit.jpg/1920px-thumbnail.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/f6/02_2020_Grecia_photo_Paolo_Villa_FO190024_%28Museo_archeologico_di_Olimpia_-_Statua_Ermes_con_Dioniso_Bambino_scolpita_da_Prassitele%2C_Arte_pre_Ellenistica%2C_senza_gimp%29-edit.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:02_2020_Grecia_photo_Paolo_Villa_FO190024_(Museo_archeologico_di_Olimpia_-_Statua_Ermes_con_Dioniso_Bambino_scolpita_da_Prassitele,_Arte_pre_Ellenistica,_senza_gimp)-edit.jpg",
+    "alt": "Hermes con el niño Dioniso, Praxíteles",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work , Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1518432",
+    "qid": "Q1518432",
+    "guia": "Hermes con el niño Dioniso",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

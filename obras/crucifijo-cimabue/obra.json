@@ -1,0 +1,51 @@
+{
+  "id": "crucifijo-cimabue",
+  "titulo": "Crucifijo",
+  "tituloOriginal": "Crucifix by Cimabue, San Domenico (Arezzo)",
+  "autor": "Cimabue",
+  "fecha": "c. 1268",
+  "fechaOrden": 1268,
+  "tipo": "Escultura",
+  "periodo": "Protorrenacimiento",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Cimabue.",
+  "localizacion": "San Domenico, Arezzo",
+  "ciudad": "Arezzo",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q2219459",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=San%20Domenico%2C%20Arezzo%2C%20Arezzo",
+  "pais": "Italia",
+  "tecnicas": [
+    "témpera",
+    "madera"
+  ],
+  "etiquetas": [
+    "Cimabue",
+    "Protorrenacimiento",
+    "Arte medieval y religioso",
+    "Italia",
+    "Escultura",
+    "Wikidata Q3698254",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5128,
+    6326
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/CrocifissoCimabue-Arezzo-Photo_taken_by_Senet._April_20%2C_2010-Perspective_correction%2C_crop_and_blackframe_with_GIMP_by_Paolo_Villa_2019.jpg/1920px-CrocifissoCimabue-Arezzo-Photo_taken_by_Senet._April_20%2C_2010-Perspective_correction%2C_crop_and_blackframe_with_GIMP_by_Paolo_Villa_2019.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/bb/CrocifissoCimabue-Arezzo-Photo_taken_by_Senet._April_20%2C_2010-Perspective_correction%2C_crop_and_blackframe_with_GIMP_by_Paolo_Villa_2019.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:CrocifissoCimabue-Arezzo-Photo_taken_by_Senet._April_20,_2010-Perspective_correction,_crop_and_blackframe_with_GIMP_by_Paolo_Villa_2019.jpg",
+    "alt": "Crucifijo, Cimabue",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work This file was derived from: CrocifissoCimabue-Arezzo.JPG · Perspective correction and crop with GIMP by Paolo Villa 2019",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3698254",
+    "qid": "Q3698254",
+    "guia": "Crucifijo de San Domenico (Arezzo)",
+    "coincidencia": 0.758,
+    "importada": "2026-07-28"
+  }
+}

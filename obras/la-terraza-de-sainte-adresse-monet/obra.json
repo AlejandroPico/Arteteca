@@ -1,0 +1,51 @@
+{
+  "id": "la-terraza-de-sainte-adresse-monet",
+  "titulo": "La terraza de Sainte-Adresse",
+  "tituloOriginal": "Garden at Sainte-Adresse",
+  "autor": "Claude Monet",
+  "fecha": "c. 1867",
+  "fechaOrden": 1867,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Claude Monet.",
+  "localizacion": "Museo Metropolitano de Arte",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Metropolitano%20de%20Arte%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Claude Monet",
+    "Impresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q432253",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5940,
+    4453
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Claude_Monet_-_Jardin_%C3%A0_Sainte-Adresse.jpg/1920px-Claude_Monet_-_Jardin_%C3%A0_Sainte-Adresse.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Claude_Monet_-_Jardin_%C3%A0_Sainte-Adresse.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Jardin_%C3%A0_Sainte-Adresse.jpg",
+    "alt": "La terraza de Sainte-Adresse, Claude Monet",
+    "licencia": "Public domain",
+    "credito": "The Metropolitan Museum of Art",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q432253",
+    "qid": "Q432253",
+    "guia": "La Terraza de Sainte-Adresse (MET)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

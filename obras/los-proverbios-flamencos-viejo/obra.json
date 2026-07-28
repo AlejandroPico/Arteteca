@@ -1,0 +1,51 @@
+{
+  "id": "los-proverbios-flamencos-viejo",
+  "titulo": "Los proverbios flamencos",
+  "tituloOriginal": "Netherlandish Proverbs",
+  "autor": "Pieter Brueghel el Viejo",
+  "fecha": "c. 1551",
+  "fechaOrden": 1551,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Pieter Brueghel el Viejo.",
+  "localizacion": "Gemäldegalerie de Berlín",
+  "ciudad": "Mitte",
+  "urlLocalizacion": "http://www.smb.museum/gg",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gem%C3%A4ldegalerie%20de%20Berl%C3%ADn%2C%20Mitte",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "panel de roble"
+  ],
+  "etiquetas": [
+    "Pieter Brueghel el Viejo",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q533619",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4000,
+    2854
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg/1920px-Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_(der_%C3%84ltere)_(ca._1525_-_1569)_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg",
+    "alt": "Los proverbios flamencos, Pieter Brueghel el Viejo",
+    "licencia": "Public domain",
+    "credito": "Staatliche Museen zu Berlin",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q533619",
+    "qid": "Q533619",
+    "guia": "Los Proverbios Flamencos (Gemäldegalerie, Berlín)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

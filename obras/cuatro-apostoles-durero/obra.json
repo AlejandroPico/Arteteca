@@ -1,0 +1,51 @@
+{
+  "id": "cuatro-apostoles-durero",
+  "titulo": "Cuatro apóstoles",
+  "tituloOriginal": "The Four Apostles",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1526",
+  "fechaOrden": 1526,
+  "tipo": "Serie artística",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Alberto Durero.",
+  "localizacion": "Colecciones de Pinturas del Estado de Baviera",
+  "ciudad": "Múnich",
+  "urlLocalizacion": "http://www.pinakothek.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecciones%20de%20Pinturas%20del%20Estado%20de%20Baviera%2C%20M%C3%BAnich",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Alemania",
+    "Serie artística",
+    "Wikidata Q829270",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2664,
+    3749
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Albrecht_D%C3%BCrer_-_The_Four_Apostles%2C_Saints_John%2C_Peter%2C_Mark_and_Paul.jpg/1920px-Albrecht_D%C3%BCrer_-_The_Four_Apostles%2C_Saints_John%2C_Peter%2C_Mark_and_Paul.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Albrecht_D%C3%BCrer_-_The_Four_Apostles%2C_Saints_John%2C_Peter%2C_Mark_and_Paul.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_The_Four_Apostles,_Saints_John,_Peter,_Mark_and_Paul.jpg",
+    "alt": "Cuatro apóstoles, Alberto Durero",
+    "licencia": "Public domain",
+    "credito": "https://www.sammlung.pinakothek.de/de/artwork/Znxw0rvLXg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q829270",
+    "qid": "Q829270",
+    "guia": "Los Cuatro Apóstoles (Múnich)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

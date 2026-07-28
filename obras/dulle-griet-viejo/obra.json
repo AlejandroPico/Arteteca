@@ -1,0 +1,52 @@
+{
+  "id": "dulle-griet-viejo",
+  "titulo": "Dulle Griet",
+  "tituloOriginal": "Dull Gret",
+  "autor": "Pieter Brueghel el Viejo",
+  "fecha": "c. 1563",
+  "fechaOrden": 1563,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Pieter Brueghel el Viejo.",
+  "localizacion": "Museum Mayer van den Bergh te Antwerpen",
+  "ciudad": "Amberes",
+  "urlLocalizacion": "https://www.museummayervandenbergh.be",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20Mayer%20van%20den%20Bergh%20te%20Antwerpen%2C%20Amberes",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "óleo",
+    "panel de roble",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Pieter Brueghel el Viejo",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Bélgica",
+    "Pintura",
+    "Wikidata Q80869",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6000,
+    4334
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dulle_Griet%2C_by_Pieter_Brueghel_%28I%29.jpg/1920px-Dulle_Griet%2C_by_Pieter_Brueghel_%28I%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dulle_Griet%2C_by_Pieter_Brueghel_%28I%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Dulle_Griet,_by_Pieter_Brueghel_(I).jpg",
+    "alt": "Dulle Griet, Pieter Brueghel el Viejo",
+    "licencia": "Public domain",
+    "credito": "Museum Mayer van den Bergh",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q80869",
+    "qid": "Q80869",
+    "guia": "La Dulle Griet / La Loca Greta (Amberes)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

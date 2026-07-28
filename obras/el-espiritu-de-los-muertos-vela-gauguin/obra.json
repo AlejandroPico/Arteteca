@@ -1,0 +1,51 @@
+{
+  "id": "el-espiritu-de-los-muertos-vela-gauguin",
+  "titulo": "El espíritu de los muertos vela",
+  "tituloOriginal": "Manaò tupapaú",
+  "autor": "Paul Gauguin",
+  "fecha": "c. 1892",
+  "fechaOrden": 1892,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Gauguin.",
+  "localizacion": "Museo Albright-Knox",
+  "ciudad": "Búfalo",
+  "urlLocalizacion": "http://www.albrightknox.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Albright-Knox%2C%20B%C3%BAfalo",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Paul Gauguin",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q609572",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3392,
+    2683
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_%28Spirit_of_the_Dead_Watching%29_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff/lossy-page1-1920px-Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_%28Spirit_of_the_Dead_Watching%29_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_%28Spirit_of_the_Dead_Watching%29_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_(Spirit_of_the_Dead_Watching)_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff",
+    "alt": "El espíritu de los muertos vela, Paul Gauguin",
+    "licencia": "Public domain",
+    "credito": "Buffalo AKG Art Museum",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q609572",
+    "qid": "Q609572",
+    "guia": "Manao Tupapau (El Espíritu de los Muertos Vela)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

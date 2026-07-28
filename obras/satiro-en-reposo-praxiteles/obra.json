@@ -1,0 +1,49 @@
+{
+  "id": "satiro-en-reposo-praxiteles",
+  "titulo": "Sátiro en reposo",
+  "tituloOriginal": "Resting Satyr",
+  "autor": "Praxíteles",
+  "fecha": "Fecha no determinada",
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica tardía",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Escultura griega conocida a través de copias antiguas y atribuida a Praxíteles.",
+  "localizacion": "Museos Capitolinos",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://www.museicapitolini.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Capitolinos%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "mármol de Carrara"
+  ],
+  "etiquetas": [
+    "Praxíteles",
+    "Grecia clásica tardía",
+    "Grecia y Roma",
+    "Italia",
+    "Escultura",
+    "Wikidata Q1584761",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2000,
+    3667
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Leaning_satyr_Musei_Capitolini_MC739.jpg/1920px-Leaning_satyr_Musei_Capitolini_MC739.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/90/Leaning_satyr_Musei_Capitolini_MC739.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Leaning_satyr_Musei_Capitolini_MC739.jpg",
+    "alt": "Sátiro en reposo, Praxíteles",
+    "licencia": "Public domain",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1584761",
+    "qid": "Q1584761",
+    "guia": "Sátiro en Reposo",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "vision-del-mas-alla-bosco",
+  "titulo": "Visión del Más Allá",
+  "tituloOriginal": "Visions of the Hereafter",
+  "autor": "El Bosco",
+  "fecha": "c. 1502",
+  "fechaOrden": 1502,
+  "tipo": "Serie artística",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jerónimo Bosch.",
+  "localizacion": "Palacio Ducal de Venecia",
+  "ciudad": "Venecia",
+  "urlLocalizacion": "http://palazzoducale.visitmuve.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palacio%20Ducal%20de%20Venecia%2C%20Venecia",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo",
+    "panel"
+  ],
+  "etiquetas": [
+    "El Bosco",
+    "Guía maestra 2026",
+    "Italia",
+    "panel",
+    "Renacimiento",
+    "Renacimiento nórdico",
+    "Serie artística",
+    "Wikidata Q2467518",
+    "óleo"
+  ],
+  "proporcion": [
+    15138,
+    8500
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_%28downsized_%26_contrasted%29.jpg/1920px-Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_%28downsized_%26_contrasted%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_%28downsized_%26_contrasted%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_(downsized_%26_contrasted).jpg",
+    "alt": "Visión del Más Allá, El Bosco",
+    "licencia": "Public domain",
+    "credito": "http://boschproject.org/bosch_in_venice.html#visions http://boschproject.org/view.html?i=32_34_36_38_MCPVIS",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_%28downsized_%26_contrasted%29.jpg/1920px-Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_%28downsized_%26_contrasted%29.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_%28downsized_%26_contrasted%29.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2467518",
+    "qid": "Q2467518",
+    "guia": "Visiones del Más Allá (Palacio Ducal, Venecia)",
+    "coincidencia": 0.867,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Visión del Más Allá** se incorpora al mosaico como serie artística de **El Bosco**. Cuadro de Jerónimo Bosch.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** El Bosco\n- **Datación registrada:** c. 1502\n- **Periodo de navegación:** Renacimiento nórdico\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Palacio Ducal de Venecia\n- **Lugar asociado:** Venecia\n- **País asociado a la colección:** Italia\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Visiones del Más Allá (Palacio Ducal, Venecia)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q2467518** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Serie artística\n- **Materiales o técnicas consignados:** óleo, panel\n- **Dimensiones de la obra:** 39,5 cm × 88,5 cm\n- **Archivo digital:** 15138 × 8500 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **El Bosco** y del **Renacimiento nórdico** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q2467518)](https://www.wikidata.org/wiki/Q2467518)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_(downsized_%26_contrasted).jpg)\n- [Colección o institución asociada](http://palazzoducale.visitmuve.it/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

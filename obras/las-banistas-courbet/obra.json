@@ -1,0 +1,51 @@
+{
+  "id": "las-banistas-courbet",
+  "titulo": "Las bañistas",
+  "tituloOriginal": "The Bathers",
+  "autor": "Gustave Courbet",
+  "fecha": "c. 1853",
+  "fechaOrden": 1853,
+  "tipo": "Pintura",
+  "periodo": "Realismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Gustave Courbet.",
+  "localizacion": "Museo Fabre",
+  "ciudad": "Montpellier",
+  "urlLocalizacion": "https://www.museefabre.fr/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Fabre%2C%20Montpellier",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Gustave Courbet",
+    "Realismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q18384815",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1522,
+    1775
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Les_Baigneuses-Courbet.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/90/Les_Baigneuses-Courbet.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Les_Baigneuses-Courbet.jpg",
+    "alt": "Las bañistas, Gustave Courbet",
+    "licencia": "Public domain",
+    "credito": "Official gallery link",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18384815",
+    "qid": "Q18384815",
+    "guia": "Las Bañistas (Montpellier)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

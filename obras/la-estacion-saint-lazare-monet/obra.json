@@ -1,0 +1,42 @@
+{
+  "id": "la-estacion-saint-lazare-monet",
+  "titulo": "La estación Saint-Lazare",
+  "tituloOriginal": "Gare Saint-Lazare (Monet series)",
+  "autor": "Claude Monet",
+  "fecha": "c. 1877",
+  "fechaOrden": 1877,
+  "tipo": "Serie artística",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Impressionist paintings of French rail infrastructure.",
+  "tecnicas": [],
+  "etiquetas": [
+    "Claude Monet",
+    "Impresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Serie artística",
+    "Wikidata Q49985736",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3606,
+    2637
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/La_Gare_Saint-Lazare_-_Claude_Monet.jpg/1920px-La_Gare_Saint-Lazare_-_Claude_Monet.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/96/La_Gare_Saint-Lazare_-_Claude_Monet.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_Gare_Saint-Lazare_-_Claude_Monet.jpg",
+    "alt": "La estación Saint-Lazare, Claude Monet",
+    "licencia": "Public domain",
+    "credito": "Self-photographed",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q49985736",
+    "qid": "Q49985736",
+    "guia": "La Estación Saint-Lazare (Museo d'Orsay)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

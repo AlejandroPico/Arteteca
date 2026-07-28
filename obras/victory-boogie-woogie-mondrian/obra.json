@@ -1,0 +1,54 @@
+{
+  "id": "victory-boogie-woogie-mondrian",
+  "titulo": "Victory Boogie-Woogie",
+  "autor": "Piet Mondrian",
+  "fecha": "c. 1942",
+  "fechaOrden": 1942,
+  "tipo": "Pintura",
+  "periodo": "Neoplasticismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Cuadro de Piet Mondrian.",
+  "localizacion": "Kunstmuseum Den Haag",
+  "ciudad": "La Haya",
+  "urlLocalizacion": "http://www.gemeentemuseum.nl",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunstmuseum%20Den%20Haag%2C%20La%20Haya",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "óleo",
+    "cinta adhesiva",
+    "papel",
+    "carboncillo",
+    "lápiz",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Piet Mondrian",
+    "Neoplasticismo",
+    "Abstracción y diseño moderno",
+    "Países Bajos",
+    "Pintura",
+    "Wikidata Q1248830",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4724,
+    4724
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Piet_Mondriaan_Victory_Boogie_Woogie.jpg/1920px-Piet_Mondriaan_Victory_Boogie_Woogie.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/87/Piet_Mondriaan_Victory_Boogie_Woogie.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan_Victory_Boogie_Woogie.jpg",
+    "alt": "Victory Boogie-Woogie, Piet Mondrian",
+    "licencia": "Public domain",
+    "credito": "Gemeentemuseum Den Haag",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1248830",
+    "qid": "Q1248830",
+    "guia": "Victory Boogie Woogie (Kunstmuseum Den Haag)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

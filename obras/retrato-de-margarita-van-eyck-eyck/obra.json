@@ -1,0 +1,52 @@
+{
+  "id": "retrato-de-margarita-van-eyck-eyck",
+  "titulo": "Retrato de Margarita van Eyck",
+  "tituloOriginal": "Portrait of Margareta van Eyck",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1439",
+  "fechaOrden": 1439,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jan van Eyck.",
+  "localizacion": "Museo Groeninge",
+  "ciudad": "Brujas",
+  "urlLocalizacion": "https://www.museabrugge.be/bezoek-onze-musea/onze-musea-en-monumenten/groeningemuseum",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Groeninge%2C%20Brujas",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "óleo",
+    "panel de roble",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Jan van Eyck",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Bélgica",
+    "Pintura",
+    "Wikidata Q3399452",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4990,
+    6375
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg/1920px-Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_(1439).jpg",
+    "alt": "Retrato de Margarita van Eyck, Jan van Eyck",
+    "licencia": "Public domain",
+    "credito": "https://closertovaneyck.kikirpa.be/verona/#viewer/rep1=2&id1=8949c7560cf951235e2f8baad45f3644",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3399452",
+    "qid": "Q3399452",
+    "guia": "Retrato de Margareta van Eyck",
+    "coincidencia": 0.92,
+    "importada": "2026-07-28"
+  }
+}

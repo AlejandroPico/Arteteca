@@ -1,0 +1,49 @@
+{
+  "id": "busto-de-costanza-bonarelli-bernini",
+  "titulo": "Busto de Costanza Bonarelli",
+  "tituloOriginal": "Bust of Costanza Bonarelli",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "c. 1636",
+  "fechaOrden": 1636,
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Busto de Gianlorenzo Bernini.",
+  "localizacion": "Bargello",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://bargellomusei.it./en/museum/museo-nazionale-del-bargello",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bargello%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Italia",
+    "Escultura",
+    "Wikidata Q5002064",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1818,
+    3294
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Gianlorenzo_bernini%2C_ritratto_di_costanza_bonarelli%2C_1637-38%2C_02.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/67/Gianlorenzo_bernini%2C_ritratto_di_costanza_bonarelli%2C_1637-38%2C_02.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gianlorenzo_bernini,_ritratto_di_costanza_bonarelli,_1637-38,_02.JPG",
+    "alt": "Busto de Costanza Bonarelli, Gian Lorenzo Bernini",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5002064",
+    "qid": "Q5002064",
+    "guia": "Busto de Costanza Bonarelli",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

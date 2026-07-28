@@ -1,0 +1,51 @@
+{
+  "id": "el-parnaso-rafael",
+  "titulo": "El Parnaso",
+  "tituloOriginal": "The Parnassus",
+  "autor": "Rafael",
+  "fecha": "c. 1500",
+  "fechaOrden": 1500,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Fresco de Rafael para las Estancias Vaticanas.",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "http://www.museivaticani.va",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "óleo",
+    "fresco"
+  ],
+  "etiquetas": [
+    "Rafael",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Ciudad del Vaticano",
+    "Pintura mural",
+    "Wikidata Q2715152",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3916,
+    2580
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rafael_-_El_Parnaso_%28Estancia_del_Sello%2C_Roma%2C_1511%29.jpg/1920px-Rafael_-_El_Parnaso_%28Estancia_del_Sello%2C_Roma%2C_1511%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rafael_-_El_Parnaso_%28Estancia_del_Sello%2C_Roma%2C_1511%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rafael_-_El_Parnaso_(Estancia_del_Sello,_Roma,_1511).jpg",
+    "alt": "El Parnaso, Rafael",
+    "licencia": "Public domain",
+    "credito": "See below.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2715152",
+    "qid": "Q2715152",
+    "guia": "El Parnaso (Estancias Vaticanas)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

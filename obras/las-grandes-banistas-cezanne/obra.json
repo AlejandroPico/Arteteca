@@ -1,0 +1,51 @@
+{
+  "id": "las-grandes-banistas-cezanne",
+  "titulo": "Las grandes bañistas",
+  "tituloOriginal": "Les Grandes Baigneuses",
+  "autor": "Paul Cézanne",
+  "fecha": "c. 1906",
+  "fechaOrden": 1906,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Cézanne.",
+  "localizacion": "Museo de Arte de Filadelfia",
+  "ciudad": "Filadelfia",
+  "urlLocalizacion": "https://www.philamuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Arte%20de%20Filadelfia%2C%20Filadelfia",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Paul Cézanne",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q2270938",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6385,
+    5337
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg/1920px-Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/25/Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne,_French_-_The_Large_Bathers_-_Google_Art_Project.jpg",
+    "alt": "Las grandes bañistas, Paul Cézanne",
+    "licencia": "Public domain",
+    "credito": "owGszazN_Evyvw at Google Cultural Institute maximum zoom level",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2270938",
+    "qid": "Q2270938",
+    "guia": "Las Grandes Bañistas (Philadelphia Museum of Art)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "palas-centauro",
+  "titulo": "Palas y el centauro",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1482–1485",
+  "fechaOrden": 1482,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Una figura femenina ricamente vestida sujeta al centauro por el cabello y enfrenta disciplina, deseo y poder en un paisaje cerrado.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Temple sobre lienzo"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "Italia",
+    "Pintura",
+    "Primer Renacimiento",
+    "Renacimiento italiano",
+    "Sandro Botticelli",
+    "Temple sobre lienzo"
+  ],
+  "proporcion": [
+    148,
+    207
+  ],
+  "color": "#8d654f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Pallade%20e%20il%20centauro%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Pallade%20e%20il%20centauro%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sandro%20Botticelli%20-%20Pallade%20e%20il%20centauro%20-%20Google%20Art%20Project.jpg",
+    "alt": "Palas y el centauro, de Sandro Botticelli",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Sandro Botticelli · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Pallade%20e%20il%20centauro%20-%20Google%20Art%20Project.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Pallade%20e%20il%20centauro%20-%20Google%20Art%20Project.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nUna figura femenina ricamente vestida sujeta al centauro por el cabello y enfrenta disciplina, deseo y poder en un paisaje cerrado.\n\n## Una pista visual\n\nContrasta las curvas del vestido y las ramas con la anatomía tensa del centauro.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nLa pintura se asocia al entorno de los Médici, aunque la identidad exacta de la figura y su programa alegórico siguen abiertos.\n\n**Autor:** Sandro Botticelli  \n**Fecha:** c. 1482–1485  \n**Marco:** Primer Renacimiento  \n**Conservación actual:** Galería Uffizi, Florencia.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Temple sobre lienzo**. Su formato aproximado, expresado como relación entre ancho y alto, es **148:207**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nResume la elegancia lineal y la ambigüedad intelectual de la cultura florentina de Botticelli.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Sandro Botticelli con otras obras de **Primer Renacimiento**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sandro%20Botticelli%20-%20Pallade%20e%20il%20centauro%20-%20Google%20Art%20Project.jpg)\n- [Sitio oficial de Galería Uffizi](https://www.uffizi.it/en/the-uffizi)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

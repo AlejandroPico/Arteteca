@@ -1,0 +1,51 @@
+{
+  "id": "la-danza-matisse",
+  "titulo": "La Danza",
+  "tituloOriginal": "Dance",
+  "autor": "Henri Matisse",
+  "fecha": "c. 1910",
+  "fechaOrden": 1910,
+  "tipo": "Serie artística",
+  "periodo": "Fauvismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Cuadro de Henri Matisse.",
+  "localizacion": "Museo del Hermitage",
+  "ciudad": "San Petersburgo",
+  "urlLocalizacion": "https://hermitagemuseum.org",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Hermitage%2C%20San%20Petersburgo",
+  "pais": "Rusia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Henri Matisse",
+    "Fauvismo",
+    "Surrealismo y primeras vanguardias",
+    "Rusia",
+    "Serie artística",
+    "Wikidata Q164517",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2000,
+    1329
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/La_Danse_I%2C_par_Henri_Matisse.jpg/1920px-La_Danse_I%2C_par_Henri_Matisse.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d6/La_Danse_I%2C_par_Henri_Matisse.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_Danse_I,_par_Henri_Matisse.jpg",
+    "alt": "La Danza, Henri Matisse",
+    "licencia": "Public domain",
+    "credito": "https://www.moma.org/media/W1siZiIsIjQ3NzE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=d96355a0d39b1ffc",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q164517",
+    "qid": "Q164517",
+    "guia": "La Danza (Versión del Hermitage y MoMA)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

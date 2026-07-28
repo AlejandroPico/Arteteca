@@ -1,0 +1,97 @@
+{
+  "id": "el-circo-seurat",
+  "titulo": "El circo",
+  "tituloOriginal": "The Circus",
+  "autor": "Georges Seurat",
+  "fecha": "c. 1891",
+  "fechaOrden": 1891,
+  "tipo": "Pintura",
+  "periodo": "Neoimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Georges Seurat.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Francia",
+    "Georges Seurat",
+    "Guía maestra 2026",
+    "lienzo",
+    "Neoimpresionismo",
+    "Pintura",
+    "Romanticismo, Realismo e Impresionismo",
+    "Wikidata Q2275610",
+    "óleo"
+  ],
+  "proporcion": [
+    3918,
+    4855
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg/1920px-Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/98/Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+    "alt": "El circo, Georges Seurat",
+    "licencia": "Public domain",
+    "credito": "agFX4peHSDwt_g at Google Cultural Institute maximum zoom level",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg/1920px-Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/98/Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2275610",
+    "qid": "Q2275610",
+    "guia": "El Circo (Museo d'Orsay)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**El circo** se incorpora al mosaico como pintura de **Georges Seurat**. Cuadro de Georges Seurat.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Georges Seurat\n- **Datación registrada:** c. 1891\n- **Periodo de navegación:** Neoimpresionismo\n- **Colección temática:** Romanticismo, Realismo e Impresionismo\n- **Colección o ubicación:** Museo de Orsay\n- **Lugar asociado:** VII Distrito de París\n- **País asociado a la colección:** Francia\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «El Circo (Museo d'Orsay)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q2275610** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 1520 × 1850\n- **Archivo digital:** 3918 × 4855 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Georges Seurat** y del **Neoimpresionismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q2275610)](https://www.wikidata.org/wiki/Q2275610)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg)\n- [Colección o institución asociada](https://www.musee-orsay.fr)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

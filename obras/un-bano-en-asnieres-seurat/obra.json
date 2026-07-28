@@ -1,0 +1,51 @@
+{
+  "id": "un-bano-en-asnieres-seurat",
+  "titulo": "Un baño en Asnières",
+  "tituloOriginal": "Bathers at Asnières",
+  "autor": "Georges Seurat",
+  "fecha": "c. 1884",
+  "fechaOrden": 1884,
+  "tipo": "Pintura",
+  "periodo": "Neoimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Georges Seurat.",
+  "localizacion": "National Gallery de Londres",
+  "ciudad": "Ciudad de Westminster",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20de%20Londres%2C%20Ciudad%20de%20Westminster",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Georges Seurat",
+    "Neoimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q1090837",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6367,
+    4226
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baigneurs_a_Asnieres.jpg/1920px-Baigneurs_a_Asnieres.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Baigneurs_a_Asnieres.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Baigneurs_a_Asnieres.jpg",
+    "alt": "Un baño en Asnières, Georges Seurat",
+    "licencia": "Public domain",
+    "credito": "National Gallery, London",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1090837",
+    "qid": "Q1090837",
+    "guia": "Un Baño en Asnières (National Gallery, Londres)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

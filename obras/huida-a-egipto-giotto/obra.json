@@ -1,0 +1,50 @@
+{
+  "id": "huida-a-egipto-giotto",
+  "titulo": "Huida a Egipto",
+  "tituloOriginal": "Flight into Egypt",
+  "autor": "Giotto",
+  "fecha": "c. 1305",
+  "fechaOrden": 1305,
+  "tipo": "Pintura mural",
+  "periodo": "Protorrenacimiento",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Fresco de Giotto.",
+  "localizacion": "capilla de los Scrovegni",
+  "ciudad": "Padua",
+  "urlLocalizacion": "http://www.cappelladegliscrovegni.it",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=capilla%20de%20los%20Scrovegni%2C%20Padua",
+  "pais": "Italia",
+  "tecnicas": [
+    "fresco"
+  ],
+  "etiquetas": [
+    "Giotto",
+    "Protorrenacimiento",
+    "Arte medieval y religioso",
+    "Italia",
+    "Pintura mural",
+    "Wikidata Q549172",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    950,
+    980
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Giotto_di_Bondone_-_No._20_Scenes_from_the_Life_of_Christ_-_4._Flight_into_Egypt_-_WGA09198.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Giotto_di_Bondone_-_No._20_Scenes_from_the_Life_of_Christ_-_4._Flight_into_Egypt_-_WGA09198.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_No._20_Scenes_from_the_Life_of_Christ_-_4._Flight_into_Egypt_-_WGA09198.jpg",
+    "alt": "Huida a Egipto, Giotto",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"g/giotto/padova/3christ/scenes_1/chris04\"",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q549172",
+    "qid": "Q549172",
+    "guia": "La Huida a Egipto (Capilla Scrovegni)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

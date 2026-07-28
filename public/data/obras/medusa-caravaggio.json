@@ -1,0 +1,87 @@
+{
+  "id": "medusa-caravaggio",
+  "titulo": "Medusa",
+  "autor": "Caravaggio",
+  "fecha": "c. 1597–1598",
+  "fechaOrden": 1597,
+  "tipo": "Pintura",
+  "periodo": "Barroco italiano",
+  "coleccion": "Barroco europeo",
+  "descripcion": "La cabeza de Medusa grita sobre un escudo convexo mientras serpientes y sangre convierten el mito en una aparición física.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre lienzo montado en escudo de madera"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "Barroco europeo",
+    "Barroco italiano",
+    "Caravaggio",
+    "Italia",
+    "Pintura",
+    "Óleo sobre lienzo montado en escudo de madera"
+  ],
+  "proporcion": [
+    60,
+    55
+  ],
+  "color": "#4d4039",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Medusa%20by%20Caravaggio.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Medusa%20by%20Caravaggio.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Medusa%20by%20Caravaggio.jpg",
+    "alt": "Medusa, de Caravaggio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Caravaggio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Medusa%20by%20Caravaggio.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Medusa%20by%20Caravaggio.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nLa cabeza de Medusa grita sobre un escudo convexo mientras serpientes y sangre convierten el mito en una aparición física.\n\n## Una pista visual\n\nLa superficie curva altera el rostro y hace que la cabeza parezca proyectarse fuera del soporte.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nEl escudo ceremonial fue enviado por el cardenal Del Monte a Fernando I de Médici y explota la asociación entre pintura, reflejo y derrota del monstruo.\n\n**Autor:** Caravaggio  \n**Fecha:** c. 1597–1598  \n**Marco:** Barroco italiano  \n**Conservación actual:** Galería Uffizi, Florencia.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Óleo sobre lienzo montado en escudo de madera**. Su formato aproximado, expresado como relación entre ancho y alto, es **60:55**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEs una demostración extrema del ilusionismo caravaggista y de la pintura como arma visual.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Caravaggio con otras obras de **Barroco italiano**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Medusa%20by%20Caravaggio.jpg)\n- [Sitio oficial de Galería Uffizi](https://www.uffizi.it/en/the-uffizi)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

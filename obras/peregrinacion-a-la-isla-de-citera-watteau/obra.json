@@ -1,0 +1,51 @@
+{
+  "id": "peregrinacion-a-la-isla-de-citera-watteau",
+  "titulo": "Peregrinación a la isla de Citera",
+  "tituloOriginal": "The Embarkation for Cythera",
+  "autor": "Jean-Antoine Watteau",
+  "fecha": "c. 1719",
+  "fechaOrden": 1719,
+  "tipo": "Pintura",
+  "periodo": "Rococó",
+  "coleccion": "Barroco",
+  "descripcion": "Pintura de Jean-Antoine Watteau conservada en el palacio de Charlottenburg.",
+  "localizacion": "Palacio de Charlottenburg",
+  "ciudad": "Charlottenburg-Wilmersdorf",
+  "urlLocalizacion": "https://www.spsg.de/schloesser-gaerten/objekt/schloss-charlottenburg-altes-schloss/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20Charlottenburg%2C%20Charlottenburg-Wilmersdorf",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jean-Antoine Watteau",
+    "Rococó",
+    "Barroco",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q41637000",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3200,
+    2123
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Antoine_Watteau_-_Embarkation_for_Cythera.jpg/1920px-Antoine_Watteau_-_Embarkation_for_Cythera.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/53/Antoine_Watteau_-_Embarkation_for_Cythera.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Antoine_Watteau_-_Embarkation_for_Cythera.jpg",
+    "alt": "Peregrinación a la isla de Citera, Jean-Antoine Watteau",
+    "licencia": "Public domain",
+    "credito": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q41637000",
+    "qid": "Q41637000",
+    "guia": "Peregrinación a la Isla de Citera (Museo del Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

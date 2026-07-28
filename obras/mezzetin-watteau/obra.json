@@ -1,0 +1,50 @@
+{
+  "id": "mezzetin-watteau",
+  "titulo": "Mezzetin",
+  "autor": "Jean-Antoine Watteau",
+  "fecha": "c. 1717",
+  "fechaOrden": 1717,
+  "tipo": "Pintura",
+  "periodo": "Rococó",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Antoine Watteau.",
+  "localizacion": "Museo Metropolitano de Arte",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Metropolitano%20de%20Arte%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jean-Antoine Watteau",
+    "Rococó",
+    "Barroco",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q17635065",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2261,
+    2904
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Jean-Antoine_Watteau_-_Mezzetin.JPG/1920px-Jean-Antoine_Watteau_-_Mezzetin.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jean-Antoine_Watteau_-_Mezzetin.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jean-Antoine_Watteau_-_Mezzetin.JPG",
+    "alt": "Mezzetin, Jean-Antoine Watteau",
+    "licencia": "Public domain",
+    "credito": "Metropolitan Museum of Art, online collection (accession number 34.138)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17635065",
+    "qid": "Q17635065",
+    "guia": "Mezzetin (Metropolitan Museum, Nueva York)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

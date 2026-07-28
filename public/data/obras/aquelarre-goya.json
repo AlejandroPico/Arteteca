@@ -1,0 +1,87 @@
+{
+  "id": "aquelarre-goya",
+  "titulo": "El aquelarre",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1820–1823",
+  "fechaOrden": 1820,
+  "tipo": "Pintura",
+  "periodo": "Pinturas negras",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Una multitud de rostros deformados rodea a un gran macho cabrío mientras una joven queda aislada en el extremo.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Técnica mixta trasladada de revoco a lienzo"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "De la Ilustración al Romanticismo",
+    "España",
+    "Francisco de Goya",
+    "Pintura",
+    "Pinturas negras",
+    "Técnica mixta trasladada de revoco a lienzo"
+  ],
+  "proporcion": [
+    438,
+    140
+  ],
+  "color": "#595247",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco%20de%20Goya%20y%20Lucientes%20-%20Witches'%20Sabbath%20(The%20Great%20He-Goat).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco%20de%20Goya%20y%20Lucientes%20-%20Witches'%20Sabbath%20(The%20Great%20He-Goat).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Francisco%20de%20Goya%20y%20Lucientes%20-%20Witches'%20Sabbath%20(The%20Great%20He-Goat).jpg",
+    "alt": "El aquelarre, de Francisco de Goya",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Francisco de Goya · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco%20de%20Goya%20y%20Lucientes%20-%20Witches'%20Sabbath%20(The%20Great%20He-Goat).jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco%20de%20Goya%20y%20Lucientes%20-%20Witches'%20Sabbath%20(The%20Great%20He-Goat).jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nUna multitud de rostros deformados rodea a un gran macho cabrío mientras una joven queda aislada en el extremo.\n\n## Una pista visual\n\nRecorre la cadena de perfiles y gestos; la masa oscura del macho cabrío domina sin ocupar el centro geométrico actual.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nLa composición original era más ancha y fue alterada al trasladarse desde los muros de la Quinta del Sordo.\n\n**Autor:** Francisco de Goya  \n**Fecha:** c. 1820–1823  \n**Marco:** Pinturas negras  \n**Conservación actual:** Museo Nacional del Prado, Madrid.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Técnica mixta trasladada de revoco a lienzo**. Su formato aproximado, expresado como relación entre ancho y alto, es **438:140**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nLa obra condensa superstición, violencia colectiva y sátira en una visión deliberadamente incómoda.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Francisco de Goya con otras obras de **Pinturas negras**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francisco%20de%20Goya%20y%20Lucientes%20-%20Witches'%20Sabbath%20(The%20Great%20He-Goat).jpg)\n- [Sitio oficial de Museo Nacional del Prado](https://www.museodelprado.es/)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

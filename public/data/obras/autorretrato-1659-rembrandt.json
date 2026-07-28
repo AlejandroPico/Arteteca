@@ -1,0 +1,87 @@
+{
+  "id": "autorretrato-1659-rembrandt",
+  "titulo": "Autorretrato con boina y cuello alzado",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "1659",
+  "fechaOrden": 1659,
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Rembrandt se presenta ante un fondo abierto, con rostro iluminado y una pincelada que registra edad, oficio y construcción de identidad.",
+  "localizacion": "National Gallery of Art",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.nga.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Art%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "Barroco europeo",
+    "Barroco neerlandés",
+    "Estados Unidos",
+    "Pintura",
+    "Rembrandt van Rijn",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    66,
+    85
+  ],
+  "color": "#5b4937",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20van%20Rijn%2C%20Self-Portrait%2C%201659%2C%20NGA%2079.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20van%20Rijn%2C%20Self-Portrait%2C%201659%2C%20NGA%2079.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rembrandt%20van%20Rijn%2C%20Self-Portrait%2C%201659%2C%20NGA%2079.jpg",
+    "alt": "Autorretrato con boina y cuello alzado, de Rembrandt van Rijn",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rembrandt van Rijn · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20van%20Rijn%2C%20Self-Portrait%2C%201659%2C%20NGA%2079.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rembrandt%20van%20Rijn%2C%20Self-Portrait%2C%201659%2C%20NGA%2079.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nRembrandt se presenta ante un fondo abierto, con rostro iluminado y una pincelada que registra edad, oficio y construcción de identidad.\n\n## Una pista visual\n\nObserva cómo zonas aparentemente sueltas —boina, mejilla, cuello— adquieren volumen a la distancia adecuada.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nForma parte de una secuencia excepcional de autorretratos en la que el artista examinó su imagen durante cuatro décadas.\n\n**Autor:** Rembrandt van Rijn  \n**Fecha:** 1659  \n**Marco:** Barroco neerlandés  \n**Conservación actual:** National Gallery of Art, Washington D. C..\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Óleo sobre lienzo**. Su formato aproximado, expresado como relación entre ancho y alto, es **66:85**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nLa serie de autorretratos de Rembrandt cambió la manera de entender la autobiografía visual del artista.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Rembrandt van Rijn con otras obras de **Barroco neerlandés**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rembrandt%20van%20Rijn%2C%20Self-Portrait%2C%201659%2C%20NGA%2079.jpg)\n- [Sitio oficial de National Gallery of Art](https://www.nga.gov/)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Art%2C%20Washington%20D.%20C.)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

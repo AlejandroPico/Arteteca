@@ -1,0 +1,51 @@
+{
+  "id": "las-modelos-seurat",
+  "titulo": "Las modelos",
+  "tituloOriginal": "The Models",
+  "autor": "Georges Seurat",
+  "fecha": "c. 1886",
+  "fechaOrden": 1886,
+  "tipo": "Pintura",
+  "periodo": "Neoimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Georges Seurat.",
+  "localizacion": "Barnes Foundation",
+  "ciudad": "Filadelfia",
+  "urlLocalizacion": "https://www.barnesfoundation.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Barnes%20Foundation%2C%20Filadelfia",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Georges Seurat",
+    "Neoimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q3234845",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4096,
+    3298
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Georges_Seurat_-_Models_%28Poseuses%29_-_BF811_-_Barnes_Foundation.jpg/1920px-Georges_Seurat_-_Models_%28Poseuses%29_-_BF811_-_Barnes_Foundation.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/39/Georges_Seurat_-_Models_%28Poseuses%29_-_BF811_-_Barnes_Foundation.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_Models_(Poseuses)_-_BF811_-_Barnes_Foundation.jpg",
+    "alt": "Las modelos, Georges Seurat",
+    "licencia": "Public domain",
+    "credito": "https://collection.barnesfoundation.org/objects/6994/details",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3234845",
+    "qid": "Q3234845",
+    "guia": "Las Modelos / Les Poseuses (Barnes Foundation)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

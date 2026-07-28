@@ -1,0 +1,44 @@
+{
+  "id": "diadumeno-policleto",
+  "titulo": "Diadúmeno",
+  "tituloOriginal": "Diadumenos",
+  "autor": "Policleto",
+  "fecha": "c. 430 a. C.",
+  "fechaOrden": -430,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Estatua de Policleto.",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Policleto",
+    "Grecia clásica",
+    "Grecia y Roma",
+    "Obra de arte",
+    "Wikidata Q1208140",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3000,
+    4000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Diad%C3%BAmeno%2C_Atenas%2C_Grecia%2C_2019_07.jpg/1920px-Diad%C3%BAmeno%2C_Atenas%2C_Grecia%2C_2019_07.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Diad%C3%BAmeno%2C_Atenas%2C_Grecia%2C_2019_07.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Diad%C3%BAmeno,_Atenas,_Grecia,_2019_07.jpg",
+    "alt": "Diadúmeno, Policleto",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1208140",
+    "qid": "Q1208140",
+    "guia": "Diadúmeno (Atleta ceñizor de la cinta)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "la-coronacion-de-espinas-vecellio",
+  "titulo": "La coronación de espinas",
+  "tituloOriginal": "The Crowning with Thorns",
+  "autor": "Tiziano Vecellio",
+  "fecha": "c. 1542",
+  "fechaOrden": 1542,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Tiziano, Louvre.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "panel de álamo"
+  ],
+  "etiquetas": [
+    "Tiziano Vecellio",
+    "Renacimiento veneciano",
+    "Renacimiento",
+    "Francia",
+    "Pintura",
+    "Wikidata Q24090",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1137,
+    1900
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Titian_-_Crowning_with_Thorns_-_WGA22806.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/61/Titian_-_Crowning_with_Thorns_-_WGA22806.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Titian_-_Crowning_with_Thorns_-_WGA22806.jpg",
+    "alt": "La coronación de espinas, Tiziano Vecellio",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"t/tiziano/04_1540s/1crownin\"",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q24090",
+    "qid": "Q24090",
+    "guia": "La Coronación de Espinas (Louvre / Múnich)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

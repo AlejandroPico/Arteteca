@@ -1,0 +1,51 @@
+{
+  "id": "la-muerte-de-marat-david",
+  "titulo": "La muerte de Marat",
+  "tituloOriginal": "The Death of Marat",
+  "autor": "Jacques-Louis David",
+  "fecha": "c. 1793",
+  "fechaOrden": 1793,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Jacques-Louis David.",
+  "localizacion": "Museos Reales de Bellas Artes de Bélgica",
+  "ciudad": "Región de Bruselas-Capital",
+  "urlLocalizacion": "http://www.fine-arts-museum.be",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Reales%20de%20Bellas%20Artes%20de%20B%C3%A9lgica%2C%20Regi%C3%B3n%20de%20Bruselas-Capital",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jacques-Louis David",
+    "Neoclasicismo",
+    "De la Ilustración al Romanticismo",
+    "Bélgica",
+    "Pintura",
+    "Wikidata Q636537",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    16134,
+    20762
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg/1920px-Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg",
+    "alt": "La muerte de Marat, Jacques-Louis David",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — 7QGjl9R141MCBw",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q636537",
+    "qid": "Q636537",
+    "guia": "La Muerte de Marat (Musées Royaux, Bruselas)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

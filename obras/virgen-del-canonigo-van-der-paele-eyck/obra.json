@@ -1,0 +1,51 @@
+{
+  "id": "virgen-del-canonigo-van-der-paele-eyck",
+  "titulo": "Virgen del canónigo Van der Paele",
+  "tituloOriginal": "Madonna with Canon Joris van der Paele",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1436",
+  "fechaOrden": 1436,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jan van Eyck.",
+  "localizacion": "Museo Groeninge",
+  "ciudad": "Brujas",
+  "urlLocalizacion": "https://www.museabrugge.be/bezoek-onze-musea/onze-musea-en-monumenten/groeningemuseum",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Groeninge%2C%20Brujas",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Jan van Eyck",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Bélgica",
+    "Pintura",
+    "Wikidata Q2480921",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    8089,
+    6279
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eyck%2C_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg/1920px-Eyck%2C_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Eyck%2C_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Eyck,_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg",
+    "alt": "Virgen del canónigo Van der Paele, Jan van Eyck",
+    "licencia": "Public domain",
+    "credito": "https://vlaamsekunstcollectie.be/collectie/0000-gro0161-i",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2480921",
+    "qid": "Q2480921",
+    "guia": "La Virgen del Canónigo van der Paele (Brujas)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

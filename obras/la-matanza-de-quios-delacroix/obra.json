@@ -1,0 +1,50 @@
+{
+  "id": "la-matanza-de-quios-delacroix",
+  "titulo": "La matanza de Quíos",
+  "tituloOriginal": "The Massacre at Chios",
+  "autor": "Eugène Delacroix",
+  "fecha": "c. 1824",
+  "fechaOrden": 1824,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Eugène Delacroix.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Eugène Delacroix",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q2290433",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6807,
+    8084
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sc%C3%A8ne_des_massacres_de_Scio%2C_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3823_%3B_C3.jpg/1920px-Sc%C3%A8ne_des_massacres_de_Scio%2C_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3823_%3B_C3.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sc%C3%A8ne_des_massacres_de_Scio%2C_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3823_%3B_C3.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sc%C3%A8ne_des_massacres_de_Scio,_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3823_;_C3.jpg",
+    "alt": "La matanza de Quíos, Eugène Delacroix",
+    "licencia": "Public domain",
+    "credito": "photo Shonagon 2024-02-09",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2290433",
+    "qid": "Q2290433",
+    "guia": "La Matanza de Quíos (Museo del Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

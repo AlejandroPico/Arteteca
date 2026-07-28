@@ -1,0 +1,97 @@
+{
+  "id": "la-vision-tras-el-sermon-gauguin",
+  "titulo": "La visión tras el sermón",
+  "tituloOriginal": "Vision After the Sermon",
+  "autor": "Paul Gauguin",
+  "fecha": "c. 1888",
+  "fechaOrden": 1888,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Gauguin.",
+  "localizacion": "Galerías nacionales de Escocia",
+  "ciudad": "City de Edimburgo",
+  "urlLocalizacion": "https://www.nationalgalleries.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADas%20nacionales%20de%20Escocia%2C%20City%20de%20Edimburgo",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Guía maestra 2026",
+    "lienzo",
+    "Paul Gauguin",
+    "Pintura",
+    "Postimpresionismo",
+    "Reino Unido",
+    "Romanticismo, Realismo e Impresionismo",
+    "Wikidata Q1764395",
+    "óleo"
+  ],
+  "proporcion": [
+    5000,
+    3918
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/1920px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_vision_apr%C3%A8s_le_sermon_(Paul_Gauguin).jpg",
+    "alt": "La visión tras el sermón, Paul Gauguin",
+    "licencia": "Public domain",
+    "credito": "4. https://www.thetimes.com/magazines/culture-magazine/article/wild-thing-life-paul-gauguin-sue-prideaux-tk55c57wl · 1. http://www.nationalgalleries.org",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/1920px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764395",
+    "qid": "Q1764395",
+    "guia": "Vision tras el Sermón / Jacob luchando con el Ángel (Edimburgo)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La visión tras el sermón** se incorpora al mosaico como pintura de **Paul Gauguin**. Cuadro de Paul Gauguin.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Paul Gauguin\n- **Datación registrada:** c. 1888\n- **Periodo de navegación:** Postimpresionismo\n- **Colección temática:** Romanticismo, Realismo e Impresionismo\n- **Colección o ubicación:** Galerías nacionales de Escocia\n- **Lugar asociado:** City de Edimburgo\n- **País asociado a la colección:** Reino Unido\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Vision tras el Sermón / Jacob luchando con el Ángel (Edimburgo)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q1764395** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 91 cm × 72,2 cm\n- **Archivo digital:** 5000 × 3918 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Paul Gauguin** y del **Postimpresionismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q1764395)](https://www.wikidata.org/wiki/Q1764395)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:La_vision_apr%C3%A8s_le_sermon_(Paul_Gauguin).jpg)\n- [Colección o institución asociada](https://www.nationalgalleries.org/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "los-burgueses-de-calais-rodin",
+  "titulo": "Los burgueses de Calais",
+  "tituloOriginal": "The Burghers of Calais",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1888",
+  "fechaOrden": 1888,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Auguste Rodin.",
+  "tecnicas": [
+    "bronce"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Escultura",
+    "Wikidata Q978987",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3919,
+    2985
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_Burghers_of_Calais_MET_DP221863.jpg/1920px-The_Burghers_of_Calais_MET_DP221863.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Burghers_of_Calais_MET_DP221863.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Burghers_of_Calais_MET_DP221863.jpg",
+    "alt": "Los burgueses de Calais, Auguste Rodin",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q978987",
+    "qid": "Q978987",
+    "guia": "Los Burgueses de Calais (Calais / París)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "la-disputa-del-sacramento-rafael",
+  "titulo": "La disputa del Sacramento",
+  "tituloOriginal": "Disputation of the Holy Sacrament",
+  "autor": "Rafael",
+  "fecha": "c. 1509",
+  "fechaOrden": 1509,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Fresco de Rafael.",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "http://www.museivaticani.va",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "fresco"
+  ],
+  "etiquetas": [
+    "Rafael",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Ciudad del Vaticano",
+    "Pintura mural",
+    "Wikidata Q549953",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6720,
+    4480
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Raphaels_Disputation_of_the_Holy_Sacrament.jpg/1920px-Raphaels_Disputation_of_the_Holy_Sacrament.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Raphaels_Disputation_of_the_Holy_Sacrament.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Raphaels_Disputation_of_the_Holy_Sacrament.jpg",
+    "alt": "La disputa del Sacramento, Rafael",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q549953",
+    "qid": "Q549953",
+    "guia": "La Disputa del Sacramento (Estancias Vaticanas)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

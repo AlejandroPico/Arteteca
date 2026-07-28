@@ -1,0 +1,49 @@
+{
+  "id": "fuente-del-triton-bernini",
+  "titulo": "Fuente del Tritón",
+  "tituloOriginal": "Triton Fountain",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "Fecha no determinada",
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Fuente en Roma.",
+  "localizacion": "Plaza Barberini",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q947037",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Plaza%20Barberini%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "mármol",
+    "travertino"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Italia",
+    "Escultura",
+    "Wikidata Q267971",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3641,
+    5454
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Fontana_del_Tritone%2CRome.jpg/1920px-Fontana_del_Tritone%2CRome.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Fontana_del_Tritone%2CRome.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Fontana_del_Tritone,Rome.jpg",
+    "alt": "Fuente del Tritón, Gian Lorenzo Bernini",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q267971",
+    "qid": "Q267971",
+    "guia": "Fuente del Tritón (Piazza Barberini)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

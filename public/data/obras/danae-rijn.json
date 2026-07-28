@@ -1,0 +1,95 @@
+{
+  "id": "danae-rijn",
+  "titulo": "Dánae",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "c. 1636",
+  "fechaOrden": 1636,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Rembrandt.",
+  "localizacion": "Museo del Hermitage",
+  "ciudad": "San Petersburgo",
+  "urlLocalizacion": "https://hermitagemuseum.org",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Hermitage%2C%20San%20Petersburgo",
+  "pais": "Rusia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Guía maestra 2026",
+    "lienzo",
+    "Pintura",
+    "Rembrandt van Rijn",
+    "Rusia",
+    "Wikidata Q2294441",
+    "óleo"
+  ],
+  "proporcion": [
+    3176,
+    2860
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rembrandt_Harmensz._van_Rijn_026.jpg/1920px-Rembrandt_Harmensz._van_Rijn_026.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/88/Rembrandt_Harmensz._van_Rijn_026.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_026.jpg",
+    "alt": "Dánae, Rembrandt van Rijn",
+    "licencia": "Public domain",
+    "credito": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rembrandt_Harmensz._van_Rijn_026.jpg/1920px-Rembrandt_Harmensz._van_Rijn_026.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/88/Rembrandt_Harmensz._van_Rijn_026.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2294441",
+    "qid": "Q2294441",
+    "guia": "Dánae (Hermitage)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Dánae** se incorpora al mosaico como pintura de **Rembrandt van Rijn**. Cuadro de Rembrandt.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Rembrandt van Rijn\n- **Datación registrada:** c. 1636\n- **Periodo de navegación:** Barroco\n- **Colección temática:** Barroco\n- **Colección o ubicación:** Museo del Hermitage\n- **Lugar asociado:** San Petersburgo\n- **País asociado a la colección:** Rusia\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Dánae (Hermitage)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q2294441** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 202,5 cm × 185 cm\n- **Archivo digital:** 3176 × 2860 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Rembrandt van Rijn** y del **Barroco** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q2294441)](https://www.wikidata.org/wiki/Q2294441)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_026.jpg)\n- [Colección o institución asociada](https://hermitagemuseum.org)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

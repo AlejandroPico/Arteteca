@@ -1,0 +1,97 @@
+{
+  "id": "la-casa-del-ahorcado-auvers-sur-oise-cezanne",
+  "titulo": "La casa del ahorcado, Auvers-sur-Oise",
+  "tituloOriginal": "La Maison du pendu, Auvers-sur-Oise",
+  "autor": "Paul Cézanne",
+  "fecha": "c. 1874",
+  "fechaOrden": 1874,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Cézanne.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Francia",
+    "Guía maestra 2026",
+    "lienzo",
+    "Paul Cézanne",
+    "Pintura",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Wikidata Q3821663",
+    "óleo"
+  ],
+  "proporcion": [
+    1460,
+    1200
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_FWN_81.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7c/La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_FWN_81.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_Maison_du_pendu,_Auvers-sur-Oise,_par_Paul_C%C3%A9zanne,_FWN_81.jpg",
+    "alt": "La casa del ahorcado, Auvers-sur-Oise, Paul Cézanne",
+    "licencia": "Public domain",
+    "credito": "https://www.cezannecatalogue.com/catalogue/entry.php?id=206",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_FWN_81.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7c/La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_FWN_81.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3821663",
+    "qid": "Q3821663",
+    "guia": "La Casa del Ahorcado en Auvers (Orsay)",
+    "coincidencia": 0.809,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La casa del ahorcado, Auvers-sur-Oise** se incorpora al mosaico como pintura de **Paul Cézanne**. Cuadro de Paul Cézanne.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Paul Cézanne\n- **Datación registrada:** c. 1874\n- **Periodo de navegación:** Postimpresionismo\n- **Colección temática:** Romanticismo, Realismo e Impresionismo\n- **Colección o ubicación:** Museo de Orsay\n- **Lugar asociado:** VII Distrito de París\n- **País asociado a la colección:** Francia\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Casa del Ahorcado en Auvers (Orsay)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q3821663** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 66,3 cm × 55,5 cm\n- **Archivo digital:** 1460 × 1200 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Paul Cézanne** y del **Postimpresionismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q3821663)](https://www.wikidata.org/wiki/Q3821663)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:La_Maison_du_pendu,_Auvers-sur-Oise,_par_Paul_C%C3%A9zanne,_FWN_81.jpg)\n- [Colección o institución asociada](https://www.musee-orsay.fr)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

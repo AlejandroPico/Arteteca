@@ -1,0 +1,51 @@
+{
+  "id": "salvator-mundi-vinci",
+  "titulo": "Salvator Mundi",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1490",
+  "fechaOrden": 1490,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Leonardo da Vinci.",
+  "localizacion": "Louvre Abu Dabi",
+  "ciudad": "Abu Dhabi",
+  "urlLocalizacion": "https://www.louvreabudhabi.ae/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Louvre%20Abu%20Dabi%2C%20Abu%20Dhabi",
+  "pais": "Emiratos Árabes Unidos",
+  "tecnicas": [
+    "óleo",
+    "tabla de nogal",
+    "Juglans"
+  ],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Emiratos Árabes Unidos",
+    "Pintura",
+    "Wikidata Q1892745",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3300,
+    4856
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg/1920px-Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci,_Salvator_Mundi,_c.1500,_oil_on_walnut,_45.4_%C3%97_65.6_cm.jpg",
+    "alt": "Salvator Mundi, Leonardo da Vinci",
+    "licencia": "Public domain",
+    "credito": "Getty Images",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1892745",
+    "qid": "Q1892745",
+    "guia": "Salvator Mundi",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

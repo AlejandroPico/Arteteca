@@ -1,0 +1,96 @@
+{
+  "id": "vista-de-delft-vermeer",
+  "titulo": "Vista de Delft",
+  "tituloOriginal": "View of Delft",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1661",
+  "fechaOrden": 1661,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Pintura de Johannes Vermeer.",
+  "localizacion": "Mauritshuis",
+  "ciudad": "La Haya",
+  "urlLocalizacion": "https://www.mauritshuis.nl",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mauritshuis%2C%20La%20Haya",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Guía maestra 2026",
+    "Johannes Vermeer",
+    "lienzo",
+    "Países Bajos",
+    "Pintura",
+    "Wikidata Q523974",
+    "óleo"
+  ],
+  "proporcion": [
+    6000,
+    5002
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg/1920px-Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+    "alt": "Vista de Delft, Johannes Vermeer",
+    "licencia": "Public domain",
+    "credito": "Mauritshuis",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg/1920px-Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q523974",
+    "qid": "Q523974",
+    "guia": "Vista de Delft (Mauritshuis)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Vista de Delft** se incorpora al mosaico como pintura de **Johannes Vermeer**. Pintura de Johannes Vermeer.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Johannes Vermeer\n- **Datación registrada:** c. 1661\n- **Periodo de navegación:** Barroco\n- **Colección temática:** Barroco\n- **Colección o ubicación:** Mauritshuis\n- **Lugar asociado:** La Haya\n- **País asociado a la colección:** Países Bajos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Vista de Delft (Mauritshuis)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q523974** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 115,7 cm × 96,5 cm\n- **Archivo digital:** 6000 × 5002 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Johannes Vermeer** y del **Barroco** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q523974)](https://www.wikidata.org/wiki/Q523974)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg)\n- [Colección o institución asociada](https://www.mauritshuis.nl)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

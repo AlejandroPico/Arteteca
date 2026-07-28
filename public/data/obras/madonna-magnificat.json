@@ -1,0 +1,87 @@
+{
+  "id": "madonna-magnificat",
+  "titulo": "Madonna del Magnificat",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1481",
+  "fechaOrden": 1481,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Ángeles coronan a María mientras ella escribe el Magnificat y sostiene al Niño dentro de un tondo de ritmos circulares.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/the-uffizi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Temple sobre tabla"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "Italia",
+    "Pintura",
+    "Primer Renacimiento",
+    "Renacimiento italiano",
+    "Sandro Botticelli",
+    "Temple sobre tabla"
+  ],
+  "proporcion": [
+    118,
+    118
+  ],
+  "color": "#8d654f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Madonna%20del%20Magnificat%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Madonna%20del%20Magnificat%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sandro%20Botticelli%20-%20Madonna%20del%20Magnificat%20-%20Google%20Art%20Project.jpg",
+    "alt": "Madonna del Magnificat, de Sandro Botticelli",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Sandro Botticelli · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Madonna%20del%20Magnificat%20-%20Google%20Art%20Project.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sandro%20Botticelli%20-%20Madonna%20del%20Magnificat%20-%20Google%20Art%20Project.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nÁngeles coronan a María mientras ella escribe el Magnificat y sostiene al Niño dentro de un tondo de ritmos circulares.\n\n## Una pista visual\n\nObserva cómo brazos, miradas y bordes del libro prolongan la curva del marco.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nEl formato circular exigía coordinar manos, libro, corona y figuras en un espacio doméstico de intensa sofisticación.\n\n**Autor:** Sandro Botticelli  \n**Fecha:** c. 1481  \n**Marco:** Primer Renacimiento  \n**Conservación actual:** Galería Uffizi, Florencia.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Temple sobre tabla**. Su formato aproximado, expresado como relación entre ancho y alto, es **118:118**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSe convirtió en una de las formulaciones más refinadas del tondo devocional florentino.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Sandro Botticelli con otras obras de **Primer Renacimiento**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sandro%20Botticelli%20-%20Madonna%20del%20Magnificat%20-%20Google%20Art%20Project.jpg)\n- [Sitio oficial de Galería Uffizi](https://www.uffizi.it/en/the-uffizi)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

@@ -110,11 +110,11 @@ El proyecto no debe imponer el gusto clásico de su creador como único criterio
 
 En la revisión de julio de 2026, Arteteca contiene:
 
-- 200 obras;
-- 990 pestañas documentales;
-- 37 tipos de obra;
-- 99 periodos, movimientos o marcos culturales;
-- 100 artistas o atribuciones;
+- 480 obras;
+- 2.390 pestañas documentales;
+- 41 tipos de obra;
+- 111 periodos, movimientos o marcos culturales;
+- 121 artistas o atribuciones;
 - 18 colecciones editoriales.
 
 Estos números son una fotografía temporal, no constantes de programación. No los escribas como valores fijos en la interfaz. El compilador y `public/data/catalogo.json` deben ser siempre quienes determinen las cifras vigentes.
@@ -1764,6 +1764,37 @@ Después de generar:
 - ejecuta el compilador;
 - consulta las cifras de SQLite;
 - abre obras de cada bloque.
+
+### 18.6. Importar guías o listados externos
+
+Una lista aportada por el usuario es una **fuente de selección**, no una autoridad
+bibliográfica ni una orden para fabricar fichas sin comprobar. Antes de
+incorporarla:
+
+1. cuenta y estructura sus entradas;
+2. compara por autor, título, variantes lingüísticas y obra concreta;
+3. separa obras autónomas de fragmentos, series, ciclos y conjuntos;
+4. distingue originales conservados, copias históricas, reconstrucciones y obras
+   perdidas;
+5. resuelve cada identidad contra un identificador estable —por ejemplo,
+   Wikidata— y conserva ese identificador como trazabilidad;
+6. valida en Commons o en la institución que la imagen corresponde a la obra,
+   tiene resolución suficiente y declara una licencia reutilizable;
+7. no incorpores automáticamente una obra contemporánea solo porque aparezca una
+   fotografía en internet;
+8. registra las coincidencias dudosas y déjalas pendientes, en vez de forzar un
+   resultado.
+
+Cuando una reconstrucción o copia sea útil para documentar un original perdido,
+el título, la descripción, el tipo y la pestaña de fuentes deben decirlo de
+forma inequívoca. La imagen nunca puede hacerse pasar por el original.
+
+La ampliación de julio de 2026 basada en la *Guía Maestra: Artistas y Obras de
+la Historia* siguió este protocolo. Su auditoría queda documentada en:
+
+```text
+docs/auditoria-guia-maestra-2026-07.md
+```
 
 ---
 

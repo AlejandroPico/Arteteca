@@ -1,0 +1,51 @@
+{
+  "id": "retrato-de-hieronymus-holzschuher-durero",
+  "titulo": "Retrato de Hieronymus Holzschuher",
+  "tituloOriginal": "Portrait of Hieronymus Holzschuher",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1526",
+  "fechaOrden": 1526,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Alberto Durero.",
+  "localizacion": "Gemäldegalerie de Berlín",
+  "ciudad": "Mitte",
+  "urlLocalizacion": "http://www.smb.museum/gg",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gem%C3%A4ldegalerie%20de%20Berl%C3%ADn%2C%20Mitte",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "lime panel"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q3937568",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2892,
+    4000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/D%C3%BCrer_-_Hieronymus_Holzschuher_%281469-1529%29_mit_Deckel%2C_1526%2C_557E.jpg/1920px-D%C3%BCrer_-_Hieronymus_Holzschuher_%281469-1529%29_mit_Deckel%2C_1526%2C_557E.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a9/D%C3%BCrer_-_Hieronymus_Holzschuher_%281469-1529%29_mit_Deckel%2C_1526%2C_557E.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:D%C3%BCrer_-_Hieronymus_Holzschuher_(1469-1529)_mit_Deckel,_1526,_557E.jpg",
+    "alt": "Retrato de Hieronymus Holzschuher, Alberto Durero",
+    "licencia": "Public domain",
+    "credito": "Online catalogue of Staatliche Museen zu Berlin",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3937568",
+    "qid": "Q3937568",
+    "guia": "Retrato de Jerónimo Holzschuher",
+    "coincidencia": 0.75,
+    "importada": "2026-07-28"
+  }
+}

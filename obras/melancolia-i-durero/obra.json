@@ -1,0 +1,52 @@
+{
+  "id": "melancolia-i-durero",
+  "titulo": "Melancolía I",
+  "tituloOriginal": "Melencolia I",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1514",
+  "fechaOrden": 1514,
+  "tipo": "Grabado",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Grabado del pintor alemán Alberto Durero.",
+  "localizacion": "Museo Condé",
+  "ciudad": "Chantilly",
+  "urlLocalizacion": "http://musee-conde.fr/fr/accueil",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Cond%C3%A9%2C%20Chantilly",
+  "pais": "Francia",
+  "tecnicas": [
+    "grabado",
+    "papel verjurado",
+    "stone burin"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Francia",
+    "Grabado",
+    "Wikidata Q1362177",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4918,
+    6257
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28427760%29.jpg/1920px-Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28427760%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28427760%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_(427760).jpg",
+    "alt": "Melancolía I, Alberto Durero",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — YgF7QxaxiYRojg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1362177",
+    "qid": "Q1362177",
+    "guia": "Melencolía I (Grabado en Cobre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

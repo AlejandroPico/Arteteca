@@ -1,0 +1,51 @@
+{
+  "id": "regatas-en-argenteuil-monet",
+  "titulo": "Regatas en Argenteuil",
+  "tituloOriginal": "Régates à Argenteuil",
+  "autor": "Claude Monet",
+  "fecha": "c. 1872",
+  "fechaOrden": 1872,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Claude Monet.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Claude Monet",
+    "Impresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q3454959",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5978,
+    3852
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Claude_Monet_-_Regattas_at_Argenteuil_-_Google_Art_Project.jpg/1920px-Claude_Monet_-_Regattas_at_Argenteuil_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/61/Claude_Monet_-_Regattas_at_Argenteuil_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Regattas_at_Argenteuil_-_Google_Art_Project.jpg",
+    "alt": "Regatas en Argenteuil, Claude Monet",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — 6gGcxRaMfrnJ9Q",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3454959",
+    "qid": "Q3454959",
+    "guia": "Regatas en Argenteuil",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

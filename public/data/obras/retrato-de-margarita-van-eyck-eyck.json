@@ -1,0 +1,99 @@
+{
+  "id": "retrato-de-margarita-van-eyck-eyck",
+  "titulo": "Retrato de Margarita van Eyck",
+  "tituloOriginal": "Portrait of Margareta van Eyck",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1439",
+  "fechaOrden": 1439,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jan van Eyck.",
+  "localizacion": "Museo Groeninge",
+  "ciudad": "Brujas",
+  "urlLocalizacion": "https://www.museabrugge.be/bezoek-onze-musea/onze-musea-en-monumenten/groeningemuseum",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Groeninge%2C%20Brujas",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "óleo",
+    "panel de roble",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Bélgica",
+    "Guía maestra 2026",
+    "Jan van Eyck",
+    "panel de roble",
+    "Pintura",
+    "Renacimiento",
+    "Renacimiento nórdico",
+    "tabla",
+    "Wikidata Q3399452",
+    "óleo"
+  ],
+  "proporcion": [
+    4990,
+    6375
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg/1920px-Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_(1439).jpg",
+    "alt": "Retrato de Margarita van Eyck, Jan van Eyck",
+    "licencia": "Public domain",
+    "credito": "https://closertovaneyck.kikirpa.be/verona/#viewer/rep1=2&id1=8949c7560cf951235e2f8baad45f3644",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg/1920px-Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3399452",
+    "qid": "Q3399452",
+    "guia": "Retrato de Margareta van Eyck",
+    "coincidencia": 0.92,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Retrato de Margarita van Eyck** se incorpora al mosaico como pintura de **Jan van Eyck**. Cuadro de Jan van Eyck.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Jan van Eyck\n- **Datación registrada:** c. 1439\n- **Periodo de navegación:** Renacimiento nórdico\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Museo Groeninge\n- **Lugar asociado:** Brujas\n- **País asociado a la colección:** Bélgica\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Retrato de Margareta van Eyck». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q3399452** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, panel de roble, tabla\n- **Dimensiones de la obra:** 25,8 cm × 32,6 cm\n- **Archivo digital:** 4990 × 6375 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Jan van Eyck** y del **Renacimiento nórdico** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q3399452)](https://www.wikidata.org/wiki/Q3399452)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_(1439).jpg)\n- [Colección o institución asociada](https://www.museabrugge.be/bezoek-onze-musea/onze-musea-en-monumenten/groeningemuseum)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

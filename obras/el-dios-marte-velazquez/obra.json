@@ -1,0 +1,50 @@
+{
+  "id": "el-dios-marte-velazquez",
+  "titulo": "El dios Marte",
+  "tituloOriginal": "Mars Resting",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1640",
+  "fechaOrden": 1640,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Diego Velázquez.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Barroco",
+    "España",
+    "Pintura",
+    "Wikidata Q1133875",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1570,
+    3051
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Vel%C3%A1zquez_-_Dios_Marte_%28Museo_del_Prado%2C_1639-41%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Vel%C3%A1zquez_-_Dios_Marte_%28Museo_del_Prado%2C_1639-41%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vel%C3%A1zquez_-_Dios_Marte_(Museo_del_Prado,_1639-41).jpg",
+    "alt": "El dios Marte, Diego Velázquez",
+    "licencia": "Public domain",
+    "credito": "See below.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1133875",
+    "qid": "Q1133875",
+    "guia": "El Dios Marte (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

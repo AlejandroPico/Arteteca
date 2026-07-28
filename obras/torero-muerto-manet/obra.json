@@ -1,0 +1,51 @@
+{
+  "id": "torero-muerto-manet",
+  "titulo": "Torero muerto",
+  "tituloOriginal": "The Dead Toreador",
+  "autor": "Édouard Manet",
+  "fecha": "c. 1864",
+  "fechaOrden": 1864,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Édouard Manet.",
+  "localizacion": "Galería Nacional de Arte",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "http://www.nga.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Nacional%20de%20Arte%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Édouard Manet",
+    "Realismo y modernidad",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q3203711",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3000,
+    1467
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Edouard_Manet_073_%28Toter_Torero%29.jpg/1920px-Edouard_Manet_073_%28Toter_Torero%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Edouard_Manet_073_%28Toter_Torero%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_073_(Toter_Torero).jpg",
+    "alt": "Torero muerto, Édouard Manet",
+    "licencia": "Public domain",
+    "credito": "National Gallery of Art .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3203711",
+    "qid": "Q3203711",
+    "guia": "Torero Muerto (Washington)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

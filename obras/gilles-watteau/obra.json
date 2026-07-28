@@ -1,0 +1,50 @@
+{
+  "id": "gilles-watteau",
+  "titulo": "Gilles",
+  "tituloOriginal": "Pierrot",
+  "autor": "Jean-Antoine Watteau",
+  "fecha": "c. 1718",
+  "fechaOrden": 1718,
+  "tipo": "Pintura",
+  "periodo": "Rococó",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Antoine Watteau.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jean-Antoine Watteau",
+    "Rococó",
+    "Barroco",
+    "Francia",
+    "Pintura",
+    "Wikidata Q3387944",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    7404,
+    8806
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pierrot_-_Antoine_Watteau_-_Mus%C3%A9e_du_Louvre_Peintures_MI_1121_-_apr%C3%A8s_restauration_2024.jpg/1920px-Pierrot_-_Antoine_Watteau_-_Mus%C3%A9e_du_Louvre_Peintures_MI_1121_-_apr%C3%A8s_restauration_2024.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pierrot_-_Antoine_Watteau_-_Mus%C3%A9e_du_Louvre_Peintures_MI_1121_-_apr%C3%A8s_restauration_2024.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pierrot_-_Antoine_Watteau_-_Mus%C3%A9e_du_Louvre_Peintures_MI_1121_-_apr%C3%A8s_restauration_2024.jpg",
+    "alt": "Gilles, Jean-Antoine Watteau",
+    "licencia": "Public domain",
+    "credito": "photo Shonagon 2026-01-02",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3387944",
+    "qid": "Q3387944",
+    "guia": "Gilles / Pierrot (Museo del Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

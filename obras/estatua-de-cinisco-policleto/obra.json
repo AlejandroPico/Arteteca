@@ -1,0 +1,48 @@
+{
+  "id": "estatua-de-cinisco-policleto",
+  "titulo": "Estatua de Cinisco",
+  "tituloOriginal": "Cyniscus",
+  "autor": "Policleto",
+  "fecha": "c. 440 a. C.",
+  "fechaOrden": -440,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Escultura perdida de Policleto.",
+  "localizacion": "Altis",
+  "ciudad": "municipio de la Antigua Olimpia",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q2400346",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Altis%2C%20municipio%20de%20la%20Antigua%20Olimpia",
+  "pais": "Grecia",
+  "tecnicas": [],
+  "etiquetas": [
+    "Policleto",
+    "Grecia clásica",
+    "Grecia y Roma",
+    "Grecia",
+    "Escultura",
+    "Wikidata Q36024140",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1284,
+    1800
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Roman_-_Young_Athlete_of_Westmacott_Type_-_Walters_2324.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/76/Roman_-_Young_Athlete_of_Westmacott_Type_-_Walters_2324.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Roman_-_Young_Athlete_of_Westmacott_Type_-_Walters_2324.jpg",
+    "alt": "Estatua de Cinisco, Policleto",
+    "licencia": "Public domain",
+    "credito": "Walters Art Museum : Home page Info about artwork",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q36024140",
+    "qid": "Q36024140",
+    "guia": "Estatua de Cínisco de Mantinea",
+    "coincidencia": 0.757,
+    "importada": "2026-07-28"
+  }
+}

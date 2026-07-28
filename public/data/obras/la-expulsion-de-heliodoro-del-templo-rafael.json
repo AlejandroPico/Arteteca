@@ -1,0 +1,95 @@
+{
+  "id": "la-expulsion-de-heliodoro-del-templo-rafael",
+  "titulo": "La expulsión de Heliodoro del templo",
+  "tituloOriginal": "The Expulsion of Heliodorus from the Temple",
+  "autor": "Rafael",
+  "fecha": "c. 1511",
+  "fechaOrden": 1511,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Fresco de Rafael Sanzio.",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "http://www.museivaticani.va",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "fresco"
+  ],
+  "etiquetas": [
+    "Alto Renacimiento",
+    "Ciudad del Vaticano",
+    "fresco",
+    "Guía maestra 2026",
+    "Pintura mural",
+    "Rafael",
+    "Renacimiento",
+    "Wikidata Q2294201"
+  ],
+  "proporcion": [
+    1035,
+    749
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Raphael_Heliodorus.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Raphael_Heliodorus.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Raphael_Heliodorus.jpg",
+    "alt": "La expulsión de Heliodoro del templo, Rafael",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"r/raphael/4stanze/2eliodor/1expuls1\"",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Raphael_Heliodorus.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Raphael_Heliodorus.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2294201",
+    "qid": "Q2294201",
+    "guia": "La Expulsión de Heliodoro del Templo",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La expulsión de Heliodoro del templo** se incorpora al mosaico como pintura mural de **Rafael**. Fresco de Rafael Sanzio.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Rafael\n- **Datación registrada:** c. 1511\n- **Periodo de navegación:** Alto Renacimiento\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Museos Vaticanos\n- **Lugar asociado:** Ciudad del Vaticano\n- **País asociado a la colección:** Ciudad del Vaticano\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Expulsión de Heliodoro del Templo». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q2294201** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura mural\n- **Materiales o técnicas consignados:** fresco\n- **Dimensiones de la obra:** 750 cm × 500 cm\n- **Archivo digital:** 1035 × 749 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Rafael** y del **Alto Renacimiento** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q2294201)](https://www.wikidata.org/wiki/Q2294201)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raphael_Heliodorus.jpg)\n- [Colección o institución asociada](http://www.museivaticani.va)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "vieja-friendo-huevos-velazquez",
+  "titulo": "Vieja friendo huevos",
+  "tituloOriginal": "Old Woman Cooking Eggs",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1618",
+  "fechaOrden": 1618,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Diego Velázquez.",
+  "localizacion": "Galerías nacionales de Escocia",
+  "ciudad": "City de Edimburgo",
+  "urlLocalizacion": "https://www.nationalgalleries.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADas%20nacionales%20de%20Escocia%2C%20City%20de%20Edimburgo",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Barroco",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q2471800",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5816,
+    4918
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg/1920px-Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/13/Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg",
+    "alt": "Vieja friendo huevos, Diego Velázquez",
+    "licencia": "Public domain",
+    "credito": "yAExwHvTwQkv1Q at Google Cultural Institute maximum zoom level",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2471800",
+    "qid": "Q2471800",
+    "guia": "Vieja Friendo Huevos (Edimburgo)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

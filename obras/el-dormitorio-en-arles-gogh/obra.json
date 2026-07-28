@@ -1,0 +1,45 @@
+{
+  "id": "el-dormitorio-en-arles-gogh",
+  "titulo": "El dormitorio en Arles",
+  "tituloOriginal": "Bedroom in Arles",
+  "autor": "Vincent van Gogh",
+  "fecha": "c. 1888",
+  "fechaOrden": 1888,
+  "tipo": "Serie artística",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Obra de Vincent van Gogh.",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Vincent van Gogh",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Serie artística",
+    "Wikidata Q724377",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    30000,
+    23803
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg/1920px-Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+    "alt": "El dormitorio en Arles, Vincent van Gogh",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — KwF-AdF1REQl6w",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q724377",
+    "qid": "Q724377",
+    "guia": "El Dormitorio en Arlés (Van Gogh Museum, Ámsterdam / Chicago)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

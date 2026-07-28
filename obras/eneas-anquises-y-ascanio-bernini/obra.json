@@ -1,0 +1,48 @@
+{
+  "id": "eneas-anquises-y-ascanio-bernini",
+  "titulo": "Eneas, Anquises y Ascanio",
+  "tituloOriginal": "Aeneas, Anchises and Ascanius",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "c. 1618",
+  "fechaOrden": 1618,
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Escultura de Gian Lorenzo Bernini.",
+  "localizacion": "Colección Borghese",
+  "urlLocalizacion": "https://galleriaborghese.beniculturali.it/il-museo/la-collezione/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecci%C3%B3n%20Borghese",
+  "pais": "Italia",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Italia",
+    "Escultura",
+    "Wikidata Q3725175",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1476,
+    3694
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gianlorenzo_e_pietro_bernini%2C_enea%2C_anchise_e_ascanio%2C_1618-19%2C_01.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gianlorenzo_e_pietro_bernini%2C_enea%2C_anchise_e_ascanio%2C_1618-19%2C_01.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gianlorenzo_e_pietro_bernini,_enea,_anchise_e_ascanio,_1618-19,_01.jpg",
+    "alt": "Eneas, Anquises y Ascanio, Gian Lorenzo Bernini",
+    "licencia": "CC BY 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3725175",
+    "qid": "Q3725175",
+    "guia": "Eneas, Anquises y Ascanio (Galería Borghese)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

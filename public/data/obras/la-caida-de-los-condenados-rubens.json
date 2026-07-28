@@ -1,0 +1,96 @@
+{
+  "id": "la-caida-de-los-condenados-rubens",
+  "titulo": "La Caída de los Condenados",
+  "tituloOriginal": "The Fall of the Damned",
+  "autor": "Peter Paul Rubens",
+  "fecha": "c. 1621",
+  "fechaOrden": 1621,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Peter Paul Rubens.",
+  "localizacion": "Colecciones de Pinturas del Estado de Baviera",
+  "ciudad": "Múnich",
+  "urlLocalizacion": "http://www.pinakothek.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecciones%20de%20Pinturas%20del%20Estado%20de%20Baviera%2C%20M%C3%BAnich",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Alemania",
+    "Barroco",
+    "Guía maestra 2026",
+    "Peter Paul Rubens",
+    "Pintura",
+    "tabla",
+    "Wikidata Q203259",
+    "óleo"
+  ],
+  "proporcion": [
+    2920,
+    3750
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Peter_Paul_Rubens_-_Fall_of_the_damned.jpg/1920px-Peter_Paul_Rubens_-_Fall_of_the_damned.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/12/Peter_Paul_Rubens_-_Fall_of_the_damned.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Fall_of_the_damned.jpg",
+    "alt": "La Caída de los Condenados, Peter Paul Rubens",
+    "licencia": "Public domain",
+    "credito": "https://www.sammlung.pinakothek.de/de/artwork/7yxYmWNxYm",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Peter_Paul_Rubens_-_Fall_of_the_damned.jpg/1920px-Peter_Paul_Rubens_-_Fall_of_the_damned.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/12/Peter_Paul_Rubens_-_Fall_of_the_damned.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q203259",
+    "qid": "Q203259",
+    "guia": "La Caída de los Condenados (Múnich)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La Caída de los Condenados** se incorpora al mosaico como pintura de **Peter Paul Rubens**. Cuadro de Peter Paul Rubens.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Peter Paul Rubens\n- **Datación registrada:** c. 1621\n- **Periodo de navegación:** Barroco\n- **Colección temática:** Barroco\n- **Colección o ubicación:** Colecciones de Pinturas del Estado de Baviera\n- **Lugar asociado:** Múnich\n- **País asociado a la colección:** Alemania\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Caída de los Condenados (Múnich)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q203259** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, tabla\n- **Dimensiones de la obra:** 224 cm × 286 cm\n- **Archivo digital:** 2920 × 3750 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Peter Paul Rubens** y del **Barroco** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q203259)](https://www.wikidata.org/wiki/Q203259)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Fall_of_the_damned.jpg)\n- [Colección o institución asociada](http://www.pinakothek.de/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

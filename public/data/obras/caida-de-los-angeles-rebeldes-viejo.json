@@ -1,0 +1,97 @@
+{
+  "id": "caida-de-los-angeles-rebeldes-viejo",
+  "titulo": "Caída de los ángeles rebeldes",
+  "tituloOriginal": "The Fall of the Rebel Angels",
+  "autor": "Pieter Brueghel el Viejo",
+  "fecha": "c. 1562",
+  "fechaOrden": 1562,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Pieter Brueghel el Viejo.",
+  "localizacion": "Museos Reales de Bellas Artes de Bélgica",
+  "ciudad": "Región de Bruselas-Capital",
+  "urlLocalizacion": "http://www.fine-arts-museum.be",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Reales%20de%20Bellas%20Artes%20de%20B%C3%A9lgica%2C%20Regi%C3%B3n%20de%20Bruselas-Capital",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "óleo",
+    "panel de roble"
+  ],
+  "etiquetas": [
+    "Bélgica",
+    "Guía maestra 2026",
+    "panel de roble",
+    "Pieter Brueghel el Viejo",
+    "Pintura",
+    "Renacimiento",
+    "Renacimiento nórdico",
+    "Wikidata Q594406",
+    "óleo"
+  ],
+  "proporcion": [
+    30000,
+    21654
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg/1920px-Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+    "alt": "Caída de los ángeles rebeldes, Pieter Brueghel el Viejo",
+    "licencia": "Public domain",
+    "credito": "[//www.google.com/culturalinstitute/asset-viewer/ewEs_8lOXkz7tQ This is a featured picture on the Persian language Wikipedia ( نگاره‌های برگزیده ) and is considered one of the finest images. See its nomination here . · If you think this file should be featured on Wikimedia Commons as well, feel free to nominate it . · If you have an image of similar quality that can be published under a suitable copyright license , be sure to upload it, tag it, and nominate it . · ewEs_8lOXkz7tQ This is a featu…",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg/1920px-Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q594406",
+    "qid": "Q594406",
+    "guia": "La Caída de los Ángeles Rebeldes (Bruselas)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Caída de los ángeles rebeldes** se incorpora al mosaico como pintura de **Pieter Brueghel el Viejo**. Cuadro de Pieter Brueghel el Viejo.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Pieter Brueghel el Viejo\n- **Datación registrada:** c. 1562\n- **Periodo de navegación:** Renacimiento nórdico\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Museos Reales de Bellas Artes de Bélgica\n- **Lugar asociado:** Región de Bruselas-Capital\n- **País asociado a la colección:** Bélgica\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Caída de los Ángeles Rebeldes (Bruselas)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q594406** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, panel de roble\n- **Dimensiones de la obra:** 162 cm × 117 cm\n- **Archivo digital:** 30000 × 21654 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Pieter Brueghel el Viejo** y del **Renacimiento nórdico** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q594406)](https://www.wikidata.org/wiki/Q594406)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg)\n- [Colección o institución asociada](http://www.fine-arts-museum.be)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

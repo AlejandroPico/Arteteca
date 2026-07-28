@@ -1,0 +1,51 @@
+{
+  "id": "dos-hombres-contemplando-la-luna-friedrich",
+  "titulo": "Dos hombres contemplando la luna",
+  "tituloOriginal": "Two men contemplating the Moon",
+  "autor": "Caspar David Friedrich",
+  "fecha": "c. 1819",
+  "fechaOrden": 1819,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Pintura de Caspar David Friedrich.",
+  "localizacion": "SKD",
+  "ciudad": "Dresde",
+  "urlLocalizacion": "http://www.skd.museum/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=SKD%2C%20Dresde",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Caspar David Friedrich",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q232087",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4457,
+    3571
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Caspar_David_Friedrich_-_Two_Men_Contemplating_the_Moon_-_Google_Art_Project.jpg/1920px-Caspar_David_Friedrich_-_Two_Men_Contemplating_the_Moon_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Caspar_David_Friedrich_-_Two_Men_Contemplating_the_Moon_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Two_Men_Contemplating_the_Moon_-_Google_Art_Project.jpg",
+    "alt": "Dos hombres contemplando la luna, Caspar David Friedrich",
+    "licencia": "Public domain",
+    "credito": "Google Cultural Institute",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q232087",
+    "qid": "Q232087",
+    "guia": "Dos Hombres Contemplando la Luna (Dresde)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

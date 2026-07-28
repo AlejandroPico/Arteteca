@@ -1,0 +1,50 @@
+{
+  "id": "san-juan-bautista-vinci",
+  "titulo": "San Juan Bautista",
+  "tituloOriginal": "Saint John the Baptist",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1514",
+  "fechaOrden": 1514,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Leonardo da Vinci.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "tabla",
+    "óleo"
+  ],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Francia",
+    "Pintura",
+    "Wikidata Q783215",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    10446,
+    13522
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg/1920px-Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+    "alt": "San Juan Bautista, Leonardo da Vinci",
+    "licencia": "Public domain",
+    "credito": "Based on File:Saint Jean-Baptiste, by Leonardo da Vinci, from C2RMF.jpg , originally: C2RMF: Galerie de tableaux en très haute définition : image page",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q783215",
+    "qid": "Q783215",
+    "guia": "San Juan Bautista (Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "caida-de-los-angeles-rebeldes-viejo",
+  "titulo": "Caída de los ángeles rebeldes",
+  "tituloOriginal": "The Fall of the Rebel Angels",
+  "autor": "Pieter Brueghel el Viejo",
+  "fecha": "c. 1562",
+  "fechaOrden": 1562,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Pieter Brueghel el Viejo.",
+  "localizacion": "Museos Reales de Bellas Artes de Bélgica",
+  "ciudad": "Región de Bruselas-Capital",
+  "urlLocalizacion": "http://www.fine-arts-museum.be",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Reales%20de%20Bellas%20Artes%20de%20B%C3%A9lgica%2C%20Regi%C3%B3n%20de%20Bruselas-Capital",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "óleo",
+    "panel de roble"
+  ],
+  "etiquetas": [
+    "Pieter Brueghel el Viejo",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Bélgica",
+    "Pintura",
+    "Wikidata Q594406",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    30000,
+    21654
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg/1920px-Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+    "alt": "Caída de los ángeles rebeldes, Pieter Brueghel el Viejo",
+    "licencia": "Public domain",
+    "credito": "[//www.google.com/culturalinstitute/asset-viewer/ewEs_8lOXkz7tQ This is a featured picture on the Persian language Wikipedia ( نگاره‌های برگزیده ) and is considered one of the finest images. See its nomination here . · If you think this file should be featured on Wikimedia Commons as well, feel free to nominate it . · If you have an image of similar quality that can be published under a suitable copyright license , be sure to upload it, tag it, and nominate it . · ewEs_8lOXkz7tQ This is a featu…",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q594406",
+    "qid": "Q594406",
+    "guia": "La Caída de los Ángeles Rebeldes (Bruselas)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

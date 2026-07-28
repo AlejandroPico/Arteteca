@@ -1,0 +1,97 @@
+{
+  "id": "los-proverbios-flamencos-viejo",
+  "titulo": "Los proverbios flamencos",
+  "tituloOriginal": "Netherlandish Proverbs",
+  "autor": "Pieter Brueghel el Viejo",
+  "fecha": "c. 1551",
+  "fechaOrden": 1551,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Pieter Brueghel el Viejo.",
+  "localizacion": "Gemäldegalerie de Berlín",
+  "ciudad": "Mitte",
+  "urlLocalizacion": "http://www.smb.museum/gg",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gem%C3%A4ldegalerie%20de%20Berl%C3%ADn%2C%20Mitte",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "panel de roble"
+  ],
+  "etiquetas": [
+    "Alemania",
+    "Guía maestra 2026",
+    "panel de roble",
+    "Pieter Brueghel el Viejo",
+    "Pintura",
+    "Renacimiento",
+    "Renacimiento nórdico",
+    "Wikidata Q533619",
+    "óleo"
+  ],
+  "proporcion": [
+    4000,
+    2854
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg/1920px-Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_(der_%C3%84ltere)_(ca._1525_-_1569)_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg",
+    "alt": "Los proverbios flamencos, Pieter Brueghel el Viejo",
+    "licencia": "Public domain",
+    "credito": "Staatliche Museen zu Berlin",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg/1920px-Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pieter_Bruegel_%28der_%C3%84ltere%29_%28ca._1525_-_1569%29_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q533619",
+    "qid": "Q533619",
+    "guia": "Los Proverbios Flamencos (Gemäldegalerie, Berlín)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Los proverbios flamencos** se incorpora al mosaico como pintura de **Pieter Brueghel el Viejo**. Cuadro de Pieter Brueghel el Viejo.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Pieter Brueghel el Viejo\n- **Datación registrada:** c. 1551\n- **Periodo de navegación:** Renacimiento nórdico\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Gemäldegalerie de Berlín\n- **Lugar asociado:** Mitte\n- **País asociado a la colección:** Alemania\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Los Proverbios Flamencos (Gemäldegalerie, Berlín)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q533619** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, panel de roble\n- **Dimensiones de la obra:** 163 cm × 117 cm\n- **Archivo digital:** 4000 × 2854 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Pieter Brueghel el Viejo** y del **Renacimiento nórdico** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q533619)](https://www.wikidata.org/wiki/Q533619)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_(der_%C3%84ltere)_(ca._1525_-_1569)_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg)\n- [Colección o institución asociada](http://www.smb.museum/gg)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

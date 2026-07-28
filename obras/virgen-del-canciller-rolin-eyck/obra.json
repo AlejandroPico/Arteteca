@@ -1,0 +1,50 @@
+{
+  "id": "virgen-del-canciller-rolin-eyck",
+  "titulo": "Virgen del canciller Rolin",
+  "tituloOriginal": "Madonna of Chancellor Rolin",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1500",
+  "fechaOrden": 1500,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Obra de Jan van Eyck.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Jan van Eyck",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Francia",
+    "Pintura",
+    "Wikidata Q1516449",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2406,
+    2500
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_%28Louvre%29.webp/1920px-The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_%28Louvre%29.webp.png",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_%28Louvre%29.webp",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_(Louvre).webp",
+    "alt": "Virgen del canciller Rolin, Jan van Eyck",
+    "licencia": "Public domain",
+    "credito": "https://web.archive.org/web/20240408061925/https://api-www.louvre.fr/sites/default/files/2024-02/jan-van-eyck-la-vierge-du-chancelier-rolin.jpg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1516449",
+    "qid": "Q1516449",
+    "guia": "La Virgen del Canciller Rolin (Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

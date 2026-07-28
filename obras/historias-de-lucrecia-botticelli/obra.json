@@ -1,0 +1,51 @@
+{
+  "id": "historias-de-lucrecia-botticelli",
+  "titulo": "Historias de Lucrecia",
+  "tituloOriginal": "The Story of Lucretia",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1500",
+  "fechaOrden": 1500,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento italiano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Sandro Botticelli.",
+  "localizacion": "museo Isabella Stewart Gardner",
+  "ciudad": "Boston",
+  "urlLocalizacion": "https://www.gardnermuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=museo%20Isabella%20Stewart%20Gardner%2C%20Boston",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "témpera",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Sandro Botticelli",
+    "Renacimiento italiano",
+    "Renacimiento",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q1115514",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4244,
+    2000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg/1920px-Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_The_Story_of_Lucretia_-_P16e20_-_Isabella_Stewart_Gardner_Museum.jpg",
+    "alt": "Historias de Lucrecia, Sandro Botticelli",
+    "licencia": "Public domain",
+    "credito": "Isabella Stewart Gardner Museum",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1115514",
+    "qid": "Q1115514",
+    "guia": "Historia de Lucrecia",
+    "coincidencia": 0.909,
+    "importada": "2026-07-28"
+  }
+}

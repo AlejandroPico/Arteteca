@@ -1,0 +1,49 @@
+{
+  "id": "la-flagelacion-de-cristo-caravaggio",
+  "titulo": "La flagelación de Cristo",
+  "tituloOriginal": "The Flagellation of Christ",
+  "autor": "Caravaggio",
+  "fecha": "c. 1607",
+  "fechaOrden": 1607,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Caravaggio.",
+  "localizacion": "Museo Nacional de Capodimonte",
+  "ciudad": "Nápoles",
+  "urlLocalizacion": "https://capodimonte.cultura.gov.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Capodimonte%2C%20N%C3%A1poles",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco",
+    "Italia",
+    "Pintura",
+    "Wikidata Q2264942",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    7913,
+    10695
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Flagellation_of_Christ-Caravaggio_%281607%29.jpg/1920px-The_Flagellation_of_Christ-Caravaggio_%281607%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Flagellation_of_Christ-Caravaggio_%281607%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Flagellation_of_Christ-Caravaggio_(1607).jpg",
+    "alt": "La flagelación de Cristo, Caravaggio",
+    "licencia": "Public domain",
+    "credito": "Self-scanned",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2264942",
+    "qid": "Q2264942",
+    "guia": "La Flagelación de Cristo (Nápoles)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

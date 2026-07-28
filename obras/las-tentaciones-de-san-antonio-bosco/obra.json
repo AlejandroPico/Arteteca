@@ -1,0 +1,51 @@
+{
+  "id": "las-tentaciones-de-san-antonio-bosco",
+  "titulo": "Las tentaciones de San Antonio",
+  "tituloOriginal": "The Temptation of Saint Anthony",
+  "autor": "El Bosco",
+  "fecha": "c. 1510",
+  "fechaOrden": 1510,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jerónimo Bosch.",
+  "localizacion": "Museo Chrysler",
+  "ciudad": "Norfolk",
+  "urlLocalizacion": "http://www.chrysler.org",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Chrysler%2C%20Norfolk",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "El Bosco",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q2397537",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    690,
+    1125
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Workshop_of_Jheronimus_Bosch_005.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Workshop_of_Jheronimus_Bosch_005.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Workshop_of_Jheronimus_Bosch_005.jpg",
+    "alt": "Las tentaciones de San Antonio, El Bosco",
+    "licencia": "Public domain",
+    "credito": "collectiononline.chrysler.org : Home : Info (Quick Search: 71.483) : Pic",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2397537",
+    "qid": "Q2397537",
+    "guia": "Las Tentaciones de San Antonio (Museu Nacional de Arte Antiga, Lisboa)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

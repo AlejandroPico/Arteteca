@@ -1,0 +1,50 @@
+{
+  "id": "el-doctor-paul-gachet-gogh",
+  "titulo": "El doctor Paul Gachet",
+  "tituloOriginal": "Portrait of Dr. Gachet",
+  "autor": "Vincent van Gogh",
+  "fecha": "c. 1890",
+  "fechaOrden": 1890,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Vincent van Gogh en el Museo de Orsay.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Vincent van Gogh",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q843044",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5611,
+    6748
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vincent_van_Gogh_-_Dr_Paul_Gachet_-_Google_Art_Project.jpg/1920px-Vincent_van_Gogh_-_Dr_Paul_Gachet_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vincent_van_Gogh_-_Dr_Paul_Gachet_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Dr_Paul_Gachet_-_Google_Art_Project.jpg",
+    "alt": "El doctor Paul Gachet, Vincent van Gogh",
+    "licencia": "Public domain",
+    "credito": "OQE_w8xp1TtbSw at Google Cultural Institute maximum zoom level",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q843044",
+    "qid": "Q843044",
+    "guia": "Retrato del Doctor Paul Gachet",
+    "coincidencia": 0.81,
+    "importada": "2026-07-28"
+  }
+}

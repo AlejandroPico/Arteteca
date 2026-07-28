@@ -1,0 +1,51 @@
+{
+  "id": "triptico-de-dresden-eyck",
+  "titulo": "Tríptico de Dresden",
+  "tituloOriginal": "Dresden Triptych",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1437",
+  "fechaOrden": 1437,
+  "tipo": "Retablo",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jan van Eyck.",
+  "localizacion": "SKD",
+  "ciudad": "Dresde",
+  "urlLocalizacion": "http://www.skd.museum/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=SKD%2C%20Dresde",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "panel de roble"
+  ],
+  "etiquetas": [
+    "Jan van Eyck",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Alemania",
+    "Retablo",
+    "Wikidata Q323079",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1245,
+    1400
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gem%C3%A4ldegalerie_Alte_Meister_%28Dresden%29_Galeriewerk_Braun_1836a.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gem%C3%A4ldegalerie_Alte_Meister_%28Dresden%29_Galeriewerk_Braun_1836a.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gem%C3%A4ldegalerie_Alte_Meister_(Dresden)_Galeriewerk_Braun_1836a.jpg",
+    "alt": "Tríptico de Dresden, Jan van Eyck",
+    "licencia": "Public domain",
+    "credito": "Braun-Archiv / Bildindex der Kunst und Architektur : object 00003714 – image file fm921932a.jpg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q323079",
+    "qid": "Q323079",
+    "guia": "Tríptico de Dresde",
+    "coincidencia": 0.966,
+    "importada": "2026-07-28"
+  }
+}

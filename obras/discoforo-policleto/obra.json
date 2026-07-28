@@ -1,0 +1,42 @@
+{
+  "id": "discoforo-policleto",
+  "titulo": "Discóforo",
+  "tituloOriginal": "Discophoros",
+  "autor": "Policleto",
+  "fecha": "c. 460 a. C.",
+  "fechaOrden": -460,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Escultura de Policleto.",
+  "tecnicas": [],
+  "etiquetas": [
+    "Policleto",
+    "Grecia clásica",
+    "Grecia y Roma",
+    "Escultura",
+    "Wikidata Q938827",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1900,
+    3800
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Discophoros_Louvre_Ma89.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Discophoros_Louvre_Ma89.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Discophoros_Louvre_Ma89.jpg",
+    "alt": "Discóforo, Policleto",
+    "licencia": "Public domain",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q938827",
+    "qid": "Q938827",
+    "guia": "Discóforo (El portador del disco)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

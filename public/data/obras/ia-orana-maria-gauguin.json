@@ -1,0 +1,96 @@
+{
+  "id": "ia-orana-maria-gauguin",
+  "titulo": "Ia Orana Maria",
+  "autor": "Paul Gauguin",
+  "fecha": "c. 1891",
+  "fechaOrden": 1891,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Gauguin.",
+  "localizacion": "Museo Metropolitano de Arte",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Metropolitano%20de%20Arte%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Estados Unidos",
+    "Guía maestra 2026",
+    "lienzo",
+    "Paul Gauguin",
+    "Pintura",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Wikidata Q1118465",
+    "óleo"
+  ],
+  "proporcion": [
+    4546,
+    5858
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paul_Gauguin_Ia_Orana_Maria_%28Hail_Mary%29_The_Metropolitan_Museum_of_Art1.jpg/1920px-Paul_Gauguin_Ia_Orana_Maria_%28Hail_Mary%29_The_Metropolitan_Museum_of_Art1.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Paul_Gauguin_Ia_Orana_Maria_%28Hail_Mary%29_The_Metropolitan_Museum_of_Art1.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_Ia_Orana_Maria_(Hail_Mary)_The_Metropolitan_Museum_of_Art1.jpg",
+    "alt": "Ia Orana Maria, Paul Gauguin",
+    "licencia": "Public domain",
+    "credito": "https://www.metmuseum.org/collection/the-collection-online/search/438821",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paul_Gauguin_Ia_Orana_Maria_%28Hail_Mary%29_The_Metropolitan_Museum_of_Art1.jpg/1920px-Paul_Gauguin_Ia_Orana_Maria_%28Hail_Mary%29_The_Metropolitan_Museum_of_Art1.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Paul_Gauguin_Ia_Orana_Maria_%28Hail_Mary%29_The_Metropolitan_Museum_of_Art1.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1118465",
+    "qid": "Q1118465",
+    "guia": "La Orana Maria (Ave María - MET)",
+    "coincidencia": 0.87,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Ia Orana Maria** se incorpora al mosaico como pintura de **Paul Gauguin**. Cuadro de Paul Gauguin.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Paul Gauguin\n- **Datación registrada:** c. 1891\n- **Periodo de navegación:** Postimpresionismo\n- **Colección temática:** Romanticismo, Realismo e Impresionismo\n- **Colección o ubicación:** Museo Metropolitano de Arte\n- **Lugar asociado:** Manhattan\n- **País asociado a la colección:** Estados Unidos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Orana Maria (Ave María - MET)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q1118465** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 87,6 cm × 113,7 cm\n- **Archivo digital:** 4546 × 5858 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Paul Gauguin** y del **Postimpresionismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q1118465)](https://www.wikidata.org/wiki/Q1118465)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paul_Gauguin_Ia_Orana_Maria_(Hail_Mary)_The_Metropolitan_Museum_of_Art1.jpg)\n- [Colección o institución asociada](https://www.metmuseum.org/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

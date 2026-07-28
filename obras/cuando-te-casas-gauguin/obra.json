@@ -1,0 +1,48 @@
+{
+  "id": "cuando-te-casas-gauguin",
+  "titulo": "¿Cuando te casas?",
+  "tituloOriginal": "When Will You Marry?",
+  "autor": "Paul Gauguin",
+  "fecha": "c. 1892",
+  "fechaOrden": 1892,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Gauguin.",
+  "localizacion": "Staechelin collection",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q94631769",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Staechelin%20collection",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Paul Gauguin",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Pintura",
+    "Wikidata Q3869871",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1683,
+    2237
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Paul_Gauguin%2C_Nafea_Faa_Ipoipo%3F_%28When_Will_You_Marry%3F%29_1892%2C_oil_on_canvas%2C_101_x_77_cm.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Paul_Gauguin%2C_Nafea_Faa_Ipoipo%3F_%28When_Will_You_Marry%3F%29_1892%2C_oil_on_canvas%2C_101_x_77_cm.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin,_Nafea_Faa_Ipoipo%3F_(When_Will_You_Marry%3F)_1892,_oil_on_canvas,_101_x_77_cm.jpg",
+    "alt": "¿Cuando te casas?, Paul Gauguin",
+    "licencia": "Public domain",
+    "credito": "Beyeler Foundation",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3869871",
+    "qid": "Q3869871",
+    "guia": "¿Cuándo te casarás? (Nafea Faa Ipoipo)",
+    "coincidencia": 0.933,
+    "importada": "2026-07-28"
+  }
+}

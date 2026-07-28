@@ -1,0 +1,14 @@
+---
+titulo: Fuentes
+icono: enlace
+---
+
+## Identificación y reproducción
+
+- [Registro estructurado en Wikidata (Q1163663)](https://www.wikidata.org/wiki/Q1163663)
+- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_sleep_of_reason_produces_monsters_LACMA_63.11.43.jpg)
+
+
+## Procedencia de la selección
+
+La obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.

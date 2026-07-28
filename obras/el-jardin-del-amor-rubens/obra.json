@@ -1,0 +1,50 @@
+{
+  "id": "el-jardin-del-amor-rubens",
+  "titulo": "El jardín del amor",
+  "tituloOriginal": "The Garden of Love",
+  "autor": "Peter Paul Rubens",
+  "fecha": "c. 1632",
+  "fechaOrden": 1632,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Peter Paul Rubens.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Peter Paul Rubens",
+    "Barroco",
+    "España",
+    "Pintura",
+    "Wikidata Q1195238",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4907,
+    3387
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/El_Jard%C3%ADn_del_Amor_%28Rubens%29.jpg/1920px-El_Jard%C3%ADn_del_Amor_%28Rubens%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d9/El_Jard%C3%ADn_del_Amor_%28Rubens%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El_Jard%C3%ADn_del_Amor_(Rubens).jpg",
+    "alt": "El jardín del amor, Peter Paul Rubens",
+    "licencia": "Public domain",
+    "credito": "Transferred from de.wikipedia to Commons by Outisnn . Original uploader was Nocturne at de.wikipedia . Later version(s) were uploaded by Louis le Grand at de.wikipedia .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1195238",
+    "qid": "Q1195238",
+    "guia": "El Jardín del Amor (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

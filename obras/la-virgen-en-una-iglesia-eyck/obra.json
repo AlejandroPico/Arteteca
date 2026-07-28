@@ -1,0 +1,51 @@
+{
+  "id": "la-virgen-en-una-iglesia-eyck",
+  "titulo": "La Virgen en una iglesia",
+  "tituloOriginal": "The Madonna in the Church",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1440",
+  "fechaOrden": 1440,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jan van Eyck.",
+  "localizacion": "Gemäldegalerie de Berlín",
+  "ciudad": "Mitte",
+  "urlLocalizacion": "http://www.smb.museum/gg",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gem%C3%A4ldegalerie%20de%20Berl%C3%ADn%2C%20Mitte",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "panel de roble"
+  ],
+  "etiquetas": [
+    "Jan van Eyck",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q1747569",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    670,
+    1500
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Jan_van_Eyck_-_Madonna_in_the_Church_-_WGA7590.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Jan_van_Eyck_-_Madonna_in_the_Church_-_WGA7590.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_van_Eyck_-_Madonna_in_the_Church_-_WGA7590.jpg",
+    "alt": "La Virgen en una iglesia, Jan van Eyck",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"e/eyck_van/jan/01page/04church\"",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1747569",
+    "qid": "Q1747569",
+    "guia": "La Virgen en la Iglesia (Gemäldegalerie, Berlín)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

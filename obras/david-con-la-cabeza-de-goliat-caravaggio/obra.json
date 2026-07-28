@@ -1,0 +1,50 @@
+{
+  "id": "david-con-la-cabeza-de-goliat-caravaggio",
+  "titulo": "David con la cabeza de Goliat",
+  "tituloOriginal": "David with the Head of Goliath",
+  "autor": "Caravaggio",
+  "fecha": "c. 1605",
+  "fechaOrden": 1605,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Caravaggio (Roma).",
+  "localizacion": "Galería Borghese",
+  "ciudad": "Roma Capitale",
+  "urlLocalizacion": "https://galleriaborghese.cultura.gov.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Borghese%2C%20Roma%20Capitale",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco",
+    "Italia",
+    "Pintura",
+    "Wikidata Q2627056",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5922,
+    7329
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg/1920px-David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/f6/David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:David_with_the_Head_of_Goliath-Caravaggio_(1610).jpg",
+    "alt": "David con la cabeza de Goliat, Caravaggio",
+    "licencia": "Public domain",
+    "credito": "Self-scanned",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2627056",
+    "qid": "Q2627056",
+    "guia": "David con la Cabeza de Goliat (Galería Borghese)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

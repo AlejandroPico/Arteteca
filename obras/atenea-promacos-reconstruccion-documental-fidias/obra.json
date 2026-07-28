@@ -1,0 +1,50 @@
+{
+  "id": "atenea-promacos-reconstruccion-documental-fidias",
+  "titulo": "Atenea Promacos (reconstrucción documental)",
+  "tituloOriginal": "Athena Promachos",
+  "autor": "Fidias",
+  "fecha": "c. 450 a. C.",
+  "fechaOrden": -450,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Estatua de Fidias en la Acrópolis de Atenas.",
+  "localizacion": "Acrópolis de Atenas",
+  "ciudad": "Municipio de Atenas",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q131013",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Acr%C3%B3polis%20de%20Atenas%2C%20Municipio%20de%20Atenas",
+  "pais": "Grecia",
+  "tecnicas": [
+    "bronce"
+  ],
+  "etiquetas": [
+    "Fidias",
+    "Grecia clásica",
+    "Grecia y Roma",
+    "Grecia",
+    "Escultura",
+    "Wikidata Q755221",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    612,
+    612
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Atena_Promacos.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Atena_Promacos.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Atena_Promacos.jpg",
+    "alt": "Atenea Promacos (reconstrucción documental), Fidias",
+    "licencia": "Public domain",
+    "credito": "William Smith, A History of Greece: From the Earliest Times to the Roman Conquest, with Supplementary Chapters on the History of Literature and Art (rev. ed., New York 1855), p. 396 .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q755221",
+    "qid": "Q755221",
+    "guia": "Atenea Promacos (Acrópolis de Atenas)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

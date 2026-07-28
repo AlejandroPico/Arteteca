@@ -1,0 +1,96 @@
+{
+  "id": "felipe-iv-en-fraga-velazquez",
+  "titulo": "Felipe IV en Fraga",
+  "tituloOriginal": "Portrait of Philip IV in Fraga",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1644",
+  "fechaOrden": 1644,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Diego Velázquez.",
+  "localizacion": "Colección Frick",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.frick.org",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecci%C3%B3n%20Frick%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Diego Velázquez",
+    "Estados Unidos",
+    "Guía maestra 2026",
+    "lienzo",
+    "Pintura",
+    "Wikidata Q3380051",
+    "óleo"
+  ],
+  "proporcion": [
+    4860,
+    6352
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Philip_IV_of_Spain_-_Vel%C3%A1zquez_1644.jpg/1920px-Philip_IV_of_Spain_-_Vel%C3%A1zquez_1644.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Philip_IV_of_Spain_-_Vel%C3%A1zquez_1644.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Philip_IV_of_Spain_-_Vel%C3%A1zquez_1644.jpg",
+    "alt": "Felipe IV en Fraga, Diego Velázquez",
+    "licencia": "Public domain",
+    "credito": "http://collections.frick.org/view/objects/asitem/items$0040:271",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Philip_IV_of_Spain_-_Vel%C3%A1zquez_1644.jpg/1920px-Philip_IV_of_Spain_-_Vel%C3%A1zquez_1644.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Philip_IV_of_Spain_-_Vel%C3%A1zquez_1644.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3380051",
+    "qid": "Q3380051",
+    "guia": "Retrato de Felipe IV en Fraga (Frick Collection)",
+    "coincidencia": 0.778,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Felipe IV en Fraga** se incorpora al mosaico como pintura de **Diego Velázquez**. Cuadro de Diego Velázquez.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Diego Velázquez\n- **Datación registrada:** c. 1644\n- **Periodo de navegación:** Barroco\n- **Colección temática:** Barroco\n- **Colección o ubicación:** Colección Frick\n- **Lugar asociado:** Manhattan\n- **País asociado a la colección:** Estados Unidos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Retrato de Felipe IV en Fraga (Frick Collection)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q3380051** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 95 cm × 133,5 cm\n- **Archivo digital:** 4860 × 6352 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Diego Velázquez** y del **Barroco** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q3380051)](https://www.wikidata.org/wiki/Q3380051)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Philip_IV_of_Spain_-_Vel%C3%A1zquez_1644.jpg)\n- [Colección o institución asociada](https://www.frick.org)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

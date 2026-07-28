@@ -1,0 +1,87 @@
+{
+  "id": "madonna-sixtina",
+  "titulo": "Madonna Sixtina",
+  "autor": "Rafael",
+  "fecha": "1512–1513",
+  "fechaOrden": 1512,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "María avanza entre cortinas y nubes acompañada por san Sixto y santa Bárbara, sobre dos querubines convertidos en iconos populares.",
+  "localizacion": "Gemäldegalerie Alte Meister",
+  "ciudad": "Dresde",
+  "urlLocalizacion": "https://gemaeldegalerie.skd.museum/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gem%C3%A4ldegalerie%20Alte%20Meister%2C%20Dresde",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Alemania",
+    "alta resolución",
+    "Alto Renacimiento",
+    "arte clásico",
+    "Pintura",
+    "Rafael",
+    "Renacimiento italiano",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    196,
+    265
+  ],
+  "color": "#715b65",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Raphael%20-%20Sistine%20Madonna.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Raphael%20-%20Sistine%20Madonna.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Raphael%20-%20Sistine%20Madonna.jpg",
+    "alt": "Madonna Sixtina, de Rafael",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Rafael · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Raphael%20-%20Sistine%20Madonna.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Raphael%20-%20Sistine%20Madonna.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nMaría avanza entre cortinas y nubes acompañada por san Sixto y santa Bárbara, sobre dos querubines convertidos en iconos populares.\n\n## Una pista visual\n\nDesde lejos domina el triángulo central; de cerca aparecen decenas de rostros apenas visibles en las nubes.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nEl retablo fue encargado para San Sisto de Piacenza y más tarde pasó a la colección sajona de Dresde.\n\n**Autor:** Rafael  \n**Fecha:** 1512–1513  \n**Marco:** Alto Renacimiento  \n**Conservación actual:** Gemäldegalerie Alte Meister, Dresde.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Óleo sobre lienzo**. Su formato aproximado, expresado como relación entre ancho y alto, es **196:265**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nLa imagen completa y sus querubines fragmentados alcanzaron una difusión visual extraordinaria.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Rafael con otras obras de **Alto Renacimiento**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raphael%20-%20Sistine%20Madonna.jpg)\n- [Sitio oficial de Gemäldegalerie Alte Meister](https://gemaeldegalerie.skd.museum/en/)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Gem%C3%A4ldegalerie%20Alte%20Meister%2C%20Dresde)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

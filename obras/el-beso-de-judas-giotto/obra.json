@@ -1,0 +1,51 @@
+{
+  "id": "el-beso-de-judas-giotto",
+  "titulo": "El beso de Judas",
+  "tituloOriginal": "Kiss of Judas",
+  "autor": "Giotto",
+  "fecha": "c. 1303",
+  "fechaOrden": 1303,
+  "tipo": "Pintura mural",
+  "periodo": "Protorrenacimiento",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Fresco de Giotto di Bondone.",
+  "localizacion": "capilla de los Scrovegni",
+  "ciudad": "Padua",
+  "urlLocalizacion": "http://www.cappelladegliscrovegni.it",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=capilla%20de%20los%20Scrovegni%2C%20Padua",
+  "pais": "Italia",
+  "tecnicas": [
+    "yeso",
+    "fresco"
+  ],
+  "etiquetas": [
+    "Giotto",
+    "Protorrenacimiento",
+    "Arte medieval y religioso",
+    "Italia",
+    "Pintura mural",
+    "Wikidata Q3504778",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1000,
+    980
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Giotto_di_Bondone_-_No._31_Scenes_from_the_Life_of_Christ_-_15._The_Arrest_of_Christ_%28Kiss_of_Judas%29_-_WGA09216.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Giotto_di_Bondone_-_No._31_Scenes_from_the_Life_of_Christ_-_15._The_Arrest_of_Christ_%28Kiss_of_Judas%29_-_WGA09216.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_No._31_Scenes_from_the_Life_of_Christ_-_15._The_Arrest_of_Christ_(Kiss_of_Judas)_-_WGA09216.jpg",
+    "alt": "El beso de Judas, Giotto",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art : Image ; Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3504778",
+    "qid": "Q3504778",
+    "guia": "El Beso de Judas (Capilla Scrovegni)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

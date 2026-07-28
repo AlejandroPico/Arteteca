@@ -1,0 +1,50 @@
+{
+  "id": "madonna-di-crevole-buoninsegna",
+  "titulo": "Madonna di Crevole",
+  "autor": "Duccio di Buoninsegna",
+  "fecha": "c. 1283",
+  "fechaOrden": 1283,
+  "tipo": "Pintura",
+  "periodo": "Gótico sienés",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Cuadro de Duccio.",
+  "localizacion": "Museo dell'Opera Metropolitana del Duomo",
+  "ciudad": "Siena",
+  "urlLocalizacion": "http://www.operaduomo.siena.it/museo.htm",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20dell'Opera%20Metropolitana%20del%20Duomo%2C%20Siena",
+  "pais": "Italia",
+  "tecnicas": [
+    "témpera",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Duccio di Buoninsegna",
+    "Gótico sienés",
+    "Arte medieval y religioso",
+    "Italia",
+    "Pintura",
+    "Wikidata Q3842715",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3579,
+    5415
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Duccio_%E2%80%94_Crevole_Madonna.jpg/1920px-Duccio_%E2%80%94_Crevole_Madonna.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/28/Duccio_%E2%80%94_Crevole_Madonna.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Duccio_%E2%80%94_Crevole_Madonna.jpg",
+    "alt": "Madonna di Crevole, Duccio di Buoninsegna",
+    "licencia": "Public domain",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3842715",
+    "qid": "Q3842715",
+    "guia": "Madonna Crevole",
+    "coincidencia": 0.903,
+    "importada": "2026-07-28"
+  }
+}

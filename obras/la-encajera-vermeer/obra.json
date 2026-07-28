@@ -1,0 +1,49 @@
+{
+  "id": "la-encajera-vermeer",
+  "titulo": "La encajera",
+  "tituloOriginal": "The Lacemaker",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1669",
+  "fechaOrden": 1669,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Johannes Vermeer.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Johannes Vermeer",
+    "Barroco",
+    "Francia",
+    "Pintura",
+    "Wikidata Q1216387",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1596,
+    1830
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/03/Johannes_Vermeer_-_The_lacemaker_%28c.1669-1671%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_lacemaker_(c.1669-1671).jpg",
+    "alt": "La encajera, Johannes Vermeer",
+    "licencia": "Public domain",
+    "credito": "Musée du Louvre",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1216387",
+    "qid": "Q1216387",
+    "guia": "La Encajera (Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

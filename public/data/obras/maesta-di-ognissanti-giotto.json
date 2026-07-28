@@ -1,0 +1,99 @@
+{
+  "id": "maesta-di-ognissanti-giotto",
+  "titulo": "Maestà di Ognissanti",
+  "tituloOriginal": "Madonna Enthroned",
+  "autor": "Giotto",
+  "fecha": "c. 1300",
+  "fechaOrden": 1300,
+  "tipo": "Retablo",
+  "periodo": "Protorrenacimiento",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Cuadro de Giotto di Bondone.",
+  "localizacion": "Galería Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Uffizi%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "témpera",
+    "tabla",
+    "oro"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Giotto",
+    "Guía maestra 2026",
+    "Italia",
+    "oro",
+    "Protorrenacimiento",
+    "Retablo",
+    "tabla",
+    "témpera",
+    "Wikidata Q2016193"
+  ],
+  "proporcion": [
+    2719,
+    4181
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg/1920px-Madonna_di_Ognissanti_by_Giotto.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Madonna_di_Ognissanti_by_Giotto.jpg",
+    "alt": "Maestà di Ognissanti, Giotto",
+    "licencia": "Public domain",
+    "credito": "Own work by Campocorvino",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg/1920px-Madonna_di_Ognissanti_by_Giotto.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2016193",
+    "qid": "Q2016193",
+    "guia": "Maestà Ognissanti (Uffizi)",
+    "coincidencia": 0.914,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Maestà di Ognissanti** se incorpora al mosaico como retablo de **Giotto**. Cuadro de Giotto di Bondone.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Giotto\n- **Datación registrada:** c. 1300\n- **Periodo de navegación:** Protorrenacimiento\n- **Colección temática:** Arte medieval y religioso\n- **Colección o ubicación:** Galería Uffizi\n- **Lugar asociado:** Florencia\n- **País asociado a la colección:** Italia\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Maestà Ognissanti (Uffizi)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q2016193** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Retablo\n- **Materiales o técnicas consignados:** témpera, tabla, oro\n- **Dimensiones de la obra:** 204 cm × 325 cm\n- **Archivo digital:** 2719 × 4181 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Giotto** y del **Protorrenacimiento** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q2016193)](https://www.wikidata.org/wiki/Q2016193)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Madonna_di_Ognissanti_by_Giotto.jpg)\n- [Colección o institución asociada](https://www.uffizi.it/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

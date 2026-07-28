@@ -1,0 +1,51 @@
+{
+  "id": "acantilados-blancos-en-rugen-friedrich",
+  "titulo": "Acantilados blancos en Rügen",
+  "tituloOriginal": "Chalk Cliffs at Ruegen",
+  "autor": "Caspar David Friedrich",
+  "fecha": "c. 1818",
+  "fechaOrden": 1818,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Pintura de Caspar David Friedrich, Museum Oskar Reinhart.",
+  "localizacion": "Museo Oskar Reinhart",
+  "ciudad": "Winterthur",
+  "urlLocalizacion": "https://www.kmw.ch/en/museum/portrait-reinhart-am-stadtgarten/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Oskar%20Reinhart%2C%20Winterthur",
+  "pais": "Suiza",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Caspar David Friedrich",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Suiza",
+    "Pintura",
+    "Wikidata Q1787143",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    940,
+    1200
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Friedrich%2C_Caspar_David_-_Kreidefelsen_auf_R%C3%BCgen.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/79/Friedrich%2C_Caspar_David_-_Kreidefelsen_auf_R%C3%BCgen.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Friedrich,_Caspar_David_-_Kreidefelsen_auf_R%C3%BCgen.jpg",
+    "alt": "Acantilados blancos en Rügen, Caspar David Friedrich",
+    "licencia": "Public domain",
+    "credito": "Museum Oskar Reinhart",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1787143",
+    "qid": "Q1787143",
+    "guia": "Acantilados Blancos en Rügen (Winterthur)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

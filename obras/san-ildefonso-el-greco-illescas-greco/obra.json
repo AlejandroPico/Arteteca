@@ -1,0 +1,51 @@
+{
+  "id": "san-ildefonso-el-greco-illescas-greco",
+  "titulo": "San Ildefonso (El Greco, Illescas)",
+  "tituloOriginal": "Saint Ildefonso",
+  "autor": "El Greco",
+  "fecha": "c. 1597",
+  "fechaOrden": 1597,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "Cuadro de El Greco.",
+  "localizacion": "Capilla Mayor del Hospital de la Caridad de Illescas",
+  "ciudad": "Illescas",
+  "urlLocalizacion": "http://www.elgrecoillescas.com/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Capilla%20Mayor%20del%20Hospital%20de%20la%20Caridad%20de%20Illescas%2C%20Illescas",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Manierismo",
+    "Renacimiento y Manierismo",
+    "España",
+    "Pintura",
+    "Wikidata Q6118865",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    800,
+    1445
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/El_Greco_-_St_Ildefonso_-_WGA10574.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/07/El_Greco_-_St_Ildefonso_-_WGA10574.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El_Greco_-_St_Ildefonso_-_WGA10574.jpg",
+    "alt": "San Ildefonso (El Greco, Illescas), El Greco",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"g/greco_el/16/1605grec\"",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q6118865",
+    "qid": "Q6118865",
+    "guia": "San Ildefonso (Hospital de la Caridad, Illescas)",
+    "coincidencia": 0.769,
+    "importada": "2026-07-28"
+  }
+}

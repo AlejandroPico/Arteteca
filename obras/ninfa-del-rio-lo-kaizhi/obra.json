@@ -1,0 +1,41 @@
+{
+  "id": "ninfa-del-rio-lo-kaizhi",
+  "titulo": "Ninfa del río Lo",
+  "tituloOriginal": "Nymph of the Luo River",
+  "autor": "Gu Kaizhi",
+  "fecha": "Fecha no determinada",
+  "tipo": "Pintura",
+  "periodo": "Dinastía Jin",
+  "coleccion": "Asia",
+  "descripcion": "Cuadro de Gu Kaizhi.",
+  "tecnicas": [],
+  "etiquetas": [
+    "Gu Kaizhi",
+    "Dinastía Jin",
+    "Asia",
+    "Pintura",
+    "Wikidata Q22079066",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1432,
+    973
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Gu_Kaizhi_river_Lo.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Gu_Kaizhi_river_Lo.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gu_Kaizhi_river_Lo.jpg",
+    "alt": "Ninfa del río Lo, Gu Kaizhi",
+    "licencia": "Public domain",
+    "credito": "Transferred from ru.wikipedia · (Original text : scan )",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q22079066",
+    "qid": "Q22079066",
+    "guia": "La Ninfa del Río Lo (Nymph of the Lo River)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

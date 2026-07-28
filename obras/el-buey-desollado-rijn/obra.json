@@ -1,0 +1,49 @@
+{
+  "id": "el-buey-desollado-rijn",
+  "titulo": "El buey desollado",
+  "tituloOriginal": "A Slaughtered Ox",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "c. 1655",
+  "fechaOrden": 1655,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Rembrandt.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Rembrandt van Rijn",
+    "Barroco",
+    "Francia",
+    "Pintura",
+    "Wikidata Q3646498",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6145,
+    8631
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Le_B%C5%93uf_%C3%A9corch%C3%A9_-_Rembrandt_-_Mus%C3%A9e_du_Louvre_Peintures_MI_169.jpg/1920px-Le_B%C5%93uf_%C3%A9corch%C3%A9_-_Rembrandt_-_Mus%C3%A9e_du_Louvre_Peintures_MI_169.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Le_B%C5%93uf_%C3%A9corch%C3%A9_-_Rembrandt_-_Mus%C3%A9e_du_Louvre_Peintures_MI_169.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Le_B%C5%93uf_%C3%A9corch%C3%A9_-_Rembrandt_-_Mus%C3%A9e_du_Louvre_Peintures_MI_169.jpg",
+    "alt": "El buey desollado, Rembrandt van Rijn",
+    "licencia": "Public domain",
+    "credito": "photo Shonagon 2025-05-28",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3646498",
+    "qid": "Q3646498",
+    "guia": "El Buey Desollado (Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

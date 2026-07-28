@@ -1,0 +1,50 @@
+{
+  "id": "rinoceronte-durero",
+  "titulo": "Rinoceronte",
+  "tituloOriginal": "The Rhinoceros",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1512",
+  "fechaOrden": 1512,
+  "tipo": "Grabado",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Grabado de Alberto Durero.",
+  "localizacion": "Museo Británico",
+  "ciudad": "Camden",
+  "urlLocalizacion": "https://www.britishmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Brit%C3%A1nico%2C%20Camden",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "papel verjurado"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Reino Unido",
+    "Grabado",
+    "Wikidata Q748518",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4000,
+    3141
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Albrecht_D%C3%BCrer%2C_The_Rhinoceros%2C_1515%2C_NGA_47903.jpg/1920px-Albrecht_D%C3%BCrer%2C_The_Rhinoceros%2C_1515%2C_NGA_47903.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/95/Albrecht_D%C3%BCrer%2C_The_Rhinoceros%2C_1515%2C_NGA_47903.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Rhinoceros,_1515,_NGA_47903.jpg",
+    "alt": "Rinoceronte, Alberto Durero",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the National Gallery of Art . Please see the Gallery's Open Access Policy .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q748518",
+    "qid": "Q748518",
+    "guia": "Rinoceronte de Durero (Xilografía)",
+    "coincidencia": 0.741,
+    "importada": "2026-07-28"
+  }
+}

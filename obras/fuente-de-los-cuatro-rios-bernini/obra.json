@@ -1,0 +1,50 @@
+{
+  "id": "fuente-de-los-cuatro-rios-bernini",
+  "titulo": "Fuente de los Cuatro Ríos",
+  "tituloOriginal": "Four Rivers Fountain",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "c. 1640",
+  "fechaOrden": 1640,
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Fuente en la plaza Navona, Roma.",
+  "localizacion": "Plaza Navona",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q463400",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Plaza%20Navona%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "mármol de Carrara",
+    "travertino"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Italia",
+    "Escultura",
+    "Wikidata Q655470",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2816,
+    4736
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/PiazzaNavonaPanoramicaVerticale.jpg/1920px-PiazzaNavonaPanoramicaVerticale.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4e/PiazzaNavonaPanoramicaVerticale.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:PiazzaNavonaPanoramicaVerticale.jpg",
+    "alt": "Fuente de los Cuatro Ríos, Gian Lorenzo Bernini",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q655470",
+    "qid": "Q655470",
+    "guia": "Fuente de los Cuatro Ríos (Piazza Navona, Roma)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

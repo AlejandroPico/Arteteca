@@ -1,0 +1,51 @@
+{
+  "id": "el-martirio-de-san-mauricio-greco",
+  "titulo": "El martirio de San Mauricio",
+  "tituloOriginal": "The Martyrdom of St. Maurice",
+  "autor": "El Greco",
+  "fecha": "c. 1580",
+  "fechaOrden": 1580,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "Cuadro de El Greco.",
+  "localizacion": "Real Monasterio de San Lorenzo de El Escorial",
+  "ciudad": "San Lorenzo de El Escorial",
+  "urlLocalizacion": "https://entradas.patrimonionacional.es/es-ES/comprar-entradas-palacios-reales-monasterios",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Real%20Monasterio%20de%20San%20Lorenzo%20de%20El%20Escorial%2C%20San%20Lorenzo%20de%20El%20Escorial",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Manierismo",
+    "Renacimiento y Manierismo",
+    "España",
+    "Pintura",
+    "Wikidata Q5949742",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2775,
+    4155
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Martirio_de_San_Mauricio_El_Greco.jpg/1920px-Martirio_de_San_Mauricio_El_Greco.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Martirio_de_San_Mauricio_El_Greco.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Martirio_de_San_Mauricio_El_Greco.jpg",
+    "alt": "El martirio de San Mauricio, El Greco",
+    "licencia": "Public domain",
+    "credito": "Colecciones reales , Patrimonio Nacional de España.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5949742",
+    "qid": "Q5949742",
+    "guia": "El Martirio de San Mauricio y la Legión Tebana (El Escorial)",
+    "coincidencia": 0.741,
+    "importada": "2026-07-28"
+  }
+}

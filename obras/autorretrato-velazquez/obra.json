@@ -1,0 +1,50 @@
+{
+  "id": "autorretrato-velazquez",
+  "titulo": "Autorretrato",
+  "tituloOriginal": "Self Portrait",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1650",
+  "fechaOrden": 1650,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Diego Velázquez.",
+  "localizacion": "Museo de Bellas Artes de Valencia",
+  "ciudad": "Valencia",
+  "urlLocalizacion": "http://museobellasartesvalencia.gva.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Bellas%20Artes%20de%20Valencia%2C%20Valencia",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Barroco",
+    "España",
+    "Pintura",
+    "Wikidata Q3630736",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    945,
+    1119
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
+    "alt": "Autorretrato, Diego Velázquez",
+    "licencia": "Public domain",
+    "credito": "[2]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3630736",
+    "qid": "Q3630736",
+    "guia": "Autorretrato (Uffizi)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

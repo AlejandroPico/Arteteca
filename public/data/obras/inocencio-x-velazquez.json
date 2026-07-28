@@ -1,0 +1,87 @@
+{
+  "id": "inocencio-x-velazquez",
+  "titulo": "Retrato de Inocencio X",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1650",
+  "fechaOrden": 1650,
+  "tipo": "Pintura",
+  "periodo": "Barroco español",
+  "coleccion": "Barroco europeo",
+  "descripcion": "Rojos sobre rojos rodean un rostro alerta cuya expresión combina autoridad, inteligencia y reserva.",
+  "localizacion": "Galería Doria Pamphilj",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://www.doriapamphilj.it/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Doria%20Pamphilj%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "Barroco español",
+    "Barroco europeo",
+    "Diego Velázquez",
+    "Italia",
+    "Pintura",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    141,
+    120
+  ],
+  "color": "#574b43",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Retrato%20del%20Papa%20Inocencio%20X.%20Roma%2C%20by%20Diego%20Vel%C3%A1zquez.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Retrato%20del%20Papa%20Inocencio%20X.%20Roma%2C%20by%20Diego%20Vel%C3%A1zquez.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Retrato%20del%20Papa%20Inocencio%20X.%20Roma%2C%20by%20Diego%20Vel%C3%A1zquez.jpg",
+    "alt": "Retrato de Inocencio X, de Diego Velázquez",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Diego Velázquez · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Retrato%20del%20Papa%20Inocencio%20X.%20Roma%2C%20by%20Diego%20Vel%C3%A1zquez.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Retrato%20del%20Papa%20Inocencio%20X.%20Roma%2C%20by%20Diego%20Vel%C3%A1zquez.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nRojos sobre rojos rodean un rostro alerta cuya expresión combina autoridad, inteligencia y reserva.\n\n## Una pista visual\n\nEl blanco de la sobrepelliz y del papel enfría la gama roja y conduce al rostro y las manos.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nVelázquez pintó al papa durante su segundo viaje a Italia y firmó la hoja que sostiene el retratado.\n\n**Autor:** Diego Velázquez  \n**Fecha:** c. 1650  \n**Marco:** Barroco español  \n**Conservación actual:** Galería Doria Pamphilj, Roma.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Óleo sobre lienzo**. Su formato aproximado, expresado como relación entre ancho y alto, es **141:120**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEs uno de los retratos papales más influyentes y motivó las célebres variaciones de Francis Bacon.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Diego Velázquez con otras obras de **Barroco español**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Retrato%20del%20Papa%20Inocencio%20X.%20Roma%2C%20by%20Diego%20Vel%C3%A1zquez.jpg)\n- [Sitio oficial de Galería Doria Pamphilj](https://www.doriapamphilj.it/en/)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Doria%20Pamphilj%2C%20Roma)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

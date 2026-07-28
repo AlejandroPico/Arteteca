@@ -1,0 +1,49 @@
+{
+  "id": "fugit-amor-rodin",
+  "titulo": "Fugit Amor",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1890",
+  "fechaOrden": 1890,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Auguste Rodin conservada en el Museo Rodin.",
+  "localizacion": "Museo Rodin",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-rodin.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Rodin%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Escultura",
+    "Wikidata Q19007127",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4684,
+    3882
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Paris_1er_-_Mus%C3%A9e_du_Louvre_-_Exposition_Michel-Ange_Rodin_-_Corps_vivants_-_Fugit_Amor_%28Auguste_Rodin%29_01.jpg/1920px-Paris_1er_-_Mus%C3%A9e_du_Louvre_-_Exposition_Michel-Ange_Rodin_-_Corps_vivants_-_Fugit_Amor_%28Auguste_Rodin%29_01.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/20/Paris_1er_-_Mus%C3%A9e_du_Louvre_-_Exposition_Michel-Ange_Rodin_-_Corps_vivants_-_Fugit_Amor_%28Auguste_Rodin%29_01.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paris_1er_-_Mus%C3%A9e_du_Louvre_-_Exposition_Michel-Ange_Rodin_-_Corps_vivants_-_Fugit_Amor_(Auguste_Rodin)_01.jpg",
+    "alt": "Fugit Amor, Auguste Rodin",
+    "licencia": "CC0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q19007127",
+    "qid": "Q19007127",
+    "guia": "Fugit Amor",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

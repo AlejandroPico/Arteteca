@@ -1,0 +1,50 @@
+{
+  "id": "nino-con-un-cesto-de-frutas-caravaggio",
+  "titulo": "Niño con un cesto de frutas",
+  "tituloOriginal": "Boy with a Basket of Fruit",
+  "autor": "Caravaggio",
+  "fecha": "c. 1594",
+  "fechaOrden": 1594,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Caravaggio.",
+  "localizacion": "Galería Borghese",
+  "ciudad": "Roma Capitale",
+  "urlLocalizacion": "https://galleriaborghese.cultura.gov.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Borghese%2C%20Roma%20Capitale",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco",
+    "Italia",
+    "Pintura",
+    "Wikidata Q2610936",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3957,
+    4134
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg/1920px-Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/64/Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Boy_with_a_Basket_of_Fruit-Caravaggio_(1593).jpg",
+    "alt": "Niño con un cesto de frutas, Caravaggio",
+    "licencia": "Public domain",
+    "credito": "Self-scanned",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2610936",
+    "qid": "Q2610936",
+    "guia": "Muchacho con Cesto de Frutas (Galería Borghese)",
+    "coincidencia": 0.722,
+    "importada": "2026-07-28"
+  }
+}

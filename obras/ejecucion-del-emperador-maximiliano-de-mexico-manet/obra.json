@@ -1,0 +1,51 @@
+{
+  "id": "ejecucion-del-emperador-maximiliano-de-mexico-manet",
+  "titulo": "Ejecución del Emperador Maximiliano de México",
+  "tituloOriginal": "The Execution of Emperor Maximilian",
+  "autor": "Édouard Manet",
+  "fecha": "c. 1867",
+  "fechaOrden": 1867,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Pintura de Édouard Manet conservada en la National Gallery de Londres.",
+  "localizacion": "National Gallery de Londres",
+  "ciudad": "Ciudad de Westminster",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20de%20Londres%2C%20Ciudad%20de%20Westminster",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Édouard Manet",
+    "Realismo y modernidad",
+    "Romanticismo, Realismo e Impresionismo",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q26493276",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6000,
+    4077
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%C3%89douard_Manet_-_L%27execution_de_Maximilien_%28London%29.jpg/1920px-%C3%89douard_Manet_-_L%27execution_de_Maximilien_%28London%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9f/%C3%89douard_Manet_-_L%27execution_de_Maximilien_%28London%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_L%27execution_de_Maximilien_(London).jpg",
+    "alt": "Ejecución del Emperador Maximiliano de México, Édouard Manet",
+    "licencia": "Public domain",
+    "credito": "1. Art UK · 2. National Gallery, London - online collection",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26493276",
+    "qid": "Q26493276",
+    "guia": "La Ejecución del Emperador Maximiliano (National Gallery / Mannheim)",
+    "coincidencia": 0.896,
+    "importada": "2026-07-28"
+  }
+}

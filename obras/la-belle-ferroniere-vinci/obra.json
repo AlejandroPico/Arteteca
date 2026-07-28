@@ -1,0 +1,50 @@
+{
+  "id": "la-belle-ferroniere-vinci",
+  "titulo": "La Belle Ferronière",
+  "tituloOriginal": "La Belle Ferronnière",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1495",
+  "fechaOrden": 1495,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Leonardo da Vinci.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Francia",
+    "Pintura",
+    "Wikidata Q656434",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2758,
+    4000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg/1920px-La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4d/La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
+    "alt": "La Belle Ferronière, Leonardo da Vinci",
+    "licencia": "Public domain",
+    "credito": "https://artsandculture.google.com/asset/portrait-of-an-unknown-woman-incorrectly-known-as-la-belle-ferronniere-leonardo-da-vinci-1452-1519-paris-mus%C3%A9e-du-louvre/tQGQxYg52tKHTg?hl=en",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q656434",
+    "qid": "Q656434",
+    "guia": "La Belle Ferronnière",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

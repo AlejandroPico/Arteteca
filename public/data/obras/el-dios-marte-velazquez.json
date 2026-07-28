@@ -1,0 +1,96 @@
+{
+  "id": "el-dios-marte-velazquez",
+  "titulo": "El dios Marte",
+  "tituloOriginal": "Mars Resting",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1640",
+  "fechaOrden": 1640,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Diego Velázquez.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Diego Velázquez",
+    "España",
+    "Guía maestra 2026",
+    "lienzo",
+    "Pintura",
+    "Wikidata Q1133875",
+    "óleo"
+  ],
+  "proporcion": [
+    1570,
+    3051
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Vel%C3%A1zquez_-_Dios_Marte_%28Museo_del_Prado%2C_1639-41%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Vel%C3%A1zquez_-_Dios_Marte_%28Museo_del_Prado%2C_1639-41%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vel%C3%A1zquez_-_Dios_Marte_(Museo_del_Prado,_1639-41).jpg",
+    "alt": "El dios Marte, Diego Velázquez",
+    "licencia": "Public domain",
+    "credito": "See below.",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Vel%C3%A1zquez_-_Dios_Marte_%28Museo_del_Prado%2C_1639-41%29.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Vel%C3%A1zquez_-_Dios_Marte_%28Museo_del_Prado%2C_1639-41%29.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1133875",
+    "qid": "Q1133875",
+    "guia": "El Dios Marte (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**El dios Marte** se incorpora al mosaico como pintura de **Diego Velázquez**. Cuadro de Diego Velázquez.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Diego Velázquez\n- **Datación registrada:** c. 1640\n- **Periodo de navegación:** Barroco\n- **Colección temática:** Barroco\n- **Colección o ubicación:** Museo del Prado\n- **Lugar asociado:** Madrid\n- **País asociado a la colección:** España\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «El Dios Marte (Museo del Prado)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q1133875** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 95 cm × 179 cm\n- **Archivo digital:** 1570 × 3051 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Diego Velázquez** y del **Barroco** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q1133875)](https://www.wikidata.org/wiki/Q1133875)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vel%C3%A1zquez_-_Dios_Marte_(Museo_del_Prado,_1639-41).jpg)\n- [Colección o institución asociada](https://www.museodelprado.es/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

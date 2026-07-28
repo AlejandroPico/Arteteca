@@ -1,0 +1,87 @@
+{
+  "id": "juicio-final-miguel-angel",
+  "titulo": "El Juicio Final",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "1536–1541",
+  "fechaOrden": 1536,
+  "tipo": "Pintura mural",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "Una multitud de cuerpos gira alrededor de Cristo en una visión sin arquitectura estable, atravesada por ascensos, caídas y resurrecciones.",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.museivaticani.va/content/museivaticani/en.html",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "Fresco"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "Ciudad del Vaticano",
+    "Fresco",
+    "Manierismo",
+    "Miguel Ángel Buonarroti",
+    "Pintura mural",
+    "Renacimiento italiano"
+  ],
+  "proporcion": [
+    1220,
+    1370
+  ],
+  "color": "#6c665f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Last%20Judgement%20(Michelangelo).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Last%20Judgement%20(Michelangelo).jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Last%20Judgement%20(Michelangelo).jpg",
+    "alt": "El Juicio Final, de Miguel Ángel Buonarroti",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Last%20Judgement%20(Michelangelo).jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Last%20Judgement%20(Michelangelo).jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nUna multitud de cuerpos gira alrededor de Cristo en una visión sin arquitectura estable, atravesada por ascensos, caídas y resurrecciones.\n\n## Una pista visual\n\nBusca los grandes remolinos de grupos antes de detenerte en episodios individuales como san Bartolomé y su piel.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nMiguel Ángel cubrió el muro del altar de la Capilla Sixtina décadas después de pintar su bóveda, en un clima religioso transformado.\n\n**Autor:** Miguel Ángel Buonarroti  \n**Fecha:** 1536–1541  \n**Marco:** Manierismo  \n**Conservación actual:** Museos Vaticanos, Ciudad del Vaticano.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Fresco**. Su formato aproximado, expresado como relación entre ancho y alto, es **1220:1370**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nLa obra redefinió la imagen monumental del juicio y provocó debates tempranos sobre desnudez, decoro y censura.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Miguel Ángel Buonarroti con otras obras de **Manierismo**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Last%20Judgement%20(Michelangelo).jpg)\n- [Sitio oficial de Museos Vaticanos](https://www.museivaticani.va/content/museivaticani/en.html)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

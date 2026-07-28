@@ -1,0 +1,51 @@
+{
+  "id": "el-pensador-rodin",
+  "titulo": "El Pensador",
+  "tituloOriginal": "The Thinker",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1880",
+  "fechaOrden": 1880,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Auguste Rodin, musée Rodin, Paris.",
+  "localizacion": "Museo Rodin",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-rodin.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Rodin%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "fundición de hierro",
+    "bronce"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Escultura",
+    "Wikidata Q154571",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2848,
+    4288
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/L%27all%C3%A9e_du_Penseur_de_Rodin.JPG/1920px-L%27all%C3%A9e_du_Penseur_de_Rodin.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/11/L%27all%C3%A9e_du_Penseur_de_Rodin.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:L%27all%C3%A9e_du_Penseur_de_Rodin.JPG",
+    "alt": "El Pensador, Auguste Rodin",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q154571",
+    "qid": "Q154571",
+    "guia": "El Pensador (Musée Rodin, París)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

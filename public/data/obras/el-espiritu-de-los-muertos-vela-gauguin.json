@@ -1,0 +1,97 @@
+{
+  "id": "el-espiritu-de-los-muertos-vela-gauguin",
+  "titulo": "El espíritu de los muertos vela",
+  "tituloOriginal": "Manaò tupapaú",
+  "autor": "Paul Gauguin",
+  "fecha": "c. 1892",
+  "fechaOrden": 1892,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Gauguin.",
+  "localizacion": "Museo Albright-Knox",
+  "ciudad": "Búfalo",
+  "urlLocalizacion": "http://www.albrightknox.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Albright-Knox%2C%20B%C3%BAfalo",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Estados Unidos",
+    "Guía maestra 2026",
+    "lienzo",
+    "Paul Gauguin",
+    "Pintura",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Wikidata Q609572",
+    "óleo"
+  ],
+  "proporcion": [
+    3392,
+    2683
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_%28Spirit_of_the_Dead_Watching%29_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff/lossy-page1-1920px-Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_%28Spirit_of_the_Dead_Watching%29_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_%28Spirit_of_the_Dead_Watching%29_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_(Spirit_of_the_Dead_Watching)_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff",
+    "alt": "El espíritu de los muertos vela, Paul Gauguin",
+    "licencia": "Public domain",
+    "credito": "Buffalo AKG Art Museum",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_%28Spirit_of_the_Dead_Watching%29_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff/lossy-page1-1920px-Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_%28Spirit_of_the_Dead_Watching%29_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_%28Spirit_of_the_Dead_Watching%29_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q609572",
+    "qid": "Q609572",
+    "guia": "Manao Tupapau (El Espíritu de los Muertos Vela)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**El espíritu de los muertos vela** se incorpora al mosaico como pintura de **Paul Gauguin**. Cuadro de Paul Gauguin.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Paul Gauguin\n- **Datación registrada:** c. 1892\n- **Periodo de navegación:** Postimpresionismo\n- **Colección temática:** Romanticismo, Realismo e Impresionismo\n- **Colección o ubicación:** Museo Albright-Knox\n- **Lugar asociado:** Búfalo\n- **País asociado a la colección:** Estados Unidos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Manao Tupapau (El Espíritu de los Muertos Vela)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q609572** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 92,4 cm × 72,4 cm\n- **Archivo digital:** 3392 × 2683 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Paul Gauguin** y del **Postimpresionismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q609572)](https://www.wikidata.org/wiki/Q609572)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paul_Gauguin_-_Mana%C3%B2_tupapa%C3%BA_(Spirit_of_the_Dead_Watching)_-_1965-1_-_Albright%E2%80%93Knox_Art_Gallery.tiff)\n- [Colección o institución asociada](http://www.albrightknox.org/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "liebre-joven-durero",
+  "titulo": "Liebre joven",
+  "tituloOriginal": "Young Hare",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1502",
+  "fechaOrden": 1502,
+  "tipo": "Dibujo",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Watercolor by Albrecht Dürer.",
+  "localizacion": "Albertina",
+  "ciudad": "Innere Stadt",
+  "urlLocalizacion": "http://www.albertina.at/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Albertina%2C%20Innere%20Stadt",
+  "pais": "Austria",
+  "tecnicas": [
+    "top color",
+    "papel",
+    "acuarela"
+  ],
+  "etiquetas": [
+    "acuarela",
+    "Alberto Durero",
+    "Austria",
+    "Dibujo",
+    "Guía maestra 2026",
+    "papel",
+    "Renacimiento",
+    "Renacimiento nórdico",
+    "top color",
+    "Wikidata Q699388"
+  ],
+  "proporcion": [
+    3731,
+    4123
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/1920px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg",
+    "alt": "Liebre joven, Alberto Durero",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture: Home page – Image",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/1920px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q699388",
+    "qid": "Q699388",
+    "guia": "El Liebre Joven (Acuarela - Albertina, Viena)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Liebre joven** se incorpora al mosaico como dibujo de **Alberto Durero**. Watercolor by Albrecht Dürer.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Alberto Durero\n- **Datación registrada:** c. 1502\n- **Periodo de navegación:** Renacimiento nórdico\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Albertina\n- **Lugar asociado:** Innere Stadt\n- **País asociado a la colección:** Austria\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «El Liebre Joven (Acuarela - Albertina, Viena)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q699388** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Dibujo\n- **Materiales o técnicas consignados:** top color, papel, acuarela\n- **Dimensiones de la obra:** 22,5 cm × 25 cm\n- **Archivo digital:** 3731 × 4123 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Alberto Durero** y del **Renacimiento nórdico** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q699388)](https://www.wikidata.org/wiki/Q699388)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Hare,_1502_-_Google_Art_Project.jpg)\n- [Colección o institución asociada](http://www.albertina.at/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

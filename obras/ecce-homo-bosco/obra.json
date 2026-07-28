@@ -1,0 +1,51 @@
+{
+  "id": "ecce-homo-bosco",
+  "titulo": "Ecce Homo",
+  "autor": "El Bosco",
+  "fecha": "c. 1495",
+  "fechaOrden": 1495,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jerónimo Bosch.",
+  "localizacion": "Museo Städel",
+  "ciudad": "Fráncfort del Meno",
+  "urlLocalizacion": "https://www.staedelmuseum.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20St%C3%A4del%2C%20Fr%C3%A1ncfort%20del%20Meno",
+  "pais": "Alemania",
+  "tecnicas": [
+    "panel de roble",
+    "óleo",
+    "técnica mixta"
+  ],
+  "etiquetas": [
+    "El Bosco",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q430069",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2322,
+    2713
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ecce_Homo_%28SM_1577%29.png/1920px-Ecce_Homo_%28SM_1577%29.png",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ecce_Homo_%28SM_1577%29.png",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ecce_Homo_(SM_1577).png",
+    "alt": "Ecce Homo, El Bosco",
+    "licencia": "PDM-owner",
+    "credito": "https://sammlung.staedelmuseum.de/de/werk/ecce-homo",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q430069",
+    "qid": "Q430069",
+    "guia": "Ecce Homo (Städel Museum, Fráncfort)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "los-lictores-llevan-a-bruto-los-cuerpos-de-sus-hijos-david",
+  "titulo": "Los lictores llevan a Bruto los cuerpos de sus hijos",
+  "tituloOriginal": "The Lictors Bring to Brutus the Bodies of His Sons",
+  "autor": "Jacques-Louis David",
+  "fecha": "c. 1789",
+  "fechaOrden": 1789,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Jacques-Louis David.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jacques-Louis David",
+    "Neoclasicismo",
+    "De la Ilustración al Romanticismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q2533791",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5284,
+    4040
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/David_Brutus.jpg/1920px-David_Brutus.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/fb/David_Brutus.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:David_Brutus.jpg",
+    "alt": "Los lictores llevan a Bruto los cuerpos de sus hijos, Jacques-Louis David",
+    "licencia": "Public domain",
+    "credito": "http://www.artchive.com/artchive/D/david/brutus.jpg.html",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2533791",
+    "qid": "Q2533791",
+    "guia": "Los Lictores llevan a Bruto los Cuerpos de sus Hijos (Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

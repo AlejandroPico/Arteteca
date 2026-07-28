@@ -1,0 +1,51 @@
+{
+  "id": "san-jeronimo-en-su-gabinete-durero",
+  "titulo": "San Jerónimo en su gabinete",
+  "tituloOriginal": "Saint Jerome in His Study",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1521",
+  "fechaOrden": 1521,
+  "tipo": "Grabado",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Alegoría de la meditación.",
+  "localizacion": "Museo Nacional de Arte Antiguo",
+  "ciudad": "Estrela",
+  "urlLocalizacion": "http://www.mnarteantiga-ipmuseus.pt/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Arte%20Antiguo%2C%20Estrela",
+  "pais": "Portugal",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Portugal",
+    "Grabado",
+    "Wikidata Q1989202",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2304,
+    3318
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Albrecht_d%C3%BCrer%2C_san_girolamo_nello_studio%2C_1521%2C_02.jpg/1920px-Albrecht_d%C3%BCrer%2C_san_girolamo_nello_studio%2C_1521%2C_02.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/83/Albrecht_d%C3%BCrer%2C_san_girolamo_nello_studio%2C_1521%2C_02.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_d%C3%BCrer,_san_girolamo_nello_studio,_1521,_02.jpg",
+    "alt": "San Jerónimo en su gabinete, Alberto Durero",
+    "licencia": "CC BY 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1989202",
+    "qid": "Q1989202",
+    "guia": "San Jerónimo en su Gabinete (Grabado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

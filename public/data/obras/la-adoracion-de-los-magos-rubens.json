@@ -1,0 +1,96 @@
+{
+  "id": "la-adoracion-de-los-magos-rubens",
+  "titulo": "La Adoración de los Magos",
+  "tituloOriginal": "Adoration of the Magi",
+  "autor": "Peter Paul Rubens",
+  "fecha": "c. 1624",
+  "fechaOrden": 1624,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Peter Paul Rubens.",
+  "localizacion": "Museo Real de Bellas Artes de Amberes",
+  "ciudad": "Amberes",
+  "urlLocalizacion": "https://www.kmska.be",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Real%20de%20Bellas%20Artes%20de%20Amberes%2C%20Amberes",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Bélgica",
+    "Guía maestra 2026",
+    "Peter Paul Rubens",
+    "Pintura",
+    "tabla",
+    "Wikidata Q5861089",
+    "óleo"
+  ],
+  "proporcion": [
+    5208,
+    7052
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Peter_Paul_Rubens_-_Adoration_of_the_Magi_%28KMSKA%29.jpg/1920px-Peter_Paul_Rubens_-_Adoration_of_the_Magi_%28KMSKA%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/95/Peter_Paul_Rubens_-_Adoration_of_the_Magi_%28KMSKA%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Adoration_of_the_Magi_(KMSKA).jpg",
+    "alt": "La Adoración de los Magos, Peter Paul Rubens",
+    "licencia": "CC0",
+    "credito": "Royal Museum of Fine Arts Antwerp",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Peter_Paul_Rubens_-_Adoration_of_the_Magi_%28KMSKA%29.jpg/1920px-Peter_Paul_Rubens_-_Adoration_of_the_Magi_%28KMSKA%29.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/95/Peter_Paul_Rubens_-_Adoration_of_the_Magi_%28KMSKA%29.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5861089",
+    "qid": "Q5861089",
+    "guia": "La Adoración de los Magos (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La Adoración de los Magos** se incorpora al mosaico como pintura de **Peter Paul Rubens**. Cuadro de Peter Paul Rubens.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Peter Paul Rubens\n- **Datación registrada:** c. 1624\n- **Periodo de navegación:** Barroco\n- **Colección temática:** Barroco\n- **Colección o ubicación:** Museo Real de Bellas Artes de Amberes\n- **Lugar asociado:** Amberes\n- **País asociado a la colección:** Bélgica\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Adoración de los Magos (Museo del Prado)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q5861089** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, tabla\n- **Dimensiones de la obra:** 336 cm × 447 cm\n- **Archivo digital:** 5208 × 7052 píxeles\n- **Licencia indicada en Commons:** CC0\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Peter Paul Rubens** y del **Barroco** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q5861089)](https://www.wikidata.org/wiki/Q5861089)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Adoration_of_the_Magi_(KMSKA).jpg)\n- [Colección o institución asociada](https://www.kmska.be)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

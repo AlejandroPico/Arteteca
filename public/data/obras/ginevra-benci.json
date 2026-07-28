@@ -1,0 +1,87 @@
+{
+  "id": "ginevra-benci",
+  "titulo": "Ginevra de’ Benci",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1474–1478",
+  "fechaOrden": 1474,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "El rostro inmóvil de Ginevra se recorta ante un enebro oscuro mientras el paisaje distante suaviza la severidad del primer plano.",
+  "localizacion": "National Gallery of Art",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.nga.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Art%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Óleo y temple sobre tabla de álamo"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "Estados Unidos",
+    "Leonardo da Vinci",
+    "Pintura",
+    "Primer Renacimiento",
+    "Renacimiento italiano",
+    "Óleo y temple sobre tabla de álamo"
+  ],
+  "proporcion": [
+    38,
+    37
+  ],
+  "color": "#556353",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20Ginevra%20de'%20Benci%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20Ginevra%20de'%20Benci%20-%20Google%20Art%20Project.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Leonardo%20da%20Vinci%20-%20Ginevra%20de'%20Benci%20-%20Google%20Art%20Project.jpg",
+    "alt": "Ginevra de’ Benci, de Leonardo da Vinci",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Leonardo da Vinci · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20Ginevra%20de'%20Benci%20-%20Google%20Art%20Project.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Leonardo%20da%20Vinci%20-%20Ginevra%20de'%20Benci%20-%20Google%20Art%20Project.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nEl rostro inmóvil de Ginevra se recorta ante un enebro oscuro mientras el paisaje distante suaviza la severidad del primer plano.\n\n## Una pista visual\n\nMira cómo los rizos, las hojas y el agua proponen texturas distintas dentro de una gama contenida.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nEl enebro alude al nombre de la retratada y el reverso pintado convierte la tabla en un objeto de identidad y virtud.\n\n**Autor:** Leonardo da Vinci  \n**Fecha:** c. 1474–1478  \n**Marco:** Primer Renacimiento  \n**Conservación actual:** National Gallery of Art, Washington D. C..\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Óleo y temple sobre tabla de álamo**. Su formato aproximado, expresado como relación entre ancho y alto, es **38:37**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nEs el único cuadro de Leonardo conservado en América y una pieza clave del retrato florentino.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Leonardo da Vinci con otras obras de **Primer Renacimiento**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leonardo%20da%20Vinci%20-%20Ginevra%20de'%20Benci%20-%20Google%20Art%20Project.jpg)\n- [Sitio oficial de National Gallery of Art](https://www.nga.gov/)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Art%2C%20Washington%20D.%20C.)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

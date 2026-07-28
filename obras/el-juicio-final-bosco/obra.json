@@ -1,0 +1,51 @@
+{
+  "id": "el-juicio-final-bosco",
+  "titulo": "El Juicio Final",
+  "tituloOriginal": "The Last Judgment",
+  "autor": "El Bosco",
+  "fecha": "c. 1530",
+  "fechaOrden": 1530,
+  "tipo": "Retablo",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jerónimo Bosch.",
+  "localizacion": "Colecciones de Pinturas del Estado de Baviera",
+  "ciudad": "Múnich",
+  "urlLocalizacion": "http://www.pinakothek.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecciones%20de%20Pinturas%20del%20Estado%20de%20Baviera%2C%20M%C3%BAnich",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "El Bosco",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Alemania",
+    "Retablo",
+    "Wikidata Q1995698",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4724,
+    2487
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Last_Judgement.jpg/1920px-Last_Judgement.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/da/Last_Judgement.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Last_Judgement.jpg",
+    "alt": "El Juicio Final, El Bosco",
+    "licencia": "Public domain",
+    "credito": "Unknown source Unknown source",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1995698",
+    "qid": "Q1995698",
+    "guia": "El Juicio Final (Tríptico - Viena)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

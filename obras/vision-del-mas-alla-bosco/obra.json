@@ -1,0 +1,51 @@
+{
+  "id": "vision-del-mas-alla-bosco",
+  "titulo": "Visión del Más Allá",
+  "tituloOriginal": "Visions of the Hereafter",
+  "autor": "El Bosco",
+  "fecha": "c. 1502",
+  "fechaOrden": 1502,
+  "tipo": "Serie artística",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jerónimo Bosch.",
+  "localizacion": "Palacio Ducal de Venecia",
+  "ciudad": "Venecia",
+  "urlLocalizacion": "http://palazzoducale.visitmuve.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palacio%20Ducal%20de%20Venecia%2C%20Venecia",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo",
+    "panel"
+  ],
+  "etiquetas": [
+    "El Bosco",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Italia",
+    "Serie artística",
+    "Wikidata Q2467518",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    15138,
+    8500
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_%28downsized_%26_contrasted%29.jpg/1920px-Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_%28downsized_%26_contrasted%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_%28downsized_%26_contrasted%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Poliptyk_Hieronima_Bocha_Visions_of_the_Hereafter_(downsized_%26_contrasted).jpg",
+    "alt": "Visión del Más Allá, El Bosco",
+    "licencia": "Public domain",
+    "credito": "http://boschproject.org/bosch_in_venice.html#visions http://boschproject.org/view.html?i=32_34_36_38_MCPVIS",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2467518",
+    "qid": "Q2467518",
+    "guia": "Visiones del Más Allá (Palacio Ducal, Venecia)",
+    "coincidencia": 0.867,
+    "importada": "2026-07-28"
+  }
+}

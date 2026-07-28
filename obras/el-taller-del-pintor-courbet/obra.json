@@ -1,0 +1,51 @@
+{
+  "id": "el-taller-del-pintor-courbet",
+  "titulo": "El taller del pintor",
+  "tituloOriginal": "The Painter's Studio",
+  "autor": "Gustave Courbet",
+  "fecha": "c. 1855",
+  "fechaOrden": 1855,
+  "tipo": "Pintura",
+  "periodo": "Realismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Gustave Courbet.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Gustave Courbet",
+    "Realismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q1167178",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    16951,
+    9989
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Courbet_LAtelier_du_peintre.jpg/1920px-Courbet_LAtelier_du_peintre.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Courbet_LAtelier_du_peintre.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Courbet_LAtelier_du_peintre.jpg",
+    "alt": "El taller del pintor, Gustave Courbet",
+    "licencia": "Public domain",
+    "credito": "Unknown source Unknown source",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1167178",
+    "qid": "Q1167178",
+    "guia": "El Taller del Pintor (Museo d'Orsay)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "el-afilador-de-cuchillos-malevich",
+  "titulo": "El afilador de cuchillos",
+  "tituloOriginal": "The Knife Grinder",
+  "autor": "Kazimir Malévich",
+  "fecha": "c. 1912",
+  "fechaOrden": 1912,
+  "tipo": "Pintura",
+  "periodo": "Suprematismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Cuadro de Kazimir Malévich.",
+  "localizacion": "Galería de Arte de la Universidad Yale",
+  "ciudad": "New Haven",
+  "urlLocalizacion": "http://artgallery.yale.edu",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20de%20Arte%20de%20la%20Universidad%20Yale%2C%20New%20Haven",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Kazimir Malévich",
+    "Suprematismo",
+    "Abstracción y diseño moderno",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q18112999",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2986,
+    3000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/The_Knife_Grinder_Principle_of_Glittering_by_Kazimir_Malevich.jpeg/1920px-The_Knife_Grinder_Principle_of_Glittering_by_Kazimir_Malevich.jpeg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/58/The_Knife_Grinder_Principle_of_Glittering_by_Kazimir_Malevich.jpeg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Knife_Grinder_Principle_of_Glittering_by_Kazimir_Malevich.jpeg",
+    "alt": "El afilador de cuchillos, Kazimir Malévich",
+    "licencia": "Public domain",
+    "credito": "Yale University Art Gallery",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18112999",
+    "qid": "Q18112999",
+    "guia": "El Afilador de Cuchillos (Yale University Art Gallery)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

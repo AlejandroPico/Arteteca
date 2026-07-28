@@ -1,0 +1,96 @@
+{
+  "id": "el-geografo-vermeer",
+  "titulo": "El geógrafo",
+  "tituloOriginal": "The Geographer",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1668",
+  "fechaOrden": 1668,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Johannes Vermeer.",
+  "localizacion": "Museo Städel",
+  "ciudad": "Fráncfort del Meno",
+  "urlLocalizacion": "https://www.staedelmuseum.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20St%C3%A4del%2C%20Fr%C3%A1ncfort%20del%20Meno",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Alemania",
+    "Barroco",
+    "Guía maestra 2026",
+    "Johannes Vermeer",
+    "lienzo",
+    "Pintura",
+    "Wikidata Q45130",
+    "óleo"
+  ],
+  "proporcion": [
+    16557,
+    18526
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Johannes_Vermeer%2C_Der_Geograf%2C_1669.png/1920px-Johannes_Vermeer%2C_Der_Geograf%2C_1669.png",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Johannes_Vermeer%2C_Der_Geograf%2C_1669.png",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer,_Der_Geograf,_1669.png",
+    "alt": "El geógrafo, Johannes Vermeer",
+    "licencia": "Public domain",
+    "credito": "https://sammlung.staedelmuseum.de/de/werk/der-geograf",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Johannes_Vermeer%2C_Der_Geograf%2C_1669.png/1920px-Johannes_Vermeer%2C_Der_Geograf%2C_1669.png",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Johannes_Vermeer%2C_Der_Geograf%2C_1669.png"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q45130",
+    "qid": "Q45130",
+    "guia": "El Geógrafo (Städel, Fráncfort)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**El geógrafo** se incorpora al mosaico como pintura de **Johannes Vermeer**. Cuadro de Johannes Vermeer.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Johannes Vermeer\n- **Datación registrada:** c. 1668\n- **Periodo de navegación:** Barroco\n- **Colección temática:** Barroco\n- **Colección o ubicación:** Museo Städel\n- **Lugar asociado:** Fráncfort del Meno\n- **País asociado a la colección:** Alemania\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «El Geógrafo (Städel, Fráncfort)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q45130** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 46,6 cm × 53 cm\n- **Archivo digital:** 16557 × 18526 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Johannes Vermeer** y del **Barroco** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q45130)](https://www.wikidata.org/wiki/Q45130)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johannes_Vermeer,_Der_Geograf,_1669.png)\n- [Colección o institución asociada](https://www.staedelmuseum.de/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

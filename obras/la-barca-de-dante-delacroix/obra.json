@@ -1,0 +1,50 @@
+{
+  "id": "la-barca-de-dante-delacroix",
+  "titulo": "La barca de Dante",
+  "tituloOriginal": "The Barque of Dante",
+  "autor": "Eugène Delacroix",
+  "fecha": "c. 1822",
+  "fechaOrden": 1822,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Eugène Delacroix.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Eugène Delacroix",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q2354251",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3626,
+    2713
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg/1920px-Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg",
+    "alt": "La barca de Dante, Eugène Delacroix",
+    "licencia": "Public domain",
+    "credito": "GalleriX via Flickr (gandalfsgallery)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2354251",
+    "qid": "Q2354251",
+    "guia": "La Barca de Dante (Museo del Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

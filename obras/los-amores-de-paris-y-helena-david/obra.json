@@ -1,0 +1,50 @@
+{
+  "id": "los-amores-de-paris-y-helena-david",
+  "titulo": "Los amores de Paris y Helena",
+  "tituloOriginal": "Paris and Helen",
+  "autor": "Jacques-Louis David",
+  "fecha": "c. 1788",
+  "fechaOrden": 1788,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Jacques-Louis David.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jacques-Louis David",
+    "Neoclasicismo",
+    "De la Ilustración al Romanticismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q2254945",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    9536,
+    7716
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Les_amours_de_P%C3%A2ris_et_d%27H%C3%A9l%C3%A8ne_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3696_%3B_MR_1439.jpg/1920px-Les_amours_de_P%C3%A2ris_et_d%27H%C3%A9l%C3%A8ne_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3696_%3B_MR_1439.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Les_amours_de_P%C3%A2ris_et_d%27H%C3%A9l%C3%A8ne_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3696_%3B_MR_1439.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Les_amours_de_P%C3%A2ris_et_d%27H%C3%A9l%C3%A8ne_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3696_;_MR_1439.jpg",
+    "alt": "Los amores de Paris y Helena, Jacques-Louis David",
+    "licencia": "Public domain",
+    "credito": "photo Shonagon 2025-03-29",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2254945",
+    "qid": "Q2254945",
+    "guia": "El Amor de Paris y Elena",
+    "coincidencia": 0.788,
+    "importada": "2026-07-28"
+  }
+}

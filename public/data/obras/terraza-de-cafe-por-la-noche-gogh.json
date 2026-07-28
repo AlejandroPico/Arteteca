@@ -1,0 +1,97 @@
+{
+  "id": "terraza-de-cafe-por-la-noche-gogh",
+  "titulo": "Terraza de café por la noche",
+  "tituloOriginal": "Café Terrace at Night",
+  "autor": "Vincent van Gogh",
+  "fecha": "c. 1888",
+  "fechaOrden": 1888,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Vincent van Gogh.",
+  "localizacion": "Museo Kröller-Müller",
+  "ciudad": "Ede",
+  "urlLocalizacion": "http://www.kmm.nl",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Kr%C3%B6ller-M%C3%BCller%2C%20Ede",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Guía maestra 2026",
+    "lienzo",
+    "Países Bajos",
+    "Pintura",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Vincent van Gogh",
+    "Wikidata Q1025704",
+    "óleo"
+  ],
+  "proporcion": [
+    6415,
+    8000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg/1920px-Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/86/Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_(Place_du_Forum)_1888.jpg",
+    "alt": "Terraza de café por la noche, Vincent van Gogh",
+    "licencia": "Public domain",
+    "credito": "https://data.collectienederland.nl/page/aggregation/kroller-muller/44529",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg/1920px-Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/86/Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1025704",
+    "qid": "Q1025704",
+    "guia": "Terraza de Café por la Noche (Kröller-Müller Museum, Otterlo)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Terraza de café por la noche** se incorpora al mosaico como pintura de **Vincent van Gogh**. Cuadro de Vincent van Gogh.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Vincent van Gogh\n- **Datación registrada:** c. 1888\n- **Periodo de navegación:** Postimpresionismo\n- **Colección temática:** Romanticismo, Realismo e Impresionismo\n- **Colección o ubicación:** Museo Kröller-Müller\n- **Lugar asociado:** Ede\n- **País asociado a la colección:** Países Bajos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Terraza de Café por la Noche (Kröller-Müller Museum, Otterlo)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q1025704** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 65,3 cm × 80,7 cm\n- **Archivo digital:** 6415 × 8000 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Vincent van Gogh** y del **Postimpresionismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q1025704)](https://www.wikidata.org/wiki/Q1025704)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_(Place_du_Forum)_1888.jpg)\n- [Colección o institución asociada](http://www.kmm.nl)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

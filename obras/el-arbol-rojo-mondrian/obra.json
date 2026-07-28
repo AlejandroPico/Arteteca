@@ -1,0 +1,51 @@
+{
+  "id": "el-arbol-rojo-mondrian",
+  "titulo": "El árbol rojo",
+  "tituloOriginal": "The Red Tree",
+  "autor": "Piet Mondrian",
+  "fecha": "c. 1909",
+  "fechaOrden": 1909,
+  "tipo": "Pintura",
+  "periodo": "Neoplasticismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Cuadro de Piet Mondrian.",
+  "localizacion": "Kunstmuseum Den Haag",
+  "ciudad": "La Haya",
+  "urlLocalizacion": "http://www.gemeentemuseum.nl",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunstmuseum%20Den%20Haag%2C%20La%20Haya",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Piet Mondrian",
+    "Neoplasticismo",
+    "Abstracción y diseño moderno",
+    "Países Bajos",
+    "Pintura",
+    "Wikidata Q3818263",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2362,
+    1667
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piet_Mondrian%2C_1908-10%2C_Evening%3B_Red_Tree_%28Avond%3B_De_rode_boom%29%2C_oil_on_canvas%2C_70_x_99_cm%2C_Gemeentemuseum_Den_Haag.jpg/1920px-Piet_Mondrian%2C_1908-10%2C_Evening%3B_Red_Tree_%28Avond%3B_De_rode_boom%29%2C_oil_on_canvas%2C_70_x_99_cm%2C_Gemeentemuseum_Den_Haag.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/64/Piet_Mondrian%2C_1908-10%2C_Evening%3B_Red_Tree_%28Avond%3B_De_rode_boom%29%2C_oil_on_canvas%2C_70_x_99_cm%2C_Gemeentemuseum_Den_Haag.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1908-10,_Evening;_Red_Tree_(Avond;_De_rode_boom),_oil_on_canvas,_70_x_99_cm,_Gemeentemuseum_Den_Haag.jpg",
+    "alt": "El árbol rojo, Piet Mondrian",
+    "licencia": "Public domain",
+    "credito": "Unknown source Unknown source",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3818263",
+    "qid": "Q3818263",
+    "guia": "El Árbol Rojo (Den Haag)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "amor-sacro-y-amor-profano-vecellio",
+  "titulo": "Amor sacro y amor profano",
+  "tituloOriginal": "Sacred and Profane Love",
+  "autor": "Tiziano Vecellio",
+  "fecha": "c. 1514",
+  "fechaOrden": 1514,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Tiziano.",
+  "localizacion": "Galería Borghese",
+  "ciudad": "Roma Capitale",
+  "urlLocalizacion": "https://galleriaborghese.cultura.gov.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Borghese%2C%20Roma%20Capitale",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Tiziano Vecellio",
+    "Renacimiento veneciano",
+    "Renacimiento",
+    "Italia",
+    "Pintura",
+    "Wikidata Q794077",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6009,
+    2385
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg/1920px-Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tiziano_-_Amor_Sacro_y_Amor_Profano_(Galer%C3%ADa_Borghese,_Roma,_1514)FXD.jpg",
+    "alt": "Amor sacro y amor profano, Tiziano Vecellio",
+    "licencia": "Public domain",
+    "credito": "This file was derived from: Tiziano - Amor Sacro y Amor Profano (Galería Borghese, Roma, 1514).jpg : ·",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q794077",
+    "qid": "Q794077",
+    "guia": "Amor Sacro y Amor Profano (Galería Borghese)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

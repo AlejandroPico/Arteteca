@@ -1,0 +1,51 @@
+{
+  "id": "maesta-de-la-catedral-de-siena-buoninsegna",
+  "titulo": "Maestà de la catedral de Siena",
+  "tituloOriginal": "Maestà",
+  "autor": "Duccio di Buoninsegna",
+  "fecha": "c. 1308",
+  "fechaOrden": 1308,
+  "tipo": "Retablo",
+  "periodo": "Gótico sienés",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Two sided altarpiece by Duccio for Siena Cathedral, dismembered and partially lost.",
+  "localizacion": "Museo dell'Opera Metropolitana del Duomo",
+  "ciudad": "Siena",
+  "urlLocalizacion": "http://www.operaduomo.siena.it/museo.htm",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20dell'Opera%20Metropolitana%20del%20Duomo%2C%20Siena",
+  "pais": "Italia",
+  "tecnicas": [
+    "témpera",
+    "madera"
+  ],
+  "etiquetas": [
+    "Duccio di Buoninsegna",
+    "Gótico sienés",
+    "Arte medieval y religioso",
+    "Italia",
+    "Retablo",
+    "Wikidata Q667202",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1902,
+    1800
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Maest_0_duccio_1308-11_siena_duomo.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Maest_0_duccio_1308-11_siena_duomo.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Maest_0_duccio_1308-11_siena_duomo.jpg",
+    "alt": "Maestà de la catedral de Siena, Duccio di Buoninsegna",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q667202",
+    "qid": "Q667202",
+    "guia": "Maestà de la Catedral de Siena (Panel Principal)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

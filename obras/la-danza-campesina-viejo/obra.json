@@ -1,0 +1,51 @@
+{
+  "id": "la-danza-campesina-viejo",
+  "titulo": "La danza campesina",
+  "tituloOriginal": "The Peasant Dance",
+  "autor": "Pieter Brueghel el Viejo",
+  "fecha": "c. 1568",
+  "fechaOrden": 1568,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Pieter Brueghel el Viejo.",
+  "localizacion": "Museo de Historia del Arte de Viena",
+  "ciudad": "Innere Stadt",
+  "urlLocalizacion": "https://www.khm.at/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Historia%20del%20Arte%20de%20Viena%2C%20Innere%20Stadt",
+  "pais": "Austria",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Pieter Brueghel el Viejo",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Austria",
+    "Pintura",
+    "Wikidata Q95562",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3000,
+    2086
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pieter_Bruegel_The_Peasant_Dance.jpg/1920px-Pieter_Bruegel_The_Peasant_Dance.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Pieter_Bruegel_The_Peasant_Dance.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_The_Peasant_Dance.jpg",
+    "alt": "La danza campesina, Pieter Brueghel el Viejo",
+    "licencia": "Public domain",
+    "credito": "Pieter_Bruegel_d._Ä._014.jpg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q95562",
+    "qid": "Q95562",
+    "guia": "Danza de Campesinos (Viena)",
+    "coincidencia": 0.897,
+    "importada": "2026-07-28"
+  }
+}

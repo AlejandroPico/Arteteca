@@ -1,0 +1,51 @@
+{
+  "id": "cesto-de-manzanas-cezanne",
+  "titulo": "Cesto de manzanas",
+  "tituloOriginal": "The Basket of Apples",
+  "autor": "Paul Cézanne",
+  "fecha": "c. 1893",
+  "fechaOrden": 1893,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Cézanne.",
+  "localizacion": "Instituto de Arte de Chicago",
+  "ciudad": "Chicago",
+  "urlLocalizacion": "https://www.artic.edu",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Instituto%20de%20Arte%20de%20Chicago%2C%20Chicago",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Paul Cézanne",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q3956440",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2811,
+    2250
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg/1920px-Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/38/Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg",
+    "alt": "Cesto de manzanas, Paul Cézanne",
+    "licencia": "Public domain",
+    "credito": "https://www.artic.edu/artworks/111436",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3956440",
+    "qid": "Q3956440",
+    "guia": "El Cesto de Manzanas (Art Institute of Chicago)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

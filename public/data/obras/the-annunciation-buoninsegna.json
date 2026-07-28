@@ -1,0 +1,97 @@
+{
+  "id": "the-annunciation-buoninsegna",
+  "titulo": "La Anunciación",
+  "autor": "Duccio di Buoninsegna",
+  "fecha": "c. 1300",
+  "fechaOrden": 1300,
+  "tipo": "Pintura",
+  "periodo": "Gótico sienés",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Cuadro de Duccio.",
+  "localizacion": "National Gallery de Londres",
+  "ciudad": "Ciudad de Westminster",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20de%20Londres%2C%20Ciudad%20de%20Westminster",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "témpera",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Duccio di Buoninsegna",
+    "Guía maestra 2026",
+    "Gótico sienés",
+    "Pintura",
+    "Reino Unido",
+    "tabla",
+    "témpera",
+    "Wikidata Q26706454"
+  ],
+  "proporcion": [
+    4363,
+    4226
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duccio_di_Buoninsegna_068.jpg/1920px-Duccio_di_Buoninsegna_068.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Duccio_di_Buoninsegna_068.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_068.jpg",
+    "alt": "La Anunciación, Duccio di Buoninsegna",
+    "licencia": "Public domain",
+    "credito": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duccio_di_Buoninsegna_068.jpg/1920px-Duccio_di_Buoninsegna_068.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Duccio_di_Buoninsegna_068.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q26706454",
+    "qid": "Q26706454",
+    "guia": "La Anunciación (National Gallery, Londres)",
+    "coincidencia": 0.762,
+    "importada": "2026-07-28"
+  },
+  "tituloOriginal": "The Annunciation",
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La Anunciación** se incorpora al mosaico como pintura de **Duccio di Buoninsegna**. Cuadro de Duccio.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Duccio di Buoninsegna\n- **Datación registrada:** c. 1300\n- **Periodo de navegación:** Gótico sienés\n- **Colección temática:** Arte medieval y religioso\n- **Colección o ubicación:** National Gallery de Londres\n- **Lugar asociado:** Ciudad de Westminster\n- **País asociado a la colección:** Reino Unido\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Anunciación (National Gallery, Londres)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q26706454** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** témpera, tabla\n- **Dimensiones de la obra:** 44 cm × 43 cm\n- **Archivo digital:** 4363 × 4226 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Duccio di Buoninsegna** y del **Gótico sienés** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q26706454)](https://www.wikidata.org/wiki/Q26706454)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_068.jpg)\n- [Colección o institución asociada](https://www.nationalgallery.org.uk)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

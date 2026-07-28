@@ -1,0 +1,50 @@
+{
+  "id": "la-muerte-de-sardanapalo-delacroix",
+  "titulo": "La muerte de Sardanápalo",
+  "tituloOriginal": "Death of Sardanapalus",
+  "autor": "Eugène Delacroix",
+  "fecha": "c. 1827",
+  "fechaOrden": 1827,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Eugène Delacroix.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Eugène Delacroix",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q1133821",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    9842,
+    7703
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/La_Mort_de_Sardanapale_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2346.jpg/1920px-La_Mort_de_Sardanapale_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2346.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d0/La_Mort_de_Sardanapale_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2346.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_Mort_de_Sardanapale_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2346.jpg",
+    "alt": "La muerte de Sardanápalo, Eugène Delacroix",
+    "licencia": "Public domain",
+    "credito": "photo Shonagon 2025-03-29",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1133821",
+    "qid": "Q1133821",
+    "guia": "La Muerte de Sardanápolo (Museo del Louvre)",
+    "coincidencia": 0.882,
+    "importada": "2026-07-28"
+  }
+}

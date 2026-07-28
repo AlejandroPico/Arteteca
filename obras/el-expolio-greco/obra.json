@@ -1,0 +1,51 @@
+{
+  "id": "el-expolio-greco",
+  "titulo": "El expolio",
+  "tituloOriginal": "The Disrobing of Christ",
+  "autor": "El Greco",
+  "fecha": "c. 1578",
+  "fechaOrden": 1578,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "Cuadro de El Greco.",
+  "localizacion": "catedral de Toledo",
+  "ciudad": "Castilla-La Mancha",
+  "urlLocalizacion": "https://www.catedralprimada.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=catedral%20de%20Toledo%2C%20Castilla-La%20Mancha",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Manierismo",
+    "Renacimiento y Manierismo",
+    "España",
+    "Pintura",
+    "Wikidata Q2714617",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    745,
+    1280
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/El_Expolio%2C_por_El_Greco.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/25/El_Expolio%2C_por_El_Greco.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El_Expolio,_por_El_Greco.jpg",
+    "alt": "El expolio, El Greco",
+    "licencia": "Public domain",
+    "credito": "Pictorpedia",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2714617",
+    "qid": "Q2714617",
+    "guia": "El Expolio (Catedral de Toledo)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

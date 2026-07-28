@@ -1,0 +1,50 @@
+{
+  "id": "la-misa-de-bolsena-rafael",
+  "titulo": "La misa de Bolsena",
+  "tituloOriginal": "The Mass at Bolsena",
+  "autor": "Rafael",
+  "fecha": "c. 1512",
+  "fechaOrden": 1512,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Fresco del artista Rafael Sanzio.",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "http://www.museivaticani.va",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "fresco"
+  ],
+  "etiquetas": [
+    "Rafael",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Ciudad del Vaticano",
+    "Pintura mural",
+    "Wikidata Q2529969",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1050,
+    732
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Massatbolsena.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Massatbolsena.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Massatbolsena.jpg",
+    "alt": "La misa de Bolsena, Rafael",
+    "licencia": "Public domain",
+    "credito": "Unknown source Unknown source",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2529969",
+    "qid": "Q2529969",
+    "guia": "La Misa de Bolsena",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

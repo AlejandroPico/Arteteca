@@ -1,0 +1,97 @@
+{
+  "id": "la-flagelacion-de-cristo-cimabue",
+  "titulo": "La flagelación de Cristo",
+  "tituloOriginal": "The Flagellation of Christ",
+  "autor": "Cimabue",
+  "fecha": "c. 1280",
+  "fechaOrden": 1280,
+  "tipo": "Pintura",
+  "periodo": "Protorrenacimiento",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Cuadro de Cimabue.",
+  "localizacion": "Colección Frick",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.frick.org",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecci%C3%B3n%20Frick%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "témpera",
+    "panel de álamo"
+  ],
+  "etiquetas": [
+    "Arte medieval y religioso",
+    "Cimabue",
+    "Estados Unidos",
+    "Guía maestra 2026",
+    "panel de álamo",
+    "Pintura",
+    "Protorrenacimiento",
+    "témpera",
+    "Wikidata Q16556250"
+  ],
+  "proporcion": [
+    2053,
+    2587
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cimabue_-_Flagellation.jpg/1920px-Cimabue_-_Flagellation.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cimabue_-_Flagellation.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cimabue_-_Flagellation.jpg",
+    "alt": "La flagelación de Cristo, Cimabue",
+    "licencia": "Public domain",
+    "credito": "Cimabue , de Luciano Bellosi et apparat critique de Giovanna Ragionieri, Arles : Actes Sud, Milano : Motto, 1998. ISBN 978-27-4271-925-9",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cimabue_-_Flagellation.jpg/1920px-Cimabue_-_Flagellation.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cimabue_-_Flagellation.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16556250",
+    "qid": "Q16556250",
+    "guia": "Flagelación de Cristo",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La flagelación de Cristo** se incorpora al mosaico como pintura de **Cimabue**. Cuadro de Cimabue.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Cimabue\n- **Datación registrada:** c. 1280\n- **Periodo de navegación:** Protorrenacimiento\n- **Colección temática:** Arte medieval y religioso\n- **Colección o ubicación:** Colección Frick\n- **Lugar asociado:** Manhattan\n- **País asociado a la colección:** Estados Unidos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Flagelación de Cristo». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q16556250** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** témpera, panel de álamo\n- **Dimensiones de la obra:** 20 cm × 24,7 cm\n- **Archivo digital:** 2053 × 2587 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Cimabue** y del **Protorrenacimiento** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q16556250)](https://www.wikidata.org/wiki/Q16556250)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cimabue_-_Flagellation.jpg)\n- [Colección o institución asociada](https://www.frick.org)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

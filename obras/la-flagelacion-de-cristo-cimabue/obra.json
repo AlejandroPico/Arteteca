@@ -1,0 +1,51 @@
+{
+  "id": "la-flagelacion-de-cristo-cimabue",
+  "titulo": "La flagelación de Cristo",
+  "tituloOriginal": "The Flagellation of Christ",
+  "autor": "Cimabue",
+  "fecha": "c. 1280",
+  "fechaOrden": 1280,
+  "tipo": "Pintura",
+  "periodo": "Protorrenacimiento",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Cuadro de Cimabue.",
+  "localizacion": "Colección Frick",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.frick.org",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecci%C3%B3n%20Frick%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "témpera",
+    "panel de álamo"
+  ],
+  "etiquetas": [
+    "Cimabue",
+    "Protorrenacimiento",
+    "Arte medieval y religioso",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q16556250",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2053,
+    2587
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cimabue_-_Flagellation.jpg/1920px-Cimabue_-_Flagellation.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Cimabue_-_Flagellation.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cimabue_-_Flagellation.jpg",
+    "alt": "La flagelación de Cristo, Cimabue",
+    "licencia": "Public domain",
+    "credito": "Cimabue , de Luciano Bellosi et apparat critique de Giovanna Ragionieri, Arles : Actes Sud, Milano : Motto, 1998. ISBN 978-27-4271-925-9",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16556250",
+    "qid": "Q16556250",
+    "guia": "Flagelación de Cristo",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

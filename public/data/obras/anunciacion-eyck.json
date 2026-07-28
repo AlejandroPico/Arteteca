@@ -1,0 +1,97 @@
+{
+  "id": "anunciacion-eyck",
+  "titulo": "Anunciación",
+  "tituloOriginal": "Annunciation",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1440",
+  "fechaOrden": 1440,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Óleo sobre tabla de Jan van Eyck, conservado en el Museo Thyssen-Bornemisza de Madrid.",
+  "localizacion": "Museo Nacional Thyssen-Bornemisza",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museothyssen.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20Thyssen-Bornemisza%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "España",
+    "Guía maestra 2026",
+    "Jan van Eyck",
+    "Pintura",
+    "Renacimiento",
+    "Renacimiento nórdico",
+    "tabla",
+    "Wikidata Q2516599",
+    "óleo"
+  ],
+  "proporcion": [
+    5911,
+    4802
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jan_van_Eyck%2C_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg/1920px-Jan_van_Eyck%2C_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jan_van_Eyck%2C_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_van_Eyck,_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg",
+    "alt": "Anunciación, Jan van Eyck",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — pAEtGeYidzZQPA",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jan_van_Eyck%2C_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg/1920px-Jan_van_Eyck%2C_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jan_van_Eyck%2C_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2516599",
+    "qid": "Q2516599",
+    "guia": "La Anunciación (National Gallery, Washington)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Anunciación** se incorpora al mosaico como pintura de **Jan van Eyck**. Óleo sobre tabla de Jan van Eyck, conservado en el Museo Thyssen-Bornemisza de Madrid.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Jan van Eyck\n- **Datación registrada:** c. 1440\n- **Periodo de navegación:** Renacimiento nórdico\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Museo Nacional Thyssen-Bornemisza\n- **Lugar asociado:** Madrid\n- **País asociado a la colección:** España\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Anunciación (National Gallery, Washington)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q2516599** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, tabla\n- **Dimensiones de la obra:** 24 cm × 39 cm\n- **Archivo digital:** 5911 × 4802 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Jan van Eyck** y del **Renacimiento nórdico** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q2516599)](https://www.wikidata.org/wiki/Q2516599)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jan_van_Eyck,_Around_1390-1441_-_The_Annuciation_Diptych_-_Google_Art_Project.jpg)\n- [Colección o institución asociada](https://www.museothyssen.org/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "la-incredulidad-de-santo-tomas-caravaggio",
+  "titulo": "La incredulidad de santo Tomás",
+  "tituloOriginal": "The Incredulity of Saint Thomas",
+  "autor": "Caravaggio",
+  "fecha": "c. 1601",
+  "fechaOrden": 1601,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Caravaggio.",
+  "localizacion": "Pinacoteca de Sanssouci",
+  "ciudad": "Potsdam",
+  "urlLocalizacion": "https://www.spsg.de/schloesser-gaerten/objekt/bildergalerie/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Pinacoteca%20de%20Sanssouci%2C%20Potsdam",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q2419166",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    42558,
+    31589
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Caravaggio_incredulity.jpg/1920px-Caravaggio_incredulity.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Caravaggio_incredulity.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Caravaggio_incredulity.jpg",
+    "alt": "La incredulidad de santo Tomás, Caravaggio",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — 0AEjjQkNdRL9sg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2419166",
+    "qid": "Q2419166",
+    "guia": "La Incredulidad de Santo Tomás (Potsdam)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

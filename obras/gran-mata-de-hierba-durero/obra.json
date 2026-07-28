@@ -1,0 +1,52 @@
+{
+  "id": "gran-mata-de-hierba-durero",
+  "titulo": "Gran mata de hierba",
+  "tituloOriginal": "Great Piece of Turf",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1503",
+  "fechaOrden": 1503,
+  "tipo": "Dibujo",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Acuarela de Alberto Durero.",
+  "localizacion": "Albertina",
+  "ciudad": "Innere Stadt",
+  "urlLocalizacion": "http://www.albertina.at/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Albertina%2C%20Innere%20Stadt",
+  "pais": "Austria",
+  "tecnicas": [
+    "papel",
+    "acuarela",
+    "top color"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Austria",
+    "Dibujo",
+    "Wikidata Q254794",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3037,
+    3901
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg/1920px-Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf,_1503_-_Google_Art_Project.jpg",
+    "alt": "Gran mata de hierba, Alberto Durero",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — NgELdACk3I8Jkg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q254794",
+    "qid": "Q254794",
+    "guia": "Gran Mata de Hierba (Acuarela)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

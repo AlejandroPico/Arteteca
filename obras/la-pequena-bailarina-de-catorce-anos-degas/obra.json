@@ -1,0 +1,53 @@
+{
+  "id": "la-pequena-bailarina-de-catorce-anos-degas",
+  "titulo": "La pequeña bailarina de catorce años",
+  "tituloOriginal": "Little Dancer of Fourteen Years",
+  "autor": "Edgar Degas",
+  "fecha": "c. 1881",
+  "fechaOrden": 1881,
+  "tipo": "Escultura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Edgar Degas que representa a una joven bailarina.",
+  "localizacion": "Galería Nacional de Arte",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "http://www.nga.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Nacional%20de%20Arte%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "bronce",
+    "cinta",
+    "tul",
+    "cera"
+  ],
+  "etiquetas": [
+    "Edgar Degas",
+    "Impresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Escultura",
+    "Wikidata Q2734209",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1341,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Danseuse2_degas_Musee_Orsay.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Danseuse2_degas_Musee_Orsay.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Danseuse2_degas_Musee_Orsay.jpg",
+    "alt": "La pequeña bailarina de catorce años, Edgar Degas",
+    "licencia": "Public domain",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2734209",
+    "qid": "Q2734209",
+    "guia": "Pequeña Bailarina de Catorce Años (Escultura en Bronce - Washington / Orsay)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

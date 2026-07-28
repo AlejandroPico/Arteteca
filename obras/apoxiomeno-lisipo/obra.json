@@ -1,0 +1,42 @@
+{
+  "id": "apoxiomeno-lisipo",
+  "titulo": "Apoxiomeno",
+  "tituloOriginal": "Apoxyomenos",
+  "autor": "Lisipo",
+  "fecha": "c. 330 a. C.",
+  "fechaOrden": -330,
+  "tipo": "Escultura",
+  "periodo": "Helenismo",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Escultura atribuida a Lisipo, conocida a través de copias antiguas.",
+  "tecnicas": [],
+  "etiquetas": [
+    "Lisipo",
+    "Helenismo",
+    "Grecia y Roma",
+    "Escultura",
+    "Wikidata Q431029",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1500,
+    3500
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apoxyomenos_Pio-Clementino_Inv1185.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apoxyomenos_Pio-Clementino_Inv1185.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Apoxyomenos_Pio-Clementino_Inv1185.jpg",
+    "alt": "Apoxiomeno, Lisipo",
+    "licencia": "Public domain",
+    "credito": "Marie-Lan Nguyen (2009)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q431029",
+    "qid": "Q431029",
+    "guia": "Apoxiómeno (Atleta limpiándose con el estrígil)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

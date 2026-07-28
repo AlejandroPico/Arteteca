@@ -1,0 +1,51 @@
+{
+  "id": "la-anunciacion-greco",
+  "titulo": "La anunciación",
+  "tituloOriginal": "Annunciation",
+  "autor": "El Greco",
+  "fecha": "c. 1603",
+  "fechaOrden": 1603,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "Cuadro de El Greco (Hospital de la Caridad de Illescas).",
+  "localizacion": "Hospital de la Caridad de Illescas",
+  "ciudad": "Illescas",
+  "urlLocalizacion": "http://www.elgrecoillescas.com",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Hospital%20de%20la%20Caridad%20de%20Illescas%2C%20Illescas",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "El Greco",
+    "Manierismo",
+    "Renacimiento y Manierismo",
+    "España",
+    "Pintura",
+    "Wikidata Q5965719",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1000,
+    1000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/GRECO_Anunciacion.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/81/GRECO_Anunciacion.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:GRECO_Anunciacion.jpg",
+    "alt": "La anunciación, El Greco",
+    "licencia": "Public domain",
+    "credito": "Funcave.org",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5965719",
+    "qid": "Q5965719",
+    "guia": "La Anunciación (Colección Thyssen / Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

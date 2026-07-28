@@ -1,0 +1,51 @@
+{
+  "id": "la-torre-eiffel-seurat",
+  "titulo": "La torre Eiffel",
+  "tituloOriginal": "The Eiffel Tower",
+  "autor": "Georges Seurat",
+  "fecha": "c. 1889",
+  "fechaOrden": 1889,
+  "tipo": "Pintura",
+  "periodo": "Neoimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Georges Seurat.",
+  "localizacion": "Museo de Bellas Artes de San Francisco",
+  "ciudad": "San Francisco",
+  "urlLocalizacion": "https://www.famsf.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Bellas%20Artes%20de%20San%20Francisco%2C%20San%20Francisco",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Georges Seurat",
+    "Neoimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q3821251",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2208,
+    3492
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georges_Seurat_-_La_Tour_Eiffel_%28ca._1889%29.jpg/1920px-Georges_Seurat_-_La_Tour_Eiffel_%28ca._1889%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/03/Georges_Seurat_-_La_Tour_Eiffel_%28ca._1889%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_La_Tour_Eiffel_(ca._1889).jpg",
+    "alt": "La torre Eiffel, Georges Seurat",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3821251",
+    "qid": "Q3821251",
+    "guia": "La Torre Eiffel (Fine Arts Museums of San Francisco)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "cristo-en-casa-de-marta-y-maria-vermeer",
+  "titulo": "Cristo en casa de Marta y María",
+  "tituloOriginal": "Christ in the House of Martha and Mary",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1650",
+  "fechaOrden": 1650,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Johannes Vermeer.",
+  "localizacion": "Galería nacional de Escocia",
+  "ciudad": "City de Edimburgo",
+  "urlLocalizacion": "https://www.nationalgalleries.org/visit/scottish-national-gallery",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20nacional%20de%20Escocia%2C%20City%20de%20Edimburgo",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Johannes Vermeer",
+    "Barroco",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q927449",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3459,
+    4001
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg/1920px-Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Johannes_%28Jan%29_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
+    "alt": "Cristo en casa de Marta y María, Johannes Vermeer",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — fwE2zem7WDcSlA",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q927449",
+    "qid": "Q927449",
+    "guia": "Cristo en casa de Marta y María",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

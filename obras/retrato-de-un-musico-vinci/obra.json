@@ -1,0 +1,51 @@
+{
+  "id": "retrato-de-un-musico-vinci",
+  "titulo": "Retrato de un músico",
+  "tituloOriginal": "Portrait of a Musician",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1485",
+  "fechaOrden": 1485,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Leonardo da Vinci.",
+  "localizacion": "Pinacoteca Ambrosiana",
+  "ciudad": "Milán",
+  "urlLocalizacion": "https://www.ambrosiana.it",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Pinacoteca%20Ambrosiana%2C%20Mil%C3%A1n",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Italia",
+    "Pintura",
+    "Wikidata Q2338404",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3851,
+    5055
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg/1920px-Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
+    "alt": "Retrato de un músico, Leonardo da Vinci",
+    "licencia": "Public domain",
+    "credito": "https://www.ambrosiana.it/en/opere/portrait-of-a-musician/",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2338404",
+    "qid": "Q2338404",
+    "guia": "Retrato de Músico",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

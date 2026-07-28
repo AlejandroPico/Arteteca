@@ -1,0 +1,96 @@
+{
+  "id": "la-lechera-vermeer",
+  "titulo": "La lechera",
+  "tituloOriginal": "The Milkmaid",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1660",
+  "fechaOrden": 1660,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Johannes Vermeer.",
+  "localizacion": "Rijksmuseum",
+  "ciudad": "Amsterdam",
+  "urlLocalizacion": "https://www.rijksmuseum.nl/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Rijksmuseum%2C%20Amsterdam",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "lienzo",
+    "óleo"
+  ],
+  "etiquetas": [
+    "Barroco",
+    "Guía maestra 2026",
+    "Johannes Vermeer",
+    "lienzo",
+    "Países Bajos",
+    "Pintura",
+    "Wikidata Q167605",
+    "óleo"
+  ],
+  "proporcion": [
+    4000,
+    4485
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/1920px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "alt": "La lechera, Johannes Vermeer",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — AHrw. Z3. Av6. Zhjg 9. AHrw. Z3. Av6. Zhjg",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/1920px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q167605",
+    "qid": "Q167605",
+    "guia": "La Lechera (Rijksmuseum, Ámsterdam)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La lechera** se incorpora al mosaico como pintura de **Johannes Vermeer**. Cuadro de Johannes Vermeer.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Johannes Vermeer\n- **Datación registrada:** c. 1660\n- **Periodo de navegación:** Barroco\n- **Colección temática:** Barroco\n- **Colección o ubicación:** Rijksmuseum\n- **Lugar asociado:** Amsterdam\n- **País asociado a la colección:** Países Bajos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Lechera (Rijksmuseum, Ámsterdam)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q167605** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** lienzo, óleo\n- **Dimensiones de la obra:** 41 cm × 45,5 cm\n- **Archivo digital:** 4000 × 4485 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Johannes Vermeer** y del **Barroco** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q167605)](https://www.wikidata.org/wiki/Q167605)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg)\n- [Colección o institución asociada](https://www.rijksmuseum.nl/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

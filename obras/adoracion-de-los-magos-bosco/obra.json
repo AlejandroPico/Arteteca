@@ -1,0 +1,51 @@
+{
+  "id": "adoracion-de-los-magos-bosco",
+  "titulo": "Adoración de los Magos",
+  "tituloOriginal": "The Epiphany",
+  "autor": "El Bosco",
+  "fecha": "c. 1494",
+  "fechaOrden": 1494,
+  "tipo": "Retablo",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jerónimo Bosch.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "panel de roble"
+  ],
+  "etiquetas": [
+    "El Bosco",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "España",
+    "Retablo",
+    "Wikidata Q2276130",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2711,
+    2362
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hieronymus_Bosch_-_Triptych_of_the_Adoration_of_the_Magi_-_WGA2606.jpg/1920px-Hieronymus_Bosch_-_Triptych_of_the_Adoration_of_the_Magi_-_WGA2606.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hieronymus_Bosch_-_Triptych_of_the_Adoration_of_the_Magi_-_WGA2606.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Triptych_of_the_Adoration_of_the_Magi_-_WGA2606.jpg",
+    "alt": "Adoración de los Magos, El Bosco",
+    "licencia": "Public domain",
+    "credito": "www.museodelprado.es : Home : Info",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2276130",
+    "qid": "Q2276130",
+    "guia": "La Adoración de los Magos (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

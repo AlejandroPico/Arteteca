@@ -1,0 +1,51 @@
+{
+  "id": "el-vinedo-rojo-gogh",
+  "titulo": "El viñedo rojo",
+  "tituloOriginal": "The Red Vineyard",
+  "autor": "Vincent van Gogh",
+  "fecha": "c. 1888",
+  "fechaOrden": 1888,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Vincent van Gogh.",
+  "localizacion": "Museo Pushkin",
+  "ciudad": "Khamovniki District",
+  "urlLocalizacion": "http://www.arts-museum.ru",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Pushkin%2C%20Khamovniki%20District",
+  "pais": "Rusia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Vincent van Gogh",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Rusia",
+    "Pintura",
+    "Wikidata Q1926628",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    11406,
+    9092
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Vincent_van_Gogh_-_Red_Vineyard_at_Arles_%281888%29.jpg/1920px-Vincent_van_Gogh_-_Red_Vineyard_at_Arles_%281888%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/11/Vincent_van_Gogh_-_Red_Vineyard_at_Arles_%281888%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Red_Vineyard_at_Arles_(1888).jpg",
+    "alt": "El viñedo rojo, Vincent van Gogh",
+    "licencia": "Public domain",
+    "credito": "Pushkin Museum, Moscow",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1926628",
+    "qid": "Q1926628",
+    "guia": "El Viñedo Rojo en Arlés (Hermitage)",
+    "coincidencia": 0.769,
+    "importada": "2026-07-28"
+  }
+}

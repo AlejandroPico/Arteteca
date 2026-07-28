@@ -1,0 +1,48 @@
+{
+  "id": "david-bernini",
+  "titulo": "David",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "c. 1624",
+  "fechaOrden": 1624,
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Escultura de Gian Lorenzo Bernini.",
+  "localizacion": "Galería Borghese",
+  "ciudad": "Roma Capitale",
+  "urlLocalizacion": "https://galleriaborghese.cultura.gov.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Borghese%2C%20Roma%20Capitale",
+  "pais": "Italia",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Italia",
+    "Escultura",
+    "Wikidata Q766487",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4456,
+    6686
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bernini%27s_David_02.jpg/1920px-Bernini%27s_David_02.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/92/Bernini%27s_David_02.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bernini%27s_David_02.jpg",
+    "alt": "David, Gian Lorenzo Bernini",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q766487",
+    "qid": "Q766487",
+    "guia": "David (Galería Borghese)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

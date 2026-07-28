@@ -1,0 +1,51 @@
+{
+  "id": "la-carga-de-la-caballeria-roja-malevich",
+  "titulo": "La carga de la caballería roja",
+  "tituloOriginal": "Red Cavalry Riding",
+  "autor": "Kazimir Malévich",
+  "fecha": "c. 1932",
+  "fechaOrden": 1932,
+  "tipo": "Pintura",
+  "periodo": "Suprematismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Cuadro de Kazimir Malévich.",
+  "localizacion": "Museo Estatal Ruso",
+  "ciudad": "San Petersburgo",
+  "urlLocalizacion": "http://en.rusmuseum.ru/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Estatal%20Ruso%2C%20San%20Petersburgo",
+  "pais": "Rusia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Kazimir Malévich",
+    "Suprematismo",
+    "Abstracción y diseño moderno",
+    "Rusia",
+    "Pintura",
+    "Wikidata Q1523506",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4924,
+    3210
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Red_Cavalry_Riding.jpg/1920px-Red_Cavalry_Riding.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/23/Red_Cavalry_Riding.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Red_Cavalry_Riding.jpg",
+    "alt": "La carga de la caballería roja, Kazimir Malévich",
+    "licencia": "Public domain",
+    "credito": "http://www.rusmuseum.ru/ru/exhibitions/virtual/red/135.html",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1523506",
+    "qid": "Q1523506",
+    "guia": "Caballería Roja (Museo Ruso, San Petersburgo)",
+    "coincidencia": 0.824,
+    "importada": "2026-07-28"
+  }
+}

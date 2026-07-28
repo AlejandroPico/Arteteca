@@ -1,0 +1,50 @@
+{
+  "id": "lamentacion-sobre-cristo-muerto-giotto",
+  "titulo": "Lamentación sobre Cristo muerto",
+  "tituloOriginal": "Lamentation",
+  "autor": "Giotto",
+  "fecha": "c. 1305",
+  "fechaOrden": 1305,
+  "tipo": "Pintura mural",
+  "periodo": "Protorrenacimiento",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Fresco de Giotto perteneciente al ciclo de la capilla de los Scrovegni.",
+  "localizacion": "capilla de los Scrovegni",
+  "ciudad": "Padua",
+  "urlLocalizacion": "http://www.cappelladegliscrovegni.it",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=capilla%20de%20los%20Scrovegni%2C%20Padua",
+  "pais": "Italia",
+  "tecnicas": [
+    "fresco"
+  ],
+  "etiquetas": [
+    "Giotto",
+    "Protorrenacimiento",
+    "Arte medieval y religioso",
+    "Italia",
+    "Pintura mural",
+    "Wikidata Q2067212",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    10240,
+    9632
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Compianto_sul_Cristo_morto.jpg/1920px-Compianto_sul_Cristo_morto.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/34/Compianto_sul_Cristo_morto.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Compianto_sul_Cristo_morto.jpg",
+    "alt": "Lamentación sobre Cristo muerto, Giotto",
+    "licencia": "Public domain",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2067212",
+    "qid": "Q2067212",
+    "guia": "El Llanto sobre Cristo Muerto (Capilla Scrovegni)",
+    "coincidencia": 0.764,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "cristo-crucificado-velazquez",
+  "titulo": "Cristo crucificado",
+  "tituloOriginal": "Christ Crucified",
+  "autor": "Diego Velázquez",
+  "fecha": "c. 1632",
+  "fechaOrden": 1632,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Diego Velázquez.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Diego Velázquez",
+    "Barroco",
+    "España",
+    "Pintura",
+    "Wikidata Q2528741",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2046,
+    3051
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristo_crucificado.jpg/1920px-Cristo_crucificado.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cristo_crucificado.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cristo_crucificado.jpg",
+    "alt": "Cristo crucificado, Diego Velázquez",
+    "licencia": "Public domain",
+    "credito": "https://www.museodelprado.es/coleccion/obra-de-arte/cristo-crucificado/72cbb57e-f622-4531-9b25-27ff0a9559d7 ( Museo del Prado )",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2528741",
+    "qid": "Q2528741",
+    "guia": "Cristo Crucificado / Cristo de San Plácido (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

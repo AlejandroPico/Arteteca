@@ -1,0 +1,48 @@
+{
+  "id": "eva-rodin",
+  "titulo": "Eva",
+  "tituloOriginal": "Eve",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1881",
+  "fechaOrden": 1881,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura hecha por Auguste Rodin.",
+  "localizacion": "Jardín de las Tullerías",
+  "ciudad": "I Distrito de París",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q818517",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Jard%C3%ADn%20de%20las%20Tuller%C3%ADas%2C%20I%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Escultura",
+    "Wikidata Q18147649",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5504,
+    7508
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/75_-_Mus%C3%A9e_Rodin_-_%C3%88ve_au_rocher%2C_grand_mod%C3%A8le_%E2%80%93_Auguste_Rodin.jpg/1920px-75_-_Mus%C3%A9e_Rodin_-_%C3%88ve_au_rocher%2C_grand_mod%C3%A8le_%E2%80%93_Auguste_Rodin.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d8/75_-_Mus%C3%A9e_Rodin_-_%C3%88ve_au_rocher%2C_grand_mod%C3%A8le_%E2%80%93_Auguste_Rodin.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:75_-_Mus%C3%A9e_Rodin_-_%C3%88ve_au_rocher,_grand_mod%C3%A8le_%E2%80%93_Auguste_Rodin.jpg",
+    "alt": "Eva, Auguste Rodin",
+    "licencia": "Public domain",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18147649",
+    "qid": "Q18147649",
+    "guia": "Eva (Escultura en Bronce)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

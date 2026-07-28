@@ -1,0 +1,50 @@
+{
+  "id": "vista-de-delft-vermeer",
+  "titulo": "Vista de Delft",
+  "tituloOriginal": "View of Delft",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1661",
+  "fechaOrden": 1661,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Pintura de Johannes Vermeer.",
+  "localizacion": "Mauritshuis",
+  "ciudad": "La Haya",
+  "urlLocalizacion": "https://www.mauritshuis.nl",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mauritshuis%2C%20La%20Haya",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Johannes Vermeer",
+    "Barroco",
+    "Países Bajos",
+    "Pintura",
+    "Wikidata Q523974",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6000,
+    5002
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg/1920px-Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+    "alt": "Vista de Delft, Johannes Vermeer",
+    "licencia": "Public domain",
+    "credito": "Mauritshuis",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q523974",
+    "qid": "Q523974",
+    "guia": "Vista de Delft (Mauritshuis)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "san-juan-bautista-rodin-rodin",
+  "titulo": "San Juan Bautista (Rodin)",
+  "tituloOriginal": "John the Baptist",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1878",
+  "fechaOrden": 1878,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Augusto Rodin.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "bronce"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Escultura",
+    "Wikidata Q3463880",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    389,
+    650
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/11_San_Juan_Bautista_predicando.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c8/11_San_Juan_Bautista_predicando.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:11_San_Juan_Bautista_predicando.jpg",
+    "alt": "San Juan Bautista (Rodin), Auguste Rodin",
+    "licencia": "Public domain",
+    "credito": "Museo Soumaya",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3463880",
+    "qid": "Q3463880",
+    "guia": "San Juan Bautista Predicando",
+    "coincidencia": 0.75,
+    "importada": "2026-07-28"
+  }
+}

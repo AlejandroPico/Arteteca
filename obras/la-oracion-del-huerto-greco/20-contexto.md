@@ -1,0 +1,16 @@
+---
+titulo: Contexto
+icono: reloj
+---
+
+## Identificación
+
+- **Autoría:** El Greco
+- **Datación registrada:** c. 1590
+- **Periodo de navegación:** Manierismo
+- **Colección temática:** Renacimiento y Manierismo
+- **Colección o ubicación:** National Gallery de Londres
+- **Lugar asociado:** Ciudad de Westminster
+- **País asociado a la colección:** Reino Unido
+
+La guía aportada por el responsable del proyecto cita esta entrada como «La Oración en el Huerto de los Olivos». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q2680589** y mantiene la formulación original en los metadatos de procedencia.

@@ -1,0 +1,42 @@
+{
+  "id": "los-remolinos-de-naruto-en-la-provincia-de-awa-hiroshige",
+  "titulo": "Los remolinos de Naruto en la provincia de Awa",
+  "tituloOriginal": "Naruto Whirlpools",
+  "autor": "Utagawa Hiroshige",
+  "fecha": "c. 1853",
+  "fechaOrden": 1853,
+  "tipo": "Grabado",
+  "periodo": "Ukiyo-e",
+  "coleccion": "Asia",
+  "descripcion": "Estampa japonesa de Utagawa Hiroshige.",
+  "tecnicas": [],
+  "etiquetas": [
+    "Utagawa Hiroshige",
+    "Ukiyo-e",
+    "Asia",
+    "Grabado",
+    "Wikidata Q131629216",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1064,
+    1549
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Famous_Scenes_of_the_Sixty_States_55_Awa.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Famous_Scenes_of_the_Sixty_States_55_Awa.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Famous_Scenes_of_the_Sixty_States_55_Awa.jpg",
+    "alt": "Los remolinos de Naruto en la provincia de Awa, Utagawa Hiroshige",
+    "licencia": "Public domain",
+    "credito": "Museum of Fine Arts, Boston, online database ·",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q131629216",
+    "qid": "Q131629216",
+    "guia": "El Remolino de Naruto en Awa",
+    "coincidencia": 0.723,
+    "importada": "2026-07-28"
+  }
+}

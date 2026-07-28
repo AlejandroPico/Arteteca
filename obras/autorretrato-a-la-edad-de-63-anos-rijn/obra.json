@@ -1,0 +1,50 @@
+{
+  "id": "autorretrato-a-la-edad-de-63-anos-rijn",
+  "titulo": "Autorretrato a la edad de 63 años",
+  "tituloOriginal": "Self-Portrait at the Age of 63",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "c. 1669",
+  "fechaOrden": 1669,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Rembrandt, 1669, National Gallery.",
+  "localizacion": "National Gallery de Londres",
+  "ciudad": "Ciudad de Westminster",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20de%20Londres%2C%20Ciudad%20de%20Westminster",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Rembrandt van Rijn",
+    "Barroco",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q3630743",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3415,
+    4224
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Rembrandt_Harmensz._van_Rijn_135.jpg/1920px-Rembrandt_Harmensz._van_Rijn_135.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Rembrandt_Harmensz._van_Rijn_135.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_135.jpg",
+    "alt": "Autorretrato a la edad de 63 años, Rembrandt van Rijn",
+    "licencia": "Public domain",
+    "credito": "www.nationalgallery.org.uk : Home : Info",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q3630743",
+    "qid": "Q3630743",
+    "guia": "Autorretrato a los 63 Años (National Gallery, Londres)",
+    "coincidencia": 0.884,
+    "importada": "2026-07-28"
+  }
+}

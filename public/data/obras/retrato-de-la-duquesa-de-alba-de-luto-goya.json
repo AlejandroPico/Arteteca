@@ -1,0 +1,97 @@
+{
+  "id": "retrato-de-la-duquesa-de-alba-de-luto-goya",
+  "titulo": "Retrato de la Duquesa de Alba de luto",
+  "tituloOriginal": "The Black Duchess",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1797",
+  "fechaOrden": 1797,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Francisco de Goya.",
+  "localizacion": "Sociedad Hispánica de América",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://hispanicsociety.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Sociedad%20Hisp%C3%A1nica%20de%20Am%C3%A9rica%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "De la Ilustración al Romanticismo",
+    "Estados Unidos",
+    "Francisco de Goya",
+    "Guía maestra 2026",
+    "lienzo",
+    "Pintura",
+    "Romanticismo",
+    "Wikidata Q655420",
+    "óleo"
+  ],
+  "proporcion": [
+    700,
+    1000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Francisco_de_Goya_y_Lucientes_-_The_Duchess_of_Alba_-_A102_-_Hispanic_Society_of_America.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Francisco_de_Goya_y_Lucientes_-_The_Duchess_of_Alba_-_A102_-_Hispanic_Society_of_America.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_The_Duchess_of_Alba_-_A102_-_Hispanic_Society_of_America.jpg",
+    "alt": "Retrato de la Duquesa de Alba de luto, Francisco de Goya",
+    "licencia": "Public domain",
+    "credito": "Hispanic Society of America",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Francisco_de_Goya_y_Lucientes_-_The_Duchess_of_Alba_-_A102_-_Hispanic_Society_of_America.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Francisco_de_Goya_y_Lucientes_-_The_Duchess_of_Alba_-_A102_-_Hispanic_Society_of_America.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q655420",
+    "qid": "Q655420",
+    "guia": "Retrato de la Duquesa de Alba en Negro",
+    "coincidencia": 0.816,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Retrato de la Duquesa de Alba de luto** se incorpora al mosaico como pintura de **Francisco de Goya**. Cuadro de Francisco de Goya.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Francisco de Goya\n- **Datación registrada:** c. 1797\n- **Periodo de navegación:** Romanticismo\n- **Colección temática:** De la Ilustración al Romanticismo\n- **Colección o ubicación:** Sociedad Hispánica de América\n- **Lugar asociado:** Manhattan\n- **País asociado a la colección:** Estados Unidos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Retrato de la Duquesa de Alba en Negro». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q655420** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 149 cm × 210 cm\n- **Archivo digital:** 700 × 1000 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Francisco de Goya** y del **Romanticismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q655420)](https://www.wikidata.org/wiki/Q655420)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_The_Duchess_of_Alba_-_A102_-_Hispanic_Society_of_America.jpg)\n- [Colección o institución asociada](https://hispanicsociety.org/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

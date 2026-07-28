@@ -1,0 +1,52 @@
+{
+  "id": "san-jeronimo-en-su-estudio-eyck",
+  "titulo": "San Jerónimo en su estudio",
+  "tituloOriginal": "Saint Jerome in His Study",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1435",
+  "fechaOrden": 1435,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jan van Eyck.",
+  "localizacion": "Detroit Institute of Arts",
+  "ciudad": "Detroit",
+  "urlLocalizacion": "http://www.dia.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Detroit%20Institute%20of%20Arts%2C%20Detroit",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "papel",
+    "panel de roble"
+  ],
+  "etiquetas": [
+    "Jan van Eyck",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q536203",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1825,
+    2852
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jan_van_Eyck_-_Saint_Jerome_in_His_Study_DIA.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jan_van_Eyck_-_Saint_Jerome_in_His_Study_DIA.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_van_Eyck_-_Saint_Jerome_in_His_Study_DIA.jpg",
+    "alt": "San Jerónimo en su estudio, Jan van Eyck",
+    "licencia": "Public domain",
+    "credito": "https://www.dia.org/art/collection/object/saint-jerome-his-study-44739",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q536203",
+    "qid": "Q536203",
+    "guia": "San Jerónimo en su Estudio",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

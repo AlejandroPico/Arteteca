@@ -1,0 +1,50 @@
+{
+  "id": "la-virgen-el-nino-jesus-y-santa-ana-vinci",
+  "titulo": "La Virgen, el Niño Jesús y Santa Ana",
+  "tituloOriginal": "The Virgin and Child with Saint Anne",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1511",
+  "fechaOrden": 1511,
+  "tipo": "Pintura",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Leonardo da Vinci.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "panel de álamo"
+  ],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Francia",
+    "Pintura",
+    "Wikidata Q563727",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5565,
+    7359
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sainte_Anne_Leonard.jpg/1920px-Sainte_Anne_Leonard.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sainte_Anne_Leonard.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sainte_Anne_Leonard.jpg",
+    "alt": "La Virgen, el Niño Jesús y Santa Ana, Leonardo da Vinci",
+    "licencia": "Public domain",
+    "credito": "https://www.1jour1actu.com/culture/ou-peut-on-voir-ce-celebre-tableau/",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q563727",
+    "qid": "Q563727",
+    "guia": "La Virgen, el Niño Jesús y Santa Ana (Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

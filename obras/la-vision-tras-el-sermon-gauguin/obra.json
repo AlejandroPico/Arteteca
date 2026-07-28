@@ -1,0 +1,51 @@
+{
+  "id": "la-vision-tras-el-sermon-gauguin",
+  "titulo": "La visión tras el sermón",
+  "tituloOriginal": "Vision After the Sermon",
+  "autor": "Paul Gauguin",
+  "fecha": "c. 1888",
+  "fechaOrden": 1888,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Gauguin.",
+  "localizacion": "Galerías nacionales de Escocia",
+  "ciudad": "City de Edimburgo",
+  "urlLocalizacion": "https://www.nationalgalleries.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADas%20nacionales%20de%20Escocia%2C%20City%20de%20Edimburgo",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Paul Gauguin",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q1764395",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    5000,
+    3918
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg/1920px-La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/56/La_vision_apr%C3%A8s_le_sermon_%28Paul_Gauguin%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_vision_apr%C3%A8s_le_sermon_(Paul_Gauguin).jpg",
+    "alt": "La visión tras el sermón, Paul Gauguin",
+    "licencia": "Public domain",
+    "credito": "4. https://www.thetimes.com/magazines/culture-magazine/article/wild-thing-life-paul-gauguin-sue-prideaux-tk55c57wl · 1. http://www.nationalgalleries.org",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1764395",
+    "qid": "Q1764395",
+    "guia": "Vision tras el Sermón / Jacob luchando con el Ángel (Edimburgo)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

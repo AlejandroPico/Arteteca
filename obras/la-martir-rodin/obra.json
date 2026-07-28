@@ -1,0 +1,50 @@
+{
+  "id": "la-martir-rodin",
+  "titulo": "La mártir",
+  "tituloOriginal": "The Martyr",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1885",
+  "fechaOrden": 1885,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Auguste Rodin.",
+  "localizacion": "Museo Soumaya",
+  "ciudad": "Ciudad de México",
+  "urlLocalizacion": "http://www.museosoumaya.org",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Soumaya%2C%20Ciudad%20de%20M%C3%A9xico",
+  "pais": "México",
+  "tecnicas": [
+    "bronce"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "México",
+    "Escultura",
+    "Wikidata Q16919276",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2559,
+    1256
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/30_La-m%C3%A1rtir-1.jpg/1920px-30_La-m%C3%A1rtir-1.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/8c/30_La-m%C3%A1rtir-1.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:30_La-m%C3%A1rtir-1.jpg",
+    "alt": "La mártir, Auguste Rodin",
+    "licencia": "Public domain",
+    "credito": "Museo Soumaya",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q16919276",
+    "qid": "Q16919276",
+    "guia": "El Dragón / Las Mártires",
+    "coincidencia": 0.833,
+    "importada": "2026-07-28"
+  }
+}

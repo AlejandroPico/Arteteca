@@ -1,0 +1,51 @@
+{
+  "id": "los-cazadores-en-la-nieve-viejo",
+  "titulo": "Los cazadores en la nieve",
+  "tituloOriginal": "The Hunters in the Snow",
+  "autor": "Pieter Brueghel el Viejo",
+  "fecha": "c. 1565",
+  "fechaOrden": 1565,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Pieter Brueghel el Viejo.",
+  "localizacion": "Museo de Historia del Arte de Viena",
+  "ciudad": "Innere Stadt",
+  "urlLocalizacion": "https://www.khm.at/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Historia%20del%20Arte%20de%20Viena%2C%20Innere%20Stadt",
+  "pais": "Austria",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Pieter Brueghel el Viejo",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Austria",
+    "Pintura",
+    "Wikidata Q500985",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6819,
+    4853
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg/1920px-Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg",
+    "alt": "Los cazadores en la nieve, Pieter Brueghel el Viejo",
+    "licencia": "Public domain",
+    "credito": "WgFmzFNNN74nUg at Google Cultural Institute maximum zoom level",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q500985",
+    "qid": "Q500985",
+    "guia": "Cazadores en la Nieve (Viena)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

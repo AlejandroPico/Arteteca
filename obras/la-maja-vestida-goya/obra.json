@@ -1,0 +1,51 @@
+{
+  "id": "la-maja-vestida-goya",
+  "titulo": "La maja vestida",
+  "tituloOriginal": "The Clothed Maja",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1800",
+  "fechaOrden": 1800,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Francisco de Goya.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "lienzo",
+    "óleo"
+  ],
+  "etiquetas": [
+    "Francisco de Goya",
+    "Romanticismo",
+    "De la Ilustración al Romanticismo",
+    "España",
+    "Pintura",
+    "Wikidata Q2735507",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4724,
+    2375
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Goya_Maja_ubrana2.jpg/1920px-Goya_Maja_ubrana2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Goya_Maja_ubrana2.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Goya_Maja_ubrana2.jpg",
+    "alt": "La maja vestida, Francisco de Goya",
+    "licencia": "Public domain",
+    "credito": "La maja vestida . On-line gallery . Museo del Prado .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2735507",
+    "qid": "Q2735507",
+    "guia": "La Maja Vestida (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

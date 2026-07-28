@@ -1,0 +1,50 @@
+{
+  "id": "atenea-lemnia-copias-conservadas-fidias",
+  "titulo": "Atenea Lemnia (copias conservadas)",
+  "tituloOriginal": "Lemnian Athena",
+  "autor": "Fidias",
+  "fecha": "c. 451 a. C.",
+  "fechaOrden": -451,
+  "tipo": "Escultura",
+  "periodo": "Grecia clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Escultura perdida de Fidias.",
+  "localizacion": "Acrópolis de Atenas",
+  "ciudad": "Municipio de Atenas",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q131013",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Acr%C3%B3polis%20de%20Atenas%2C%20Municipio%20de%20Atenas",
+  "pais": "Grecia",
+  "tecnicas": [
+    "mármol"
+  ],
+  "etiquetas": [
+    "Fidias",
+    "Grecia clásica",
+    "Grecia y Roma",
+    "Grecia",
+    "Escultura",
+    "Wikidata Q950701",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2488,
+    4559
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Athena_Lemnia_%28SK_Dresden_49%29_01.jpg/1920px-Athena_Lemnia_%28SK_Dresden_49%29_01.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Athena_Lemnia_%28SK_Dresden_49%29_01.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Athena_Lemnia_(SK_Dresden_49)_01.jpg",
+    "alt": "Atenea Lemnia (copias conservadas), Fidias",
+    "licencia": "CC BY 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q950701",
+    "qid": "Q950701",
+    "guia": "Atenea Lemnia",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

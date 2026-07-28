@@ -1,0 +1,50 @@
+{
+  "id": "los-musicos-caravaggio",
+  "titulo": "Los músicos",
+  "tituloOriginal": "The Musicians",
+  "autor": "Caravaggio",
+  "fecha": "c. 1595",
+  "fechaOrden": 1595,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Caravaggio.",
+  "localizacion": "Museo Metropolitano de Arte",
+  "ciudad": "Manhattan",
+  "urlLocalizacion": "https://www.metmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Metropolitano%20de%20Arte%2C%20Manhattan",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Caravaggio",
+    "Barroco",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q655705",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4000,
+    3105
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Musicians_MET_DP-687-001.jpg/1920px-The_Musicians_MET_DP-687-001.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/80/The_Musicians_MET_DP-687-001.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Musicians_MET_DP-687-001.jpg",
+    "alt": "Los músicos, Caravaggio",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q655705",
+    "qid": "Q655705",
+    "guia": "Los Músicos (MET)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "madame-recamier-david",
+  "titulo": "Madame Récamier",
+  "tituloOriginal": "Portrait of Madame Récamier",
+  "autor": "Jacques-Louis David",
+  "fecha": "c. 1800",
+  "fechaOrden": 1800,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Jacques-Louis David.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Jacques-Louis David",
+    "Neoclasicismo",
+    "De la Ilustración al Romanticismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q2619037",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    11153,
+    7948
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Juliette_R%C3%A9camier%2C_n%C3%A9e_Bernard_-_Jacques-Louis_David_-_Mus%C3%A9e_duLouvre_Peintures_INV_3708.jpg/1920px-Juliette_R%C3%A9camier%2C_n%C3%A9e_Bernard_-_Jacques-Louis_David_-_Mus%C3%A9e_duLouvre_Peintures_INV_3708.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/03/Juliette_R%C3%A9camier%2C_n%C3%A9e_Bernard_-_Jacques-Louis_David_-_Mus%C3%A9e_duLouvre_Peintures_INV_3708.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Juliette_R%C3%A9camier,_n%C3%A9e_Bernard_-_Jacques-Louis_David_-_Mus%C3%A9e_duLouvre_Peintures_INV_3708.jpg",
+    "alt": "Madame Récamier, Jacques-Louis David",
+    "licencia": "Public domain",
+    "credito": "photo Shonagon 2026-01-09",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2619037",
+    "qid": "Q2619037",
+    "guia": "Retrato de Madame Récamier (Louvre)",
+    "coincidencia": 0.778,
+    "importada": "2026-07-28"
+  }
+}

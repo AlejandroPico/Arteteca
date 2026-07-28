@@ -1,0 +1,49 @@
+{
+  "id": "los-disparates-goya",
+  "titulo": "Los disparates",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1815",
+  "fechaOrden": 1815,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Serie de 22 grabados realizados al aguatinta y aguafuerte, con retoques de punta seca y bruñidor, realizada por Francisco de Goya entre los años 1815 y 1823.",
+  "localizacion": "Biblioteca Nacional de España",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://bne.es",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Nacional%20de%20Espa%C3%B1a%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "buril"
+  ],
+  "etiquetas": [
+    "Francisco de Goya",
+    "Romanticismo",
+    "De la Ilustración al Romanticismo",
+    "España",
+    "Grabado",
+    "Wikidata Q4809372",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    685,
+    462
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Disparates_13.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/01/Disparates_13.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Disparates_13.jpg",
+    "alt": "Los disparates, Francisco de Goya",
+    "licencia": "Public domain",
+    "credito": "http://eeweems.com/goya/_disparates_700/disparates_13.jpg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4809372",
+    "qid": "Q4809372",
+    "guia": "Los Disparates / Proverbios (Serie de Grabados)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

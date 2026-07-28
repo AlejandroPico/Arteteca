@@ -1,0 +1,49 @@
+{
+  "id": "la-leccion-de-musica-vermeer",
+  "titulo": "La lección de música",
+  "tituloOriginal": "The Music Lesson",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1662",
+  "fechaOrden": 1662,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Johannes Vermeer.",
+  "localizacion": "Royal Collection",
+  "urlLocalizacion": "http://www.royalcollection.org.uk",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Royal%20Collection",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Johannes Vermeer",
+    "Barroco",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q2336984",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4356,
+    5014
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_%27The_Music_Lesson%27_-_Google_Art_Project.jpg/1920px-Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_%27The_Music_Lesson%27_-_Google_Art_Project.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_%27The_Music_Lesson%27_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman,_%27The_Music_Lesson%27_-_Google_Art_Project.jpg",
+    "alt": "La lección de música, Johannes Vermeer",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture — CwFxCw3kUr-Lrw",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2336984",
+    "qid": "Q2336984",
+    "guia": "La Concertista / La Lección de Música",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "la-gloria-vecellio",
+  "titulo": "La Gloria",
+  "autor": "Tiziano Vecellio",
+  "fecha": "c. 1552",
+  "fechaOrden": 1552,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Tiziano.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Tiziano Vecellio",
+    "Renacimiento veneciano",
+    "Renacimiento",
+    "España",
+    "Pintura",
+    "Wikidata Q5963585",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1313,
+    1920
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/La_Gloria_%28Tiziano%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/ed/La_Gloria_%28Tiziano%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_Gloria_(Tiziano).jpg",
+    "alt": "La Gloria, Tiziano Vecellio",
+    "licencia": "Public domain",
+    "credito": "Colección",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5963585",
+    "qid": "Q5963585",
+    "guia": "La Gloria / Juicio Final (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

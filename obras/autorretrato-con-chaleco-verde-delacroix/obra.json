@@ -1,0 +1,50 @@
+{
+  "id": "autorretrato-con-chaleco-verde-delacroix",
+  "titulo": "Autorretrato con chaleco verde",
+  "tituloOriginal": "Self-portrait with Green Vest",
+  "autor": "Eugène Delacroix",
+  "fecha": "c. 1837",
+  "fechaOrden": 1837,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Eugène Delacroix.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Eugène Delacroix",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Pintura",
+    "Wikidata Q11907350",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3867,
+    4715
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg/1920px-Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg",
+    "alt": "Autorretrato con chaleco verde, Eugène Delacroix",
+    "licencia": "Public domain",
+    "credito": "photo Shonagon 2024-04-05",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q11907350",
+    "qid": "Q11907350",
+    "guia": "Autoretrato con Chaleco Verde",
+    "coincidencia": 0.98,
+    "importada": "2026-07-28"
+  }
+}

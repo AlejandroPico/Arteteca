@@ -1,0 +1,48 @@
+{
+  "id": "hombre-de-vitruvio-vinci",
+  "titulo": "Hombre de Vitruvio",
+  "tituloOriginal": "Vitruvian Man",
+  "autor": "Leonardo da Vinci",
+  "fecha": "c. 1490",
+  "fechaOrden": 1490,
+  "tipo": "Dibujo",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Dibujo de Leonardo da Vinci.",
+  "localizacion": "Galería de la Academia de Venecia",
+  "ciudad": "Venecia",
+  "urlLocalizacion": "http://www.gallerieaccademia.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20de%20la%20Academia%20de%20Venecia%2C%20Venecia",
+  "pais": "Italia",
+  "tecnicas": [],
+  "etiquetas": [
+    "Leonardo da Vinci",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Italia",
+    "Dibujo",
+    "Wikidata Q215486",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2258,
+    3070
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/1920px-Da_Vinci_Vitruve_Luc_Viatour.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg",
+    "alt": "Hombre de Vitruvio, Leonardo da Vinci",
+    "licencia": "Public domain",
+    "credito": "Leonardo Da Vinci - Photo from www.lucnix.be . 2007-09-08 (photograph). Photograpy: This image is the work of Luc Viatour Please credit it with: Luc Viatour / https://Lucnix.be in the immediate vicinity of the image. A link to my website https://lucnix.be is much appreciated but not mandatory. An email to Viatour Luc would be appreciated too. Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to us…",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q215486",
+    "qid": "Q215486",
+    "guia": "El Hombre de Vitruvio (Galería de la Academia, Venecia)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

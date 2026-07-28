@@ -1,0 +1,49 @@
+{
+  "id": "el-astronomo-vermeer",
+  "titulo": "El astrónomo",
+  "tituloOriginal": "The Astronomer",
+  "autor": "Johannes Vermeer",
+  "fecha": "c. 1664",
+  "fechaOrden": 1664,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Johannes Vermeer.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Johannes Vermeer",
+    "Barroco",
+    "Francia",
+    "Pintura",
+    "Wikidata Q544315",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    4401,
+    5000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg/1920px-Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+    "alt": "El astrónomo, Johannes Vermeer",
+    "licencia": "Public domain",
+    "credito": "https://artsandculture.google.com/asset/wd/bQELiVC_QJaAlQ",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q544315",
+    "qid": "Q544315",
+    "guia": "El Astronomo (Louvre)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

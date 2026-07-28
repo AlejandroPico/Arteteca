@@ -1,0 +1,50 @@
+{
+  "id": "el-juicio-de-paris-rubens",
+  "titulo": "El Juicio de Paris",
+  "tituloOriginal": "The Judgment of Paris",
+  "autor": "Peter Paul Rubens",
+  "fecha": "c. 1606",
+  "fechaOrden": 1606,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Peter Paul Rubens.",
+  "localizacion": "Academia de Bellas Artes de Viena",
+  "ciudad": "Viena",
+  "urlLocalizacion": "https://www.akbild.ac.at/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Academia%20de%20Bellas%20Artes%20de%20Viena%2C%20Viena",
+  "pais": "Austria",
+  "tecnicas": [
+    "óleo",
+    "cobre"
+  ],
+  "etiquetas": [
+    "Peter Paul Rubens",
+    "Barroco",
+    "Austria",
+    "Pintura",
+    "Wikidata Q17519121",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1032,
+    770
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Peter_Paul_Rubens_-_The_Judgement_of_Paris_-_WGA20277.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Peter_Paul_Rubens_-_The_Judgement_of_Paris_-_WGA20277.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Judgement_of_Paris_-_WGA20277.jpg",
+    "alt": "El Juicio de Paris, Peter Paul Rubens",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"r/rubens/21mythol/05mythom\"",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17519121",
+    "qid": "Q17519121",
+    "guia": "El Juicio de Paris (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

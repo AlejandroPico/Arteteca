@@ -1,0 +1,50 @@
+{
+  "id": "artemisa-rijn",
+  "titulo": "Artemisa",
+  "tituloOriginal": "Judith at the Banquet of Holofernes",
+  "autor": "Rembrandt van Rijn",
+  "fecha": "c. 1634",
+  "fechaOrden": 1634,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Rembrandt.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Rembrandt van Rijn",
+    "Barroco",
+    "España",
+    "Pintura",
+    "Wikidata Q2479220",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    30000,
+    27904
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Judith_at_the_Banquet_of_Holofernes_%28previously_known_as_Artemisia%29%2C_by_Rembrandt%2C_from_Prado_in_Google_Earth.jpg/1920px-Judith_at_the_Banquet_of_Holofernes_%28previously_known_as_Artemisia%29%2C_by_Rembrandt%2C_from_Prado_in_Google_Earth.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Judith_at_the_Banquet_of_Holofernes_%28previously_known_as_Artemisia%29%2C_by_Rembrandt%2C_from_Prado_in_Google_Earth.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Judith_at_the_Banquet_of_Holofernes_(previously_known_as_Artemisia),_by_Rembrandt,_from_Prado_in_Google_Earth.jpg",
+    "alt": "Artemisa, Rembrandt van Rijn",
+    "licencia": "Public domain",
+    "credito": "The Prado in Google Earth: Home page scaled down from highest level of zoom, JPEG compression quality: Photoshop 11.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2479220",
+    "qid": "Q2479220",
+    "guia": "Artemisa / Sofonisba (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

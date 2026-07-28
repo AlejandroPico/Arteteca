@@ -1,0 +1,51 @@
+{
+  "id": "la-caza-del-leon-delacroix",
+  "titulo": "La caza del león",
+  "tituloOriginal": "La Chasse aux lions au Maroc",
+  "autor": "Eugène Delacroix",
+  "fecha": "c. 1861",
+  "fechaOrden": 1861,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Eugène Delacroix (Chicago).",
+  "localizacion": "Instituto de Arte de Chicago",
+  "ciudad": "Chicago",
+  "urlLocalizacion": "https://www.artic.edu",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Instituto%20de%20Arte%20de%20Chicago%2C%20Chicago",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Eugène Delacroix",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q17318501",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2916,
+    2250
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg/1920px-Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/85/Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg",
+    "alt": "La caza del león, Eugène Delacroix",
+    "licencia": "Public domain",
+    "credito": "https://www.artic.edu/artworks/81505",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17318501",
+    "qid": "Q17318501",
+    "guia": "La Caza del León (Instituto de Arte de Chicago)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cruz-negra-malevich",
+  "titulo": "Cruz negra",
+  "tituloOriginal": "Black Cross",
+  "autor": "Kazimir Malévich",
+  "fecha": "c. 1915",
+  "fechaOrden": 1915,
+  "tipo": "Pintura",
+  "periodo": "Suprematismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Cuadro de Kazimir Malévich.",
+  "localizacion": "Museo Nacional de Arte Moderno",
+  "ciudad": "Quartier Saint-Merri",
+  "urlLocalizacion": "http://www.centrepompidou.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Arte%20Moderno%2C%20Quartier%20Saint-Merri",
+  "pais": "Francia",
+  "tecnicas": [
+    "lienzo",
+    "óleo"
+  ],
+  "etiquetas": [
+    "Kazimir Malévich",
+    "Suprematismo",
+    "Abstracción y diseño moderno",
+    "Francia",
+    "Pintura",
+    "Wikidata Q18170345",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    594,
+    600
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%D0%9A%D1%80%D0%B5%D1%81%D1%82._1915.png",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/34/%D0%9A%D1%80%D0%B5%D1%81%D1%82._1915.png",
+    "fuente": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B5%D1%81%D1%82._1915.png",
+    "alt": "Cruz negra, Kazimir Malévich",
+    "licencia": "Public domain",
+    "credito": "http://www.artexpertswebsite.com/pages/artists/malevich.php",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q18170345",
+    "qid": "Q18170345",
+    "guia": "Cruz Negra",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "el-beso-rodin",
+  "titulo": "El beso",
+  "tituloOriginal": "The Kiss",
+  "autor": "Auguste Rodin",
+  "fecha": "c. 1880",
+  "fechaOrden": 1880,
+  "tipo": "Escultura",
+  "periodo": "Escultura moderna",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Escultura de Auguste Rodin.",
+  "localizacion": "Museo Rodin",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-rodin.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Rodin%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "bronce",
+    "mármol"
+  ],
+  "etiquetas": [
+    "Auguste Rodin",
+    "Escultura moderna",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Escultura",
+    "Wikidata Q2418237",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1853,
+    2780
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/13602_El-beso-2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/89/13602_El-beso-2.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:13602_El-beso-2.jpg",
+    "alt": "El beso, Auguste Rodin",
+    "licencia": "Public domain",
+    "credito": "Museo Soumaya",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2418237",
+    "qid": "Q2418237",
+    "guia": "El Beso (Musée Rodin)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

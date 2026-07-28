@@ -1,0 +1,49 @@
+{
+  "id": "baldaquino-de-san-pedro-bernini",
+  "titulo": "Baldaquino de San Pedro",
+  "tituloOriginal": "St. Peter's Baldachin",
+  "autor": "Gian Lorenzo Bernini",
+  "fecha": "c. 1620",
+  "fechaOrden": 1620,
+  "tipo": "Escultura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Sculptural monument by Gian Lorenzo Bernini.",
+  "localizacion": "basílica de San Pedro",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.basilicasanpietro.va/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=bas%C3%ADlica%20de%20San%20Pedro%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "bronce"
+  ],
+  "etiquetas": [
+    "Gian Lorenzo Bernini",
+    "Barroco",
+    "Ciudad del Vaticano",
+    "Escultura",
+    "Wikidata Q2439030",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    1841,
+    2456
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Baldaquin_Bernin_Saint-Pierre_Vatican.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/da/Baldaquin_Bernin_Saint-Pierre_Vatican.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Baldaquin_Bernin_Saint-Pierre_Vatican.jpg",
+    "alt": "Baldaquino de San Pedro, Gian Lorenzo Bernini",
+    "licencia": "CC0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2439030",
+    "qid": "Q2439030",
+    "guia": "Baldaquino de San Pedro (Basílica de San Pedro, Vaticano)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

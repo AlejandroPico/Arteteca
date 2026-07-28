@@ -1,0 +1,41 @@
+{
+  "id": "hokusai-manga-volumen-15-hokusai",
+  "titulo": "Hokusai Manga, volumen 15",
+  "tituloOriginal": "Hokusai Manga Vol15",
+  "autor": "Katsushika Hokusai",
+  "fecha": "Fecha no determinada",
+  "tipo": "Grabado",
+  "periodo": "Ukiyo-e",
+  "coleccion": "Asia",
+  "descripcion": "Volumen perteneciente a la serie de estampas y dibujos Hokusai Manga.",
+  "tecnicas": [],
+  "etiquetas": [
+    "Katsushika Hokusai",
+    "Ukiyo-e",
+    "Asia",
+    "Grabado",
+    "Wikidata Q65706172",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2118,
+    2979
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MET_JIB83_001.jpg/1920px-MET_JIB83_001.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a4/MET_JIB83_001.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:MET_JIB83_001.jpg",
+    "alt": "Hokusai Manga, volumen 15, Katsushika Hokusai",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q65706172",
+    "qid": "Q65706172",
+    "guia": "Míriadas de bocetos / Hokusai Manga (15 Volúmenes)",
+    "coincidencia": 0.791,
+    "importada": "2026-07-28"
+  }
+}

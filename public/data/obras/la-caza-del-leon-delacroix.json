@@ -1,0 +1,97 @@
+{
+  "id": "la-caza-del-leon-delacroix",
+  "titulo": "La caza del león",
+  "tituloOriginal": "La Chasse aux lions au Maroc",
+  "autor": "Eugène Delacroix",
+  "fecha": "c. 1861",
+  "fechaOrden": 1861,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Eugène Delacroix (Chicago).",
+  "localizacion": "Instituto de Arte de Chicago",
+  "ciudad": "Chicago",
+  "urlLocalizacion": "https://www.artic.edu",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Instituto%20de%20Arte%20de%20Chicago%2C%20Chicago",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Estados Unidos",
+    "Eugène Delacroix",
+    "Guía maestra 2026",
+    "lienzo",
+    "Pintura",
+    "Romanticismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Wikidata Q17318501",
+    "óleo"
+  ],
+  "proporcion": [
+    2916,
+    2250
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg/1920px-Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/85/Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg",
+    "alt": "La caza del león, Eugène Delacroix",
+    "licencia": "Public domain",
+    "credito": "https://www.artic.edu/artworks/81505",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg/1920px-Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/8/85/Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q17318501",
+    "qid": "Q17318501",
+    "guia": "La Caza del León (Instituto de Arte de Chicago)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**La caza del león** se incorpora al mosaico como pintura de **Eugène Delacroix**. Cuadro de Eugène Delacroix (Chicago).\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Eugène Delacroix\n- **Datación registrada:** c. 1861\n- **Periodo de navegación:** Romanticismo\n- **Colección temática:** Romanticismo, Realismo e Impresionismo\n- **Colección o ubicación:** Instituto de Arte de Chicago\n- **Lugar asociado:** Chicago\n- **País asociado a la colección:** Estados Unidos\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «La Caza del León (Instituto de Arte de Chicago)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q17318501** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 98,5 cm × 76,5 cm\n- **Archivo digital:** 2916 × 2250 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Eugène Delacroix** y del **Romanticismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q17318501)](https://www.wikidata.org/wiki/Q17318501)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Lion_Hunt_-_1922.404_-_Art_Institute_of_Chicago.jpg)\n- [Colección o institución asociada](https://www.artic.edu)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

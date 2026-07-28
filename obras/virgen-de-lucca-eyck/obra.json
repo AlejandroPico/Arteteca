@@ -1,0 +1,52 @@
+{
+  "id": "virgen-de-lucca-eyck",
+  "titulo": "Virgen de Lucca",
+  "tituloOriginal": "Lucca Madonna",
+  "autor": "Jan van Eyck",
+  "fecha": "c. 1437",
+  "fechaOrden": 1437,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Jan van Eyck.",
+  "localizacion": "Museo Städel",
+  "ciudad": "Fráncfort del Meno",
+  "urlLocalizacion": "https://www.staedelmuseum.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20St%C3%A4del%2C%20Fr%C3%A1ncfort%20del%20Meno",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "panel de roble",
+    "técnica mixta"
+  ],
+  "etiquetas": [
+    "Jan van Eyck",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q474409",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    8030,
+    10659
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lucca_Madonna_%28SM_944%29.png/1920px-Lucca_Madonna_%28SM_944%29.png",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/36/Lucca_Madonna_%28SM_944%29.png",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lucca_Madonna_(SM_944).png",
+    "alt": "Virgen de Lucca, Jan van Eyck",
+    "licencia": "PDM-owner",
+    "credito": "https://sammlung.staedelmuseum.de/de/werk/lucca-madonna",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q474409",
+    "qid": "Q474409",
+    "guia": "Lucca Madonna",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

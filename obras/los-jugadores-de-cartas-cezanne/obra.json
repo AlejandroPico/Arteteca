@@ -1,0 +1,50 @@
+{
+  "id": "los-jugadores-de-cartas-cezanne",
+  "titulo": "Los jugadores de cartas",
+  "tituloOriginal": "The Card Players",
+  "autor": "Paul Cézanne",
+  "fecha": "c. 1890",
+  "fechaOrden": 1890,
+  "tipo": "Serie artística",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Cézanne.",
+  "localizacion": "Departamento de Pinturas del Museo del Louvre",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q3044768",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Departamento%20de%20Pinturas%20del%20Museo%20del%20Louvre",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Paul Cézanne",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Serie artística",
+    "Wikidata Q1165042",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6048,
+    4961
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg/1920px-Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg",
+    "alt": "Los jugadores de cartas, Paul Cézanne",
+    "licencia": "Public domain",
+    "credito": "https://www.sothebys.com/en/videos/from-picasso-to-motherwell-one-collections-vision-of-20th-century-artistic-innovation direct link",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1165042",
+    "qid": "Q1165042",
+    "guia": "Los Jugadores de Cartas (Serie de 5 Lienzos - Musée d'Orsay / Qatar)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "venus-y-marte-botticelli",
+  "titulo": "Venus y Marte",
+  "tituloOriginal": "Venus and Mars",
+  "autor": "Sandro Botticelli",
+  "fecha": "c. 1485",
+  "fechaOrden": 1485,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento italiano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Sandro Botticelli.",
+  "localizacion": "National Gallery de Londres",
+  "ciudad": "Ciudad de Westminster",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20de%20Londres%2C%20Ciudad%20de%20Westminster",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "témpera",
+    "óleo",
+    "panel de álamo",
+    "yeso"
+  ],
+  "etiquetas": [
+    "Sandro Botticelli",
+    "Renacimiento italiano",
+    "Renacimiento",
+    "Reino Unido",
+    "Pintura",
+    "Wikidata Q2293953",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    7689,
+    3075
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Venus_and_Mars.jpg/1920px-Venus_and_Mars.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Venus_and_Mars.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Venus_and_Mars.jpg",
+    "alt": "Venus y Marte, Sandro Botticelli",
+    "licencia": "Public domain",
+    "credito": "National Gallery, UK",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2293953",
+    "qid": "Q2293953",
+    "guia": "Venus y Marte (National Gallery, Londres)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

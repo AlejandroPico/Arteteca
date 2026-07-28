@@ -1,0 +1,50 @@
+{
+  "id": "rapto-de-las-hijas-de-leucipo-rubens",
+  "titulo": "Rapto de las hijas de Leucipo",
+  "tituloOriginal": "The Rape of the Daughters of Leucippus",
+  "autor": "Peter Paul Rubens",
+  "fecha": "c. 1618",
+  "fechaOrden": 1618,
+  "tipo": "Pintura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Cuadro de Peter Paul Rubens.",
+  "localizacion": "Colecciones de Pinturas del Estado de Baviera",
+  "ciudad": "Múnich",
+  "urlLocalizacion": "http://www.pinakothek.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Colecciones%20de%20Pinturas%20del%20Estado%20de%20Baviera%2C%20M%C3%BAnich",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Peter Paul Rubens",
+    "Barroco",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q644936",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3543,
+    3758
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Peter_Paul_Rubens_-_The_Rape_of_the_Daughters_of_Leucippus.jpg/1920px-Peter_Paul_Rubens_-_The_Rape_of_the_Daughters_of_Leucippus.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/44/Peter_Paul_Rubens_-_The_Rape_of_the_Daughters_of_Leucippus.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Rape_of_the_Daughters_of_Leucippus.jpg",
+    "alt": "Rapto de las hijas de Leucipo, Peter Paul Rubens",
+    "licencia": "Public domain",
+    "credito": "https://www.sammlung.pinakothek.de/de/artwork/5RGQJo84z3",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q644936",
+    "qid": "Q644936",
+    "guia": "El Rapto de las Hijas de Leucipo (Alte Pinakothek, Múnich)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

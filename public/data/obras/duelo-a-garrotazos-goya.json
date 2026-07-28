@@ -1,0 +1,97 @@
+{
+  "id": "duelo-a-garrotazos-goya",
+  "titulo": "Duelo a garrotazos",
+  "tituloOriginal": "Fight with Cudgels",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1820",
+  "fechaOrden": 1820,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Pintura de Francisco de Goya.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "De la Ilustración al Romanticismo",
+    "España",
+    "Francisco de Goya",
+    "Guía maestra 2026",
+    "lienzo",
+    "Pintura",
+    "Romanticismo",
+    "Wikidata Q1747282",
+    "óleo"
+  ],
+  "proporcion": [
+    1873,
+    892
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Duelo_a_garrotazos%2C_por_Goya.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/18/Duelo_a_garrotazos%2C_por_Goya.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Duelo_a_garrotazos,_por_Goya.jpg",
+    "alt": "Duelo a garrotazos, Francisco de Goya",
+    "licencia": "Public domain",
+    "credito": "Museo del Prado",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Duelo_a_garrotazos%2C_por_Goya.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/18/Duelo_a_garrotazos%2C_por_Goya.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1747282",
+    "qid": "Q1747282",
+    "guia": "Duelo a Garrotazos (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Duelo a garrotazos** se incorpora al mosaico como pintura de **Francisco de Goya**. Pintura de Francisco de Goya.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Francisco de Goya\n- **Datación registrada:** c. 1820\n- **Periodo de navegación:** Romanticismo\n- **Colección temática:** De la Ilustración al Romanticismo\n- **Colección o ubicación:** Museo del Prado\n- **Lugar asociado:** Madrid\n- **País asociado a la colección:** España\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Duelo a Garrotazos (Museo del Prado)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q1747282** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 261 cm × 125 cm\n- **Archivo digital:** 1873 × 892 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Francisco de Goya** y del **Romanticismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q1747282)](https://www.wikidata.org/wiki/Q1747282)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Duelo_a_garrotazos,_por_Goya.jpg)\n- [Colección o institución asociada](https://www.museodelprado.es/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

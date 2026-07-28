@@ -1,0 +1,48 @@
+{
+  "id": "el-quitasol-goya",
+  "titulo": "El quitasol",
+  "tituloOriginal": "The Parasol",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1777",
+  "fechaOrden": 1777,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Cuadro de Goya.",
+  "localizacion": "hola djfantasma",
+  "urlLocalizacion": "https://www.wikidata.org/wiki/Q12316997",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=hola%20djfantasma",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Francisco de Goya",
+    "Romanticismo",
+    "De la Ilustración al Romanticismo",
+    "Pintura",
+    "Wikidata Q2537138",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3051,
+    2114
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/El_Quitasol_%28Goya%29.jpg/1920px-El_Quitasol_%28Goya%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/d5/El_Quitasol_%28Goya%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El_Quitasol_(Goya).jpg",
+    "alt": "El quitasol, Francisco de Goya",
+    "licencia": "Public domain",
+    "credito": "Museo del Prado",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2537138",
+    "qid": "Q2537138",
+    "guia": "El Parasol (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

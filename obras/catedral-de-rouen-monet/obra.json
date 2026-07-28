@@ -1,0 +1,51 @@
+{
+  "id": "catedral-de-rouen-monet",
+  "titulo": "catedral de rouen",
+  "tituloOriginal": "Rouen Cathedral Series",
+  "autor": "Claude Monet",
+  "fecha": "c. 1892",
+  "fechaOrden": 1892,
+  "tipo": "Serie artística",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Serie de pinturas de claude monet.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "VII Distrito de París",
+  "urlLocalizacion": "https://www.musee-orsay.fr",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20VII%20Distrito%20de%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Claude Monet",
+    "Impresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "Serie artística",
+    "Wikidata Q637414",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    559,
+    874
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/RouenCathedral_Monet_1894.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/30/RouenCathedral_Monet_1894.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:RouenCathedral_Monet_1894.jpg",
+    "alt": "catedral de rouen, Claude Monet",
+    "licencia": "Public domain",
+    "credito": "Unknown source Unknown source",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q637414",
+    "qid": "Q637414",
+    "guia": "Serie de la Catedral de Rouen (Museo d'Orsay)",
+    "coincidencia": 0.813,
+    "importada": "2026-07-28"
+  }
+}

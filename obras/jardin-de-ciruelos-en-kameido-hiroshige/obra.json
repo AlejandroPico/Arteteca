@@ -1,0 +1,51 @@
+{
+  "id": "jardin-de-ciruelos-en-kameido-hiroshige",
+  "titulo": "Jardín de ciruelos en Kameido",
+  "tituloOriginal": "Plum Park in Kameido",
+  "autor": "Utagawa Hiroshige",
+  "fecha": "c. 1857",
+  "fechaOrden": 1857,
+  "tipo": "Grabado",
+  "periodo": "Ukiyo-e",
+  "coleccion": "Asia",
+  "descripcion": "Estampa japonesa de 1857 de Hiroshige.",
+  "localizacion": "Museo Brooklyn",
+  "ciudad": "Brooklyn",
+  "urlLocalizacion": "https://www.brooklynmuseum.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Brooklyn%2C%20Brooklyn",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "tinta",
+    "papel"
+  ],
+  "etiquetas": [
+    "Utagawa Hiroshige",
+    "Ukiyo-e",
+    "Asia",
+    "Estados Unidos",
+    "Grabado",
+    "Wikidata Q21127606",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2041,
+    3000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/De_pruimenboomgaard_te_Kameido-Rijksmuseum_RP-P-1956-743.jpeg/1920px-De_pruimenboomgaard_te_Kameido-Rijksmuseum_RP-P-1956-743.jpeg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a8/De_pruimenboomgaard_te_Kameido-Rijksmuseum_RP-P-1956-743.jpeg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:De_pruimenboomgaard_te_Kameido-Rijksmuseum_RP-P-1956-743.jpeg",
+    "alt": "Jardín de ciruelos en Kameido, Utagawa Hiroshige",
+    "licencia": "Public domain",
+    "credito": "http://www.rijksmuseum.nl/collectie/RP-P-1956-743 ( handle )",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q21127606",
+    "qid": "Q21127606",
+    "guia": "Los Ciruelos de Kameido",
+    "coincidencia": 0.811,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "nana-manet",
+  "titulo": "Nana",
+  "autor": "Édouard Manet",
+  "fecha": "c. 1877",
+  "fechaOrden": 1877,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Édouard Manet.",
+  "localizacion": "Kunsthalle de Hamburgo",
+  "ciudad": "Hamburg-Mitte",
+  "urlLocalizacion": "https://www.hamburger-kunsthalle.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunsthalle%20de%20Hamburgo%2C%20Hamburg-Mitte",
+  "pais": "Alemania",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Édouard Manet",
+    "Realismo y modernidad",
+    "Romanticismo, Realismo e Impresionismo",
+    "Alemania",
+    "Pintura",
+    "Wikidata Q536024",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    3580,
+    4752
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/1877_Manet_Nana_anagoria.jpg/1920px-1877_Manet_Nana_anagoria.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9e/1877_Manet_Nana_anagoria.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:1877_Manet_Nana_anagoria.jpg",
+    "alt": "Nana, Édouard Manet",
+    "licencia": "Public domain",
+    "credito": "Own work , anagoria",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q536024",
+    "qid": "Q536024",
+    "guia": "Nana (Hamburger Kunsthalle)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

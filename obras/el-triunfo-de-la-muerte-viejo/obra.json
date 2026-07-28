@@ -1,0 +1,51 @@
+{
+  "id": "el-triunfo-de-la-muerte-viejo",
+  "titulo": "El triunfo de la muerte",
+  "tituloOriginal": "The Triumph of Death",
+  "autor": "Pieter Brueghel el Viejo",
+  "fecha": "c. 1560",
+  "fechaOrden": 1560,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Pieter Brueghel el Viejo.",
+  "localizacion": "Museo del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "óleo",
+    "tabla"
+  ],
+  "etiquetas": [
+    "Pieter Brueghel el Viejo",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "España",
+    "Pintura",
+    "Wikidata Q644856",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2126,
+    1517
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg/1920px-The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg",
+    "alt": "El triunfo de la muerte, Pieter Brueghel el Viejo",
+    "licencia": "Public domain",
+    "credito": "Museo del Prado",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q644856",
+    "qid": "Q644856",
+    "guia": "El Triunfo de la Muerte (Museo del Prado)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

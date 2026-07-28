@@ -1,0 +1,97 @@
+{
+  "id": "amor-sacro-y-amor-profano-vecellio",
+  "titulo": "Amor sacro y amor profano",
+  "tituloOriginal": "Sacred and Profane Love",
+  "autor": "Tiziano Vecellio",
+  "fecha": "c. 1514",
+  "fechaOrden": 1514,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cuadro de Tiziano.",
+  "localizacion": "Galería Borghese",
+  "ciudad": "Roma Capitale",
+  "urlLocalizacion": "https://galleriaborghese.cultura.gov.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Borghese%2C%20Roma%20Capitale",
+  "pais": "Italia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Guía maestra 2026",
+    "Italia",
+    "lienzo",
+    "Pintura",
+    "Renacimiento",
+    "Renacimiento veneciano",
+    "Tiziano Vecellio",
+    "Wikidata Q794077",
+    "óleo"
+  ],
+  "proporcion": [
+    6009,
+    2385
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg/1920px-Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tiziano_-_Amor_Sacro_y_Amor_Profano_(Galer%C3%ADa_Borghese,_Roma,_1514)FXD.jpg",
+    "alt": "Amor sacro y amor profano, Tiziano Vecellio",
+    "licencia": "Public domain",
+    "credito": "This file was derived from: Tiziano - Amor Sacro y Amor Profano (Galería Borghese, Roma, 1514).jpg : ·",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg/1920px-Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29FXD.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q794077",
+    "qid": "Q794077",
+    "guia": "Amor Sacro y Amor Profano (Galería Borghese)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**Amor sacro y amor profano** se incorpora al mosaico como pintura de **Tiziano Vecellio**. Cuadro de Tiziano.\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Tiziano Vecellio\n- **Datación registrada:** c. 1514\n- **Periodo de navegación:** Renacimiento veneciano\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Galería Borghese\n- **Lugar asociado:** Roma Capitale\n- **País asociado a la colección:** Italia\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Amor Sacro y Amor Profano (Galería Borghese)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q794077** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura\n- **Materiales o técnicas consignados:** óleo, lienzo\n- **Dimensiones de la obra:** 279 cm × 118 cm\n- **Archivo digital:** 6009 × 2385 píxeles\n- **Licencia indicada en Commons:** Public domain\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Tiziano Vecellio** y del **Renacimiento veneciano** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q794077)](https://www.wikidata.org/wiki/Q794077)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tiziano_-_Amor_Sacro_y_Amor_Profano_(Galer%C3%ADa_Borghese,_Roma,_1514)FXD.jpg)\n- [Colección o institución asociada](https://galleriaborghese.cultura.gov.it/)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

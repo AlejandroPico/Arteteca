@@ -1,0 +1,50 @@
+{
+  "id": "los-cuatro-jinetes-del-apocalipsis-durero",
+  "titulo": "Los cuatro jinetes del Apocalipsis",
+  "tituloOriginal": "The Four Horsemen, from The Apocalypse",
+  "autor": "Alberto Durero",
+  "fecha": "c. 1496",
+  "fechaOrden": 1496,
+  "tipo": "Grabado",
+  "periodo": "Renacimiento nórdico",
+  "coleccion": "Renacimiento",
+  "descripcion": "Grabado de Durero.",
+  "localizacion": "Museo Boymans Van Beuningen",
+  "ciudad": "Róterdam",
+  "urlLocalizacion": "https://www.boijmans.nl/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Boymans%20Van%20Beuningen%2C%20R%C3%B3terdam",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "papel verjurado"
+  ],
+  "etiquetas": [
+    "Alberto Durero",
+    "Renacimiento nórdico",
+    "Renacimiento",
+    "Países Bajos",
+    "Grabado",
+    "Wikidata Q5980742",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    2880,
+    4000
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Albrecht_D%C3%BCrer%2C_The_Four_Horsemen%2C_1498%2C_NGA_142352.jpg/1920px-Albrecht_D%C3%BCrer%2C_The_Four_Horsemen%2C_1498%2C_NGA_142352.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/70/Albrecht_D%C3%BCrer%2C_The_Four_Horsemen%2C_1498%2C_NGA_142352.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Four_Horsemen,_1498,_NGA_142352.jpg",
+    "alt": "Los cuatro jinetes del Apocalipsis, Alberto Durero",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the National Gallery of Art . Please see the Gallery's Open Access Policy .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q5980742",
+    "qid": "Q5980742",
+    "guia": "Los Cuatro Jinetes del Apocalipsis (Xilografía)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

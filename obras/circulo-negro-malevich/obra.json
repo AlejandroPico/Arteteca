@@ -1,0 +1,51 @@
+{
+  "id": "circulo-negro-malevich",
+  "titulo": "Círculo negro",
+  "tituloOriginal": "Black Circle",
+  "autor": "Kazimir Malévich",
+  "fecha": "c. 1924",
+  "fechaOrden": 1924,
+  "tipo": "Pintura",
+  "periodo": "Suprematismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Cuadro de Kazimir Malévich.",
+  "localizacion": "Museo Estatal Ruso",
+  "ciudad": "San Petersburgo",
+  "urlLocalizacion": "http://en.rusmuseum.ru/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Estatal%20Ruso%2C%20San%20Petersburgo",
+  "pais": "Rusia",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Kazimir Malévich",
+    "Suprematismo",
+    "Abstracción y diseño moderno",
+    "Rusia",
+    "Pintura",
+    "Wikidata Q4518897",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    550,
+    543
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Black_circle.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Black_circle.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Black_circle.jpg",
+    "alt": "Círculo negro, Kazimir Malévich",
+    "licencia": "Public domain",
+    "credito": "( Transferred from en.wikipedia - was: en:Image:Black Square.jpg )",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q4518897",
+    "qid": "Q4518897",
+    "guia": "Círculo Negro (Galería Tretiakov)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

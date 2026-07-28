@@ -1,0 +1,95 @@
+{
+  "id": "boveda-de-la-capilla-sixtina-buonarroti",
+  "titulo": "bóveda de la Capilla Sixtina",
+  "tituloOriginal": "Sistine Chapel ceiling",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1508",
+  "fechaOrden": 1508,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Conjunto de pinturas al fresco realizadas para decorar la bóveda de la Capilla Sixtina, en la Ciudad del Vaticano (Roma).",
+  "localizacion": "Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "http://www.museivaticani.va",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "fresco"
+  ],
+  "etiquetas": [
+    "Alto Renacimiento",
+    "Ciudad del Vaticano",
+    "fresco",
+    "Guía maestra 2026",
+    "Miguel Ángel Buonarroti",
+    "Pintura mural",
+    "Renacimiento",
+    "Wikidata Q844675"
+  ],
+  "proporcion": [
+    3129,
+    1125
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CAPPELLA_SISTINA_Ceiling.jpg/1920px-CAPPELLA_SISTINA_Ceiling.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/07/CAPPELLA_SISTINA_Ceiling.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:CAPPELLA_SISTINA_Ceiling.jpg",
+    "alt": "bóveda de la Capilla Sixtina, Miguel Ángel Buonarroti",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "present version is derived from earlier version, with colour cast adjusted, however this version may appear too blue.:",
+    "foco": "center",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CAPPELLA_SISTINA_Ceiling.jpg/1920px-CAPPELLA_SISTINA_Ceiling.jpg",
+    "srcAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/07/CAPPELLA_SISTINA_Ceiling.jpg"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q844675",
+    "qid": "Q844675",
+    "guia": "Bóveda de la Capilla Sixtina (Creación de Adán, La Separación de la Luz, etc.)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirada",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Qué muestra esta ficha\n\n**bóveda de la Capilla Sixtina** se incorpora al mosaico como pintura mural de **Miguel Ángel Buonarroti**. Conjunto de pinturas al fresco realizadas para decorar la bóveda de la Capilla Sixtina, en la Ciudad del Vaticano (Roma).\n\nLa imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Contexto",
+      "icono": "reloj",
+      "orden": 20,
+      "contenido": "## Identificación\n\n- **Autoría:** Miguel Ángel Buonarroti\n- **Datación registrada:** c. 1508\n- **Periodo de navegación:** Alto Renacimiento\n- **Colección temática:** Renacimiento\n- **Colección o ubicación:** Museos Vaticanos\n- **Lugar asociado:** Ciudad del Vaticano\n- **País asociado a la colección:** Ciudad del Vaticano\n\nLa guía aportada por el responsable del proyecto cita esta entrada como «Bóveda de la Capilla Sixtina (Creación de Adán, La Separación de la Luz, etc.)». Para evitar arrastrar errores de esa lista, Arteteca normaliza la identidad de la obra con **Wikidata Q844675** y mantiene la formulación original en los metadatos de procedencia.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Técnica",
+      "icono": "capas",
+      "orden": 30,
+      "contenido": "## Datos materiales disponibles\n\n- **Tipo documental:** Pintura mural\n- **Materiales o técnicas consignados:** fresco\n- **Dimensiones de la obra:** 1341 cm × 4093 cm\n- **Archivo digital:** 3129 × 1125 píxeles\n- **Licencia indicada en Commons:** CC BY-SA 3.0\n\nLa resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "En la colección",
+      "icono": "estrella",
+      "orden": 40,
+      "contenido": "## Por qué está en Arteteca\n\nEsta ficha amplía la representación de **Miguel Ángel Buonarroti** y del **Alto Renacimiento** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.\n\nSu inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Identificación y reproducción\n\n- [Registro estructurado en Wikidata (Q844675)](https://www.wikidata.org/wiki/Q844675)\n- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CAPPELLA_SISTINA_Ceiling.jpg)\n- [Colección o institución asociada](http://www.museivaticani.va)\n\n## Procedencia de la selección\n\nLa obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

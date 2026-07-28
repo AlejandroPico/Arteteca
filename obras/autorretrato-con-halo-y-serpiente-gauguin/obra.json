@@ -1,0 +1,51 @@
+{
+  "id": "autorretrato-con-halo-y-serpiente-gauguin",
+  "titulo": "Autorretrato con halo y serpiente",
+  "tituloOriginal": "Self-Portrait",
+  "autor": "Paul Gauguin",
+  "fecha": "c. 1889",
+  "fechaOrden": 1889,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro de Paul Gauguin.",
+  "localizacion": "Galería Nacional de Arte",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "http://www.nga.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20Nacional%20de%20Arte%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "óleo",
+    "madera"
+  ],
+  "etiquetas": [
+    "Paul Gauguin",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "Pintura",
+    "Wikidata Q20190042",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    6852,
+    10663
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg/1920px-Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/64/Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg",
+    "alt": "Autorretrato con halo y serpiente, Paul Gauguin",
+    "licencia": "Public domain",
+    "credito": "1. The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 . 2./3. National Gallery of Art, Washington, D. C., online collection",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q20190042",
+    "qid": "Q20190042",
+    "guia": "Autoretrato con Aureola y Serpiente",
+    "coincidencia": 0.741,
+    "importada": "2026-07-28"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "desollamiento-marsias",
+  "titulo": "El desollamiento de Marsias",
+  "autor": "Tiziano Vecellio",
+  "fecha": "c. 1570–1576",
+  "fechaOrden": 1570,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano tardío",
+  "coleccion": "Renacimiento italiano",
+  "descripcion": "La violencia del castigo de Marsias se disuelve en pinceladas densas, luces quebradas y una atmósfera de contemplación sombría.",
+  "localizacion": "Galería del Palacio Arzobispal de Kroměříž",
+  "ciudad": "Kroměříž",
+  "urlLocalizacion": "https://www.zamek-kromeriz.cz/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20del%20Palacio%20Arzobispal%20de%20Krom%C4%9B%C5%99%C3%AD%C5%BE%2C%20Krom%C4%9B%C5%99%C3%AD%C5%BE",
+  "pais": "Chequia",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "alta resolución",
+    "arte clásico",
+    "Chequia",
+    "Pintura",
+    "Renacimiento italiano",
+    "Renacimiento veneciano tardío",
+    "Tiziano Vecellio",
+    "Óleo sobre lienzo"
+  ],
+  "proporcion": [
+    212,
+    207
+  ],
+  "color": "#7c493c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20-%20The%20Flaying%20of%20Marsyas.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20-%20The%20Flaying%20of%20Marsyas.jpg?width=6000",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Titian%20-%20The%20Flaying%20of%20Marsyas.jpg",
+    "alt": "El desollamiento de Marsias, de Tiziano Vecellio",
+    "licencia": "Obra en dominio público; reproducción digital bajo la licencia indicada en la ficha enlazada de Wikimedia Commons",
+    "credito": "Tiziano Vecellio · reproducción o fotografía procedente de Wikimedia Commons",
+    "foco": "center",
+    "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20-%20The%20Flaying%20of%20Marsyas.jpg?width=1600",
+    "srcAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Titian%20-%20The%20Flaying%20of%20Marsyas.jpg?width=6000"
+  },
+  "secciones": [
+    {
+      "id": "mirada",
+      "titulo": "Mirar la obra",
+      "icono": "ojo",
+      "orden": 10,
+      "contenido": "## Antes de leer\n\nLa violencia del castigo de Marsias se disuelve en pinceladas densas, luces quebradas y una atmósfera de contemplación sombría.\n\n## Una pista visual\n\nAléjate para reconstruir la escena y acércate para ver cómo manchas y arrastres sustituyen al contorno firme.\n\nConviene recorrer primero la imagen completa y después acercarse a manos, rostros, bordes y cambios de materia: allí suelen quedar las decisiones más personales del artista.",
+      "archivo": "10-mirada.md"
+    },
+    {
+      "id": "contexto",
+      "titulo": "Historia y contexto",
+      "icono": "historia",
+      "orden": 20,
+      "contenido": "## En su tiempo\n\nEs una obra tardía cuya autoría, terminación y sentido filosófico han generado un debate extenso.\n\n**Autor:** Tiziano Vecellio  \n**Fecha:** c. 1570–1576  \n**Marco:** Renacimiento veneciano tardío  \n**Conservación actual:** Galería del Palacio Arzobispal de Kroměříž, Kroměříž.\n\nLa fecha y la atribución se expresan con el grado de precisión que permite la documentación disponible; una datación aproximada no debe convertirse en un año exacto.",
+      "archivo": "20-contexto.md"
+    },
+    {
+      "id": "tecnica",
+      "titulo": "Materia y técnica",
+      "icono": "herramienta",
+      "orden": 30,
+      "contenido": "## Cómo está hecha\n\nLa obra utiliza **Óleo sobre lienzo**. Su formato aproximado, expresado como relación entre ancho y alto, es **212:207**.\n\nLa reproducción de alta resolución permite estudiar modelado, contornos, veladuras, empastes o huellas de talla según el soporte. Es importante no confundir esas marcas materiales con grietas, reflejos o alteraciones introducidas por la fotografía y la conservación.",
+      "archivo": "30-tecnica.md"
+    },
+    {
+      "id": "legado",
+      "titulo": "Legado y lecturas",
+      "icono": "chispa",
+      "orden": 40,
+      "contenido": "## Por qué permanece\n\nSu libertad material hizo de la vejez de Tiziano un antecedente fundamental para la pintura moderna.\n\nSu inclusión en Arteteca no responde solo a fama: también permite relacionar soluciones de Tiziano Vecellio con otras obras de **Renacimiento veneciano tardío**, comparar etapas de una misma trayectoria y descubrir piezas menos reproducidas junto a imágenes canónicas.",
+      "archivo": "40-legado.md"
+    },
+    {
+      "id": "fuentes",
+      "titulo": "Fuentes y procedencia",
+      "icono": "enlace",
+      "orden": 90,
+      "contenido": "## Consulta y reproducción\n\n- [Ficha del archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Titian%20-%20The%20Flaying%20of%20Marsyas.jpg)\n- [Sitio oficial de Galería del Palacio Arzobispal de Kroměříž](https://www.zamek-kromeriz.cz/en)\n- [Ubicación en el mapa](https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20del%20Palacio%20Arzobispal%20de%20Krom%C4%9B%C5%99%C3%AD%C5%BE%2C%20Krom%C4%9B%C5%99%C3%AD%C5%BE)\n\nLa imagen del mosaico está limitada para una carga ágil. El visor solicita una derivada de hasta 6000 píxeles desde la misma fuente, evitando descargar originales excepcionalmente pesados sin renunciar al examen detallado.",
+      "archivo": "90-fuentes.md"
+    }
+  ]
+}

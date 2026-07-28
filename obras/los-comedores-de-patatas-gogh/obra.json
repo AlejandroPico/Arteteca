@@ -1,0 +1,51 @@
+{
+  "id": "los-comedores-de-patatas-gogh",
+  "titulo": "Los comedores de patatas",
+  "tituloOriginal": "The Potato Eaters",
+  "autor": "Vincent van Gogh",
+  "fecha": "c. 1885",
+  "fechaOrden": 1885,
+  "tipo": "Pintura",
+  "periodo": "Postimpresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Cuadro del pintor Vincent van Gogh.",
+  "localizacion": "Museo van Gogh",
+  "ciudad": "Amsterdam",
+  "urlLocalizacion": "http://www.vangoghmuseum.nl/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20van%20Gogh%2C%20Amsterdam",
+  "pais": "Países Bajos",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Vincent van Gogh",
+    "Postimpresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Países Bajos",
+    "Pintura",
+    "Wikidata Q154469",
+    "Guía maestra 2026"
+  ],
+  "proporcion": [
+    7695,
+    5441
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg/1920px-De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg",
+    "alt": "Los comedores de patatas, Vincent van Gogh",
+    "licencia": "Public domain",
+    "credito": "Van Gogh Museum",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q154469",
+    "qid": "Q154469",
+    "guia": "Los Comedores de Patatas (Van Gogh Museum)",
+    "coincidencia": 1,
+    "importada": "2026-07-28"
+  }
+}

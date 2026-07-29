@@ -1,0 +1,52 @@
+{
+  "id": "desintegracion-persistencia-memoria-dali",
+  "titulo": "La desintegración de la persistencia de la memoria",
+  "tituloOriginal": "The Disintegration of the Persistence of Memory",
+  "autor": "Salvador Dalí",
+  "fecha": "1952–1954",
+  "fechaOrden": 1952,
+  "tipo": "Pintura",
+  "periodo": "Surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Dalí revisa sus relojes blandos como un paisaje que se descompone en bloques y partículas bajo la influencia de la física atómica.",
+  "localizacion": "The Dalí Museum",
+  "ciudad": "St. Petersburg, Florida",
+  "urlLocalizacion": "https://thedali.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Dal%C3%AD%20Museum%2C%20St.%20Petersburg%2C%20Florida",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Relectura atómica de La persistencia de la memoria",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Salvador Dalí",
+    "Dalí",
+    "Surrealismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "siglo XX"
+  ],
+  "proporcion": [
+    330,
+    254
+  ],
+  "color": "#53686a",
+  "imagen": {
+    "url": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/caba0720-568a-3ed2-2cc4-1599b2f10525/91d331fc67a2893576f1705066fdee56/full/medium/0/default.jpg",
+    "urlAltaResolucion": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/caba0720-568a-3ed2-2cc4-1599b2f10525/91d331fc67a2893576f1705066fdee56/full/large/0/default.jpg",
+    "alt": "Reproducción de La desintegración de la persistencia de la memoria, de Salvador Dalí",
+    "fuente": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/357-6bb8/",
+    "licencia": "© Salvador Dalí, Fundació Gala-Salvador Dalí / VEGAP. Reproducción remota de referencia; requiere autorización para reutilización.",
+    "credito": "Fundació Gala-Salvador Dalí y la institución conservadora",
+    "foco": "center"
+  },
+  "referencia": {
+    "catalogoRazonado": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/357-6bb8/",
+    "dimensiones": "25,4 × 33 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "muchacho-llevando-un-caballo-picasso",
+  "titulo": "Muchacho llevando un caballo",
+  "tituloOriginal": "Boy Leading a Horse",
+  "autor": "Pablo Picasso",
+  "fecha": "1905–1906",
+  "fechaOrden": 1905,
+  "tipo": "Pintura",
+  "periodo": "Arte moderno",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Un joven desnudo guía un caballo sin riendas en una composición austera de resonancia clásica.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/79994",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20%28MoMA%29%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Pieza destacada del periodo rosa de Picasso",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Pablo Picasso",
+    "Picasso",
+    "Arte moderno",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "siglo XX"
+  ],
+  "proporcion": [
+    1312,
+    2206
+  ],
+  "color": "#80694f",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjYxOTkwOCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=2635d3e530a3b929",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjYxOTkwOCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=2635d3e530a3b929",
+    "alt": "Reproducción de Muchacho llevando un caballo, de Pablo Picasso",
+    "fuente": "https://www.moma.org/collection/works/79994",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota de referencia; consultar la ficha institucional para cualquier reutilización.",
+    "credito": "The Museum of Modern Art (MoMA), New York",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/79994",
+    "dimensiones": "220,6 × 131,2 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

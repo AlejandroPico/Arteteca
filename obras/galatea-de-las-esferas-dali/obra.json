@@ -1,0 +1,54 @@
+{
+  "id": "galatea-de-las-esferas-dali",
+  "titulo": "Galatea de las esferas",
+  "tituloOriginal": "Gala Placidia / Galatea of the Spheres",
+  "autor": "Salvador Dalí",
+  "fecha": "1952",
+  "fechaOrden": 1952,
+  "tipo": "Pintura",
+  "periodo": "Surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "El rostro de Gala se recompone mediante una constelación de esferas suspendidas, síntesis de retrato y fascinación atómica.",
+  "localizacion": "Fundació Gala-Salvador Dalí",
+  "ciudad": "Figueres",
+  "urlLocalizacion": "https://www.salvador-dali.org/en/museums/dali-theatre-museum-in-figueres/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Fundaci%C3%B3%20Gala-Salvador%20Dal%C3%AD%2C%20Figueres",
+  "pais": "España",
+  "reconocimiento": "Retrato emblemático de la etapa místico-nuclear",
+  "tecnicas": [
+    "óleo",
+    "lienzo",
+    "retrato"
+  ],
+  "etiquetas": [
+    "Salvador Dalí",
+    "Dalí",
+    "Surrealismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "retrato",
+    "siglo XX"
+  ],
+  "proporcion": [
+    540,
+    650
+  ],
+  "color": "#6c5845",
+  "imagen": {
+    "url": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/0fecc826-7664-359d-8014-e96e1cc8282d/823791de4367c0ac58e11380fd26e10d/full/medium/0/default.jpg",
+    "urlAltaResolucion": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/0fecc826-7664-359d-8014-e96e1cc8282d/823791de4367c0ac58e11380fd26e10d/full/large/0/default.jpg",
+    "alt": "Reproducción de Galatea de las esferas, de Salvador Dalí",
+    "fuente": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/54/",
+    "licencia": "© Salvador Dalí, Fundació Gala-Salvador Dalí / VEGAP. Reproducción remota de referencia; requiere autorización para reutilización.",
+    "credito": "Fundació Gala-Salvador Dalí y la institución conservadora",
+    "foco": "center"
+  },
+  "referencia": {
+    "catalogoRazonado": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/54/",
+    "dimensiones": "65 × 54 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

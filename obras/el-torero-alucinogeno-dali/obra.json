@@ -1,0 +1,54 @@
+{
+  "id": "el-torero-alucinogeno-dali",
+  "titulo": "El torero alucinógeno",
+  "tituloOriginal": "The Hallucinogenic Toreador",
+  "autor": "Salvador Dalí",
+  "fecha": "1970",
+  "fechaOrden": 1970,
+  "tipo": "Pintura",
+  "periodo": "Surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Una composición monumental oculta el rostro de un torero entre Venus, moscas, puntos de color y recuerdos de la cultura española.",
+  "localizacion": "The Dalí Museum",
+  "ciudad": "St. Petersburg, Florida",
+  "urlLocalizacion": "https://thedali.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Dal%C3%AD%20Museum%2C%20St.%20Petersburg%2C%20Florida",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Una de las grandes composiciones tardías de Dalí",
+  "tecnicas": [
+    "óleo",
+    "lienzo",
+    "imagen doble"
+  ],
+  "etiquetas": [
+    "Salvador Dalí",
+    "Dalí",
+    "Surrealismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "imagen doble",
+    "siglo XX"
+  ],
+  "proporcion": [
+    2997,
+    3988
+  ],
+  "color": "#75633e",
+  "imagen": {
+    "url": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/0a5fb5c8-f0b7-44f4-ce52-a6ee4ead5f0b/194b9e15fb1caad8dc4428c61e064ddf/full/medium/0/default.jpg",
+    "urlAltaResolucion": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/0a5fb5c8-f0b7-44f4-ce52-a6ee4ead5f0b/194b9e15fb1caad8dc4428c61e064ddf/full/large/0/default.jpg",
+    "alt": "Reproducción de El torero alucinógeno, de Salvador Dalí",
+    "fuente": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/351/",
+    "licencia": "© Salvador Dalí, Fundació Gala-Salvador Dalí / VEGAP. Reproducción remota de referencia; requiere autorización para reutilización.",
+    "credito": "Fundació Gala-Salvador Dalí y la institución conservadora",
+    "foco": "center"
+  },
+  "referencia": {
+    "catalogoRazonado": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/351/",
+    "dimensiones": "398,8 × 299,7 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

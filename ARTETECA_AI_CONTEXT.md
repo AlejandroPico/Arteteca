@@ -108,13 +108,13 @@ El proyecto no debe imponer el gusto clásico de su creador como único criterio
 
 ## 3. Estado de referencia
 
-En la revisión de julio de 2026, Arteteca contiene:
+En la revisión del 29 de julio de 2026, Arteteca contiene:
 
-- 480 obras;
-- 2.390 pestañas documentales;
+- 501 obras;
+- 2.495 pestañas documentales;
 - 40 tipos de obra;
 - 111 periodos, movimientos o marcos culturales;
-- 121 artistas o atribuciones;
+- 124 artistas o atribuciones;
 - 18 colecciones editoriales.
 
 Estos números son una fotografía temporal, no constantes de programación. No los escribas como valores fijos en la interfaz. El compilador y `public/data/catalogo.json` deben ser siempre quienes determinen las cifras vigentes.
@@ -858,6 +858,29 @@ credito, si procede
 El hecho de que la obra original sea antigua no implica automáticamente que cualquier fotografía contemporánea sea libre.
 
 No descargues ni redistribuyas una imagen local si su licencia solo permite visualización en la web de origen. En ese caso, busca una alternativa abierta o documenta otra solución.
+
+#### Obras modernas todavía protegidas
+
+Picasso, Dalí y otros autores modernos pueden seguir sujetos a derechos aunque la
+ficha tenga un interés educativo. En esos casos:
+
+- no declares dominio público ni una licencia abierta inexistente;
+- no descargues la reproducción al repositorio;
+- enlaza únicamente una derivada remota ofrecida por el museo, archivo o catálogo
+  razonado oficial;
+- usa como `urlAltaResolucion` la mejor derivada que esa institución haga
+  públicamente accesible, aunque sea menor que el máster;
+- identifica al titular o la entidad de gestión en `licencia`;
+- explica en `90-fuentes.md` que la reproducción es solo una referencia y que su
+  reutilización necesita autorización;
+- no elimines marcas, créditos ni restricciones de la fuente;
+- si la institución retira el acceso remoto o prohíbe expresamente la
+  incrustación, sustituye la imagen por una alternativa autorizada o deja la ficha
+  sin reproducción hasta resolver los derechos.
+
+La resolución máxima responsable no siempre es la resolución técnicamente más
+grande: en una obra protegida es la mejor versión que puede enlazarse sin
+atribuirse permisos que Arteteca no posee.
 
 ### 9.7. Texto alternativo
 

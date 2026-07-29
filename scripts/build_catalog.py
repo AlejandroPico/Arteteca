@@ -237,7 +237,7 @@ def load_work(work_dir: Path, errors: list[BuildError], *, write_media: bool) ->
             )
             if str(value).strip()
         },
-        key=str.casefold,
+        key=lambda value: (value.casefold(), value),
     )
 
     ratio = metadata.get("proporcion", [4, 3])

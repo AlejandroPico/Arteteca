@@ -1,0 +1,54 @@
+{
+  "id": "violin-y-uvas-picasso",
+  "titulo": "Violín y uvas",
+  "tituloOriginal": "Violin and Grapes",
+  "autor": "Pablo Picasso",
+  "fecha": "1912",
+  "fechaOrden": 1912,
+  "tipo": "Pintura",
+  "periodo": "Cubismo y maquinismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Un violín y un racimo emergen de una red de facetas, signos y texturas en el límite entre el cubismo analítico y el sintético.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/78578",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20%28MoMA%29%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Bodegón representativo de la evolución del cubismo en 1912",
+  "tecnicas": [
+    "óleo",
+    "lienzo",
+    "cubismo"
+  ],
+  "etiquetas": [
+    "Pablo Picasso",
+    "Picasso",
+    "Cubismo y maquinismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "cubismo",
+    "siglo XX"
+  ],
+  "proporcion": [
+    508,
+    610
+  ],
+  "color": "#6e6655",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjE1MTI2OCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=8c3391d781e3a10c",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjE1MTI2OCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=8c3391d781e3a10c",
+    "alt": "Reproducción de Violín y uvas, de Pablo Picasso",
+    "fuente": "https://www.moma.org/collection/works/78578",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota de referencia; consultar la ficha institucional para cualquier reutilización.",
+    "credito": "The Museum of Modern Art (MoMA), New York",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/78578",
+    "dimensiones": "61 × 50,8 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

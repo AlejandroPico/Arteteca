@@ -1,0 +1,55 @@
+{
+  "id": "hello-world-tierra-artemis-ii",
+  "titulo": "«Hello, World»: la Tierra iluminada por la Luna",
+  "tituloOriginal": "Hello, World / A Moonlit Earth as Seen From Artemis II",
+  "autor": "Tripulación de Artemis II / NASA",
+  "fecha": "2 de abril de 2026",
+  "fechaOrden": 2026,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía espacial",
+  "coleccion": "Fotografía",
+  "descripcion": "Una vista nocturna poco común del disco terrestre, iluminado por la Luna y fotografiado desde Orión durante el viaje de Artemis II.",
+  "localizacion": "NASA",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.nasa.gov/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=NASA%20Headquarters%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Vista nocturna de la Tierra tomada por la tripulación de Artemis II tras la inyección translunar",
+  "tecnicas": [
+    "fotografía digital",
+    "fotografía espacial",
+    "exposición prolongada"
+  ],
+  "etiquetas": [
+    "Artemis II",
+    "NASA",
+    "Orión",
+    "Tierra",
+    "Fotografía",
+    "Fotografía espacial",
+    "Earth at Night",
+    "Earth from Afar",
+    "2026"
+  ],
+  "proporcion": [
+    5568,
+    3712
+  ],
+  "color": "#172631",
+  "imagen": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-moonlit-earth-as-seen-from-artemis-ii/art002e000192~orig_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "urlAltaResolucion": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e000192.jpg",
+    "alt": "Disco nocturno de la Tierra iluminado por la Luna, con luces urbanas, auroras y Venus visibles desde la nave Orión de Artemis II",
+    "fuente": "https://www.nasa.gov/image-article/hello-world/",
+    "licencia": "Obra del Gobierno de Estados Unidos; uso sujeto a las NASA Media Usage Guidelines",
+    "credito": "NASA / Tripulación de Artemis II",
+    "foco": "center"
+  },
+  "referencia": {
+    "nasa": "https://www.nasa.gov/image-article/hello-world/",
+    "earthObservatory": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
+    "archivoOriginal": "art002e000192.jpg",
+    "resolucionOriginal": "5568 × 3712 píxeles",
+    "incorporada": "2026-07-29"
+  }
+}

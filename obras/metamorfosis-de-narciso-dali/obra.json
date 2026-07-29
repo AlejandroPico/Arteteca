@@ -1,0 +1,54 @@
+{
+  "id": "metamorfosis-de-narciso-dali",
+  "titulo": "Metamorfosis de Narciso",
+  "tituloOriginal": "Métamorphose de Narcisse",
+  "autor": "Salvador Dalí",
+  "fecha": "1937",
+  "fechaOrden": 1937,
+  "tipo": "Pintura",
+  "periodo": "Surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "La figura de Narciso y una mano pétrea con un huevo forman una imagen doble que representa simultáneamente cuerpo y transformación.",
+  "localizacion": "Tate Modern",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.tate.org.uk/art/artworks/dali-metamorphosis-of-narcissus-t02343",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Tate%20Modern%2C%20Londres",
+  "pais": "Reino Unido",
+  "reconocimiento": "Ejemplo paradigmático del método paranoico-crítico",
+  "tecnicas": [
+    "óleo",
+    "lienzo",
+    "imagen doble"
+  ],
+  "etiquetas": [
+    "Salvador Dalí",
+    "Dalí",
+    "Surrealismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "imagen doble",
+    "siglo XX"
+  ],
+  "proporcion": [
+    781,
+    511
+  ],
+  "color": "#796b4c",
+  "imagen": {
+    "url": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/76974f5c-0d50-b658-5bea-2965ae56aa58/7f4dea29e03e4cbe6b018606cf0fe225/full/medium/0/default.jpg",
+    "urlAltaResolucion": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/76974f5c-0d50-b658-5bea-2965ae56aa58/7f4dea29e03e4cbe6b018606cf0fe225/full/large/0/default.jpg",
+    "alt": "Reproducción de Metamorfosis de Narciso, de Salvador Dalí",
+    "fuente": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/1198-965c/",
+    "licencia": "© Salvador Dalí, Fundació Gala-Salvador Dalí / VEGAP. Reproducción remota de referencia; requiere autorización para reutilización.",
+    "credito": "Fundació Gala-Salvador Dalí y la institución conservadora",
+    "foco": "center"
+  },
+  "referencia": {
+    "catalogoRazonado": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/1198-965c/",
+    "dimensiones": "51,1 × 78,1 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

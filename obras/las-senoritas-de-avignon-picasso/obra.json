@@ -1,0 +1,52 @@
+{
+  "id": "las-senoritas-de-avignon-picasso",
+  "titulo": "Las señoritas de Aviñón",
+  "tituloOriginal": "Les Demoiselles d'Avignon",
+  "autor": "Pablo Picasso",
+  "fecha": "1907",
+  "fechaOrden": 1907,
+  "tipo": "Pintura",
+  "periodo": "Cubismo y maquinismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Cinco figuras fracturan el espacio pictórico en una obra decisiva para la gestación del cubismo.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/79766",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20%28MoMA%29%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Obra capital en la formación del cubismo",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Pablo Picasso",
+    "Picasso",
+    "Cubismo y maquinismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "siglo XX"
+  ],
+  "proporcion": [
+    2337,
+    2439
+  ],
+  "color": "#8a684f",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjYxOTg4OCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=8c09084b964ace88",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjYxOTg4OCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=8c09084b964ace88",
+    "alt": "Reproducción de Las señoritas de Aviñón, de Pablo Picasso",
+    "fuente": "https://www.moma.org/collection/works/79766",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota de referencia; consultar la ficha institucional para cualquier reutilización.",
+    "credito": "The Museum of Modern Art (MoMA), New York",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/79766",
+    "dimensiones": "243,9 × 233,7 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

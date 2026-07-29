@@ -1,0 +1,54 @@
+{
+  "id": "tres-musicos-picasso",
+  "titulo": "Tres músicos",
+  "tituloOriginal": "Three Musicians",
+  "autor": "Pablo Picasso",
+  "fecha": "1921",
+  "fechaOrden": 1921,
+  "tipo": "Pintura",
+  "periodo": "Cubismo y maquinismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Tres intérpretes enmascarados se construyen mediante grandes recortes de color que llevan el cubismo sintético a escala monumental.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/78630",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20%28MoMA%29%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Una de las formulaciones más célebres del cubismo sintético",
+  "tecnicas": [
+    "óleo",
+    "lienzo",
+    "cubismo sintético"
+  ],
+  "etiquetas": [
+    "Pablo Picasso",
+    "Picasso",
+    "Cubismo y maquinismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "cubismo sintético",
+    "siglo XX"
+  ],
+  "proporcion": [
+    2229,
+    2007
+  ],
+  "color": "#5f4f34",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjUzNzgyNCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=5592e55349c6f551",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjUzNzgyNCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=5592e55349c6f551",
+    "alt": "Reproducción de Tres músicos, de Pablo Picasso",
+    "fuente": "https://www.moma.org/collection/works/78630",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota de referencia; consultar la ficha institucional para cualquier reutilización.",
+    "credito": "The Museum of Modern Art (MoMA), New York",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/78630",
+    "dimensiones": "200,7 × 222,9 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "venus-de-milo-con-cajones-dali",
+  "titulo": "Venus de Milo con cajones",
+  "tituloOriginal": "Vénus de Milo aux tiroirs",
+  "autor": "Salvador Dalí",
+  "fecha": "1936",
+  "fechaOrden": 1936,
+  "tipo": "Escultura",
+  "periodo": "Surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Dalí transforma una copia de la Venus clásica mediante cajones abiertos y pompones, haciendo visible una anatomía psíquica de raíz surrealista.",
+  "localizacion": "Art Institute of Chicago",
+  "ciudad": "Chicago",
+  "urlLocalizacion": "https://www.artic.edu/artworks/185184/venus-de-milo-with-drawers",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Art%20Institute%20of%20Chicago%2C%20Chicago",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Objeto surrealista emblemático de Dalí",
+  "tecnicas": [
+    "yeso pintado",
+    "metal",
+    "pompones de visón"
+  ],
+  "etiquetas": [
+    "Salvador Dalí",
+    "Dalí",
+    "Surrealismo",
+    "Surrealismo y primeras vanguardias",
+    "Escultura",
+    "yeso pintado",
+    "metal",
+    "pompones de visón",
+    "siglo XX"
+  ],
+  "proporcion": [
+    325,
+    980
+  ],
+  "color": "#7a7065",
+  "imagen": {
+    "url": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/7bff831d-daab-7c1d-d5f7-2b1afa19fcf5/8ffbef05e854ac17540f32bfd80e5911/full/medium/0/default.jpg",
+    "urlAltaResolucion": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/7bff831d-daab-7c1d-d5f7-2b1afa19fcf5/8ffbef05e854ac17540f32bfd80e5911/full/large/0/default.jpg",
+    "alt": "Reproducción de Venus de Milo con cajones, de Salvador Dalí",
+    "fuente": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/3261/",
+    "licencia": "© Salvador Dalí, Fundació Gala-Salvador Dalí / VEGAP. Reproducción remota de referencia; requiere autorización para reutilización.",
+    "credito": "Fundació Gala-Salvador Dalí y la institución conservadora",
+    "foco": "center"
+  },
+  "referencia": {
+    "catalogoRazonado": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/3261/",
+    "dimensiones": "98 × 32,5 × 34 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

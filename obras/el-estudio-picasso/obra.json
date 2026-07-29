@@ -1,0 +1,52 @@
+{
+  "id": "el-estudio-picasso",
+  "titulo": "El estudio",
+  "tituloOriginal": "The Studio",
+  "autor": "Pablo Picasso",
+  "fecha": "1927–1928",
+  "fechaOrden": 1927,
+  "tipo": "Pintura",
+  "periodo": "Arte moderno",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "El espacio de trabajo del artista se convierte en un escenario de líneas, planos y figuras que alternan presencia y vacío.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/79164",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20%28MoMA%29%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Gran composición de la etapa surrealizante de Picasso",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Pablo Picasso",
+    "Picasso",
+    "Arte moderno",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "siglo XX"
+  ],
+  "proporcion": [
+    2312,
+    1499
+  ],
+  "color": "#75664d",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjE1MTEwNSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=aeeeed680e98e546",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjE1MTEwNSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=aeeeed680e98e546",
+    "alt": "Reproducción de El estudio, de Pablo Picasso",
+    "fuente": "https://www.moma.org/collection/works/79164",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota de referencia; consultar la ficha institucional para cualquier reutilización.",
+    "credito": "The Museum of Modern Art (MoMA), New York",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/79164",
+    "dimensiones": "149,9 × 231,2 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

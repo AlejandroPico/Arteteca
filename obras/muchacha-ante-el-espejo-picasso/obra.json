@@ -1,0 +1,52 @@
+{
+  "id": "muchacha-ante-el-espejo-picasso",
+  "titulo": "Muchacha ante el espejo",
+  "tituloOriginal": "Girl before a Mirror",
+  "autor": "Pablo Picasso",
+  "fecha": "1932",
+  "fechaOrden": 1932,
+  "tipo": "Pintura",
+  "periodo": "Arte moderno",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Una figura y su reflejo se enfrentan mediante perfiles dobles, curvas enérgicas y una superficie de color intensamente decorativa.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/78311",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20%28MoMA%29%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Uno de los retratos más reconocibles de Marie-Thérèse Walter",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Pablo Picasso",
+    "Picasso",
+    "Arte moderno",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "siglo XX"
+  ],
+  "proporcion": [
+    1302,
+    1623
+  ],
+  "color": "#765b74",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjIwMzk0MCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=ce18fbf31c41a4f0",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjIwMzk0MCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=ce18fbf31c41a4f0",
+    "alt": "Reproducción de Muchacha ante el espejo, de Pablo Picasso",
+    "fuente": "https://www.moma.org/collection/works/78311",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota de referencia; consultar la ficha institucional para cualquier reutilización.",
+    "credito": "The Museum of Modern Art (MoMA), New York",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/78311",
+    "dimensiones": "162,3 × 130,2 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

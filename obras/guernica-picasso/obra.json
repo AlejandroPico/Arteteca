@@ -1,0 +1,54 @@
+{
+  "id": "guernica-picasso",
+  "titulo": "Guernica",
+  "tituloOriginal": "Guernica",
+  "autor": "Pablo Picasso",
+  "fecha": "1937",
+  "fechaOrden": 1937,
+  "tipo": "Pintura",
+  "periodo": "Cubismo y maquinismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Una monumental denuncia de la destrucción de la población civil, pintada para el Pabellón Español de la Exposición de París de 1937.",
+  "localizacion": "Museo Nacional Centro de Arte Reina Sofía",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museoreinasofia.es/en/collections/artwork/guernica-0/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20Centro%20de%20Arte%20Reina%20Sof%C3%ADa%2C%20Madrid",
+  "pais": "España",
+  "reconocimiento": "Icono internacional contra la guerra y la violencia sobre civiles",
+  "tecnicas": [
+    "óleo",
+    "lienzo",
+    "pintura mural"
+  ],
+  "etiquetas": [
+    "Pablo Picasso",
+    "Picasso",
+    "Cubismo y maquinismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "pintura mural",
+    "siglo XX"
+  ],
+  "proporcion": [
+    7766,
+    3493
+  ],
+  "color": "#4a4a48",
+  "imagen": {
+    "url": "https://guernica.museoreinasofia.es/gigapixel/img/share-image.jpg",
+    "urlAltaResolucion": "https://guernica.museoreinasofia.es/gigapixel/img/share-image.jpg",
+    "alt": "Reproducción de Guernica, de Pablo Picasso",
+    "fuente": "https://www.museoreinasofia.es/en/collections/artwork/guernica-0/",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota de referencia; consultar la ficha institucional para cualquier reutilización.",
+    "credito": "© Sucesión Pablo Picasso, VEGAP, Madrid · Museo Reina Sofía",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.museoreinasofia.es/en/collections/artwork/guernica-0/",
+    "dimensiones": "349,3 × 776,6 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

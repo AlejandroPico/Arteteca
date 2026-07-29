@@ -1,0 +1,54 @@
+{
+  "id": "cristo-de-san-juan-de-la-cruz-dali",
+  "titulo": "Cristo de San Juan de la Cruz",
+  "tituloOriginal": "Christ of Saint John of the Cross",
+  "autor": "Salvador Dalí",
+  "fecha": "1951",
+  "fechaOrden": 1951,
+  "tipo": "Pintura",
+  "periodo": "Surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "La crucifixión se contempla desde un punto de vista elevado y sin los atributos habituales del sufrimiento, suspendida sobre la bahía de Portlligat.",
+  "localizacion": "Kelvingrove Art Gallery and Museum",
+  "ciudad": "Glasgow",
+  "urlLocalizacion": "https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kelvingrove%20Art%20Gallery%20and%20Museum%2C%20Glasgow",
+  "pais": "Reino Unido",
+  "reconocimiento": "La obra religiosa más conocida de la etapa místico-nuclear de Dalí",
+  "tecnicas": [
+    "óleo",
+    "lienzo",
+    "pintura religiosa"
+  ],
+  "etiquetas": [
+    "Salvador Dalí",
+    "Dalí",
+    "Surrealismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "pintura religiosa",
+    "siglo XX"
+  ],
+  "proporcion": [
+    1159,
+    2048
+  ],
+  "color": "#36362f",
+  "imagen": {
+    "url": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/db0f8152-2091-1ec6-6043-f86630bc1e1a/640f42e7f86b26f9e6f6598c128597c0/full/medium/0/default.jpg",
+    "urlAltaResolucion": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/db0f8152-2091-1ec6-6043-f86630bc1e1a/640f42e7f86b26f9e6f6598c128597c0/full/large/0/default.jpg",
+    "alt": "Reproducción de Cristo de San Juan de la Cruz, de Salvador Dalí",
+    "fuente": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/706/",
+    "licencia": "© Salvador Dalí, Fundació Gala-Salvador Dalí / VEGAP. Reproducción remota de referencia; requiere autorización para reutilización.",
+    "credito": "Fundació Gala-Salvador Dalí y la institución conservadora",
+    "foco": "center"
+  },
+  "referencia": {
+    "catalogoRazonado": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/706/",
+    "dimensiones": "204,8 × 115,9 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

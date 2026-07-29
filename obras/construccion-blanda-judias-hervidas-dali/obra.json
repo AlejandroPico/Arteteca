@@ -1,0 +1,52 @@
+{
+  "id": "construccion-blanda-judias-hervidas-dali",
+  "titulo": "Construcción blanda con judías hervidas (Premonición de la Guerra Civil)",
+  "tituloOriginal": "Soft Construction with Boiled Beans (Premonition of Civil War)",
+  "autor": "Salvador Dalí",
+  "fecha": "1936",
+  "fechaOrden": 1936,
+  "tipo": "Pintura",
+  "periodo": "Surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Un cuerpo monstruoso se desgarra a sí mismo sobre un paisaje árido, imagen de una violencia interna realizada en el año de la Guerra Civil española.",
+  "localizacion": "Philadelphia Museum of Art",
+  "ciudad": "Filadelfia",
+  "urlLocalizacion": "https://www.philamuseum.org/collection/object/51315",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Philadelphia%20Museum%20of%20Art%2C%20Filadelfia",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Una de las imágenes surrealistas asociadas a la Guerra Civil española",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Salvador Dalí",
+    "Dalí",
+    "Surrealismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "siglo XX"
+  ],
+  "proporcion": [
+    1000,
+    999
+  ],
+  "color": "#7b6044",
+  "imagen": {
+    "url": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/779a9cd1-63b9-f7cd-7cb0-8b879a1b862e/064a996de24d62d3a99b3d22f2598889/full/medium/0/default.jpg",
+    "urlAltaResolucion": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/779a9cd1-63b9-f7cd-7cb0-8b879a1b862e/064a996de24d62d3a99b3d22f2598889/full/large/0/default.jpg",
+    "alt": "Reproducción de Construcción blanda con judías hervidas (Premonición de la Guerra Civil), de Salvador Dalí",
+    "fuente": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/454/",
+    "licencia": "© Salvador Dalí, Fundació Gala-Salvador Dalí / VEGAP. Reproducción remota de referencia; requiere autorización para reutilización.",
+    "credito": "Fundació Gala-Salvador Dalí y la institución conservadora",
+    "foco": "center"
+  },
+  "referencia": {
+    "catalogoRazonado": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/454/",
+    "dimensiones": "99,9 × 100 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

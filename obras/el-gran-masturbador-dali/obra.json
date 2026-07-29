@@ -1,0 +1,52 @@
+{
+  "id": "el-gran-masturbador-dali",
+  "titulo": "El gran masturbador",
+  "tituloOriginal": "Le grand masturbateur",
+  "autor": "Salvador Dalí",
+  "fecha": "1929",
+  "fechaOrden": 1929,
+  "tipo": "Pintura",
+  "periodo": "Surrealismo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Una gran forma biomórfica reúne deseo, miedo, sueño y autobiografía en una de las imágenes fundacionales del Dalí surrealista.",
+  "localizacion": "Museo Nacional Centro de Arte Reina Sofía",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museoreinasofia.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20Centro%20de%20Arte%20Reina%20Sof%C3%ADa%2C%20Madrid",
+  "pais": "España",
+  "reconocimiento": "Obra esencial del primer surrealismo de Dalí",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Salvador Dalí",
+    "Dalí",
+    "Surrealismo",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "siglo XX"
+  ],
+  "proporcion": [
+    1500,
+    1100
+  ],
+  "color": "#8b744f",
+  "imagen": {
+    "url": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/34401be9-e546-41c2-4d0c-b9b5c2f3c03e/fc64e06ce99ab4def4dd4d1178e09ab9/full/medium/0/default.jpg",
+    "urlAltaResolucion": "https://d1i5r06pd82mff.cloudfront.net/public/DigitalAsset/34401be9-e546-41c2-4d0c-b9b5c2f3c03e/fc64e06ce99ab4def4dd4d1178e09ab9/full/large/0/default.jpg",
+    "alt": "Reproducción de El gran masturbador, de Salvador Dalí",
+    "fuente": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/22-5103/",
+    "licencia": "© Salvador Dalí, Fundació Gala-Salvador Dalí / VEGAP. Reproducción remota de referencia; requiere autorización para reutilización.",
+    "credito": "Fundació Gala-Salvador Dalí y la institución conservadora",
+    "foco": "center"
+  },
+  "referencia": {
+    "catalogoRazonado": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/22-5103/",
+    "dimensiones": "110 × 150 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

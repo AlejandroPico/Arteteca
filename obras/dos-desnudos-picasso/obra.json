@@ -1,0 +1,52 @@
+{
+  "id": "dos-desnudos-picasso",
+  "titulo": "Dos desnudos",
+  "tituloOriginal": "Two Nudes",
+  "autor": "Pablo Picasso",
+  "fecha": "1906",
+  "fechaOrden": 1906,
+  "tipo": "Pintura",
+  "periodo": "Arte moderno",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Dos figuras monumentales anticipan la simplificación anatómica y la densidad escultórica que desembocarían en Las señoritas de Aviñón.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/80111",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20%28MoMA%29%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "reconocimiento": "Obra de transición hacia la ruptura de 1907",
+  "tecnicas": [
+    "óleo",
+    "lienzo"
+  ],
+  "etiquetas": [
+    "Pablo Picasso",
+    "Picasso",
+    "Arte moderno",
+    "Surrealismo y primeras vanguardias",
+    "Pintura",
+    "óleo",
+    "lienzo",
+    "siglo XX"
+  ],
+  "proporcion": [
+    930,
+    1513
+  ],
+  "color": "#8b6b58",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjYxMjMyOCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=e158487d6a765e75",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjYxMjMyOCJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDEwMjR4MTAyNFx1MDAzZSJdXQ.jpg?sha=e158487d6a765e75",
+    "alt": "Reproducción de Dos desnudos, de Pablo Picasso",
+    "fuente": "https://www.moma.org/collection/works/80111",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota de referencia; consultar la ficha institucional para cualquier reutilización.",
+    "credito": "The Museum of Modern Art (MoMA), New York",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/80111",
+    "dimensiones": "151,3 × 93 cm",
+    "incorporada": "2026-07-29",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

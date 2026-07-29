@@ -37,12 +37,12 @@
   ],
   "color": "#4a4a48",
   "imagen": {
-    "url": "https://guernica.museoreinasofia.es/gigapixel/img/share-image.jpg",
-    "urlAltaResolucion": "https://guernica.museoreinasofia.es/gigapixel/img/share-image.jpg",
-    "alt": "Reproducción de Guernica, de Pablo Picasso",
-    "fuente": "https://www.museoreinasofia.es/en/collections/artwork/guernica-0/",
-    "licencia": "Obra protegida por derechos de autor. Reproducción remota de referencia; consultar la ficha institucional para cualquier reutilización.",
-    "credito": "© Sucesión Pablo Picasso, VEGAP, Madrid · Museo Reina Sofía",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guernica_-_Pablo_Picasso_-_1937_-_Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_a_Madrid%2C_2024.jpg/1280px-Guernica_-_Pablo_Picasso_-_1937_-_Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_a_Madrid%2C_2024.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/db/Guernica_-_Pablo_Picasso_-_1937_-_Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_a_Madrid%2C_2024.jpg",
+    "alt": "Guernica completo, de Pablo Picasso, sin marco, sala ni visitantes",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Guernica_-_Pablo_Picasso_-_1937_-_Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_a_Madrid,_2024.jpg",
+    "licencia": "La fotografía y su edición se publicaron con dedicación CC0. La obra de Picasso permanece protegida; consultar la ficha institucional para cualquier reutilización.",
+    "credito": "Reproducción fotográfica: Pizieno / Wikimedia Commons · © Sucesión Pablo Picasso, VEGAP, Madrid",
     "foco": "center"
   },
   "referencia": {

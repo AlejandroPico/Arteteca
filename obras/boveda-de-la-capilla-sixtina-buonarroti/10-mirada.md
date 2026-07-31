@@ -5,6 +5,6 @@ icono: ojo
 
 ## Qué muestra esta ficha
 
-**bóveda de la Capilla Sixtina** se incorpora al mosaico como pintura mural de **Miguel Ángel Buonarroti**. Conjunto de pinturas al fresco realizadas para decorar la bóveda de la Capilla Sixtina, en la Ciudad del Vaticano (Roma).
+La **Bóveda de la Capilla Sixtina** se mantiene como ficha general del programa pintado por **Miguel Ángel Buonarroti**. Su arquitectura fingida articula nueve historias centrales del Génesis, profetas, sibilas, antepasados de Cristo, ignudi, medallones y cuatro escenas de salvación de Israel.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+Las nueve historias centrales disponen además de fichas individuales. Esta panorámica permite comprender sus posiciones y las relaciones que se pierden al aislar cada escena.

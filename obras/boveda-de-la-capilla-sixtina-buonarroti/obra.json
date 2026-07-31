@@ -1,17 +1,17 @@
 {
   "id": "boveda-de-la-capilla-sixtina-buonarroti",
-  "titulo": "bóveda de la Capilla Sixtina",
+  "titulo": "Bóveda de la Capilla Sixtina",
   "tituloOriginal": "Sistine Chapel ceiling",
   "autor": "Miguel Ángel Buonarroti",
-  "fecha": "c. 1508",
-  "fechaOrden": 1508,
+  "fecha": "1508–1512",
+  "fechaOrden": 1512,
   "tipo": "Pintura mural",
   "periodo": "Alto Renacimiento",
   "coleccion": "Renacimiento",
-  "descripcion": "Conjunto de pinturas al fresco realizadas para decorar la bóveda de la Capilla Sixtina, en la Ciudad del Vaticano (Roma).",
-  "localizacion": "Museos Vaticanos",
+  "descripcion": "Programa monumental al fresco con nueve historias centrales del Génesis, profetas, sibilas, antepasados de Cristo, ignudi y escenas de salvación de Israel.",
+  "localizacion": "Capilla Sixtina, Museos Vaticanos",
   "ciudad": "Ciudad del Vaticano",
-  "urlLocalizacion": "http://www.museivaticani.va",
+  "urlLocalizacion": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta.html",
   "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Vaticanos%2C%20Ciudad%20del%20Vaticano",
   "pais": "Ciudad del Vaticano",
   "tecnicas": [
@@ -19,6 +19,9 @@
   ],
   "etiquetas": [
     "Miguel Ángel Buonarroti",
+    "Bóveda de la Capilla Sixtina",
+    "Historias centrales del Génesis",
+    "vista general",
     "Alto Renacimiento",
     "Renacimiento",
     "Ciudad del Vaticano",
@@ -46,5 +49,18 @@
     "guia": "Bóveda de la Capilla Sixtina (Creación de Adán, La Separación de la Luz, etc.)",
     "coincidencia": 1,
     "importada": "2026-07-28"
+    ,
+    "componentesCentrales": [
+      "separacion-luz-tinieblas-miguel-angel",
+      "creacion-astros-plantas-miguel-angel",
+      "separacion-tierra-aguas-miguel-angel",
+      "creacion-adan",
+      "creacion-eva-miguel-angel",
+      "pecado-original-expulsion-paraiso-miguel-angel",
+      "sacrificio-noe-miguel-angel",
+      "diluvio-universal-miguel-angel",
+      "ebriedad-noe-miguel-angel"
+    ],
+    "actualizada": "2026-07-31"
   }
 }

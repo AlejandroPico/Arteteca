@@ -1,0 +1,53 @@
+{
+  "id": "creacion-eva-miguel-angel",
+  "titulo": "La creación de Eva",
+  "tituloOriginal": "Creazione di Eva",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1509–1510",
+  "fechaOrden": 1510,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Eva se alza desde el costado de Adán dormido y dirige las manos hacia Dios.",
+  "localizacion": "Bóveda de la Capilla Sixtina, Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta/storie-centrali.html",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Capilla%20Sixtina%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "fresco",
+    "pintura mural"
+  ],
+  "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Bóveda de la Capilla Sixtina",
+    "Historias centrales del Génesis",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Pintura mural",
+    "Ciudad del Vaticano",
+    "escena 5 de 9"
+  ],
+  "proporcion": [
+    2304,
+    1728
+  ],
+  "color": "#80664f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/CreacionEva.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/94/CreacionEva.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:CreacionEva.jpg",
+    "alt": "La creación de Eva, escena de la bóveda de la Capilla Sixtina pintada por Miguel Ángel",
+    "licencia": "Dominio público",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "Bóveda de la Capilla Sixtina",
+    "grupo": "Nueve historias centrales del Génesis",
+    "posicionEnSerie": 5,
+    "totalEnSerie": 9,
+    "fuenteInstitucional": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta/storie-centrali.html",
+    "incorporada": "2026-07-31"
+  }
+}

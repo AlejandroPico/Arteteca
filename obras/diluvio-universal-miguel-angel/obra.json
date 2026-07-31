@@ -1,0 +1,53 @@
+{
+  "id": "diluvio-universal-miguel-angel",
+  "titulo": "El Diluvio universal",
+  "tituloOriginal": "Diluvio Universale",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1508–1509",
+  "fechaOrden": 1509,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Una multitud intenta escapar de las aguas mientras el arca permanece al fondo.",
+  "localizacion": "Bóveda de la Capilla Sixtina, Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta/storie-centrali/diluvio-universale.html",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Capilla%20Sixtina%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "fresco",
+    "pintura mural"
+  ],
+  "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Bóveda de la Capilla Sixtina",
+    "Historias centrales del Génesis",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Pintura mural",
+    "Ciudad del Vaticano",
+    "escena 8 de 9"
+  ],
+  "proporcion": [
+    4328,
+    2887
+  ],
+  "color": "#857052",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Diluvio.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/59/El_Diluvio.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El_Diluvio.jpg",
+    "alt": "El Diluvio universal, escena de la bóveda de la Capilla Sixtina pintada por Miguel Ángel",
+    "licencia": "Dominio público",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "Bóveda de la Capilla Sixtina",
+    "grupo": "Nueve historias centrales del Génesis",
+    "posicionEnSerie": 8,
+    "totalEnSerie": 9,
+    "fuenteInstitucional": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta/storie-centrali/diluvio-universale.html",
+    "incorporada": "2026-07-31"
+  }
+}

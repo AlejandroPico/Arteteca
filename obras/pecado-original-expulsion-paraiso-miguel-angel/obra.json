@@ -1,0 +1,53 @@
+{
+  "id": "pecado-original-expulsion-paraiso-miguel-angel",
+  "titulo": "El pecado original y la expulsión del Paraíso",
+  "tituloOriginal": "Peccato originale e Cacciata dal Paradiso terrestre",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1509–1510",
+  "fechaOrden": 1510,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "El árbol central divide la tentación de Adán y Eva y su expulsión dolorosa del jardín.",
+  "localizacion": "Bóveda de la Capilla Sixtina, Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/cappella-sistina/volta/storie-centrali/peccato-originale-e-cacciata-dal-paradiso-terrestre.html",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Capilla%20Sixtina%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "fresco",
+    "pintura mural"
+  ],
+  "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Bóveda de la Capilla Sixtina",
+    "Historias centrales del Génesis",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Pintura mural",
+    "Ciudad del Vaticano",
+    "escena 6 de 9"
+  ],
+  "proporcion": [
+    6328,
+    4218
+  ],
+  "color": "#6f765e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sistine%20Chapel%20ceiling%20-%20Fall%20and%20Expulsion%20from%20Garden%20of%20Eden.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sistine_Chapel_ceiling_-_Fall_and_Expulsion_from_Garden_of_Eden.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sistine_Chapel_ceiling_-_Fall_and_Expulsion_from_Garden_of_Eden.jpg",
+    "alt": "El pecado original y la expulsión del Paraíso, escena de la bóveda de la Capilla Sixtina pintada por Miguel Ángel",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Miguel Ángel Buonarroti · fotografía de Burkhard Mücke / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "Bóveda de la Capilla Sixtina",
+    "grupo": "Nueve historias centrales del Génesis",
+    "posicionEnSerie": 6,
+    "totalEnSerie": 9,
+    "fuenteInstitucional": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/cappella-sistina/volta/storie-centrali/peccato-originale-e-cacciata-dal-paradiso-terrestre.html",
+    "incorporada": "2026-07-31"
+  }
+}

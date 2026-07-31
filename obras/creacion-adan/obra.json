@@ -8,18 +8,21 @@
   "periodo": "Alto Renacimiento",
   "coleccion": "Renacimiento",
   "descripcion": "Dos manos casi se tocan y concentran la transmisión de vida dentro de una escena de enorme claridad gestual.",
-  "localizacion": "Capilla Sixtina",
+  "localizacion": "Bóveda de la Capilla Sixtina, Museos Vaticanos",
   "ciudad": "Ciudad del Vaticano",
-  "urlLocalizacion": "https://en.wikipedia.org/wiki/The_Creation_of_Adam",
+  "urlLocalizacion": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta/storie-centrali/creazione-di-adamo.html",
   "urlMapa": "https://www.google.com/maps/search/?api=1&query=Capilla%20Sixtina%2C%20Ciudad%20del%20Vaticano",
-  "pais": "Italia",
+  "pais": "Ciudad del Vaticano",
   "tecnicas": [
     "Fresco"
   ],
   "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Bóveda de la Capilla Sixtina",
+    "Historias centrales del Génesis",
+    "escena 4 de 9",
     "Renacimiento",
-    "Italia",
-    "renacimiento",
+    "Ciudad del Vaticano",
     "Pintura mural",
     "Alto Renacimiento"
   ],
@@ -36,6 +39,13 @@
     "licencia": "Licencia libre o dominio público; consultar la ficha enlazada de Wikimedia Commons",
     "credito": "Miguel Ángel Buonarroti · reproducción o fotografía en Wikimedia Commons",
     "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "Bóveda de la Capilla Sixtina",
+    "grupo": "Nueve historias centrales del Génesis",
+    "posicionEnSerie": 4,
+    "totalEnSerie": 9,
+    "fuenteInstitucional": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta/storie-centrali/creazione-di-adamo.html",
+    "actualizada": "2026-07-31"
   }
 }
-

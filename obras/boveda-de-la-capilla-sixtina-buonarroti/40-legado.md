@@ -5,6 +5,6 @@ icono: estrella
 
 ## Por qué está en Arteteca
 
-Esta ficha amplía la representación de **Miguel Ángel Buonarroti** y del **Alto Renacimiento** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.
+Esta ficha general permite leer la bóveda como una obra total y no como una suma accidental de imágenes célebres.
 
-Su inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.
+Las fichas individuales facilitan el estudio cercano; esta panorámica conserva la escala arquitectónica, el orden narrativo y el diálogo entre escenas, profetas, sibilas, ignudi y antepasados.

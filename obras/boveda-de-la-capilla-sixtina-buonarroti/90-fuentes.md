@@ -7,7 +7,8 @@ icono: enlace
 
 - [Registro estructurado en Wikidata (Q844675)](https://www.wikidata.org/wiki/Q844675)
 - [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CAPPELLA_SISTINA_Ceiling.jpg)
-- [Colección o institución asociada](http://www.museivaticani.va)
+- [La bóveda en los Museos Vaticanos](https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta.html)
+- [Las nueve historias centrales del Génesis](https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta/storie-centrali.html)
 
 ## Procedencia de la selección
 

@@ -108,10 +108,10 @@ El proyecto no debe imponer el gusto clásico de su creador como único criterio
 
 ## 3. Estado de referencia
 
-En la revisión del 29 de julio de 2026, Arteteca contiene:
+En la revisión del 31 de julio de 2026, Arteteca contiene:
 
-- 501 obras;
-- 2.495 pestañas documentales;
+- 532 obras;
+- 2.650 pestañas documentales;
 - 40 tipos de obra;
 - 111 periodos, movimientos o marcos culturales;
 - 124 artistas o atribuciones;
@@ -1811,6 +1811,20 @@ incorporarla:
 Cuando una reconstrucción o copia sea útil para documentar un original perdido,
 el título, la descripción, el tipo y la pestaña de fuentes deben decirlo de
 forma inequívoca. La imagen nunca puede hacerse pasar por el original.
+
+Los ciclos y programas monumentales requieren una decisión editorial explícita:
+
+- si la ficha general aporta una lectura arquitectónica o espacial que se pierde
+  al aislar las escenas, se conserva y se añaden fichas para sus componentes;
+- si la ficha general solo reproduce una sala o sustituye indebidamente a las
+  obras individuales, se elimina y se catalogan las piezas por separado;
+- cada componente debe indicar el conjunto, su posición y el total de piezas en
+  `referencia` y en las etiquetas;
+- una imagen general nunca debe hacerse pasar por una escena individual.
+
+Ejemplos vigentes: la Bóveda de la Capilla Sixtina conserva una ficha panorámica
+y nueve fichas para las historias centrales del Génesis; el Ciclo de María de
+Médici se representa mediante sus veinticuatro lienzos individuales.
 
 La ampliación de julio de 2026 basada en la *Guía Maestra: Artistas y Obras de
 la Historia* siguió este protocolo. Su auditoría queda documentada en:

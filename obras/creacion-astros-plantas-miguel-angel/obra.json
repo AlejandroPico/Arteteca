@@ -1,0 +1,53 @@
+{
+  "id": "creacion-astros-plantas-miguel-angel",
+  "titulo": "La creación de los astros y las plantas",
+  "tituloOriginal": "Creazione degli astri e delle piante",
+  "autor": "Miguel Ángel Buonarroti",
+  "fecha": "c. 1511–1512",
+  "fechaOrden": 1512,
+  "tipo": "Pintura mural",
+  "periodo": "Alto Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Dios aparece dos veces: ordena el Sol y la Luna y, de espaldas, impulsa el nacimiento del mundo vegetal.",
+  "localizacion": "Bóveda de la Capilla Sixtina, Museos Vaticanos",
+  "ciudad": "Ciudad del Vaticano",
+  "urlLocalizacion": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/cappella-sistina/volta/storie-centrali/creazione-degli-astri-e-delle-piante.html",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Capilla%20Sixtina%2C%20Ciudad%20del%20Vaticano",
+  "pais": "Ciudad del Vaticano",
+  "tecnicas": [
+    "fresco",
+    "pintura mural"
+  ],
+  "etiquetas": [
+    "Miguel Ángel Buonarroti",
+    "Bóveda de la Capilla Sixtina",
+    "Historias centrales del Génesis",
+    "Alto Renacimiento",
+    "Renacimiento",
+    "Pintura mural",
+    "Ciudad del Vaticano",
+    "escena 2 de 9"
+  ],
+  "proporcion": [
+    4096,
+    1963
+  ],
+  "color": "#775f50",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michelangelo%20Buonarroti%20018.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/78/Michelangelo_Buonarroti_018.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michelangelo_Buonarroti_018.jpg",
+    "alt": "La creación de los astros y las plantas, escena de la bóveda de la Capilla Sixtina pintada por Miguel Ángel",
+    "licencia": "Dominio público",
+    "credito": "Miguel Ángel Buonarroti · reproducción o fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "Bóveda de la Capilla Sixtina",
+    "grupo": "Nueve historias centrales del Génesis",
+    "posicionEnSerie": 2,
+    "totalEnSerie": 9,
+    "fuenteInstitucional": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/cappella-sistina/volta/storie-centrali/creazione-degli-astri-e-delle-piante.html",
+    "incorporada": "2026-07-31"
+  }
+}

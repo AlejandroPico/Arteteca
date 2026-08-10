@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**La conversión de San Pablo** se incorpora al mosaico como pintura mural de **Miguel Ángel Buonarroti**. Fresco de Miguel Ángel.
+La escena representa **La conversión de San Pablo** mediante figuras relacionadas por acciones, miradas y gestos. Identificar el núcleo del episodio y seguir después las reacciones secundarias permite reconstruir el relato sin reducirlo a un único personaje.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La escena fue concebida para una pared y para una posición concreta del espectador. Las diagonales, las escalas y los gestos responden tanto al episodio representado como a la arquitectura que lo rodea.
+
+Miguel Ángel concibe las figuras como volúmenes sometidos a tensión. Incluso cuando pinta, las posturas se leen de forma escultórica: torsos, brazos y pliegues articulan fuerzas que atraviesan el espacio.

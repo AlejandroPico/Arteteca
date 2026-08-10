@@ -1,0 +1,53 @@
+{
+  "id": "capricho-41-ni-mas-ni-menos",
+  "titulo": "Ni más ni menos",
+  "tituloOriginal": "Ni más ni menos",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 41 de «Los Caprichos», dentro del bloque de asnerías. Goya utiliza el título «Ni más ni menos» como una intervención crítica sobre la ignorancia y la inversión de jerarquías mediante figuras humanas y asnos.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 41",
+    "Los Caprichos 41",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2271,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Museo_del_Prado_-_Goya_-_Caprichos_-_No._41_-_Ni_mas_ni_menos.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._41_-_Ni_mas_ni_menos.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/92/Museo_del_Prado_-_Goya_-_Caprichos_-_No._41_-_Ni_mas_ni_menos.jpg",
+    "alt": "Estampa 41 de Los Caprichos, «Ni más ni menos», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._41_-_Ni_mas_ni_menos.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 41,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._41_-_Ni_mas_ni_menos.jpg"
+  }
+}

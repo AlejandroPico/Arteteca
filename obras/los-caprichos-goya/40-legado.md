@@ -1,10 +1,10 @@
 ---
-titulo: En la colección
+titulo: Legado
 icono: estrella
 ---
 
-## Por qué está en Arteteca
+## Una serie que desborda su siglo
 
-Esta ficha amplía la representación de **Francisco de Goya** y del **Romanticismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.
+*Los Caprichos* transformaron la tradición satírica del grabado al unir observación social, imaginación y experimentación tonal. Sus criaturas no pertenecen únicamente a un folclore fantástico: permiten representar abusos y deseos que resultaban más difíciles de mostrar mediante el retrato directo.
 
-Su inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.
+La lámina 43 se convirtió en una de las imágenes más difundidas de la cultura moderna, pero aislarla empobrece el proyecto. El sueño, la educación, el matrimonio, la explotación y la superstición se desarrollan a través de toda la secuencia. La influencia de la serie alcanza el Romanticismo, la caricatura política, el simbolismo y múltiples formas posteriores de arte crítico.

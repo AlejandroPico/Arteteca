@@ -7,4 +7,4 @@ icono: ojo
 
 Las esferas no ocultan por completo el rostro: sus tamaños y posiciones reconstruyen ojos, nariz, boca y cabello, dejando aire entre las partículas. La precisión del retrato convive con su aparente desintegración.
 
-La ficha conserva la proporción de la obra para que su forma —panorámica, vertical o casi cuadrada— participe en el mosaico sin quedar forzada por una rejilla uniforme.
+Conviene seguir las líneas dominantes y los cambios de luz antes de detenerse en los detalles. La escala relativa de las figuras, los vacíos entre ellas y la relación entre primer plano y fondo explican cómo la imagen conduce la atención y dónde concentra su tensión.

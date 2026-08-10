@@ -7,4 +7,4 @@ icono: ojo
 
 La repetición de la Venus de Milo organiza una superficie repleta de signos. A distancia emerge la cara del torero; de cerca, el ojo recorre puntos, figuras, sombras y motivos taurinos que deshacen esa unidad.
 
-La ficha conserva la proporción de la obra para que su forma —panorámica, vertical o casi cuadrada— participe en el mosaico sin quedar forzada por una rejilla uniforme.
+Conviene seguir las líneas dominantes y los cambios de luz antes de detenerse en los detalles. La escala relativa de las figuras, los vacíos entre ellas y la relación entre primer plano y fondo explican cómo la imagen conduce la atención y dónde concentra su tensión.

@@ -2,6 +2,10 @@
 
 Fecha de revisión: **28 de julio de 2026**
 
+> Esta es la primera fotografía de la incorporación. La continuación, incluida
+> la descomposición de tres series de Goya y la recepción de la Parte II, se
+> documenta en [`auditoria-guias-maestras-2026-08.md`](./auditoria-guias-maestras-2026-08.md).
+
 ## Resultado
 
 La guía aportada contiene **894 entradas** distribuidas entre 75 artistas,

@@ -7,4 +7,4 @@ icono: ojo
 
 La Tierra ocupa el centro de una escena casi negra. La exposición prolongada permite distinguir luces urbanas, resplandores atmosféricos y auroras en el lado nocturno; Venus aparece como un punto brillante en la zona inferior derecha.
 
-La ficha conserva la proporción de la obra para que su forma —panorámica, vertical o casi cuadrada— participe en el mosaico sin quedar forzada por una rejilla uniforme.
+Conviene seguir las líneas dominantes y los cambios de luz antes de detenerse en los detalles. La escala relativa de las figuras, los vacíos entre ellas y la relación entre primer plano y fondo explican cómo la imagen conduce la atención y dónde concentra su tensión.

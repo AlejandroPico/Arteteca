@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Ninfa del río Lo** se incorpora al mosaico como pintura de **Gu Kaizhi**. Cuadro de Gu Kaizhi.
+El paisaje de **Ninfa del río Lo** organiza la mirada por planos, desde los elementos próximos hasta el horizonte. La presencia humana, cuando aparece, sirve de escala frente a la extensión del entorno.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
+
+La pintura atribuida a Gu Kaizhi se despliega como una lectura continua. La línea de pincel define cuerpos, vestidos y relaciones espaciales con gran economía; el vacío entre grupos marca pausas equivalentes a las de un relato escrito.

@@ -1,0 +1,54 @@
+{
+  "id": "desastre-guerra-66-extrana-devocion",
+  "titulo": "Extraña devocion!",
+  "tituloOriginal": "Extraña devocion!",
+  "autor": "Francisco de Goya",
+  "fecha": "1810–1815; primera edición, 1863",
+  "fechaOrden": 1810,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 66 de «Los desastres de la guerra», dentro del bloque de caprichos enfáticos. Goya utiliza el título «Extraña devocion!» como una intervención crítica sobre la posguerra y la reacción política mediante animales, alegorías y escenas de lectura deliberadamente abierta.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Punta seca",
+    "Buril y bruñidor"
+  ],
+  "etiquetas": [
+    "Los desastres de la guerra",
+    "Lámina 66",
+    "Los desastres de la guerra 66",
+    "Goya obra gráfica",
+    "Guerra de la Independencia"
+  ],
+  "proporcion": [
+    2952,
+    2359
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Prado_-_Los_Desastres_de_la_Guerra_-_No._66_-_Extra%C3%B1a_devocion%21.jpg/1920px-Prado_-_Los_Desastres_de_la_Guerra_-_No._66_-_Extra%C3%B1a_devocion%21.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Prado_-_Los_Desastres_de_la_Guerra_-_No._66_-_Extra%C3%B1a_devocion%21.jpg",
+    "alt": "Estampa 66 de Los desastres de la guerra, «Extraña devocion!», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._66_-_Extra%C3%B1a_devocion!.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los desastres de la guerra (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-desastres-de-la-guerra-goya",
+      "titulo": "Los desastres de la guerra",
+      "numero": 66,
+      "total": 82
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._66_-_Extra%C3%B1a_devocion!.jpg"
+  }
+}

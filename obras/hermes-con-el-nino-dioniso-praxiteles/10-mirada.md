@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Hermes con el niño Dioniso** se incorpora al mosaico como escultura de **Praxíteles**. Escultura atribuida a Praxíteles hallada en Olimpia, Grecia.
+Hermes descarga el peso sobre una pierna y sostiene al niño Dioniso sobre el brazo izquierdo, apoyado en un tronco cubierto por el manto. El brazo derecho perdido debió elevar algún objeto; el intercambio de miradas y la curva del cuerpo convierten el tema divino en una relación íntima.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La verticalidad invita a seguir el cuerpo desde los apoyos hasta el giro del torso y la cabeza. Al rodear mentalmente la figura, los salientes iluminados y las cavidades oscuras revelan desplazamientos que una silueta frontal no permite comprender.
+
+Las versiones conservadas transmiten la curva suave y el desplazamiento de peso asociados a Praxíteles. El cuerpo se organiza mediante transiciones continuas y una relación cercana con el apoyo, evitando la frontalidad inmóvil.

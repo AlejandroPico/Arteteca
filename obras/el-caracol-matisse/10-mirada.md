@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**El caracol** se incorpora al mosaico como pintura de **Henri Matisse**. Cuadro de Henri Matisse.
+La obra presenta **El caracol** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La proporción casi cuadrada concentra el motivo y reduce las vías de escape hacia los laterales. Las distancias entre figura, objetos y borde adquieren así un peso especial en el equilibrio de la imagen.
+
+Matisse simplifica el dibujo para que color, contorno y arabesco actúen con autonomía. La perspectiva puede plegarse y las proporciones alterarse, pero esas desviaciones sostienen el ritmo general y mantienen en equilibrio zonas cromáticas muy intensas.

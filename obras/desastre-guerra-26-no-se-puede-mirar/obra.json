@@ -1,0 +1,54 @@
+{
+  "id": "desastre-guerra-26-no-se-puede-mirar",
+  "titulo": "No se puede mirar",
+  "tituloOriginal": "No se puede mirar",
+  "autor": "Francisco de Goya",
+  "fecha": "1810–1815; primera edición, 1863",
+  "fechaOrden": 1810,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 26 de «Los desastres de la guerra», dentro del bloque de violencia de guerra. Goya utiliza el título «No se puede mirar» como una intervención crítica sobre la violencia ejercida y sufrida por combatientes y civiles sin relato heroico.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Punta seca",
+    "Buril y bruñidor"
+  ],
+  "etiquetas": [
+    "Los desastres de la guerra",
+    "Lámina 26",
+    "Los desastres de la guerra 26",
+    "Goya obra gráfica",
+    "Guerra de la Independencia"
+  ],
+  "proporcion": [
+    2952,
+    2025
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Prado_-_Los_Desastres_de_la_Guerra_-_No._26_-_No_se_puede_mirar.jpg/1920px-Prado_-_Los_Desastres_de_la_Guerra_-_No._26_-_No_se_puede_mirar.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Prado_-_Los_Desastres_de_la_Guerra_-_No._26_-_No_se_puede_mirar.jpg",
+    "alt": "Estampa 26 de Los desastres de la guerra, «No se puede mirar», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._26_-_No_se_puede_mirar.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los desastres de la guerra (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-desastres-de-la-guerra-goya",
+      "titulo": "Los desastres de la guerra",
+      "numero": 26,
+      "total": 82
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._26_-_No_se_puede_mirar.jpg"
+  }
+}

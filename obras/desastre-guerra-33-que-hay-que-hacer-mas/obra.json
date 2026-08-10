@@ -1,0 +1,54 @@
+{
+  "id": "desastre-guerra-33-que-hay-que-hacer-mas",
+  "titulo": "Qué hay que hacer mas?",
+  "tituloOriginal": "Qué hay que hacer mas?",
+  "autor": "Francisco de Goya",
+  "fecha": "1810–1815; primera edición, 1863",
+  "fechaOrden": 1810,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 33 de «Los desastres de la guerra», dentro del bloque de violencia de guerra. Goya utiliza el título «Qué hay que hacer mas?» como una intervención crítica sobre la violencia ejercida y sufrida por combatientes y civiles sin relato heroico.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Punta seca",
+    "Buril y bruñidor"
+  ],
+  "etiquetas": [
+    "Los desastres de la guerra",
+    "Lámina 33",
+    "Los desastres de la guerra 33",
+    "Goya obra gráfica",
+    "Guerra de la Independencia"
+  ],
+  "proporcion": [
+    2952,
+    2194
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Prado_-_Los_Desastres_de_la_Guerra_-_No._33_-_Que_hai_que_hacer_mas%3F.jpg/1920px-Prado_-_Los_Desastres_de_la_Guerra_-_No._33_-_Que_hai_que_hacer_mas%3F.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Prado_-_Los_Desastres_de_la_Guerra_-_No._33_-_Que_hai_que_hacer_mas%3F.jpg",
+    "alt": "Estampa 33 de Los desastres de la guerra, «Qué hay que hacer mas?», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._33_-_Que_hai_que_hacer_mas?.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los desastres de la guerra (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-desastres-de-la-guerra-goya",
+      "titulo": "Los desastres de la guerra",
+      "numero": 33,
+      "total": 82
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._33_-_Que_hai_que_hacer_mas?.jpg"
+  }
+}

@@ -1,22 +1,22 @@
 {
   "id": "la-habitacion-roja-matisse",
   "titulo": "La habitación roja",
-  "tituloOriginal": "The Dessert: Harmony in Red (The Red Room)",
+  "tituloOriginal": "La Desserte. Harmonie rouge",
   "autor": "Henri Matisse",
-  "fecha": "c. 1907",
-  "fechaOrden": 1907,
+  "fecha": "1908",
+  "fechaOrden": 1908,
   "tipo": "Pintura",
   "periodo": "Fauvismo",
   "coleccion": "Surrealismo y primeras vanguardias",
-  "descripcion": "Cuadro de Henri Matisse.",
+  "descripcion": "Matisse convierte un comedor doméstico en una superficie continua de rojo y arabescos azules. La mesa y la pared casi se confunden, mientras una figura prepara el servicio y una ventana abre el interior hacia un jardín intensamente verde.",
   "localizacion": "Museo del Hermitage",
   "ciudad": "San Petersburgo",
-  "urlLocalizacion": "https://hermitagemuseum.org",
+  "urlLocalizacion": "https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/28389/?lng=en",
   "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Hermitage%2C%20San%20Petersburgo",
   "pais": "Rusia",
+  "dimensiones": "180,5 × 221 cm",
   "tecnicas": [
-    "óleo",
-    "lienzo"
+    "Óleo sobre lienzo"
   ],
   "etiquetas": [
     "Henri Matisse",
@@ -36,9 +36,9 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/La_Desserte_rouge%2C_par_Henri_Matisse.jpg/1920px-La_Desserte_rouge%2C_par_Henri_Matisse.jpg",
     "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/cf/La_Desserte_rouge%2C_par_Henri_Matisse.jpg",
     "fuente": "https://commons.wikimedia.org/wiki/File:La_Desserte_rouge,_par_Henri_Matisse.jpg",
-    "alt": "La habitación roja, Henri Matisse",
+    "alt": "Comedor rojo cubierto de arabescos azules, con una mujer que dispone fruta sobre la mesa y una ventana abierta a un jardín verde",
     "licencia": "Public domain",
-    "credito": "https://www.cineclubdecaen.com/peinture/peintres/matisse/desserterouge.jpg",
+    "credito": "Henri Matisse; reproducción digital difundida por Wikimedia Commons",
     "foco": "center"
   },
   "referencia": {

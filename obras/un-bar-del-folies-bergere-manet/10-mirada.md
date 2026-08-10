@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Un bar del Folies Bergère** se incorpora al mosaico como pintura de **Édouard Manet**. Cuadro de Édouard Manet.
+Una camarera permanece tras la barra entre botellas, fruta y flores. El gran espejo del fondo multiplica el local y devuelve un reflejo desplazado de la joven y del cliente que tiene delante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
+
+Manet contrapone zonas planas y oscuras con luces abruptas y pinceladas que no esconden su materialidad. Sus figuras suelen mirar o situarse de una manera que hace consciente al espectador de su propia posición ante la escena.

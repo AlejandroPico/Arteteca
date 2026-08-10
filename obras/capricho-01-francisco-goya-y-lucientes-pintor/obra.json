@@ -1,0 +1,53 @@
+{
+  "id": "capricho-01-francisco-goya-y-lucientes-pintor",
+  "titulo": "Francisco Goya y Lucientes, Pintor",
+  "tituloOriginal": "Francisco Goya y Lucientes, Pintor",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 1 de «Los Caprichos», dentro del bloque de apertura y autorretrato. Goya utiliza el título «Francisco Goya y Lucientes, Pintor» como una intervención crítica sobre la presentación del autor que firma visualmente el conjunto.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 1",
+    "Los Caprichos 01",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2100,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Museo_del_Prado_-_Goya_-_Caprichos_-_No._01_-_Autorretrato._Francisco_Goya_y_Lucientes%2C_pintor.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._01_-_Autorretrato._Francisco_Goya_y_Lucientes%2C_pintor.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Museo_del_Prado_-_Goya_-_Caprichos_-_No._01_-_Autorretrato._Francisco_Goya_y_Lucientes%2C_pintor.jpg",
+    "alt": "Estampa 1 de Los Caprichos, «Francisco Goya y Lucientes, Pintor», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._01_-_Autorretrato._Francisco_Goya_y_Lucientes,_pintor.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 1,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._01_-_Autorretrato._Francisco_Goya_y_Lucientes,_pintor.jpg"
+  }
+}

@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Gilles** se incorpora al mosaico como pintura de **Jean-Antoine Watteau**. Cuadro de Antoine Watteau.
+La obra presenta **Gilles** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La proporción casi cuadrada concentra el motivo y reduce las vías de escape hacia los laterales. Las distancias entre figura, objetos y borde adquieren así un peso especial en el equilibrio de la imagen.
+
+Watteau reúne figuras elegantes en espacios donde conversación, música y paisaje se confunden. Las pinceladas ligeras, los silencios entre personajes y la atmósfera cambiante introducen melancolía dentro de una apariencia festiva.

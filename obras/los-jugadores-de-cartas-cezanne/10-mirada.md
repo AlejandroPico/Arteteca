@@ -3,8 +3,8 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Los jugadores de cartas** se incorpora al mosaico como serie artística de **Paul Cézanne**. Cuadro de Paul Cézanne.
+Dos campesinos se enfrentan en silencio a ambos lados de una mesa; sus sombreros y torsos forman masas compactas y una botella marca el eje de la partida. En otras versiones aparecen tres o cinco figuras, pero Cézanne mantiene la concentración cerrada de los cuerpos y el equilibrio entre azules, ocres y pardos.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+Cézanne reconstruye lo visible mediante planos de color y pinceladas orientadas. Mesas, cuerpos, árboles o montañas parecen sólidos y a la vez inestables, porque distintos puntos de vista conviven dentro de una misma superficie.

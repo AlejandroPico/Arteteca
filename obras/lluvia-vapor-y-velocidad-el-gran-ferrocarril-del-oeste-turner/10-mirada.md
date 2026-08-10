@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Lluvia, vapor y velocidad. El gran ferrocarril del Oeste** se incorpora al mosaico como pintura de **J. M. W. Turner**. Pintura de Joseph Mallord William Turner (1844).
+La obra presenta **Lluvia, vapor y velocidad. El gran ferrocarril del Oeste** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
+
+Turner deja que luz, vapor, agua y atmósfera erosionen los límites de las cosas. Las formas reconocibles suelen quedar suspendidas dentro de remolinos de color; localizarlas ayuda a medir hasta qué punto el paisaje domina la acción humana.

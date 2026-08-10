@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**El beso de Judas** se incorpora al mosaico como pintura mural de **Giotto**. Fresco de Giotto di Bondone.
+La obra presenta **El beso de Judas** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La escena fue concebida para una pared y para una posición concreta del espectador. Las diagonales, las escalas y los gestos responden tanto al episodio representado como a la arquitectura que lo rodea.
+
+Giotto construye cada episodio con pocos cuerpos de volumen claro y gestos legibles. La arquitectura y el paisaje funcionan como un escenario concentrado: separan grupos, enmarcan miradas y permiten que la emoción se entienda antes de reconocer todos los personajes.

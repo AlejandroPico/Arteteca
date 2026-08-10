@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**El doctor Paul Gachet** se incorpora al mosaico como pintura de **Vincent van Gogh**. Cuadro de Vincent van Gogh en el Museo de Orsay.
+La obra presenta **El doctor Paul Gachet** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La proporción casi cuadrada concentra el motivo y reduce las vías de escape hacia los laterales. Las distancias entre figura, objetos y borde adquieren así un peso especial en el equilibrio de la imagen.
+
+Van Gogh hace visible la dirección de la pincelada: cielos, muros, rostros y vegetación poseen ritmos distintos. El color intensifica la experiencia del motivo y los contornos mantienen unidas superficies que parecen vibrar.

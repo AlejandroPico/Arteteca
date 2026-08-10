@@ -44,6 +44,16 @@ REQUIRED_FIELDS = {
     "descripcion",
     "imagen",
 }
+FORBIDDEN_LOOK_TEXT = (
+    "se incorpora al mosaico como",
+    "la imagen enlazada corresponde al archivo identificado",
+    "la reproducción puede abrirse a su resolución original",
+    "wikimedia commons",
+    "la ficha conserva la proporción",
+    "la proporción pertenece a la imagen elegida como portada",
+    "la proporción de la ficha respeta la reproducción",
+    "la orientación vertical de la reproducción",
+)
 
 
 @dataclass
@@ -215,6 +225,20 @@ def load_work(work_dir: Path, errors: list[BuildError], *, write_media: bool) ->
             errors.append(BuildError(section_path, "la sección está vacía"))
             continue
         slug = match.group("slug")
+        if slug == "mirada":
+            lowered_content = content.casefold()
+            forbidden = next(
+                (phrase for phrase in FORBIDDEN_LOOK_TEXT if phrase in lowered_content),
+                None,
+            )
+            if forbidden:
+                errors.append(
+                    BuildError(
+                        section_path,
+                        "`Mirada` debe describir la obra; la información de archivo, licencia o importación pertenece a `Fuentes`",
+                    )
+                )
+                continue
         sections.append(
             {
                 "id": slug,

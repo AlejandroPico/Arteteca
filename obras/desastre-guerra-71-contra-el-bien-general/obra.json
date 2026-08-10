@@ -1,0 +1,54 @@
+{
+  "id": "desastre-guerra-71-contra-el-bien-general",
+  "titulo": "Contra el bien general",
+  "tituloOriginal": "Contra el bien general",
+  "autor": "Francisco de Goya",
+  "fecha": "1810–1815; primera edición, 1863",
+  "fechaOrden": 1810,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 71 de «Los desastres de la guerra», dentro del bloque de caprichos enfáticos. Goya utiliza el título «Contra el bien general» como una intervención crítica sobre la posguerra y la reacción política mediante animales, alegorías y escenas de lectura deliberadamente abierta.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Punta seca",
+    "Buril y bruñidor"
+  ],
+  "etiquetas": [
+    "Los desastres de la guerra",
+    "Lámina 71",
+    "Los desastres de la guerra 71",
+    "Goya obra gráfica",
+    "Guerra de la Independencia"
+  ],
+  "proporcion": [
+    2927,
+    2362
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Prado_-_Los_Desastres_de_la_Guerra_-_No._71_-_Contra_el_bien_general.jpg/1920px-Prado_-_Los_Desastres_de_la_Guerra_-_No._71_-_Contra_el_bien_general.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/56/Prado_-_Los_Desastres_de_la_Guerra_-_No._71_-_Contra_el_bien_general.jpg",
+    "alt": "Estampa 71 de Los desastres de la guerra, «Contra el bien general», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._71_-_Contra_el_bien_general.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los desastres de la guerra (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-desastres-de-la-guerra-goya",
+      "titulo": "Los desastres de la guerra",
+      "numero": 71,
+      "total": 82
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._71_-_Contra_el_bien_general.jpg"
+  }
+}

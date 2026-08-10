@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Crucifijo de Cimabue en Santa Cruz** se incorpora al mosaico como pintura de **Cimabue**. Crucifijo pintado por Cimabue para la basílica de Santa Croce de Florencia.
+La obra presenta **Crucifijo de Cimabue en Santa Cruz** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La proporción casi cuadrada concentra el motivo y reduce las vías de escape hacia los laterales. Las distancias entre figura, objetos y borde adquieren así un peso especial en el equilibrio de la imagen.
+
+Cimabue conserva la frontalidad y la solemnidad de la tradición italo-bizantina, pero introduce peso corporal, pliegues más sensibles y una emoción que empieza a romper la rigidez del icono. Conviene comparar la geometría general con esos indicios de humanidad.

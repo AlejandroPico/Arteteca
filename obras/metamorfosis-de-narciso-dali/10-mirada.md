@@ -7,4 +7,4 @@ icono: ojo
 
 A la izquierda, Narciso se inclina sobre el agua; a la derecha, su silueta se repite como una mano que sostiene un huevo del que nace una flor. La semejanza entre ambas formas permite que una imagen se transforme en otra.
 
-La ficha conserva la proporción de la obra para que su forma —panorámica, vertical o casi cuadrada— participe en el mosaico sin quedar forzada por una rejilla uniforme.
+Conviene seguir las líneas dominantes y los cambios de luz antes de detenerse en los detalles. La escala relativa de las figuras, los vacíos entre ellas y la relación entre primer plano y fondo explican cómo la imagen conduce la atención y dónde concentra su tensión.

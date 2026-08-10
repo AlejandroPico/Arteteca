@@ -1,0 +1,54 @@
+{
+  "id": "desastre-guerra-61-si-son-de-otro-linage",
+  "titulo": "Si son de otro linage",
+  "tituloOriginal": "Si son de otro linage",
+  "autor": "Francisco de Goya",
+  "fecha": "1810–1815; primera edición, 1863",
+  "fechaOrden": 1810,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 61 de «Los desastres de la guerra», dentro del bloque de hambre de madrid. Goya utiliza el título «Si son de otro linage» como una intervención crítica sobre el hambre, la enfermedad, la muerte y la ausencia de socorro entre la población civil.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Punta seca",
+    "Buril y bruñidor"
+  ],
+  "etiquetas": [
+    "Los desastres de la guerra",
+    "Lámina 61",
+    "Los desastres de la guerra 61",
+    "Goya obra gráfica",
+    "Guerra de la Independencia"
+  ],
+  "proporcion": [
+    2952,
+    2226
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Prado_-_Los_Desastres_de_la_Guerra_-_No._61_-_Si_son_de_otro_linage.jpg/1920px-Prado_-_Los_Desastres_de_la_Guerra_-_No._61_-_Si_son_de_otro_linage.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/52/Prado_-_Los_Desastres_de_la_Guerra_-_No._61_-_Si_son_de_otro_linage.jpg",
+    "alt": "Estampa 61 de Los desastres de la guerra, «Si son de otro linage», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._61_-_Si_son_de_otro_linage.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los desastres de la guerra (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-desastres-de-la-guerra-goya",
+      "titulo": "Los desastres de la guerra",
+      "numero": 61,
+      "total": 82
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._61_-_Si_son_de_otro_linage.jpg"
+  }
+}

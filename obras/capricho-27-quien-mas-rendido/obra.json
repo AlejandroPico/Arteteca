@@ -1,0 +1,53 @@
+{
+  "id": "capricho-27-quien-mas-rendido",
+  "titulo": "¿Quién más rendido?",
+  "tituloOriginal": "¿Quién más rendido?",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 27 de «Los Caprichos», dentro del bloque de sátira social. Goya utiliza el título «¿Quién más rendido?» como una intervención crítica sobre las apariencias, los matrimonios desiguales, la prostitución, la educación y la hipocresía social.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 27",
+    "Los Caprichos 27",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2268,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Museo_del_Prado_-_Goya_-_Caprichos_-_No._27_-_Quien_m%C3%A1s_rendido%3F.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._27_-_Quien_m%C3%A1s_rendido%3F.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Museo_del_Prado_-_Goya_-_Caprichos_-_No._27_-_Quien_m%C3%A1s_rendido%3F.jpg",
+    "alt": "Estampa 27 de Los Caprichos, «¿Quién más rendido?», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._27_-_Quien_m%C3%A1s_rendido?.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 27,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._27_-_Quien_m%C3%A1s_rendido?.jpg"
+  }
+}

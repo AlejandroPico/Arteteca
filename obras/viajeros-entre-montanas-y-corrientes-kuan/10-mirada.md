@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Viajeros entre montañas y corrientes** se incorpora al mosaico como pintura de **Fan Kuan**. Cuadro de Fan Kuan.
+El paisaje de **Viajeros entre montañas y corrientes** organiza la mirada por planos, desde los elementos próximos hasta el horizonte. La presencia humana, cuando aparece, sirve de escala frente a la extensión del entorno.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+El formato vertical conduce la mirada entre niveles. Compara la base, el núcleo de mayor contraste y la zona superior para reconocer si la composición asciende, cae o mantiene las figuras en tensión.
+
+En el paisaje monumental de Fan Kuan la escala humana queda subordinada a montañas, árboles y cursos de agua. El recorrido visual asciende por capas y senderos diminutos; la tinta diferencia niebla, roca y vegetación sin reducirlos a un mismo patrón.

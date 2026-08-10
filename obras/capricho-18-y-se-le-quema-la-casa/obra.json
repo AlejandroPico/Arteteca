@@ -1,0 +1,53 @@
+{
+  "id": "capricho-18-y-se-le-quema-la-casa",
+  "titulo": "Y se le quema la casa",
+  "tituloOriginal": "Y se le quema la casa",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 18 de «Los Caprichos», dentro del bloque de sátira social. Goya utiliza el título «Y se le quema la casa» como una intervención crítica sobre las apariencias, los matrimonios desiguales, la prostitución, la educación y la hipocresía social.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 18",
+    "Los Caprichos 18",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2109,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Museo_del_Prado_-_Goya_-_Caprichos_-_No._18_-_Y_se_le_quema_la_Casa.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._18_-_Y_se_le_quema_la_Casa.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/01/Museo_del_Prado_-_Goya_-_Caprichos_-_No._18_-_Y_se_le_quema_la_Casa.jpg",
+    "alt": "Estampa 18 de Los Caprichos, «Y se le quema la casa», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._18_-_Y_se_le_quema_la_Casa.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 18,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._18_-_Y_se_le_quema_la_Casa.jpg"
+  }
+}

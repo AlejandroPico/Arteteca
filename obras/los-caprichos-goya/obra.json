@@ -3,13 +3,21 @@
   "titulo": "Los caprichos",
   "tituloOriginal": "Caprichos",
   "autor": "Francisco de Goya",
-  "fecha": "c. 1799",
-  "fechaOrden": 1799,
-  "tipo": "Grabado",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Serie artística",
   "periodo": "Romanticismo",
   "coleccion": "De la Ilustración al Romanticismo",
-  "descripcion": "Serie de 80 grabados del pintor español Francisco de Goya.",
-  "tecnicas": [],
+  "descripcion": "Conjunto de ochenta estampas en el que Goya enlaza sátira social, asnerías y escenas de brujería. La secuencia ataca la ignorancia, el privilegio, los matrimonios impuestos, la superstición y las conductas que la razón no consigue corregir.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/museo/publicacion/goya-censo-de-ejemplares-de-la-primera-edicion-de/9b939dad-5d06-f77f-160f-1b620e900762",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
   "etiquetas": [
     "Francisco de Goya",
     "Romanticismo",
@@ -27,9 +35,9 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/The_sleep_of_reason_produces_monsters_LACMA_63.11.43.jpg",
     "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/73/The_sleep_of_reason_produces_monsters_LACMA_63.11.43.jpg",
     "fuente": "https://commons.wikimedia.org/wiki/File:The_sleep_of_reason_produces_monsters_LACMA_63.11.43.jpg",
-    "alt": "Los caprichos, Francisco de Goya",
+    "alt": "El artista duerme sobre una mesa mientras búhos, murciélagos, un lince y otras criaturas emergen de la oscuridad en la lámina 43 de Los Caprichos",
     "licencia": "Public domain",
-    "credito": "Image: http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31877786-O3.jpg Gallery: http://collections.lacma.org/node/203274 archive copy at the Wayback Machine",
+    "credito": "Francisco de Goya; reproducción digital difundida por Wikimedia Commons",
     "foco": "center"
   },
   "referencia": {
@@ -37,6 +45,7 @@
     "qid": "Q1163663",
     "guia": "Los Caprichos (Serie de 80 Grabados)",
     "coincidencia": 1,
-    "importada": "2026-07-28"
+    "importada": "2026-07-28",
+    "fichasIndividuales": 80
   }
 }

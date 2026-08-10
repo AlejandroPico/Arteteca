@@ -5,10 +5,10 @@ icono: enlace
 
 ## Identificación y reproducción
 
+- [Ficha de la obra en el Museo Estatal del Hermitage](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+Paintings/28389/?lng=en)
 - [Registro estructurado en Wikidata (Q921429)](https://www.wikidata.org/wiki/Q921429)
 - [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:La_Desserte_rouge,_par_Henri_Matisse.jpg)
-- [Colección o institución asociada](https://hermitagemuseum.org)
 
 ## Procedencia de la selección
 
-La obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.
+La *Guía Maestra: Artistas y Obras de la Historia* se conserva como origen de la selección. La datación, dimensiones, técnica, localización e inventario se han contrastado con el catálogo del Hermitage. Wikimedia Commons se utiliza únicamente para documentar la procedencia y la situación jurídica de la reproducción digital.

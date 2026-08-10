@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**La caza del león** se incorpora al mosaico como pintura de **Eugène Delacroix**. Cuadro de Eugène Delacroix (Chicago).
+La escena representa **La caza del león** mediante figuras relacionadas por acciones, miradas y gestos. Identificar el núcleo del episodio y seguir después las reacciones secundarias permite reconstruir el relato sin reducirlo a un único personaje.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
+
+Delacroix organiza la tensión mediante diagonales, choques de color y cuerpos que se empujan dentro de la composición. Los contornos pueden disolverse en la pincelada para que el movimiento y la emoción prevalezcan sobre una descripción fría del episodio.

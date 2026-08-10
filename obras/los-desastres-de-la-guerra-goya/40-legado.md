@@ -1,10 +1,10 @@
 ---
-titulo: En la colección
+titulo: Legado
 icono: estrella
 ---
 
-## Por qué está en Arteteca
+## El reverso de la pintura de historia
 
-Esta ficha amplía la representación de **Francisco de Goya** y del **Romanticismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.
+*Los desastres de la guerra* alteraron de manera duradera la representación artística del conflicto. En lugar de ordenar los hechos alrededor de generales, victorias y símbolos nacionales, Goya mostró consecuencias: cuerpos rotos, miedo, hambre, entierros, desplazamientos y pérdida de verdad.
 
-Su inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.
+La serie se ha convertido en referencia para artistas, fotógrafos y reporteros que afrontan la violencia moderna, pero su fuerza no procede de fingir neutralidad. Los encuadres, títulos y contrastes son decisiones críticas que obligan a pensar cómo se mira el sufrimiento y qué responsabilidades acompañan al testimonio.

@@ -1,0 +1,54 @@
+{
+  "id": "disparate-21-disparate-puntual",
+  "titulo": "Disparate puntual",
+  "tituloOriginal": "Disparate puntual",
+  "autor": "Francisco de Goya",
+  "fecha": "1815–1819; primeras ediciones, 1864 y 1877",
+  "fechaOrden": 1815,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 21 del conjunto de veintidós composiciones conocido como «Los disparates». Goya construye en «Disparate puntual» una situación deliberadamente ambigua para examinar miedo, violencia, deseo, obediencia o poder sin reducir la imagen a una moraleja única.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta",
+    "Retoques variables con punta seca, buril o bruñidor"
+  ],
+  "etiquetas": [
+    "Los disparates",
+    "Lámina 21",
+    "Los disparates 21",
+    "Goya obra gráfica",
+    "Crítica social"
+  ],
+  "proporcion": [
+    2952,
+    2127
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Prado_-_Los_Disparates_%281877%29_-_Disparate_puntual.jpg/1920px-Prado_-_Los_Disparates_%281877%29_-_Disparate_puntual.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Prado_-_Los_Disparates_%281877%29_-_Disparate_puntual.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Disparates_(1877)_-_Disparate_puntual.jpg",
+    "alt": "Estampa 21 de Los disparates, «Disparate puntual», grabada por Francisco de Goya",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Disparates / Proverbios (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-disparates-goya",
+      "titulo": "Los disparates",
+      "numero": 21,
+      "total": 22
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Disparates_(1877)_-_Disparate_puntual.jpg"
+  }
+}

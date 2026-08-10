@@ -7,4 +7,4 @@ icono: ojo
 
 La gama terrosa comprime una figura con instrumento en una trama de pequeños planos. En la zona inferior, las letras MA JOLIE y una clave musical funcionan a la vez como inscripción y forma visual.
 
-La ficha conserva la proporción de la obra para que su forma —panorámica, vertical o casi cuadrada— participe en el mosaico sin quedar forzada por una rejilla uniforme.
+Conviene seguir las líneas dominantes y los cambios de luz antes de detenerse en los detalles. La escala relativa de las figuras, los vacíos entre ellas y la relación entre primer plano y fondo explican cómo la imagen conduce la atención y dónde concentra su tensión.

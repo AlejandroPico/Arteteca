@@ -3,12 +3,10 @@ titulo: Técnica
 icono: capas
 ---
 
-## Datos materiales disponibles
+## Dibujar con líneas, mordidas y veladuras
 
-- **Tipo documental:** Grabado
-- **Materiales o técnicas consignados:** buril
-- **Dimensiones de la obra:** No consignadas en Wikidata
-- **Archivo digital:** 685 × 462 píxeles
-- **Licencia indicada en Commons:** Public domain
+Goya combina aguafuerte y aguatinta sobre planchas de cobre, con retoques variables de punta seca, buril y bruñidor. El aguafuerte fija contornos y gestos; la aguatinta crea superficies granuladas capaces de pasar del gris a un negro profundo. Punta seca y buril refuerzan detalles, mientras el bruñidor permite abrir luces dentro de una zona ya mordida.
 
-La resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.
+En muchas láminas, las figuras claras parecen recortarse sobre una noche sin profundidad mensurable. Ese efecto no depende solo del dibujo: también interviene la tinta retenida sobre la plancha durante la estampación, que puede envolver la escena en una veladura. Las impresiones de 1864 reflejan criterios de estampación del siglo XIX y, por tanto, no son idénticas a las pruebas supervisadas por Goya.
+
+Cada imagen conservada es una estampa sobre papel obtenida de la matriz. Los dibujos preparatorios, las pruebas de estado y las ediciones posteriores permiten estudiar cómo una composición cambió antes y después de abrirse en el cobre.

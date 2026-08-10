@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Ejecución del Emperador Maximiliano de México** se incorpora al mosaico como pintura de **Édouard Manet**. Pintura de Édouard Manet conservada en la National Gallery de Londres.
+La obra presenta **Ejecución del Emperador Maximiliano de México** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
+
+Manet contrapone zonas planas y oscuras con luces abruptas y pinceladas que no esconden su materialidad. Sus figuras suelen mirar o situarse de una manera que hace consciente al espectador de su propia posición ante la escena.

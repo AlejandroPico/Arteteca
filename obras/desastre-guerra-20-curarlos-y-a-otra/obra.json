@@ -1,0 +1,54 @@
+{
+  "id": "desastre-guerra-20-curarlos-y-a-otra",
+  "titulo": "Curarlos, y a otra",
+  "tituloOriginal": "Curarlos, y a otra",
+  "autor": "Francisco de Goya",
+  "fecha": "1810–1815; primera edición, 1863",
+  "fechaOrden": 1810,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 20 de «Los desastres de la guerra», dentro del bloque de violencia de guerra. Goya utiliza el título «Curarlos, y a otra» como una intervención crítica sobre la violencia ejercida y sufrida por combatientes y civiles sin relato heroico.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Punta seca",
+    "Buril y bruñidor"
+  ],
+  "etiquetas": [
+    "Los desastres de la guerra",
+    "Lámina 20",
+    "Los desastres de la guerra 20",
+    "Goya obra gráfica",
+    "Guerra de la Independencia"
+  ],
+  "proporcion": [
+    2952,
+    2021
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Prado_-_Los_Desastres_de_la_Guerra_-_No._20_-_Curarlos%2C_y_%C3%A1_otra.jpg/1920px-Prado_-_Los_Desastres_de_la_Guerra_-_No._20_-_Curarlos%2C_y_%C3%A1_otra.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/91/Prado_-_Los_Desastres_de_la_Guerra_-_No._20_-_Curarlos%2C_y_%C3%A1_otra.jpg",
+    "alt": "Estampa 20 de Los desastres de la guerra, «Curarlos, y a otra», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._20_-_Curarlos,_y_%C3%A1_otra.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los desastres de la guerra (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-desastres-de-la-guerra-goya",
+      "titulo": "Los desastres de la guerra",
+      "numero": 20,
+      "total": 82
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._20_-_Curarlos,_y_%C3%A1_otra.jpg"
+  }
+}

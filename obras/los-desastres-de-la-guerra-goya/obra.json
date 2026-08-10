@@ -1,19 +1,24 @@
 {
   "id": "los-desastres-de-la-guerra-goya",
   "titulo": "Los desastres de la guerra",
-  "tituloOriginal": "The Disasters of War",
+  "tituloOriginal": "Fatales consecuencias de la sangrienta guerra en España con Buonaparte. Y otros caprichos enfáticos",
   "autor": "Francisco de Goya",
-  "fecha": "c. 1810",
+  "fecha": "1810–1815; primera edición, 1863",
   "fechaOrden": 1810,
-  "tipo": "Grabado",
+  "tipo": "Serie artística",
   "periodo": "Romanticismo",
   "coleccion": "De la Ilustración al Romanticismo",
-  "descripcion": "Serie de grabados de Francisco de Goya.",
-  "localizacion": "España",
-  "urlLocalizacion": "https://administracion.gob.es/",
-  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Espa%C3%B1a",
+  "descripcion": "Serie de ochenta y dos estampas que rechaza la visión heroica de la Guerra de la Independencia y examina violencia, hambre, muerte y represión política. Goya desplaza la atención desde los ejércitos hacia los cuerpos y la población civil.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/aprende/biblioteca/biblioteca-digital/fondo/los-desastres-de-la-guerra-coleccion-de-80/209dc6c4-04e5-9442-16a3-614d9843acae",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
   "pais": "España",
-  "tecnicas": [],
+  "tecnicas": [
+    "Aguafuerte",
+    "Punta seca",
+    "Buril y bruñidor"
+  ],
   "etiquetas": [
     "Francisco de Goya",
     "Romanticismo",
@@ -32,9 +37,9 @@
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Goya-Guerra_%2802%29.jpg",
     "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Goya-Guerra_%2802%29.jpg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Goya-Guerra_(02).jpg",
-    "alt": "Los desastres de la guerra, Francisco de Goya",
+    "alt": "Combatientes se enfrentan cuerpo a cuerpo en la lámina 2 de Los desastres de la guerra de Francisco de Goya",
     "licencia": "Public domain",
-    "credito": "PDF from Arno Schmidt Reference Library",
+    "credito": "Francisco de Goya; reproducción digital en dominio público",
     "foco": "center"
   },
   "referencia": {
@@ -42,6 +47,7 @@
     "qid": "Q1200522",
     "guia": "Los Desastres de la Guerra (Serie de 82 Grabados)",
     "coincidencia": 1,
-    "importada": "2026-07-28"
+    "importada": "2026-07-28",
+    "fichasIndividuales": 82
   }
 }

@@ -1,0 +1,53 @@
+{
+  "id": "capricho-77-unos-a-otros",
+  "titulo": "Unos a otros",
+  "tituloOriginal": "Unos a otros",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 77 de «Los Caprichos», dentro del bloque de brujería y superstición. Goya utiliza el título «Unos a otros» como una intervención crítica sobre brujas, criaturas nocturnas y ceremonias grotescas como imágenes de ignorancia y abuso.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 77",
+    "Los Caprichos 77",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    508,
+    714
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Museo_del_Prado_-_Goya_-_Caprichos_-_No._77_-_Unos_%C3%A1_otros.jpg_unscaled",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/40/Museo_del_Prado_-_Goya_-_Caprichos_-_No._77_-_Unos_%C3%A1_otros.jpg",
+    "alt": "Estampa 77 de Los Caprichos, «Unos a otros», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._77_-_Unos_%C3%A1_otros.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 77,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._77_-_Unos_%C3%A1_otros.jpg"
+  }
+}

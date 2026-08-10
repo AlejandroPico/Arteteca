@@ -3,12 +3,10 @@ titulo: Técnica
 icono: capas
 ---
 
-## Datos materiales disponibles
+## Línea, tono y repetición
 
-- **Tipo documental:** Grabado
-- **Materiales o técnicas consignados:** sin dato estructurado en Wikidata
-- **Dimensiones de la obra:** No consignadas en Wikidata
-- **Archivo digital:** 1472 × 2100 píxeles
-- **Licencia indicada en Commons:** Public domain
+Goya combinó de forma variable **aguafuerte**, **aguatinta**, punta seca, buril y bruñidor. El aguafuerte permitía fijar contornos y movimientos sobre la plancha de cobre; la aguatinta construía campos tonales, veladuras y noches de gran densidad. Los retoques abrían luces o endurecían detalles concretos.
 
-La resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.
+Cada obra de la serie existe como plancha matriz y como conjunto de impresiones sobre papel. Una estampa puede variar según estado, edición, entintado y conservación. Por eso las fichas individuales identifican la reproducción utilizada y no confunden una digitalización concreta con la totalidad material de la obra.
+
+La repetición del formato y la numeración convierten las diferencias en parte de la técnica narrativa: una sombra, un asno o una postura reaparecen y adquieren otro sentido al pasar de una lámina a la siguiente.

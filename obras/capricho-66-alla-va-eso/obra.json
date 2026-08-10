@@ -1,0 +1,53 @@
+{
+  "id": "capricho-66-alla-va-eso",
+  "titulo": "Alla va eso",
+  "tituloOriginal": "Alla va eso",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 66 de «Los Caprichos», dentro del bloque de brujería y superstición. Goya utiliza el título «Alla va eso» como una intervención crítica sobre brujas, criaturas nocturnas y ceremonias grotescas como imágenes de ignorancia y abuso.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 66",
+    "Los Caprichos 66",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2341,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Museo_del_Prado_-_Goya_-_Caprichos_-_No._66_-_All%C3%A1_v%C3%A1_eso.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._66_-_All%C3%A1_v%C3%A1_eso.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/23/Museo_del_Prado_-_Goya_-_Caprichos_-_No._66_-_All%C3%A1_v%C3%A1_eso.jpg",
+    "alt": "Estampa 66 de Los Caprichos, «Alla va eso», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._66_-_All%C3%A1_v%C3%A1_eso.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 66,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._66_-_All%C3%A1_v%C3%A1_eso.jpg"
+  }
+}

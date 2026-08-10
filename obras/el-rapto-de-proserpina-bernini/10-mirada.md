@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**El rapto de Proserpina** se incorpora al mosaico como escultura de **Gian Lorenzo Bernini**. Escultura de Gian Lorenzo Bernini.
+Plutón avanza mientras abraza a Proserpina, que se retuerce, levanta un brazo y empuja el rostro del dios. Los dedos se hunden en el muslo de mármol y el cabello se abre en mechones; Cerbero aparece abajo, anclando una composición que gira y asciende.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La verticalidad invita a seguir el cuerpo desde los apoyos hasta el giro del torso y la cabeza. Al rodear mentalmente la figura, los salientes iluminados y las cavidades oscuras revelan desplazamientos que una silueta frontal no permite comprender.
+
+Bernini concibe la escultura como una acción que invade el espacio del espectador. Los giros, diagonales y contrastes entre superficies pulidas y profundas perforaciones hacen que mármol, bronce o agua parezcan cambiar de estado bajo la luz.

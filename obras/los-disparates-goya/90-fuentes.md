@@ -3,12 +3,14 @@ titulo: Fuentes
 icono: enlace
 ---
 
-## Identificación y reproducción
+## Serie, historia editorial y reproducción
 
-- [Registro estructurado en Wikidata (Q4809372)](https://www.wikidata.org/wiki/Q4809372)
-- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Disparates_13.jpg)
-- [Colección o institución asociada](https://bne.es)
+- [Museo Nacional del Prado: presentación de *Los disparates*](https://www.museodelprado.es/actualidad/multimedia/disparates-goya-dibujos-solo-la-voluntad-me-sobra/ab5fbbab-9922-c8db-e0c7-1879813637fc)
+- [Museo Nacional del Prado: ficha de *Disparate cruel*](https://www.museodelprado.es/coleccion/obra-de-arte/disparate-cruel/34243f09-e50d-4aa7-85fb-72e88eedc421)
+- [Banco de España: las cuatro estampas publicadas por *L’Art* en 1877](https://coleccion.bde.es/wca/es/secciones/coleccion/obras/disparates-g_2357.html)
+- [Wikimedia Commons: conjunto del Museo del Prado](https://commons.wikimedia.org/wiki/Category:Los_Disparates_(Museo_del_Prado_set))
+- [Wikidata: *Los disparates* (Q4809372)](https://www.wikidata.org/wiki/Q4809372)
 
-## Procedencia de la selección
+## Criterio editorial
 
-La obra fue contrastada con la *Guía Maestra: Artistas y Obras de la Historia* aportada por el responsable de Arteteca. Esa guía funciona como lista de selección, no como fuente académica única. Los datos estructurados y la imagen se verificaron el 2026-07-28; futuras ampliaciones deben contrastar bibliografía e institución conservadora antes de añadir afirmaciones interpretativas.
+La guía maestra aportada al proyecto identifica la serie como una obra clave de Goya. Arteteca conserva esta ficha panorámica y enlaza veintidós fichas individuales: dieciocho composiciones de la edición académica de 1864 y cuatro publicadas en París en 1877. Las páginas de cada estampa registran su reproducción concreta y su posición convencional dentro del conjunto.

@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**La Ola** se incorpora al mosaico como pintura de **Gustave Courbet**. Cuadro de Gustave Courbet.
+La obra presenta **La Ola** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La proporción casi cuadrada concentra el motivo y reduce las vías de escape hacia los laterales. Las distancias entre figura, objetos y borde adquieren así un peso especial en el equilibrio de la imagen.
+
+Courbet concede peso material a cuerpos, rocas, telas y tierra mediante una pintura densa y directa. La escala y la proximidad impiden convertir el asunto en una anécdota distante: la superficie obliga a reconocer su presencia física.

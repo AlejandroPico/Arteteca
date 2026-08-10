@@ -1,0 +1,53 @@
+{
+  "id": "capricho-73-mejor-es-holgar",
+  "titulo": "Mejor es holgar",
+  "tituloOriginal": "Mejor es holgar",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 73 de «Los Caprichos», dentro del bloque de brujería y superstición. Goya utiliza el título «Mejor es holgar» como una intervención crítica sobre brujas, criaturas nocturnas y ceremonias grotescas como imágenes de ignorancia y abuso.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 73",
+    "Los Caprichos 73",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2086,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Museo_del_Prado_-_Goya_-_Caprichos_-_No._73_-_Mejor_es_holgar.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._73_-_Mejor_es_holgar.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Museo_del_Prado_-_Goya_-_Caprichos_-_No._73_-_Mejor_es_holgar.jpg",
+    "alt": "Estampa 73 de Los Caprichos, «Mejor es holgar», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._73_-_Mejor_es_holgar.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 73,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._73_-_Mejor_es_holgar.jpg"
+  }
+}

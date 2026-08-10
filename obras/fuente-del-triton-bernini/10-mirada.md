@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Fuente del Tritón** se incorpora al mosaico como escultura de **Gian Lorenzo Bernini**. Fuente en Roma.
+Tritón se arrodilla sobre una gran concha sostenida por cuatro delfines y eleva una caracola hacia la boca. El agua brota desde el centro de esa postura ascendente; colas, conchas y cuerpo humano unen la base pesada con un chorro que prolonga la escultura en movimiento.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La verticalidad invita a seguir el cuerpo desde los apoyos hasta el giro del torso y la cabeza. Al rodear mentalmente la figura, los salientes iluminados y las cavidades oscuras revelan desplazamientos que una silueta frontal no permite comprender.
+
+Bernini concibe la escultura como una acción que invade el espacio del espectador. Los giros, diagonales y contrastes entre superficies pulidas y profundas perforaciones hacen que mármol, bronce o agua parezcan cambiar de estado bajo la luz.

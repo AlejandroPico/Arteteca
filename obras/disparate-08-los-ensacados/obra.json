@@ -1,0 +1,54 @@
+{
+  "id": "disparate-08-los-ensacados",
+  "titulo": "Los ensacados",
+  "tituloOriginal": "Los ensacados",
+  "autor": "Francisco de Goya",
+  "fecha": "1815–1819; primeras ediciones, 1864 y 1877",
+  "fechaOrden": 1815,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 8 del conjunto de veintidós composiciones conocido como «Los disparates». Goya construye en «Los ensacados» una situación deliberadamente ambigua para examinar miedo, violencia, deseo, obediencia o poder sin reducir la imagen a una moraleja única.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta",
+    "Retoques variables con punta seca, buril o bruñidor"
+  ],
+  "etiquetas": [
+    "Los disparates",
+    "Lámina 8",
+    "Los disparates 08",
+    "Goya obra gráfica",
+    "Crítica social"
+  ],
+  "proporcion": [
+    2952,
+    2081
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Prado_-_Los_Disparates_%281864%29_-_No._08_-_Los_ensacados.jpg/1920px-Prado_-_Los_Disparates_%281864%29_-_No._08_-_Los_ensacados.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Prado_-_Los_Disparates_%281864%29_-_No._08_-_Los_ensacados.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Disparates_(1864)_-_No._08_-_Los_ensacados.jpg",
+    "alt": "Estampa 8 de Los disparates, «Los ensacados», grabada por Francisco de Goya",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Disparates / Proverbios (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-disparates-goya",
+      "titulo": "Los disparates",
+      "numero": 8,
+      "total": 22
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Disparates_(1864)_-_No._08_-_Los_ensacados.jpg"
+  }
+}

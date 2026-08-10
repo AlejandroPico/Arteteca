@@ -1,0 +1,53 @@
+{
+  "id": "capricho-04-el-de-la-rollona",
+  "titulo": "El de la Rollona",
+  "tituloOriginal": "El de la Rollona",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 4 de «Los Caprichos», dentro del bloque de sátira social. Goya utiliza el título «El de la Rollona» como una intervención crítica sobre las apariencias, los matrimonios desiguales, la prostitución, la educación y la hipocresía social.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 4",
+    "Los Caprichos 04",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2167,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Museo_del_Prado_-_Goya_-_Caprichos_-_No._04_-_El_de_la_rollona.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._04_-_El_de_la_rollona.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Museo_del_Prado_-_Goya_-_Caprichos_-_No._04_-_El_de_la_rollona.jpg",
+    "alt": "Estampa 4 de Los Caprichos, «El de la Rollona», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._04_-_El_de_la_rollona.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 4,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._04_-_El_de_la_rollona.jpg"
+  }
+}

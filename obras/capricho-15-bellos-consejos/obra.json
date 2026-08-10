@@ -1,0 +1,53 @@
+{
+  "id": "capricho-15-bellos-consejos",
+  "titulo": "Bellos consejos",
+  "tituloOriginal": "Bellos consejos",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 15 de «Los Caprichos», dentro del bloque de sátira social. Goya utiliza el título «Bellos consejos» como una intervención crítica sobre las apariencias, los matrimonios desiguales, la prostitución, la educación y la hipocresía social.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 15",
+    "Los Caprichos 15",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2095,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Museo_del_Prado_-_Goya_-_Caprichos_-_No._15_-_Bellos_consejos.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._15_-_Bellos_consejos.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/69/Museo_del_Prado_-_Goya_-_Caprichos_-_No._15_-_Bellos_consejos.jpg",
+    "alt": "Estampa 15 de Los Caprichos, «Bellos consejos», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._15_-_Bellos_consejos.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 15,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._15_-_Bellos_consejos.jpg"
+  }
+}

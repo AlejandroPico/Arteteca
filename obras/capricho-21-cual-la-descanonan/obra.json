@@ -1,0 +1,53 @@
+{
+  "id": "capricho-21-cual-la-descanonan",
+  "titulo": "¡Cual la descañonan!",
+  "tituloOriginal": "¡Cual la descañonan!",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 21 de «Los Caprichos», dentro del bloque de sátira social. Goya utiliza el título «¡Cual la descañonan!» como una intervención crítica sobre las apariencias, los matrimonios desiguales, la prostitución, la educación y la hipocresía social.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 21",
+    "Los Caprichos 21",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2004,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Museo_del_Prado_-_Goya_-_Caprichos_-_No._21_-_%C2%A1Qual_la_desca%C3%B1onan%21.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._21_-_%C2%A1Qual_la_desca%C3%B1onan%21.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/30/Museo_del_Prado_-_Goya_-_Caprichos_-_No._21_-_%C2%A1Qual_la_desca%C3%B1onan%21.jpg",
+    "alt": "Estampa 21 de Los Caprichos, «¡Cual la descañonan!», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._21_-_%C2%A1Qual_la_desca%C3%B1onan!.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 21,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._21_-_%C2%A1Qual_la_desca%C3%B1onan!.jpg"
+  }
+}

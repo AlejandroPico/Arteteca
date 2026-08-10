@@ -1,0 +1,54 @@
+{
+  "id": "desastre-guerra-01-tristes-presentimientos-de-lo-que-ha-de-acontecer",
+  "titulo": "Tristes presentimientos de lo que ha de acontecer",
+  "tituloOriginal": "Tristes presentimientos de lo que ha de acontecer",
+  "autor": "Francisco de Goya",
+  "fecha": "1810–1815; primera edición, 1863",
+  "fechaOrden": 1810,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 1 de «Los desastres de la guerra», dentro del bloque de presentimiento. Goya utiliza el título «Tristes presentimientos de lo que ha de acontecer» como una intervención crítica sobre la amenaza previa a la violencia abierta.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Punta seca",
+    "Buril y bruñidor"
+  ],
+  "etiquetas": [
+    "Los desastres de la guerra",
+    "Lámina 1",
+    "Los desastres de la guerra 01",
+    "Goya obra gráfica",
+    "Guerra de la Independencia"
+  ],
+  "proporcion": [
+    2932,
+    2362
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Prado_-_Los_Desastres_de_la_Guerra_-_No._01_-_Tristes_presentimientos_de_lo_que_ha_de_acontecer.jpg/1920px-Prado_-_Los_Desastres_de_la_Guerra_-_No._01_-_Tristes_presentimientos_de_lo_que_ha_de_acontecer.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/55/Prado_-_Los_Desastres_de_la_Guerra_-_No._01_-_Tristes_presentimientos_de_lo_que_ha_de_acontecer.jpg",
+    "alt": "Estampa 1 de Los desastres de la guerra, «Tristes presentimientos de lo que ha de acontecer», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._01_-_Tristes_presentimientos_de_lo_que_ha_de_acontecer.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los desastres de la guerra (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-desastres-de-la-guerra-goya",
+      "titulo": "Los desastres de la guerra",
+      "numero": 1,
+      "total": 82
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._01_-_Tristes_presentimientos_de_lo_que_ha_de_acontecer.jpg"
+  }
+}

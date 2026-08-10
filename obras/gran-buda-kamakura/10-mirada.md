@@ -7,5 +7,5 @@ icono: ojo
 
 La monumental figura sedente de Amida Buda equilibra masa, calma y una rigurosa simetría visible desde el recinto abierto de Kōtoku-in.
 
-La proporción de la ficha respeta la reproducción para que forma, escala y ritmo no queden forzados por una rejilla uniforme.
+Conviene seguir las líneas dominantes y los cambios de luz antes de detenerse en los detalles. La escala relativa de las figuras, los vacíos entre ellas y la relación entre primer plano y fondo explican cómo la imagen conduce la atención y dónde concentra su tensión.
 

@@ -7,4 +7,4 @@ icono: ojo
 
 El lienzo se despliega como un friso en blanco, negro y gris. El toro, el caballo herido, la madre con su hijo, el soldado caído y las figuras que gritan forman una escena simultánea sin un punto de reposo seguro.
 
-La ficha conserva la proporción de la obra para que su forma —panorámica, vertical o casi cuadrada— participe en el mosaico sin quedar forzada por una rejilla uniforme.
+Conviene seguir las líneas dominantes y los cambios de luz antes de detenerse en los detalles. La escala relativa de las figuras, los vacíos entre ellas y la relación entre primer plano y fondo explican cómo la imagen conduce la atención y dónde concentra su tensión.

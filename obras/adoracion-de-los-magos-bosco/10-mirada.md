@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Adoración de los Magos** se incorpora al mosaico como retablo de **El Bosco**. Cuadro de Jerónimo Bosch.
+La escena representa **Adoración de los Magos** mediante figuras relacionadas por acciones, miradas y gestos. Identificar el núcleo del episodio y seguir después las reacciones secundarias permite reconstruir el relato sin reducirlo a un único personaje.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La jerarquía se reparte entre paneles, calles o registros. Antes de aislar un detalle, reconstruye la dirección general —de abajo arriba y del centro hacia los laterales— para reconocer cómo se relacionaban las escenas en su disposición original.
+
+El Bosco distribuye episodios y criaturas por toda la superficie, de modo que la obra no se agota en un único centro. La escala cambia constantemente y obliga a alternar la visión general con la búsqueda de acciones diminutas, objetos híbridos y asociaciones inesperadas.

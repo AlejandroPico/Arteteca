@@ -1,10 +1,12 @@
 ---
-titulo: En la colección
+titulo: Legado
 icono: estrella
 ---
 
-## Por qué está en Arteteca
+## La ambigüedad como forma crítica
 
-Esta ficha amplía la representación de **Francisco de Goya** y del **Romanticismo** dentro de una colección concebida para mezclar obras célebres con otras menos presentes en recorridos introductorios.
+*Los disparates* lleva la estampa satírica más allá de la caricatura de una costumbre identificable. Sus escenas no entregan una clave definitiva: parecen sueños, fiestas, farsas políticas o episodios de violencia, y esa resistencia a cerrarse obliga al espectador a participar en la interpretación.
 
-Su inclusión permite comparar cronología, formato, técnica y procedencia con otras piezas del mismo artista y periodo. La ficha queda preparada para recibir investigación curatorial adicional sin alterar su identidad documental.
+La serie anticipa estrategias centrales del arte moderno: cuerpos fragmentados, escalas imposibles, espacios sin continuidad y asociaciones oníricas que después interesarían al expresionismo y al surrealismo. También consolidó la imagen de Goya como artista capaz de transformar una coyuntura histórica —guerra, reacción política y pérdida de expectativas ilustradas— en una investigación más amplia sobre el comportamiento humano.
+
+Las veintidós fichas individuales permiten comparar motivos que la vista general oculta: el vuelo como rapto o aspiración, el carnaval como máscara social, el animal como espejo político y el equilibrio como imagen de un poder siempre precario.

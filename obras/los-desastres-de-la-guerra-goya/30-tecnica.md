@@ -3,12 +3,10 @@ titulo: Técnica
 icono: capas
 ---
 
-## Datos materiales disponibles
+## Una violencia construida con línea y sombra
 
-- **Tipo documental:** Grabado
-- **Materiales o técnicas consignados:** sin dato estructurado en Wikidata
-- **Dimensiones de la obra:** No consignadas en Wikidata
-- **Archivo digital:** 976 × 702 píxeles
-- **Licencia indicada en Commons:** Public domain
+Goya empleó combinaciones variables de **aguafuerte**, punta seca, buril y bruñidor. El trazo define perfiles y movimientos; las zonas tonales y los retoques concentran la luz, abren vacíos o hunden escenas enteras en la oscuridad. La economía de medios evita cualquier brillo decorativo.
 
-La resolución del archivo no equivale a las dimensiones físicas de la pieza. Los dos datos se conservan separados para que el visor pueda usar la mejor imagen disponible sin confundirla con la escala real.
+Las planchas y las estampas no son el mismo objeto. Las fichas individuales muestran impresiones pertenecientes a un conjunto conservado por el Museo del Prado; otras instituciones poseen ejemplares de distintas ediciones y estados. Márgenes, papel, entintado y desgaste pueden cambiar aunque la matriz sea la misma.
+
+La secuencia combina escenas horizontales y verticales. Goya adapta la densidad de cuerpos a cada formato, desde figuras aisladas hasta masas comprimidas, y utiliza el vacío como una forma activa de amenaza o abandono.

@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**El taller del pintor** se incorpora al mosaico como pintura de **Gustave Courbet**. Cuadro de Gustave Courbet.
+La obra presenta **El taller del pintor** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
+
+Courbet concede peso material a cuerpos, rocas, telas y tierra mediante una pintura densa y directa. La escala y la proximidad impiden convertir el asunto en una anécdota distante: la superficie obliga a reconocer su presencia física.

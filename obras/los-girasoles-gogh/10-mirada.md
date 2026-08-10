@@ -3,8 +3,8 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Los girasoles** se incorpora al mosaico como serie artística de **Vincent van Gogh**. Serie de pinturas de Vincent van Gogh.
+Un jarrón sencillo sostiene cabezas de girasol en estados distintos: algunas se abren como discos, otras inclinan los pétalos o ya muestran semillas oscuras. Van Gogh aproxima amarillos verdes, dorados y ocres para que la diferencia entre frescura y marchitez dependa de textura, dirección de la pincelada y densidad del color. Las versiones varían el número y la disposición de las flores.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+Van Gogh hace visible la dirección de la pincelada: cielos, muros, rostros y vegetación poseen ritmos distintos. El color intensifica la experiencia del motivo y los contornos mantienen unidas superficies que parecen vibrar.

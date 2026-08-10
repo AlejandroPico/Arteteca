@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Noche estrellada sobre el rodano** se incorpora al mosaico como pintura de **Vincent van Gogh**. Cuadro de Vincent van Gogh.
+La obra presenta **Noche estrellada sobre el rodano** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
+
+Van Gogh hace visible la dirección de la pincelada: cielos, muros, rostros y vegetación poseen ritmos distintos. El color intensifica la experiencia del motivo y los contornos mantienen unidas superficies que parecen vibrar.

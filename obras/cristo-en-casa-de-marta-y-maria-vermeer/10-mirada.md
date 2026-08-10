@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Cristo en casa de Marta y María** se incorpora al mosaico como pintura de **Johannes Vermeer**. Cuadro de Johannes Vermeer.
+La obra presenta **Cristo en casa de Marta y María** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La proporción casi cuadrada concentra el motivo y reduce las vías de escape hacia los laterales. Las distancias entre figura, objetos y borde adquieren así un peso especial en el equilibrio de la imagen.
+
+Vermeer equilibra la escena con paredes, mesas, ventanas y suelos que distribuyen cuidadosamente la luz. Los gestos son mínimos y el tiempo parece suspendido; pequeñas variaciones en blancos, azules y amarillos describen aire, textura y distancia.

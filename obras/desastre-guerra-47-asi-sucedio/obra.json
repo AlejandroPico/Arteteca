@@ -1,0 +1,54 @@
+{
+  "id": "desastre-guerra-47-asi-sucedio",
+  "titulo": "Así sucedió",
+  "tituloOriginal": "Así sucedió",
+  "autor": "Francisco de Goya",
+  "fecha": "1810–1815; primera edición, 1863",
+  "fechaOrden": 1810,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 47 de «Los desastres de la guerra», dentro del bloque de violencia de guerra. Goya utiliza el título «Así sucedió» como una intervención crítica sobre la violencia ejercida y sufrida por combatientes y civiles sin relato heroico.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Punta seca",
+    "Buril y bruñidor"
+  ],
+  "etiquetas": [
+    "Los desastres de la guerra",
+    "Lámina 47",
+    "Los desastres de la guerra 47",
+    "Goya obra gráfica",
+    "Guerra de la Independencia"
+  ],
+  "proporcion": [
+    2952,
+    2234
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Prado_-_Los_Desastres_de_la_Guerra_-_No._47_-_As%C3%AD_sucedi%C3%B3.jpg/1920px-Prado_-_Los_Desastres_de_la_Guerra_-_No._47_-_As%C3%AD_sucedi%C3%B3.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/00/Prado_-_Los_Desastres_de_la_Guerra_-_No._47_-_As%C3%AD_sucedi%C3%B3.jpg",
+    "alt": "Estampa 47 de Los desastres de la guerra, «Así sucedió», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._47_-_As%C3%AD_sucedi%C3%B3.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los desastres de la guerra (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-desastres-de-la-guerra-goya",
+      "titulo": "Los desastres de la guerra",
+      "numero": 47,
+      "total": 82
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._47_-_As%C3%AD_sucedi%C3%B3.jpg"
+  }
+}

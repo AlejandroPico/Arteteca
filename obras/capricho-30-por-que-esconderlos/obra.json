@@ -1,0 +1,53 @@
+{
+  "id": "capricho-30-por-que-esconderlos",
+  "titulo": "¿Por qué esconderlos?",
+  "tituloOriginal": "¿Por qué esconderlos?",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 30 de «Los Caprichos», dentro del bloque de sátira social. Goya utiliza el título «¿Por qué esconderlos?» como una intervención crítica sobre las apariencias, los matrimonios desiguales, la prostitución, la educación y la hipocresía social.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 30",
+    "Los Caprichos 30",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2091,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Museo_del_Prado_-_Goya_-_Caprichos_-_No._30_-_Porque_esconderlos%3F.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._30_-_Porque_esconderlos%3F.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/91/Museo_del_Prado_-_Goya_-_Caprichos_-_No._30_-_Porque_esconderlos%3F.jpg",
+    "alt": "Estampa 30 de Los Caprichos, «¿Por qué esconderlos?», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._30_-_Porque_esconderlos?.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 30,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._30_-_Porque_esconderlos?.jpg"
+  }
+}

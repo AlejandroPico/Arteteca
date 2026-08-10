@@ -1,0 +1,53 @@
+{
+  "id": "capricho-03-que-viene-el-coco",
+  "titulo": "Que viene el coco",
+  "tituloOriginal": "Que viene el coco",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 3 de «Los Caprichos», dentro del bloque de sátira social. Goya utiliza el título «Que viene el coco» como una intervención crítica sobre las apariencias, los matrimonios desiguales, la prostitución, la educación y la hipocresía social.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 3",
+    "Los Caprichos 03",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2117,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Museo_del_Prado_-_Goya_-_Caprichos_-_No._03_-_Que_viene_el_Coco.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._03_-_Que_viene_el_Coco.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Museo_del_Prado_-_Goya_-_Caprichos_-_No._03_-_Que_viene_el_Coco.jpg",
+    "alt": "Estampa 3 de Los Caprichos, «Que viene el coco», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._03_-_Que_viene_el_Coco.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 3,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._03_-_Que_viene_el_Coco.jpg"
+  }
+}

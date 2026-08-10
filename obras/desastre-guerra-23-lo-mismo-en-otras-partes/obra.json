@@ -1,0 +1,54 @@
+{
+  "id": "desastre-guerra-23-lo-mismo-en-otras-partes",
+  "titulo": "Lo mismo en otras partes",
+  "tituloOriginal": "Lo mismo en otras partes",
+  "autor": "Francisco de Goya",
+  "fecha": "1810–1815; primera edición, 1863",
+  "fechaOrden": 1810,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 23 de «Los desastres de la guerra», dentro del bloque de violencia de guerra. Goya utiliza el título «Lo mismo en otras partes» como una intervención crítica sobre la violencia ejercida y sufrida por combatientes y civiles sin relato heroico.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Punta seca",
+    "Buril y bruñidor"
+  ],
+  "etiquetas": [
+    "Los desastres de la guerra",
+    "Lámina 23",
+    "Los desastres de la guerra 23",
+    "Goya obra gráfica",
+    "Guerra de la Independencia"
+  ],
+  "proporcion": [
+    2952,
+    1992
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Prado_-_Los_Desastres_de_la_Guerra_-_No._23_-_Lo_mismo_en_otras_partes.jpg/1920px-Prado_-_Los_Desastres_de_la_Guerra_-_No._23_-_Lo_mismo_en_otras_partes.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/55/Prado_-_Los_Desastres_de_la_Guerra_-_No._23_-_Lo_mismo_en_otras_partes.jpg",
+    "alt": "Estampa 23 de Los desastres de la guerra, «Lo mismo en otras partes», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._23_-_Lo_mismo_en_otras_partes.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los desastres de la guerra (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-desastres-de-la-guerra-goya",
+      "titulo": "Los desastres de la guerra",
+      "numero": 23,
+      "total": 82
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Desastres_de_la_Guerra_-_No._23_-_Lo_mismo_en_otras_partes.jpg"
+  }
+}

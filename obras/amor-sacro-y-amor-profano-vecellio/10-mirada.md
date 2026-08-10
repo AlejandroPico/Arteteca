@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Amor sacro y amor profano** se incorpora al mosaico como pintura de **Tiziano Vecellio**. Cuadro de Tiziano.
+La obra presenta **Amor sacro y amor profano** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
+
+Tiziano modela cuerpos y atmósferas mediante capas de color más que por dibujo rígido. En las obras tardías, la pincelada se abre y los bordes vibran; en las tempranas, las relaciones entre rojos, azules, carnaciones y paisaje sostienen la composición.

@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Retrato de la Duquesa de Alba de luto** se incorpora al mosaico como pintura de **Francisco de Goya**. Cuadro de Francisco de Goya.
+La figura de **la Duquesa de Alba de luto** concentra la composición. El rostro, la postura, las manos y la indumentaria ofrecen distintos niveles para leer tanto la presencia física como la imagen pública del personaje.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+El formato vertical refuerza la presencia del personaje. La distancia entre rostro, manos y borde inferior ayuda a distinguir si la imagen busca cercanía, autoridad, introspección o representación pública.
+
+Goya enfrenta una observación muy concreta de cuerpos, ropas y gestos con zonas de pincelada libre u oscuridad difícil de fijar. Lo anecdótico suele abrirse hacia una crítica más amplia; conviene atender a quién mira, quién queda aislado y qué parte de la escena permanece ambigua.

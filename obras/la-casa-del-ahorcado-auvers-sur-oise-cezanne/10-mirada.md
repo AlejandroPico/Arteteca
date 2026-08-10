@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**La casa del ahorcado, Auvers-sur-Oise** se incorpora al mosaico como pintura de **Paul Cézanne**. Cuadro de Paul Cézanne.
+La obra presenta **La casa del ahorcado, Auvers-sur-Oise** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La proporción casi cuadrada concentra el motivo y reduce las vías de escape hacia los laterales. Las distancias entre figura, objetos y borde adquieren así un peso especial en el equilibrio de la imagen.
+
+Cézanne reconstruye lo visible mediante planos de color y pinceladas orientadas. Mesas, cuerpos, árboles o montañas parecen sólidos y a la vez inestables, porque distintos puntos de vista conviven dentro de una misma superficie.

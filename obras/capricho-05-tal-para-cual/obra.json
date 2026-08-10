@@ -1,0 +1,53 @@
+{
+  "id": "capricho-05-tal-para-cual",
+  "titulo": "Tal para cual",
+  "tituloOriginal": "Tal para cual",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 5 de «Los Caprichos», dentro del bloque de sátira social. Goya utiliza el título «Tal para cual» como una intervención crítica sobre las apariencias, los matrimonios desiguales, la prostitución, la educación y la hipocresía social.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 5",
+    "Los Caprichos 05",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2304,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museo_del_Prado_-_Goya_-_Caprichos_-_No._05_-_Tal_para_qual.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._05_-_Tal_para_qual.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/44/Museo_del_Prado_-_Goya_-_Caprichos_-_No._05_-_Tal_para_qual.jpg",
+    "alt": "Estampa 5 de Los Caprichos, «Tal para cual», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._05_-_Tal_para_qual.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 5,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._05_-_Tal_para_qual.jpg"
+  }
+}

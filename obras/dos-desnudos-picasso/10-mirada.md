@@ -7,4 +7,4 @@ icono: ojo
 
 Las dos mujeres aparecen muy próximas, con brazos elevados y cuerpos reducidos a volúmenes pesados. La paleta de tierras y rosas acentúa una presencia más escultórica que atmosférica.
 
-La ficha conserva la proporción de la obra para que su forma —panorámica, vertical o casi cuadrada— participe en el mosaico sin quedar forzada por una rejilla uniforme.
+Conviene seguir las líneas dominantes y los cambios de luz antes de detenerse en los detalles. La escala relativa de las figuras, los vacíos entre ellas y la relación entre primer plano y fondo explican cómo la imagen conduce la atención y dónde concentra su tensión.

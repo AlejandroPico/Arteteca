@@ -3,8 +3,8 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**catedral de rouen** se incorpora al mosaico como serie artística de **Claude Monet**. Serie de pinturas de claude monet.
+La fachada gótica llena casi todo el lienzo: portadas, esculturas y torres se reconocen, pero sus contornos se disuelven bajo capas de azul, rosa, ocre o violeta. De una versión a otra apenas cambia el punto de vista; cambia la luz, que vuelve la piedra fría, incandescente, brumosa o casi plana.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+Monet construye la escena mediante pinceladas que registran variaciones de luz y color antes que contornos cerrados. Vista de cerca, la superficie parece fragmentarse; al tomar distancia, esas manchas se reúnen en atmósfera, reflejos y profundidad.

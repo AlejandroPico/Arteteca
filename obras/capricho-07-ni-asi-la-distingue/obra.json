@@ -1,0 +1,53 @@
+{
+  "id": "capricho-07-ni-asi-la-distingue",
+  "titulo": "Ni así la distingue",
+  "tituloOriginal": "Ni así la distingue",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 7 de «Los Caprichos», dentro del bloque de sátira social. Goya utiliza el título «Ni así la distingue» como una intervención crítica sobre las apariencias, los matrimonios desiguales, la prostitución, la educación y la hipocresía social.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 7",
+    "Los Caprichos 07",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2215,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Museo_del_Prado_-_Goya_-_Caprichos_-_No._07_-_Ni_asi_la_distingue.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._07_-_Ni_asi_la_distingue.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/43/Museo_del_Prado_-_Goya_-_Caprichos_-_No._07_-_Ni_asi_la_distingue.jpg",
+    "alt": "Estampa 7 de Los Caprichos, «Ni así la distingue», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._07_-_Ni_asi_la_distingue.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 7,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._07_-_Ni_asi_la_distingue.jpg"
+  }
+}

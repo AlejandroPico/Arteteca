@@ -1,0 +1,53 @@
+{
+  "id": "capricho-64-buen-viaje",
+  "titulo": "Buen viaje",
+  "tituloOriginal": "Buen viaje",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 64 de «Los Caprichos», dentro del bloque de brujería y superstición. Goya utiliza el título «Buen viaje» como una intervención crítica sobre brujas, criaturas nocturnas y ceremonias grotescas como imágenes de ignorancia y abuso.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 64",
+    "Los Caprichos 64",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2083,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Museo_del_Prado_-_Goya_-_Caprichos_-_No._64_-_Buen_Viage.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._64_-_Buen_Viage.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Museo_del_Prado_-_Goya_-_Caprichos_-_No._64_-_Buen_Viage.jpg",
+    "alt": "Estampa 64 de Los Caprichos, «Buen viaje», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._64_-_Buen_Viage.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 64,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._64_-_Buen_Viage.jpg"
+  }
+}

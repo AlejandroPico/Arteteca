@@ -7,4 +7,4 @@ icono: ojo
 
 Un funeral provincial recibe la escala reservada a la pintura histórica sin idealización heroica.
 
-Conviene recorrer la imagen sin prisa: atender a la escala, el material, los ritmos y la relación entre las zonas más densas y los espacios de pausa. La ficha conserva la proporción de la reproducción para que esa primera lectura no quede forzada por una rejilla uniforme.
+Conviene seguir las líneas dominantes y los cambios de luz antes de detenerse en los detalles. La escala relativa de las figuras, los vacíos entre ellas y la relación entre primer plano y fondo explican cómo la imagen conduce la atención y dónde concentra su tensión.

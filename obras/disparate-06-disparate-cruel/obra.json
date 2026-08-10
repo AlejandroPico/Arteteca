@@ -1,0 +1,54 @@
+{
+  "id": "disparate-06-disparate-cruel",
+  "titulo": "Disparate cruel",
+  "tituloOriginal": "Disparate cruel",
+  "autor": "Francisco de Goya",
+  "fecha": "1815–1819; primeras ediciones, 1864 y 1877",
+  "fechaOrden": 1815,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 6 del conjunto de veintidós composiciones conocido como «Los disparates». Goya construye en «Disparate cruel» una situación deliberadamente ambigua para examinar miedo, violencia, deseo, obediencia o poder sin reducir la imagen a una moraleja única.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta",
+    "Retoques variables con punta seca, buril o bruñidor"
+  ],
+  "etiquetas": [
+    "Los disparates",
+    "Lámina 6",
+    "Los disparates 06",
+    "Goya obra gráfica",
+    "Crítica social"
+  ],
+  "proporcion": [
+    2952,
+    2163
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Prado_-_Los_Disparates_%281864%29_-_No._06_-_Disparate_cruel.jpg/1920px-Prado_-_Los_Disparates_%281864%29_-_No._06_-_Disparate_cruel.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/04/Prado_-_Los_Disparates_%281864%29_-_No._06_-_Disparate_cruel.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Disparates_(1864)_-_No._06_-_Disparate_cruel.jpg",
+    "alt": "Estampa 6 de Los disparates, «Disparate cruel», grabada por Francisco de Goya",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Disparates / Proverbios (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-disparates-goya",
+      "titulo": "Los disparates",
+      "numero": 6,
+      "total": 22
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Disparates_(1864)_-_No._06_-_Disparate_cruel.jpg"
+  }
+}

@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Apolo Sauróctono** se incorpora al mosaico como escultura de **Praxíteles**. Artistic type.
+Un Apolo adolescente se inclina sobre un tronco y alarga el brazo hacia un pequeño lagarto que trepa por la corteza. La curva blanda del cuerpo y el gesto casi doméstico sustituyen la imagen solemne del dios por un instante de espera y juego.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La verticalidad invita a seguir el cuerpo desde los apoyos hasta el giro del torso y la cabeza. Al rodear mentalmente la figura, los salientes iluminados y las cavidades oscuras revelan desplazamientos que una silueta frontal no permite comprender.
+
+Las versiones conservadas transmiten la curva suave y el desplazamiento de peso asociados a Praxíteles. El cuerpo se organiza mediante transiciones continuas y una relación cercana con el apoyo, evitando la frontalidad inmóvil.

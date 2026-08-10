@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Busto del cardenal Scipione Borghese** se incorpora al mosaico como escultura de **Gian Lorenzo Bernini**. Segunda versión del busto de Scipione Borghese realizada por Gian Lorenzo Bernini.
+El cardenal gira ligeramente la cabeza y abre los labios como si acabara de interrumpir una frase. Las arrugas de la muceta, el cuello hundido y la mirada lateral evitan la rigidez ceremonial: Bernini captura una presencia alerta y momentánea.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La verticalidad invita a seguir el cuerpo desde los apoyos hasta el giro del torso y la cabeza. Al rodear mentalmente la figura, los salientes iluminados y las cavidades oscuras revelan desplazamientos que una silueta frontal no permite comprender.
+
+Bernini concibe la escultura como una acción que invade el espacio del espectador. Los giros, diagonales y contrastes entre superficies pulidas y profundas perforaciones hacen que mármol, bronce o agua parezcan cambiar de estado bajo la luz.

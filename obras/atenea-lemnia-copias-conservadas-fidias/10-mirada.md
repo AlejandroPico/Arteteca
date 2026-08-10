@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Atenea Lemnia (copias conservadas)** se incorpora al mosaico como escultura de **Fidias**. Escultura perdida de Fidias.
+La reconstrucción reúne una cabeza sin casco, de mirada baja, con un cuerpo vestido de peplo y égida. La postura contenida se aleja de la Atenea guerrera en pleno ataque: los fragmentos y copias transmiten una diosa armada, pero pensativa y equilibrada.
 
-La imagen documenta una copia, reconstrucción o interpretación posterior porque el original no se conserva. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La verticalidad invita a seguir el cuerpo desde los apoyos hasta el giro del torso y la cabeza. Al rodear mentalmente la figura, los salientes iluminados y las cavidades oscuras revelan desplazamientos que una silueta frontal no permite comprender.
+
+La imagen no conserva el bronce o el marfil original de Fidias, sino una copia o reconstrucción que permite estudiar su concepción. Debe mirarse distinguiendo la postura y los atributos transmitidos de las decisiones tomadas por copistas y restauradores posteriores.

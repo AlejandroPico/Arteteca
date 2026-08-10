@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**El martirio de San Mauricio** se incorpora al mosaico como pintura de **El Greco**. Cuadro de El Greco.
+La escena representa **El martirio de San Mauricio** mediante figuras relacionadas por acciones, miradas y gestos. Identificar el núcleo del episodio y seguir después las reacciones secundarias permite reconstruir el relato sin reducirlo a un único personaje.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+El formato vertical conduce la mirada entre niveles. Compara la base, el núcleo de mayor contraste y la zona superior para reconocer si la composición asciende, cae o mantiene las figuras en tensión.
+
+El Greco alarga cuerpos, pliega los paños en ángulos vivos y emplea luces que parecen nacer dentro de las figuras. La profundidad natural cede ante un espacio vertical y espiritualizado, donde color, gesto y dirección de las miradas importan más que la estabilidad física.

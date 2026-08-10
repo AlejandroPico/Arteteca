@@ -1,0 +1,54 @@
+{
+  "id": "disparate-02-disparate-de-miedo",
+  "titulo": "Disparate de miedo",
+  "tituloOriginal": "Disparate de miedo",
+  "autor": "Francisco de Goya",
+  "fecha": "1815–1819; primeras ediciones, 1864 y 1877",
+  "fechaOrden": 1815,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 2 del conjunto de veintidós composiciones conocido como «Los disparates». Goya construye en «Disparate de miedo» una situación deliberadamente ambigua para examinar miedo, violencia, deseo, obediencia o poder sin reducir la imagen a una moraleja única.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta",
+    "Retoques variables con punta seca, buril o bruñidor"
+  ],
+  "etiquetas": [
+    "Los disparates",
+    "Lámina 2",
+    "Los disparates 02",
+    "Goya obra gráfica",
+    "Crítica social"
+  ],
+  "proporcion": [
+    2952,
+    2075
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Prado_-_Los_Disparates_%281864%29_-_No._02_-_Disparate_de_miedo.jpg/1920px-Prado_-_Los_Disparates_%281864%29_-_No._02_-_Disparate_de_miedo.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/48/Prado_-_Los_Disparates_%281864%29_-_No._02_-_Disparate_de_miedo.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Disparates_(1864)_-_No._02_-_Disparate_de_miedo.jpg",
+    "alt": "Estampa 2 de Los disparates, «Disparate de miedo», grabada por Francisco de Goya",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Disparates / Proverbios (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-disparates-goya",
+      "titulo": "Los disparates",
+      "numero": 2,
+      "total": 22
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Prado_-_Los_Disparates_(1864)_-_No._02_-_Disparate_de_miedo.jpg"
+  }
+}

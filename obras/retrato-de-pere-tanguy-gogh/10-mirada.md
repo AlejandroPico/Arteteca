@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Retrato de Père Tanguy** se incorpora al mosaico como pintura de **Vincent van Gogh**. Cuadro de Vincent van Gogh.
+La figura de **Père Tanguy** concentra la composición. El rostro, la postura, las manos y la indumentaria ofrecen distintos niveles para leer tanto la presencia física como la imagen pública del personaje.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+El formato vertical refuerza la presencia del personaje. La distancia entre rostro, manos y borde inferior ayuda a distinguir si la imagen busca cercanía, autoridad, introspección o representación pública.
+
+Van Gogh hace visible la dirección de la pincelada: cielos, muros, rostros y vegetación poseen ritmos distintos. El color intensifica la experiencia del motivo y los contornos mantienen unidas superficies que parecen vibrar.

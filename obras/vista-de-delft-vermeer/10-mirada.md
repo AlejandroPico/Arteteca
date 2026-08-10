@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**Vista de Delft** se incorpora al mosaico como pintura de **Johannes Vermeer**. Pintura de Johannes Vermeer.
+La ciudad se extiende al otro lado del agua bajo un cielo de nubes cambiantes. Una franja iluminada destaca edificios y reflejos mientras el primer plano permanece en sombra.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La proporción casi cuadrada concentra el motivo y reduce las vías de escape hacia los laterales. Las distancias entre figura, objetos y borde adquieren así un peso especial en el equilibrio de la imagen.
+
+Vermeer equilibra la escena con paredes, mesas, ventanas y suelos que distribuyen cuidadosamente la luz. Los gestos son mínimos y el tiempo parece suspendido; pequeñas variaciones en blancos, azules y amarillos describen aire, textura y distancia.

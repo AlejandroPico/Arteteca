@@ -1,0 +1,53 @@
+{
+  "id": "capricho-58-tragala-perro",
+  "titulo": "Trágala perro",
+  "tituloOriginal": "Trágala perro",
+  "autor": "Francisco de Goya",
+  "fecha": "1797–1799",
+  "fechaOrden": 1797,
+  "tipo": "Grabado",
+  "periodo": "Romanticismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Estampa n.º 58 de «Los Caprichos», dentro del bloque de brujería y superstición. Goya utiliza el título «Trágala perro» como una intervención crítica sobre brujas, criaturas nocturnas y ceremonias grotescas como imágenes de ignorancia y abuso.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid",
+  "pais": "España",
+  "tecnicas": [
+    "Aguafuerte",
+    "Aguatinta"
+  ],
+  "etiquetas": [
+    "Los Caprichos",
+    "Lámina 58",
+    "Los Caprichos 58",
+    "Goya obra gráfica",
+    "Sátira"
+  ],
+  "proporcion": [
+    2095,
+    2952
+  ],
+  "color": "#66584f",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Museo_del_Prado_-_Goya_-_Caprichos_-_No._58_-_Tragala_perro.jpg/1920px-Museo_del_Prado_-_Goya_-_Caprichos_-_No._58_-_Tragala_perro.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/d/db/Museo_del_Prado_-_Goya_-_Caprichos_-_No._58_-_Tragala_perro.jpg",
+    "alt": "Estampa 58 de Los Caprichos, «Trágala perro», grabada por Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._58_-_Tragala_perro.jpg",
+    "licencia": "Public domain",
+    "credito": "Francisco de Goya; ejemplar del Museo Nacional del Prado, reproducción difundida por Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Los Caprichos (serie completa)",
+    "importada": "2026-08-10",
+    "conjunto": {
+      "id": "los-caprichos-goya",
+      "titulo": "Los Caprichos",
+      "numero": 58,
+      "total": 80
+    },
+    "commons": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_-_Goya_-_Caprichos_-_No._58_-_Tragala_perro.jpg"
+  }
+}

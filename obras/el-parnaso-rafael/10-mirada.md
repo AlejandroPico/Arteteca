@@ -3,8 +3,10 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué muestra esta ficha
+## Qué mirar
 
-**El Parnaso** se incorpora al mosaico como pintura mural de **Rafael**. Fresco de Rafael para las Estancias Vaticanas.
+La obra presenta **El Parnaso** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
 
-La imagen enlazada corresponde al archivo identificado para esta obra en Wikimedia Commons. La reproducción puede abrirse a su resolución original desde el visor de Arteteca.
+La escena fue concebida para una pared y para una posición concreta del espectador. Las diagonales, las escalas y los gestos responden tanto al episodio representado como a la arquitectura que lo rodea.
+
+Rafael hace legibles composiciones complejas mediante grupos, ejes y correspondencias de gestos. La armonía general no elimina el movimiento: cada figura conduce hacia otra y las arquitecturas o paisajes ordenan distintos niveles del relato.

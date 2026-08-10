@@ -1,0 +1,36 @@
+{
+  "id": "murales-bonampak",
+  "titulo": "Murales de Bonampak",
+  "autor": "Talleres mayas de Bonampak",
+  "fecha": "Finales del siglo VIII, c. 790–792",
+  "fechaOrden": 791,
+  "tipo": "Pintura mural",
+  "periodo": "Arte maya clásico",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Programa pictórico de tres cámaras que articula corte, música, batalla, cautivos, danza y ritual dinástico en una secuencia envolvente de figuras e inscripciones.",
+  "localizacion": "Estructura 1, Zona Arqueológica de Bonampak",
+  "ciudad": "Ocosingo, Chiapas",
+  "urlLocalizacion": "https://lugares.inah.gob.mx/en/node/4331",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Zona%20Arqueol%C3%B3gica%20de%20Bonampak%2C%20Chiapas",
+  "pais": "México",
+  "dimensiones": "Programa mural sobre muros y bóvedas de tres cámaras",
+  "tecnicas": ["Pigmentos sobre enlucido de cal", "Pintura mural"],
+  "etiquetas": ["Bonampak", "Murales de Bonampak", "Arte maya clásico", "Pintura mural", "Estructura 1", "Corte maya", "Batalla", "Ritual", "Chiapas"],
+  "proporcion": [3903, 2404],
+  "color": "#795143",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Murales_Bonampak_idrg2.jpg/1280px-Murales_Bonampak_idrg2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Murales_Bonampak_idrg2.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Murales_Bonampak_idrg2.jpg",
+    "alt": "detalle del Cuarto 2 usado como portada del conjunto de Bonampak, con guerreros mayas entrelazados en una escena de batalla",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Fotografía: Isacdaavid / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Guía Maestra de Artistas y Obras, parte V",
+    "componentes": ["cuarto-1-murales-bonampak", "cuarto-2-murales-bonampak", "cuarto-3-murales-bonampak"],
+    "totalComponentes": 3,
+    "incorporada": "2026-08-10"
+  }
+}

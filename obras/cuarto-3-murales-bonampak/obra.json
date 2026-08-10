@@ -1,0 +1,31 @@
+{
+  "id": "cuarto-3-murales-bonampak",
+  "titulo": "Cuarto 3 de los murales de Bonampak: danza y ofrendas",
+  "autor": "Talleres mayas de Bonampak",
+  "fecha": "Finales del siglo VIII, c. 790–792",
+  "fechaOrden": 791,
+  "tipo": "Pintura mural",
+  "periodo": "Arte maya clásico",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Tercera cámara del programa, con una ceremonia de danza, músicos, grandes tocados de plumas y actos de ofrenda de sangre realizados por mujeres nobles.",
+  "localizacion": "Cuarto 3, Estructura 1, Zona Arqueológica de Bonampak",
+  "ciudad": "Ocosingo, Chiapas",
+  "urlLocalizacion": "https://lugares.inah.gob.mx/en/node/4331",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Zona%20Arqueol%C3%B3gica%20de%20Bonampak%2C%20Chiapas",
+  "pais": "México",
+  "dimensiones": "Pintura continua sobre muros y bóveda de una cámara",
+  "tecnicas": ["Pigmentos sobre enlucido de cal", "Pintura mural"],
+  "etiquetas": ["Bonampak", "Cuarto 3", "Murales de Bonampak", "Arte maya clásico", "Danza", "Tocados de plumas", "Música", "Ofrenda de sangre", "Chiapas"],
+  "proporcion": [5472, 3648],
+  "color": "#7d4e3e",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Paintings_in_Room_3_..._%2849533946127%29.jpg/1280px-Paintings_in_Room_3_..._%2849533946127%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Paintings_in_Room_3_..._%2849533946127%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paintings_in_Room_3_..._(49533946127).jpg",
+    "alt": "vista amplia del Cuarto 3 de Bonampak con danzantes de grandes tocados verdes y personajes ceremoniales sobre un fondo rojo",
+    "licencia": "CC BY-SA 2.0",
+    "credito": "Fotografía: Bernard DUPONT / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "murales-bonampak", "posicionEnSerie": 3, "totalEnSerie": 3, "guia": "Guía Maestra, parte V", "incorporada": "2026-08-10"}
+}

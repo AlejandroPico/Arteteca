@@ -1,0 +1,32 @@
+{
+  "id": "tierra-arcimboldo",
+  "titulo": "Tierra",
+  "tituloOriginal": "Terra",
+  "autor": "Giuseppe Arcimboldo",
+  "fecha": "c. 1570; ciclo encargado en 1566",
+  "fechaOrden": 1570,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento",
+  "descripcion": "Alegoría terrestre formada por mamíferos nativos y exóticos, con referencias a la corona imperial, Bohemia y la Orden del Toisón de Oro.",
+  "localizacion": "Palacio del Jardín, Colecciones del Príncipe de Liechtenstein",
+  "ciudad": "Viena",
+  "urlLocalizacion": "https://www.liechtensteincollections.at/en/collections-online/terra-earth",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Liechtenstein%20Garden%20Palace%20Vienna",
+  "pais": "Austria",
+  "dimensiones": "70 × 49 cm",
+  "tecnicas": ["Óleo sobre tabla"],
+  "etiquetas": ["Giuseppe Arcimboldo", "Tierra", "Los cuatro elementos", "Mamíferos", "Elefante", "Habsburgo", "Toisón de Oro", "Retrato compuesto", "Manierismo"],
+  "proporcion": [1224, 1812],
+  "color": "#5d4935",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Arcimboldo_Earth.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Arcimboldo_Earth.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Arcimboldo_Earth.jpg",
+    "alt": "Tierra de Arcimboldo, perfil construido con numerosos mamíferos entre ellos elefante, liebre, ciervo, león, vaca y carnero",
+    "licencia": "Dominio público",
+    "credito": "Giuseppe Arcimboldo · reproducción de dominio público / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "cuatro-elementos-arcimboldo", "posicionEnSerie": 3, "totalEnSerie": 4, "guia": "Guía Maestra, parte IV", "incorporada": "2026-08-10"}
+}

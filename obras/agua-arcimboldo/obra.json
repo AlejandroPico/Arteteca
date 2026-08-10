@@ -1,0 +1,32 @@
+{
+  "id": "agua-arcimboldo",
+  "titulo": "Agua",
+  "tituloOriginal": "Wasser",
+  "autor": "Giuseppe Arcimboldo",
+  "fecha": "1566",
+  "fechaOrden": 1566,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cabeza compuesta por más de sesenta peces y animales acuáticos, enlazados con conchas, coral y perlas para formar un busto de perfil.",
+  "localizacion": "Kunsthistorisches Museum",
+  "ciudad": "Viena",
+  "urlLocalizacion": "https://www.khm.at/en/artworks/water-74",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunsthistorisches%20Museum%20Wien",
+  "pais": "Austria",
+  "dimensiones": "66,5 × 50,5 cm",
+  "tecnicas": ["Óleo sobre madera de aliso"],
+  "etiquetas": ["Giuseppe Arcimboldo", "Agua", "Los cuatro elementos", "Peces", "Moluscos", "Coral", "Retrato compuesto", "Manierismo", "Kunsthistorisches Museum"],
+  "proporcion": [1134, 1483],
+  "color": "#345e60",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Giuseppe_Arcimboldo%2C_%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Wasser_-_GG_1586_-_Kunsthistorisches_Museum.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/58/Giuseppe_Arcimboldo%2C_%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Wasser_-_GG_1586_-_Kunsthistorisches_Museum.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo,_,_Kunsthistorisches_Museum_Wien,_Gem%C3%A4ldegalerie_-_Wasser_-_GG_1586_-_Kunsthistorisches_Museum.jpg",
+    "alt": "Agua de Arcimboldo, perfil humano formado por peces, tiburón, tortuga, foca, morsa, crustáceos, conchas y coral",
+    "licencia": "Dominio público",
+    "credito": "Giuseppe Arcimboldo · Kunsthistorisches Museum / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "cuatro-elementos-arcimboldo", "posicionEnSerie": 4, "totalEnSerie": 4, "guia": "Guía Maestra, parte IV", "incorporada": "2026-08-10"}
+}

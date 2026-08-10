@@ -1,0 +1,31 @@
+{
+  "id": "dintel-25-yaxchilan",
+  "titulo": "Dintel 25 de Yaxchilán",
+  "autor": "Taller maya de Yaxchilán",
+  "fecha": "c. 725; inscripción que recuerda la entronización de 681",
+  "fechaOrden": 725,
+  "tipo": "Relieve",
+  "periodo": "Arte maya clásico",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Lady K’ab’al Xook contempla una Serpiente Visión de cuyas fauces emerge la entidad guerrera Ajk’ahk’ O’ Chaak, junto a textos tallados en disposición especular.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.britishmuseum.org/collection/object/E_Am1923-Maud-5",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20London",
+  "pais": "Reino Unido",
+  "dimensiones": "121 × 85,5 × 13,5 cm; 231 kg",
+  "tecnicas": ["Relieve en piedra caliza", "Inscripción jeroglífica en disposición especular"],
+  "etiquetas": ["Yaxchilán", "Dintel 25", "Estructura 23", "Lady K’ab’al Xook", "Serpiente Visión", "Ajk’ahk’ O’ Chaak", "Arte maya clásico", "Relieve", "British Museum"],
+  "proporcion": [2286, 3342],
+  "color": "#79604a",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Maya%2C_lintel_25%2C_da_yaxchilan%2C_725.JPG/1280px-Maya%2C_lintel_25%2C_da_yaxchilan%2C_725.JPG",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Maya%2C_lintel_25%2C_da_yaxchilan%2C_725.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Maya,_lintel_25,_da_yaxchilan,_725.JPG",
+    "alt": "Dintel 25 de Yaxchilán con Lady K’ab’al Xook arrodillada ante una gran Serpiente Visión y una figura guerrera emergente",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Fotografía: Sailko / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "dinteles-24-25-26-yaxchilan", "posicionEnSerie": 2, "totalEnSerie": 3, "guia": "Guía Maestra, parte V", "incorporada": "2026-08-10"}
+}

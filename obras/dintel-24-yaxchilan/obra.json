@@ -1,41 +1,31 @@
 {
   "id": "dintel-24-yaxchilan",
   "titulo": "Dintel 24 de Yaxchilán",
-  "autor": "Taller maya de Yaxchilán",
-  "fecha": "709",
-  "fechaOrden": 709,
+  "autor": "Mo’ Chaak, escultor maya de Yaxchilán",
+  "fecha": "c. 723–726; rito fechado en 709",
+  "fechaOrden": 725,
   "tipo": "Relieve",
   "periodo": "Arte maya clásico",
   "coleccion": "África, Américas y Oceanía",
-  "descripcion": "Gobernante, consorte, texto jeroglífico y rito de autosacrificio se integran en una imagen política precisa.",
+  "descripcion": "Itzamnaah Kokaaj B’ahlam II ilumina con una antorcha el autosacrificio de K’ab’al Xook, que atraviesa su lengua con un cordel provisto de hojas de obsidiana.",
   "localizacion": "British Museum",
   "ciudad": "Londres",
-  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20Londres",
-  "pais": "México",
-  "tecnicas": [
-    "Piedra caliza",
-    "Relieve"
-  ],
-  "etiquetas": [
-    "África, Américas y Oceanía",
-    "Arte maya clásico",
-    "México",
-    "Relieve",
-    "Piedra caliza",
-    "arte universal"
-  ],
-  "proporcion": [
-    2313,
-    3141
-  ],
+  "urlLocalizacion": "https://www.britishmuseum.org/collection/object/E_Am1923-Maud-4",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%20London",
+  "pais": "Reino Unido",
+  "dimensiones": "109 × 78 × 6 cm (medidas del museo, por confirmar)",
+  "tecnicas": ["Relieve en piedra caliza", "Inscripción jeroglífica"],
+  "etiquetas": ["Yaxchilán", "Dintel 24", "Estructura 23", "Mo’ Chaak", "Lady K’ab’al Xook", "Itzamnaah Kokaaj B’ahlam II", "Autosacrificio", "Arte maya clásico", "British Museum"],
+  "proporcion": [2313, 3141],
   "color": "#785d47",
   "imagen": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yaxchilan_Lintel_24.jpg/1920px-Yaxchilan_Lintel_24.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yaxchilan_Lintel_24.jpg/1280px-Yaxchilan_Lintel_24.jpg",
     "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/00/Yaxchilan_Lintel_24.jpg",
-    "alt": "Reproducción de Dintel 24 de Yaxchilán, Taller maya de Yaxchilán",
+    "alt": "Dintel 24 de Yaxchilán con el gobernante sosteniendo una antorcha sobre K’ab’al Xook, arrodillada durante un rito de autosacrificio",
     "fuente": "https://commons.wikimedia.org/wiki/File:Yaxchilan_Lintel_24.jpg",
-    "licencia": "Licencia libre o dominio público; consultar la ficha de Wikimedia Commons",
-    "credito": "Reproducción: Wikimedia Commons · Taller maya de Yaxchilán",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Fotografía: Michel wal / Wikimedia Commons",
     "foco": "center"
-  }
+  },
+  "referencia": {"parteDe": "dinteles-24-25-26-yaxchilan", "posicionEnSerie": 1, "totalEnSerie": 3, "qid": "Q3241673", "wikidata": "https://www.wikidata.org/wiki/Q3241673", "guia": "Guía Maestra, parte V", "actualizada": "2026-08-10"}
 }

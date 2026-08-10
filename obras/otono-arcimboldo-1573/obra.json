@@ -1,0 +1,32 @@
+{
+  "id": "otono-arcimboldo-1573",
+  "titulo": "Otoño",
+  "tituloOriginal": "L'Automne",
+  "autor": "Giuseppe Arcimboldo",
+  "fecha": "1573",
+  "fechaOrden": 1573,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento",
+  "descripcion": "Alegoría de la vendimia y la cosecha tardía en la que uvas, frutos, hongos, raíces y una cuba de madera forman un busto de perfil.",
+  "localizacion": "Musée du Louvre-Lens",
+  "ciudad": "Lens",
+  "urlLocalizacion": "https://collections.louvre.fr/ark:/53355/cl010065017",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20du%20Louvre-Lens",
+  "pais": "Francia",
+  "dimensiones": "76 × 63,5 cm, sin marco",
+  "tecnicas": ["Óleo sobre lienzo"],
+  "etiquetas": ["Giuseppe Arcimboldo", "Otoño", "Las cuatro estaciones", "Vendimia", "Frutos", "Retrato compuesto", "Manierismo", "Louvre"],
+  "proporcion": [3875, 4748],
+  "color": "#6f4728",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Arcimboldo_-_Les_saisons_-_L%27automne.jpg/1280px-Arcimboldo_-_Les_saisons_-_L%27automne.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/45/Arcimboldo_-_Les_saisons_-_L%27automne.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Arcimboldo_-_Les_saisons_-_L%27automne.jpg",
+    "alt": "perfil de Otoño de Arcimboldo compuesto con uvas, manzana, pera, granada, seta, castañas y una cuba de madera",
+    "licencia": "Dominio público",
+    "credito": "Giuseppe Arcimboldo · reproducción de dominio público / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "cuatro-estaciones-arcimboldo-1573", "posicionEnSerie": 3, "totalEnSerie": 4, "guia": "Guía Maestra, parte IV", "incorporada": "2026-08-10"}
+}

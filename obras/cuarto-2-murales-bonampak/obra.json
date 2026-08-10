@@ -1,0 +1,31 @@
+{
+  "id": "cuarto-2-murales-bonampak",
+  "titulo": "Cuarto 2 de los murales de Bonampak: batalla y cautivos",
+  "autor": "Talleres mayas de Bonampak",
+  "fecha": "Finales del siglo VIII, c. 790–792",
+  "fechaOrden": 791,
+  "tipo": "Pintura mural",
+  "periodo": "Arte maya clásico",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Cámara central dominada por una batalla tumultuosa y por la presentación, despojo y sufrimiento de cautivos ante el gobernante de Bonampak.",
+  "localizacion": "Cuarto 2, Estructura 1, Zona Arqueológica de Bonampak",
+  "ciudad": "Ocosingo, Chiapas",
+  "urlLocalizacion": "https://lugares.inah.gob.mx/en/node/4331",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Zona%20Arqueol%C3%B3gica%20de%20Bonampak%2C%20Chiapas",
+  "pais": "México",
+  "dimensiones": "Pintura continua sobre muros y bóveda de una cámara",
+  "tecnicas": ["Pigmentos sobre enlucido de cal", "Pintura mural"],
+  "etiquetas": ["Bonampak", "Cuarto 2", "Murales de Bonampak", "Arte maya clásico", "Batalla", "Cautivos", "Chaan Muan II", "Violencia ritual", "Chiapas"],
+  "proporcion": [3903, 2404],
+  "color": "#69463c",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Murales_Bonampak_idrg2.jpg/1280px-Murales_Bonampak_idrg2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Murales_Bonampak_idrg2.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Murales_Bonampak_idrg2.jpg",
+    "alt": "escena de batalla del Cuarto 2 de Bonampak con guerreros entrelazados, lanzas diagonales y figuras sometidas",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Fotografía: Isacdaavid / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "murales-bonampak", "posicionEnSerie": 2, "totalEnSerie": 3, "guia": "Guía Maestra, parte V", "incorporada": "2026-08-10"}
+}

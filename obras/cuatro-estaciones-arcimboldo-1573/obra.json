@@ -1,0 +1,37 @@
+{
+  "id": "cuatro-estaciones-arcimboldo-1573",
+  "titulo": "Las cuatro estaciones",
+  "tituloOriginal": "Le quattro stagioni",
+  "autor": "Giuseppe Arcimboldo",
+  "fecha": "1573",
+  "fechaOrden": 1573,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento",
+  "descripcion": "Ciclo de cuatro bustos de perfil construidos con flores, frutos, ramas y cortezas que convierte el paso anual en una alegoría de orden natural y poder dinástico.",
+  "localizacion": "Musée du Louvre-Lens",
+  "ciudad": "Lens",
+  "urlLocalizacion": "https://collections.louvre.fr/recherche?q=Giuseppe+Arcimboldo",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20du%20Louvre-Lens",
+  "pais": "Francia",
+  "dimensiones": "Cada lienzo: 76 × 63,5 cm aproximadamente, sin marco",
+  "tecnicas": ["Óleo sobre lienzo"],
+  "etiquetas": ["Giuseppe Arcimboldo", "Las cuatro estaciones", "Primavera", "Verano", "Otoño", "Invierno", "Manierismo", "Retrato compuesto", "Alegoría", "Louvre"],
+  "proporcion": [7507, 9234],
+  "color": "#6d5036",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Arcimboldo_-_Les_saisons_-_1573.jpg/1280px-Arcimboldo_-_Les_saisons_-_1573.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Arcimboldo_-_Les_saisons_-_1573.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Arcimboldo_-_Les_saisons_-_1573.jpg",
+    "alt": "montaje con Primavera, Verano, Otoño e Invierno de Arcimboldo, cuatro cabezas de perfil formadas por elementos vegetales",
+    "licencia": "Dominio público",
+    "credito": "Giuseppe Arcimboldo · montaje fotográfico de JackyM59 / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Guía Maestra de Artistas y Obras, parte IV",
+    "componentes": ["primavera-arcimboldo-1573", "verano-arcimboldo-1573", "otono-arcimboldo-1573", "invierno-arcimboldo-1573"],
+    "totalComponentes": 4,
+    "incorporada": "2026-08-10"
+  }
+}

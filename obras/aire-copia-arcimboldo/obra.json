@@ -1,0 +1,27 @@
+{
+  "id": "aire-copia-arcimboldo",
+  "titulo": "Aire (copia según Arcimboldo)",
+  "tituloOriginal": "Aria",
+  "autor": "Copista anónimo, según Giuseppe Arcimboldo",
+  "fecha": "Después de 1566; original perdido",
+  "fechaOrden": 1566,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento",
+  "descripcion": "Copia de la alegoría de Aire concebida por Arcimboldo: un perfil formado exclusivamente por aves, con especial protagonismo del águila y el pavo real imperiales.",
+  "localizacion": "Colección privada",
+  "tecnicas": ["Óleo sobre lienzo", "Copia de una composición perdida"],
+  "etiquetas": ["Giuseppe Arcimboldo", "Copista anónimo", "Aire", "Los cuatro elementos", "Aves", "Copia", "Original perdido", "Retrato compuesto", "Manierismo"],
+  "proporcion": [960, 1293],
+  "color": "#455b50",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Arcimboldo_Air_%28copy%29.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Arcimboldo_Air_%28copy%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Arcimboldo_Air_(copy).jpg",
+    "alt": "copia de Aire según Arcimboldo, un perfil humano compuesto por numerosas aves entre las que destacan pavo real y águila",
+    "licencia": "Dominio público",
+    "credito": "Copista anónimo, según Giuseppe Arcimboldo · reproducción de dominio público / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "cuatro-elementos-arcimboldo", "posicionEnSerie": 1, "totalEnSerie": 4, "guia": "Guía Maestra, parte IV", "notaAtribucion": "La alegoría de Aire solo se conoce por copias; el original de Arcimboldo no se conserva.", "incorporada": "2026-08-10"}
+}

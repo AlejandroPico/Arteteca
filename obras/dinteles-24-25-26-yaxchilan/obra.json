@@ -1,0 +1,36 @@
+{
+  "id": "dinteles-24-25-26-yaxchilan",
+  "titulo": "Dinteles 24, 25 y 26 de la Estructura 23 de Yaxchilán",
+  "autor": "Talleres mayas de Yaxchilán",
+  "fecha": "c. 723–726; escenas con fechas rituales anteriores",
+  "fechaOrden": 725,
+  "tipo": "Relieve",
+  "periodo": "Arte maya clásico",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Trilogía de relieves para las tres puertas de la fachada de la Estructura 23: penitencia de sangre, aparición de la Serpiente Visión e investidura guerrera.",
+  "localizacion": "British Museum (24 y 25) y Museo Nacional de Antropología (26); procedentes de Yaxchilán",
+  "ciudad": "Londres y Ciudad de México",
+  "urlLocalizacion": "https://mna.inah.gob.mx/detalle_pieza_mes.php?id=298",
+  "pais": "Reino Unido y México",
+  "dimensiones": "Tres grandes lajas de piedra caliza talladas para los accesos de la fachada",
+  "tecnicas": ["Relieve en piedra caliza", "Inscripción jeroglífica"],
+  "etiquetas": ["Yaxchilán", "Estructura 23", "Dinteles 24 25 y 26", "Lady K’ab’al Xook", "Itzamnaah Kokaaj B’ahlam II", "Arte maya clásico", "Autosacrificio", "Serpiente Visión", "Investidura"],
+  "proporcion": [5781, 2775],
+  "color": "#80654d",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yaxchilan_Linteaux_25%2C_24_et_26.png/1280px-Yaxchilan_Linteaux_25%2C_24_et_26.png",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/36/Yaxchilan_Linteaux_25%2C_24_et_26.png",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Yaxchilan_Linteaux_25,_24_et_26.png",
+    "alt": "montaje de los tres relieves de la fachada de la Estructura 23 de Yaxchilán; de izquierda a derecha, dinteles 25, 24 y 26",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Montaje con fotografías de Shadowgate, Michel wal y Gary Todd / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Guía Maestra de Artistas y Obras, parte V",
+    "componentes": ["dintel-24-yaxchilan", "dintel-25-yaxchilan", "dintel-26-yaxchilan"],
+    "totalComponentes": 3,
+    "notaConjunto": "La ficha reúne la secuencia figurativa de los tres accesos de la fachada norte. El Dintel 23, epigráfico y asociado a una puerta lateral, permanece in situ y no forma parte de esta trilogía visual.",
+    "incorporada": "2026-08-10"
+  }
+}

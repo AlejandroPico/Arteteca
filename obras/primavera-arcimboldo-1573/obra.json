@@ -1,0 +1,32 @@
+{
+  "id": "primavera-arcimboldo-1573",
+  "titulo": "Primavera",
+  "tituloOriginal": "Le Printemps",
+  "autor": "Giuseppe Arcimboldo",
+  "fecha": "1573",
+  "fechaOrden": 1573,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento",
+  "descripcion": "Busto de perfil formado enteramente por flores, brotes y hojas que encarna la juventud y la renovación de la primavera.",
+  "localizacion": "Musée du Louvre-Lens",
+  "ciudad": "Lens",
+  "urlLocalizacion": "https://collections.louvre.fr/ark:/53355/cl010065015",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20du%20Louvre-Lens",
+  "pais": "Francia",
+  "dimensiones": "76 × 63,5 cm, sin marco",
+  "tecnicas": ["Óleo sobre lienzo"],
+  "etiquetas": ["Giuseppe Arcimboldo", "Primavera", "Las cuatro estaciones", "Flores", "Retrato compuesto", "Manierismo", "Louvre"],
+  "proporcion": [3728, 4624],
+  "color": "#7b5438",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Arcimboldo_-_Les_saisons_-_Le_printemps_-_Sans_cadre.jpg/1280px-Arcimboldo_-_Les_saisons_-_Le_printemps_-_Sans_cadre.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/68/Arcimboldo_-_Les_saisons_-_Le_printemps_-_Sans_cadre.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Arcimboldo_-_Les_saisons_-_Le_printemps_-_Sans_cadre.jpg",
+    "alt": "perfil de Primavera de Arcimboldo con rostro, cabello, cuello y vestido construidos mediante flores y hojas",
+    "licencia": "Dominio público",
+    "credito": "Giuseppe Arcimboldo · reproducción de JackyM59 / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "cuatro-estaciones-arcimboldo-1573", "posicionEnSerie": 1, "totalEnSerie": 4, "guia": "Guía Maestra, parte IV", "incorporada": "2026-08-10"}
+}

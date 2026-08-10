@@ -1,0 +1,32 @@
+{
+  "id": "invierno-arcimboldo-1573",
+  "titulo": "Invierno",
+  "tituloOriginal": "L'Hiver",
+  "autor": "Giuseppe Arcimboldo",
+  "fecha": "1573",
+  "fechaOrden": 1573,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento",
+  "descripcion": "Anciano de perfil formado por un tronco resquebrajado, ramas podadas, hiedra, hongos y cítricos, envuelto en una estera con emblemas sajones.",
+  "localizacion": "Musée du Louvre-Lens",
+  "ciudad": "Lens",
+  "urlLocalizacion": "https://collections.louvre.fr/ark:/53355/cl010064967",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20du%20Louvre-Lens",
+  "pais": "Francia",
+  "dimensiones": "76 × 63,6 cm, sin marco",
+  "tecnicas": ["Óleo sobre lienzo"],
+  "etiquetas": ["Giuseppe Arcimboldo", "Invierno", "Las cuatro estaciones", "Tronco", "Hiedra", "Retrato compuesto", "Manierismo", "Louvre"],
+  "proporcion": [3726, 4558],
+  "color": "#594633",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arcimboldo_-_Les_saisons_-_L%27hiver.jpg/1280px-Arcimboldo_-_Les_saisons_-_L%27hiver.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Arcimboldo_-_Les_saisons_-_L%27hiver.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Arcimboldo_-_Les_saisons_-_L%27hiver.jpg",
+    "alt": "perfil de Invierno de Arcimboldo como anciano hecho de corteza, ramas, hiedra, hongos y dos cítricos",
+    "licencia": "Dominio público",
+    "credito": "Giuseppe Arcimboldo · reproducción de dominio público / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "cuatro-estaciones-arcimboldo-1573", "posicionEnSerie": 4, "totalEnSerie": 4, "guia": "Guía Maestra, parte IV", "incorporada": "2026-08-10"}
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fuego-arcimboldo",
+  "titulo": "Fuego",
+  "tituloOriginal": "Feuer",
+  "autor": "Giuseppe Arcimboldo",
+  "fecha": "1566",
+  "fechaOrden": 1566,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento",
+  "descripcion": "Perfil compuesto por llamas, velas, pedernal, eslabones, lámparas, leña y armas de fuego, con insignias de los Habsburgo.",
+  "localizacion": "Kunsthistorisches Museum",
+  "ciudad": "Viena",
+  "urlLocalizacion": "https://www.khm.at/en/artworks/fire-73",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunsthistorisches%20Museum%20Wien",
+  "pais": "Austria",
+  "dimensiones": "66,5 × 51 cm",
+  "tecnicas": ["Óleo sobre madera"],
+  "etiquetas": ["Giuseppe Arcimboldo", "Fuego", "Los cuatro elementos", "Armas", "Velas", "Toisón de Oro", "Retrato compuesto", "Manierismo", "Kunsthistorisches Museum"],
+  "proporcion": [2778, 3742],
+  "color": "#8c4a22",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Arcimboldo_Feuer%40Kunsthist._Museum_Wien.jpg/1280px-Arcimboldo_Feuer%40Kunsthist._Museum_Wien.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Arcimboldo_Feuer%40Kunsthist._Museum_Wien.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Arcimboldo_Feuer@Kunsthist._Museum_Wien.jpg",
+    "alt": "Fuego de Arcimboldo, perfil hecho de llamas, pedernal, velas, lámpara, leña, cañones y armas",
+    "licencia": "Dominio público",
+    "credito": "Giuseppe Arcimboldo · reproducción de dominio público / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "cuatro-elementos-arcimboldo", "posicionEnSerie": 2, "totalEnSerie": 4, "guia": "Guía Maestra, parte IV", "incorporada": "2026-08-10"}
+}

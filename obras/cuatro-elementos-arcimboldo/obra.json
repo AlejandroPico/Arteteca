@@ -1,0 +1,37 @@
+{
+  "id": "cuatro-elementos-arcimboldo",
+  "titulo": "Los cuatro elementos",
+  "tituloOriginal": "I quattro elementi",
+  "autor": "Giuseppe Arcimboldo y copistas",
+  "fecha": "Ciclo encargado en 1566",
+  "fechaOrden": 1566,
+  "tipo": "Pintura",
+  "periodo": "Manierismo",
+  "coleccion": "Renacimiento",
+  "descripcion": "Ciclo de cabezas compuestas que personifica Aire, Fuego, Tierra y Agua mediante aves, instrumentos de combustión, mamíferos y criaturas acuáticas.",
+  "localizacion": "Kunsthistorisches Museum, Colecciones del Príncipe de Liechtenstein y colección privada",
+  "ciudad": "Viena y colección privada",
+  "urlLocalizacion": "https://www.khm.at/en/digital/artists/giuseppe-arcimboldo",
+  "pais": "Austria y colección privada",
+  "dimensiones": "Cuatro pinturas de dimensiones diferentes; originales conservados de Fuego, Tierra y Agua, y copia de Aire",
+  "tecnicas": ["Óleo sobre tabla", "Óleo sobre lienzo"],
+  "etiquetas": ["Giuseppe Arcimboldo", "Los cuatro elementos", "Aire", "Fuego", "Tierra", "Agua", "Retrato compuesto", "Manierismo", "Habsburgo"],
+  "proporcion": [1581, 527],
+  "color": "#4d5140",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/ArcimboldoFourElements.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/3/31/ArcimboldoFourElements.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:ArcimboldoFourElements.jpg",
+    "alt": "los cuatro elementos de Arcimboldo reunidos: cabezas de perfil hechas de aves, mamíferos, fuego y criaturas acuáticas",
+    "licencia": "Dominio público",
+    "credito": "Giuseppe Arcimboldo y copista de Aire · reproducciones de dominio público / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "guia": "Guía Maestra de Artistas y Obras, parte IV",
+    "componentes": ["aire-copia-arcimboldo", "fuego-arcimboldo", "tierra-arcimboldo", "agua-arcimboldo"],
+    "totalComponentes": 4,
+    "notaAtribucion": "El original de Aire no se conserva; la ficha individual presenta una copia posterior.",
+    "incorporada": "2026-08-10"
+  }
+}

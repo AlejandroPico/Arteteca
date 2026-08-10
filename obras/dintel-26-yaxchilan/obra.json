@@ -1,0 +1,31 @@
+{
+  "id": "dintel-26-yaxchilan",
+  "titulo": "Dintel 26 de Yaxchilán",
+  "autor": "K’awiil Chaahk, escultor maya de Sak Ook",
+  "fecha": "c. 724–726",
+  "fechaOrden": 725,
+  "tipo": "Relieve",
+  "periodo": "Arte maya clásico",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "Itzamnaah Kokaaj B’ahlam II recibe de K’ab’al Xook un yelmo de jaguar y un escudo flexible en una escena de investidura y preparación guerrera.",
+  "localizacion": "Museo Nacional de Antropología, Sala Maya",
+  "ciudad": "Ciudad de México",
+  "urlLocalizacion": "https://mna.inah.gob.mx/detalle_pieza_mes.php?id=298",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Antropolog%C3%ADa%20Ciudad%20de%20M%C3%A9xico",
+  "pais": "México",
+  "dimensiones": "184 × 86 × 27 cm",
+  "tecnicas": ["Relieve en piedra caliza", "Inscripción jeroglífica"],
+  "etiquetas": ["Yaxchilán", "Dintel 26", "Estructura 23", "K’awiil Chaahk", "Lady K’ab’al Xook", "Itzamnaah Kokaaj B’ahlam II", "Yelmo de jaguar", "Arte maya clásico", "Museo Nacional de Antropología"],
+  "proporcion": [3809, 4896],
+  "color": "#806851",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Dintel_26_de_Yachil%C3%A1n_2.jpg/1280px-Dintel_26_de_Yachil%C3%A1n_2.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Dintel_26_de_Yachil%C3%A1n_2.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Dintel_26_de_Yachil%C3%A1n_2.jpg",
+    "alt": "Dintel 26 de Yaxchilán con el gobernante de pie a la izquierda y K’ab’al Xook ofreciéndole un yelmo de jaguar y un escudo",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Fotografía: ProtoplasmaKid / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {"parteDe": "dinteles-24-25-26-yaxchilan", "posicionEnSerie": 3, "totalEnSerie": 3, "qid": "Q19912332", "wikidata": "https://www.wikidata.org/wiki/Q19912332", "guia": "Guía Maestra, parte V", "incorporada": "2026-08-10"}
+}

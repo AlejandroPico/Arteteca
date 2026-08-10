@@ -1,0 +1,59 @@
+{
+  "id": "profeta-jeremias-piero-arezzo",
+  "titulo": "El profeta Jeremías",
+  "tituloOriginal": "Profeta Geremia",
+  "autor": "Piero della Francesca y taller",
+  "fecha": "c. 1452–1466",
+  "fechaOrden": 1452,
+  "tipo": "Pintura mural",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Jeremías aparece solo, de pie y absorto en un libro, dentro de un estrecho marco arquitectónico. Su pausa reflexiva ofrece un contrapunto a las multitudes y batallas del ciclo.",
+  "localizacion": "Capilla Bacci, Basílica de San Francesco",
+  "ciudad": "Arezzo",
+  "urlLocalizacion": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20San%20Francesco%2C%20Arezzo",
+  "pais": "Italia",
+  "tecnicas": [
+    "Fresco",
+    "Pintura mural"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "Leyenda de la Vera Cruz",
+    "capilla Bacci",
+    "Arezzo",
+    "escena 11 de 12",
+    "Jeremías",
+    "profeta",
+    "libro",
+    "figura monumental"
+  ],
+  "proporcion": [
+    900,
+    1219
+  ],
+  "color": "#78665e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piero%20della%20Francesca%20-%20The%20Prophet%20Jeremiah%20-%20WGA17586.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Piero_della_Francesca_-_The_Prophet_Jeremiah_-_WGA17586.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_The_Prophet_Jeremiah_-_WGA17586.jpg",
+    "alt": "Profeta de pie con túnica roja y manto claro, inclinado sobre un libro dentro de un nicho oscuro",
+    "licencia": "Dominio público",
+    "credito": "Piero della Francesca y taller · Web Gallery of Art / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "La Leyenda de la Vera Cruz",
+    "grupo": "Doce escenas de la capilla Bacci",
+    "posicionEnSerie": 11,
+    "totalEnSerie": 12,
+    "fuenteInstitucional": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+    "guia": "Frescos de la Leyenda de la Verdadera Cruz",
+    "incorporada": "2026-08-10",
+    "categoriaCommons": "https://commons.wikimedia.org/wiki/Category:Prophet_Jeremiah_by_Piero_della_Francesca"
+  }
+}

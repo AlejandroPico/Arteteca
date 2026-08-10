@@ -1,0 +1,61 @@
+{
+  "id": "batalla-heraclio-cosroes-piero",
+  "titulo": "La batalla de Heraclio y Cosroes",
+  "tituloOriginal": "Battaglia di Eraclio e Cosroe",
+  "autor": "Piero della Francesca y taller",
+  "fecha": "c. 1452–1466",
+  "fechaOrden": 1452,
+  "tipo": "Pintura mural",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "La lucha por recuperar la Cruz llena el fresco de caballos, armas, estandartes y cuerpos caídos. En el extremo derecho, la derrota y ejecución de Cosroes prolongan la violencia más allá del campo de batalla.",
+  "localizacion": "Capilla Bacci, Basílica de San Francesco",
+  "ciudad": "Arezzo",
+  "urlLocalizacion": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20San%20Francesco%2C%20Arezzo",
+  "pais": "Italia",
+  "tecnicas": [
+    "Fresco",
+    "Pintura mural"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "Leyenda de la Vera Cruz",
+    "capilla Bacci",
+    "Arezzo",
+    "escena 8 de 12",
+    "Heraclio",
+    "Cosroes",
+    "batalla",
+    "Imperio bizantino",
+    "Wikidata Q3636424"
+  ],
+  "proporcion": [
+    1600,
+    721
+  ],
+  "color": "#726552",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piero%20della%20Francesca%20-%208.%20Battle%20between%20Heraclius%20and%20Chosroes%20-%20WGA17551.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Piero_della_Francesca_-_8._Battle_between_Heraclius_and_Chosroes_-_WGA17551.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_8._Battle_between_Heraclius_and_Chosroes_-_WGA17551.jpg",
+    "alt": "Dos ejércitos chocan entre caballos, lanzas y banderas, con la derrota de Cosroes representada al extremo derecho",
+    "licencia": "Dominio público",
+    "credito": "Piero della Francesca y taller · Web Gallery of Art / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "La Leyenda de la Vera Cruz",
+    "grupo": "Doce escenas de la capilla Bacci",
+    "posicionEnSerie": 8,
+    "totalEnSerie": 12,
+    "fuenteInstitucional": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+    "guia": "Frescos de la Leyenda de la Verdadera Cruz",
+    "incorporada": "2026-08-10",
+    "wikidata": "https://www.wikidata.org/wiki/Q3636424",
+    "qid": "Q3636424"
+  }
+}

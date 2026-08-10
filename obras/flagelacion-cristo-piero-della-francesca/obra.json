@@ -1,0 +1,52 @@
+{
+  "id": "flagelacion-cristo-piero-della-francesca",
+  "titulo": "La flagelación de Cristo",
+  "tituloOriginal": "Flagellazione di Cristo",
+  "autor": "Piero della Francesca",
+  "fecha": "1459–1460",
+  "fechaOrden": 1459,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Una arquitectura rigurosamente medida relega el suplicio de Cristo al fondo mientras tres figuras, inmóviles y enigmáticas, ocupan el primer plano. La distancia entre ambos grupos es el centro visual y también el gran interrogante de la tabla.",
+  "localizacion": "Galleria Nazionale delle Marche",
+  "ciudad": "Urbino",
+  "urlLocalizacion": "https://gndm.it/opere/flagellazione/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galleria%20Nazionale%20delle%20Marche%2C%20Urbino",
+  "pais": "Italia",
+  "dimensiones": "67,5 × 91 cm",
+  "tecnicas": [
+    "Tempera sobre tabla"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "flagelación",
+    "perspectiva",
+    "Urbino",
+    "Wikidata Q1212920"
+  ],
+  "proporcion": [
+    2016,
+    1430
+  ],
+  "color": "#8a6d52",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piero%20della%20Francesca%20042.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Piero_della_Francesca_042.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_042.jpg",
+    "alt": "Cristo es azotado al fondo de una galería clásica mientras tres hombres conversan en primer plano a la derecha",
+    "licencia": "Dominio público",
+    "credito": "Piero della Francesca · reproducción compartida por Sailko en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1212920",
+    "qid": "Q1212920",
+    "inventario": "DE 229",
+    "guia": "La Flagelación de Cristo",
+    "incorporada": "2026-08-10"
+  }
+}

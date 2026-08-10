@@ -1,0 +1,51 @@
+{
+  "id": "madonna-del-parto-piero-della-francesca",
+  "titulo": "Madonna del Parto",
+  "tituloOriginal": "Madonna del Parto",
+  "autor": "Piero della Francesca",
+  "fecha": "1450–1465",
+  "fechaOrden": 1450,
+  "tipo": "Pintura mural",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Una Virgen visiblemente embarazada se presenta bajo un baldaquino que dos ángeles abren de manera simétrica. El gesto de la mano sobre el vientre une intimidad corporal, dignidad y expectación.",
+  "localizacion": "Musei Civici Madonna del Parto",
+  "ciudad": "Monterchi",
+  "urlLocalizacion": "https://www.madonnadelparto.it/en/the-opera/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Musei%20Civici%20Madonna%20del%20Parto%2C%20Monterchi",
+  "pais": "Italia",
+  "dimensiones": "200 × 200 cm según el museo",
+  "tecnicas": [
+    "Fresco desprendido"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "Virgen embarazada",
+    "maternidad",
+    "Monterchi",
+    "Wikidata Q723479"
+  ],
+  "proporcion": [
+    2806,
+    3600
+  ],
+  "color": "#8a695f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Madonna-del-Parto.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Madonna-del-Parto.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Madonna-del-Parto.jpg",
+    "alt": "Virgen embarazada vestida de azul bajo un dosel rojo que dos ángeles apartan a ambos lados",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Piero della Francesca · fotografía de Aliasflaubert / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q723479",
+    "qid": "Q723479",
+    "guia": "Madonna del Parto",
+    "incorporada": "2026-08-10"
+  }
+}

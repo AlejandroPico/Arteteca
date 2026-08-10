@@ -1,0 +1,53 @@
+{
+  "id": "diptico-duques-urbino-piero-della-francesca",
+  "titulo": "Díptico de Federico da Montefeltro y Battista Sforza",
+  "tituloOriginal": "Dittico dei duchi di Urbino",
+  "autor": "Piero della Francesca",
+  "fecha": "c. 1473–1475",
+  "fechaOrden": 1473,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Los duques de Urbino se miran de perfil ante un paisaje continuo que une ambos paneles. Los reversos, no visibles en esta vista frontal, muestran sus triunfos alegóricos y confirman la naturaleza móvil del díptico.",
+  "localizacion": "Gallerie degli Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/en/artworks/the-duke-and-duchess-of-urbino-federico-da-montefeltro-and-battista-sforza",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gallerie%20degli%20Uffizi%2C%20Firenze",
+  "pais": "Italia",
+  "dimensiones": "47 × 33 cm cada tabla",
+  "tecnicas": [
+    "Óleo sobre tabla"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "retrato",
+    "Urbino",
+    "Federico da Montefeltro",
+    "Battista Sforza",
+    "Wikidata Q1227359"
+  ],
+  "proporcion": [
+    5730,
+    3915
+  ],
+  "color": "#7a6745",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Double%20portrait%20of%20the%20Dukes%20of%20Urbino.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/5/55/Double_portrait_of_the_Dukes_of_Urbino.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Double_portrait_of_the_Dukes_of_Urbino.jpg",
+    "alt": "Battista Sforza y Federico da Montefeltro aparecen de perfil, frente a frente, ante un paisaje de colinas y agua",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Piero della Francesca · fotografía de Livioandronico2013 / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1227359",
+    "qid": "Q1227359",
+    "inventario": "1890 nn. 1615, 3342",
+    "guia": "Retrato Díptico de Federico de Montefeltro y Battista Sforza",
+    "incorporada": "2026-08-10"
+  }
+}

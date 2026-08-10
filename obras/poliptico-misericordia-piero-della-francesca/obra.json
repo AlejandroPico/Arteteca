@@ -1,0 +1,51 @@
+{
+  "id": "poliptico-misericordia-piero-della-francesca",
+  "titulo": "Políptico de la Misericordia",
+  "tituloOriginal": "Polittico della Misericordia",
+  "autor": "Piero della Francesca y colaboradores",
+  "fecha": "1444–1464",
+  "fechaOrden": 1444,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "La Virgen de la Misericordia abre su manto sobre una comunidad de fieles en el centro de un retablo formado por múltiples tablas. Santos, Anunciación, Crucifixión y pequeñas historias completan una estructura concebida para mirarse por niveles.",
+  "localizacion": "Museo Civico di Sansepolcro",
+  "ciudad": "Sansepolcro",
+  "urlLocalizacion": "https://www.museocivicosansepolcro.it/collezzioni.aspx",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Civico%20di%20Sansepolcro",
+  "pais": "Italia",
+  "tecnicas": [
+    "Tempera y oro sobre tabla",
+    "Políptico"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "Virgen de la Misericordia",
+    "retablo",
+    "Sansepolcro",
+    "Wikidata Q2247307"
+  ],
+  "proporcion": [
+    1200,
+    1064
+  ],
+  "color": "#745b45",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piero%20della%20Francesca%20-%20Polyptych%20of%20the%20Misericordia%20-%20WGA17446.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Piero_della_Francesca_-_Polyptych_of_the_Misericordia_-_WGA17446.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_Polyptych_of_the_Misericordia_-_WGA17446.jpg",
+    "alt": "Retablo de varias tablas con la Virgen abriendo un manto rojo sobre fieles arrodillados, rodeada de santos y escenas pequeñas",
+    "licencia": "Dominio público",
+    "credito": "Piero della Francesca y colaboradores · Web Gallery of Art / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2247307",
+    "qid": "Q2247307",
+    "guia": "Políptico de la Misericordia",
+    "incorporada": "2026-08-10"
+  }
+}

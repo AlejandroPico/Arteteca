@@ -1,0 +1,61 @@
+{
+  "id": "victoria-constantino-maxencio-piero",
+  "titulo": "La victoria de Constantino sobre Majencio",
+  "tituloOriginal": "Vittoria di Costantino su Massenzio",
+  "autor": "Piero della Francesca y taller",
+  "fecha": "c. 1452–1466",
+  "fechaOrden": 1452,
+  "tipo": "Pintura mural",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Constantino avanza con una diminuta cruz mientras el ejército enemigo se desordena y huye. El amplio friso de caballos, lanzas y banderas convierte el signo casi invisible en el centro causal de la batalla.",
+  "localizacion": "Capilla Bacci, Basílica de San Francesco",
+  "ciudad": "Arezzo",
+  "urlLocalizacion": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20San%20Francesco%2C%20Arezzo",
+  "pais": "Italia",
+  "tecnicas": [
+    "Fresco",
+    "Pintura mural"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "Leyenda de la Vera Cruz",
+    "capilla Bacci",
+    "Arezzo",
+    "escena 5 de 12",
+    "Constantino",
+    "Majencio",
+    "batalla",
+    "puente Milvio",
+    "Wikidata Q4015236"
+  ],
+  "proporcion": [
+    1600,
+    717
+  ],
+  "color": "#7b725f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piero%20della%20Francesca%20-%205.%20Constantine%27s%20Victory%20over%20Maxentius%20-%20WGA17514.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Piero_della_Francesca_-_5._Constantine%27s_Victory_over_Maxentius_-_WGA17514.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_5._Constantine's_Victory_over_Maxentius_-_WGA17514.jpg",
+    "alt": "Constantino avanza a caballo mostrando una pequeña cruz ante un ejército que huye entre lanzas y banderas",
+    "licencia": "Dominio público",
+    "credito": "Piero della Francesca y taller · Web Gallery of Art / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "La Leyenda de la Vera Cruz",
+    "grupo": "Doce escenas de la capilla Bacci",
+    "posicionEnSerie": 5,
+    "totalEnSerie": 12,
+    "fuenteInstitucional": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+    "guia": "Frescos de la Leyenda de la Verdadera Cruz",
+    "incorporada": "2026-08-10",
+    "wikidata": "https://www.wikidata.org/wiki/Q4015236",
+    "qid": "Q4015236"
+  }
+}

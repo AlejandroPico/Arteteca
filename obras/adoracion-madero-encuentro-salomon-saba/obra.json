@@ -1,0 +1,61 @@
+{
+  "id": "adoracion-madero-encuentro-salomon-saba",
+  "titulo": "La adoración del madero y el encuentro de Salomón y la reina de Saba",
+  "tituloOriginal": "Adorazione del Sacro Legno e incontro tra Salomone e la regina di Saba",
+  "autor": "Piero della Francesca y taller",
+  "fecha": "c. 1452–1466",
+  "fechaOrden": 1452,
+  "tipo": "Pintura mural",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Dos episodios se suceden en una misma franja: la reina de Saba reconoce la futura santidad del madero y después comunica su visión a Salomón. Paisaje y palacio separan la intuición espiritual de la ceremonia cortesana.",
+  "localizacion": "Capilla Bacci, Basílica de San Francesco",
+  "ciudad": "Arezzo",
+  "urlLocalizacion": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20San%20Francesco%2C%20Arezzo",
+  "pais": "Italia",
+  "tecnicas": [
+    "Fresco",
+    "Pintura mural"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "Leyenda de la Vera Cruz",
+    "capilla Bacci",
+    "Arezzo",
+    "escena 2 de 12",
+    "reina de Saba",
+    "Salomón",
+    "madero sagrado",
+    "corte",
+    "Wikidata Q3605570"
+  ],
+  "proporcion": [
+    1600,
+    725
+  ],
+  "color": "#8b7355",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piero%20della%20Francesca%20-%202.%20Procession%20of%20the%20Queen%20of%20Sheba%3B%20Meeting%20between%20the%20Queen%20of%20Sheba%20and%20King%20Solomon%20-%20WGA17487.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/2/22/Piero_della_Francesca_-_2._Procession_of_the_Queen_of_Sheba%3B_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-_WGA17487.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_2._Procession_of_the_Queen_of_Sheba;_Meeting_between_the_Queen_of_Sheba_and_King_Solomon_-_WGA17487.jpg",
+    "alt": "La reina de Saba se arrodilla ante un madero a la izquierda y saluda a Salomón bajo un palacio a la derecha",
+    "licencia": "Dominio público",
+    "credito": "Piero della Francesca y taller · Web Gallery of Art / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "La Leyenda de la Vera Cruz",
+    "grupo": "Doce escenas de la capilla Bacci",
+    "posicionEnSerie": 2,
+    "totalEnSerie": 12,
+    "fuenteInstitucional": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+    "guia": "Frescos de la Leyenda de la Verdadera Cruz",
+    "incorporada": "2026-08-10",
+    "wikidata": "https://www.wikidata.org/wiki/Q3605570",
+    "qid": "Q3605570"
+  }
+}

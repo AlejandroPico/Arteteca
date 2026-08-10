@@ -1,0 +1,52 @@
+{
+  "id": "pala-montefeltro-piero-della-francesca",
+  "titulo": "Pala Montefeltro",
+  "tituloOriginal": "Madonna col Bambino e santi, angeli e Federico da Montefeltro",
+  "autor": "Piero della Francesca",
+  "fecha": "1472–1474",
+  "fechaOrden": 1472,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "La Virgen, el Niño dormido, seis santos, cuatro ángeles y Federico da Montefeltro ocupan una arquitectura de piedra dominada por una concha y un huevo suspendido. El silencio convierte la reunión en una meditación sobre maternidad, muerte y poder.",
+  "localizacion": "Pinacoteca di Brera",
+  "ciudad": "Milán",
+  "urlLocalizacion": "https://pinacotecabrera.org/collezioni/collezione-on-line/madonna-col-bambino-e-santi-angeli-e-federico-da-montefeltro-pala-di-san-bernardino/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Pinacoteca%20di%20Brera%2C%20Milano",
+  "pais": "Italia",
+  "dimensiones": "251 × 172 cm",
+  "tecnicas": [
+    "Tempera sobre tabla"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "sacra conversazione",
+    "Urbino",
+    "Federico da Montefeltro",
+    "Wikidata Q1796098"
+  ],
+  "proporcion": [
+    2108,
+    2820
+  ],
+  "color": "#73675b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piero%20della%20francesca%2C%20pala%20montefeltro%2C%201465-70%20circa%2C%20dalla%20chiesa%20di%20s.%20bernardino%20a%20urbino%2C%2001.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Piero_della_francesca%2C_pala_montefeltro%2C_1465-70_circa%2C_dalla_chiesa_di_s._bernardino_a_urbino%2C_01.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piero_della_francesca,_pala_montefeltro,_1465-70_circa,_dalla_chiesa_di_s._bernardino_a_urbino,_01.jpg",
+    "alt": "Virgen con el Niño dormido rodeada de santos y ángeles, con Federico da Montefeltro arrodillado bajo un huevo suspendido",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Piero della Francesca · fotografía de Francesco Bini (Sailko) / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1796098",
+    "qid": "Q1796098",
+    "inventario": "180",
+    "guia": "Pala Montefeltro / Virgen con el Niño y Santos",
+    "incorporada": "2026-08-10"
+  }
+}

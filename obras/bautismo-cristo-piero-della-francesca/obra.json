@@ -1,0 +1,52 @@
+{
+  "id": "bautismo-cristo-piero-della-francesca",
+  "titulo": "El bautismo de Cristo",
+  "tituloOriginal": "Battesimo di Cristo",
+  "autor": "Piero della Francesca",
+  "fecha": "probablemente c. 1437–1445",
+  "fechaOrden": 1437,
+  "tipo": "Pintura",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cristo ocupa el eje de una composición donde la paloma, el cuenco de Juan y el agua del Jordán enlazan cielo y tierra. La geometría ordena el paisaje sin restarle frescura ni silencio.",
+  "localizacion": "The National Gallery",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.nationalgallery.org.uk/paintings/piero-della-francesca-the-baptism-of-christ",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20National%20Gallery%2C%20London",
+  "pais": "Reino Unido",
+  "dimensiones": "167 × 116 cm",
+  "tecnicas": [
+    "Tempera al huevo sobre tabla de álamo"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "bautismo",
+    "río Jordán",
+    "perspectiva",
+    "Wikidata Q2632688"
+  ],
+  "proporcion": [
+    4147,
+    5958
+  ],
+  "color": "#78909a",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piero%20della%20Francesca%20-%20Battesimo%20di%20Cristo%20%28National%20Gallery%2C%20London%29.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/9/92/Piero_della_Francesca_-_Battesimo_di_Cristo_%28National_Gallery%2C_London%29.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_Battesimo_di_Cristo_(National_Gallery,_London).jpg",
+    "alt": "Cristo permanece de pie en el río mientras Juan vierte agua sobre su cabeza, una paloma desciende y tres ángeles observan",
+    "licencia": "Dominio público",
+    "credito": "Piero della Francesca · reproducción en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2632688",
+    "qid": "Q2632688",
+    "inventario": "NG665",
+    "guia": "El Bautismo de Cristo",
+    "incorporada": "2026-08-10"
+  }
+}

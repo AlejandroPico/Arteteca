@@ -1,0 +1,51 @@
+{
+  "id": "resurreccion-piero-della-francesca",
+  "titulo": "La Resurrección",
+  "tituloOriginal": "La Resurrezione",
+  "autor": "Piero della Francesca",
+  "fecha": "c. 1460",
+  "fechaOrden": 1460,
+  "tipo": "Pintura mural",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Cristo emerge frontalmente del sepulcro mientras cuatro guardianes duermen a sus pies. El contraste entre los árboles desnudos y frondosos convierte el paisaje en una imagen silenciosa de renovación.",
+  "localizacion": "Museo Civico di Sansepolcro",
+  "ciudad": "Sansepolcro",
+  "urlLocalizacion": "https://www.museocivicosansepolcro.it/collezzioni.aspx",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Civico%20di%20Sansepolcro",
+  "pais": "Italia",
+  "tecnicas": [
+    "Fresco",
+    "Pintura mural"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "Resurrección",
+    "Sansepolcro",
+    "Cristo",
+    "Wikidata Q430293"
+  ],
+  "proporcion": [
+    1016,
+    1066
+  ],
+  "color": "#756b58",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Resurrezione%20Piero%20della%20Francesca%20post%20restauro.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Resurrezione_Piero_della_Francesca_post_restauro.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Resurrezione_Piero_della_Francesca_post_restauro.jpg",
+    "alt": "Cristo resucitado sostiene una bandera sobre un sepulcro abierto mientras cuatro soldados duermen en primer plano",
+    "licencia": "Dominio público",
+    "credito": "Piero della Francesca · vista posterior a la restauración, Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q430293",
+    "qid": "Q430293",
+    "guia": "La Resurrección de Cristo",
+    "incorporada": "2026-08-10"
+  }
+}

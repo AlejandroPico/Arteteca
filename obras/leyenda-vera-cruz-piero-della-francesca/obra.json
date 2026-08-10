@@ -1,0 +1,68 @@
+{
+  "id": "leyenda-vera-cruz-piero-della-francesca",
+  "titulo": "La Leyenda de la Vera Cruz",
+  "tituloOriginal": "Storie della Vera Croce",
+  "autor": "Piero della Francesca y taller",
+  "fecha": "1452–1466",
+  "fechaOrden": 1452,
+  "tipo": "Pintura mural",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Doce escenas ocupan tres niveles de la capilla Bacci y narran el destino legendario de la madera de la Cruz, desde la muerte de Adán hasta su restitución en Jerusalén. Piero ordenó los episodios por correspondencias visuales, no como una cronología lineal.",
+  "localizacion": "Capilla Bacci, Basílica de San Francesco",
+  "ciudad": "Arezzo",
+  "urlLocalizacion": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20San%20Francesco%2C%20Arezzo",
+  "pais": "Italia",
+  "dimensiones": "Conjunto monumental distribuido en tres niveles",
+  "tecnicas": [
+    "Fresco",
+    "Pintura mural"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "Leyenda de la Vera Cruz",
+    "capilla Bacci",
+    "ciclo completo",
+    "Arezzo",
+    "Wikidata Q2755131"
+  ],
+  "proporcion": [
+    1200,
+    796
+  ],
+  "color": "#635748",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/VeraCrocePiero.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/4/46/VeraCrocePiero.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:VeraCrocePiero.jpg",
+    "alt": "Vista de la capilla Bacci con los frescos de la Leyenda de la Vera Cruz distribuidos alrededor del altar y la ventana",
+    "licencia": "CC BY-SA 2.5",
+    "credito": "Piero della Francesca y taller · fotografía de Louis-garden / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "https://www.wikidata.org/wiki/Q2755131",
+    "qid": "Q2755131",
+    "guia": "Frescos de la Leyenda de la Verdadera Cruz",
+    "componentes": [
+      "muerte-adam-leyenda-vera-cruz",
+      "adoracion-madero-encuentro-salomon-saba",
+      "entierro-sagrado-madero-piero",
+      "sueno-constantino-piero-arezzo",
+      "victoria-constantino-maxencio-piero",
+      "tortura-judas-piero-arezzo",
+      "hallazgo-prueba-vera-cruz-piero",
+      "batalla-heraclio-cosroes-piero",
+      "exaltacion-cruz-piero-arezzo",
+      "anunciacion-piero-arezzo",
+      "profeta-jeremias-piero-arezzo",
+      "profeta-isaias-giovanni-piamonte"
+    ],
+    "totalComponentes": 12,
+    "incorporada": "2026-08-10"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "tortura-judas-piero-arezzo",
+  "titulo": "La tortura de Judas",
+  "tituloOriginal": "Tortura dell'ebreo",
+  "autor": "Piero della Francesca y taller",
+  "fecha": "c. 1452–1466",
+  "fechaOrden": 1452,
+  "tipo": "Pintura mural",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Un hombre es extraído de un pozo mediante una cuerda para obligarlo a revelar dónde está oculta la Cruz. La vertical del hueco y la violencia contenida de los funcionarios hacen visible uno de los episodios más incómodos de la leyenda.",
+  "localizacion": "Capilla Bacci, Basílica de San Francesco",
+  "ciudad": "Arezzo",
+  "urlLocalizacion": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20San%20Francesco%2C%20Arezzo",
+  "pais": "Italia",
+  "tecnicas": [
+    "Fresco",
+    "Pintura mural"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "Leyenda de la Vera Cruz",
+    "capilla Bacci",
+    "Arezzo",
+    "escena 6 de 12",
+    "Helena",
+    "Judas Quiriaco",
+    "pozo",
+    "coerción",
+    "Wikidata Q3995837"
+  ],
+  "proporcion": [
+    842,
+    1400
+  ],
+  "color": "#756b5e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Piero%20della%20Francesca%20-%206.%20Torture%20of%20the%20Jew%20-%20WGA17528.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Piero_della_Francesca_-_6._Torture_of_the_Jew_-_WGA17528.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_6._Torture_of_the_Jew_-_WGA17528.jpg",
+    "alt": "Un hombre asciende atado por una cuerda desde un pozo mientras varios funcionarios observan junto a una arquitectura",
+    "licencia": "Dominio público",
+    "credito": "Piero della Francesca y taller · Web Gallery of Art / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "La Leyenda de la Vera Cruz",
+    "grupo": "Doce escenas de la capilla Bacci",
+    "posicionEnSerie": 6,
+    "totalEnSerie": 12,
+    "fuenteInstitucional": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+    "guia": "Frescos de la Leyenda de la Verdadera Cruz",
+    "incorporada": "2026-08-10",
+    "wikidata": "https://www.wikidata.org/wiki/Q3995837",
+    "qid": "Q3995837"
+  }
+}

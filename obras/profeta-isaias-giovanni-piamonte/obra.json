@@ -1,0 +1,59 @@
+{
+  "id": "profeta-isaias-giovanni-piamonte",
+  "titulo": "El profeta Isaías",
+  "tituloOriginal": "Profeta Isaia",
+  "autor": "Atribuido a Giovanni da Piamonte",
+  "fecha": "c. 1452–1466",
+  "fechaOrden": 1452,
+  "tipo": "Pintura mural",
+  "periodo": "Primer Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Isaías se vuelve hacia el interior de la capilla y extiende una mano en gesto de anuncio. La atribución tradicional a Giovanni da Piamonte hace visible la participación del taller en el gran programa dirigido por Piero.",
+  "localizacion": "Capilla Bacci, Basílica de San Francesco",
+  "ciudad": "Arezzo",
+  "urlLocalizacion": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Basilica%20di%20San%20Francesco%2C%20Arezzo",
+  "pais": "Italia",
+  "tecnicas": [
+    "Fresco",
+    "Pintura mural"
+  ],
+  "etiquetas": [
+    "Piero della Francesca",
+    "Primer Renacimiento",
+    "Renacimiento",
+    "Guía maestra Parte III",
+    "Leyenda de la Vera Cruz",
+    "capilla Bacci",
+    "Arezzo",
+    "escena 12 de 12",
+    "Isaías",
+    "profeta",
+    "Giovanni da Piamonte",
+    "atribución"
+  ],
+  "proporcion": [
+    900,
+    1200
+  ],
+  "color": "#74695c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giovanni%20Di%20Piamonte%20-%20The%20Prophet%20Isaiah%20-%20WGA09481.jpg?width=1600",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Giovanni_Di_Piamonte_-_The_Prophet_Isaiah_-_WGA09481.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Giovanni_Di_Piamonte_-_The_Prophet_Isaiah_-_WGA09481.jpg",
+    "alt": "Profeta joven de pie con túnica roja y manto gris, una mano extendida, ante un fondo oscuro",
+    "licencia": "Dominio público",
+    "credito": "Atribuido a Giovanni da Piamonte · Web Gallery of Art / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "parteDe": "La Leyenda de la Vera Cruz",
+    "grupo": "Doce escenas de la capilla Bacci",
+    "posicionEnSerie": 12,
+    "totalEnSerie": 12,
+    "fuenteInstitucional": "https://museiarezzo.it/en/frescoes-by-piero-della-francesca/",
+    "guia": "Frescos de la Leyenda de la Verdadera Cruz",
+    "incorporada": "2026-08-10",
+    "categoriaCommons": "https://commons.wikimedia.org/wiki/Category:Prophet_Isaiah_by_Piero_della_Francesca"
+  }
+}

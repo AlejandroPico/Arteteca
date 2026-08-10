@@ -1,0 +1,41 @@
+{
+  "id": "parvati-chola-met",
+  "titulo": "Pārvatī de pie",
+  "autor": "Taller chola de Tamil Nadu",
+  "fecha": "Primer cuarto del siglo X",
+  "fechaOrden": 925,
+  "tipo": "Escultura",
+  "periodo": "Imperio chola",
+  "coleccion": "Arte de Asia meridional",
+  "descripcion": "Pārvatī se sostiene en una postura flexible, con una cadera desplazada y un brazo que debió acompañar una flor. La aleación de cobre transforma el cuerpo divino en una presencia rítmica concebida para culto y procesión.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/art/collection/search/39325",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20Nueva%20York%2C%20Estados%20Unidos",
+  "pais": "Estados Unidos",
+  "dimensiones": "69,5 × 26 × 17 cm",
+  "tecnicas": [
+    "Aleación de cobre fundida a la cera perdida"
+  ],
+  "etiquetas": [
+    "Taller chola de Tamil Nadu",
+    "Imperio chola",
+    "Escultura",
+    "Arte de Asia meridional",
+    "Estados Unidos"
+  ],
+  "proporcion": [
+    1600,
+    2800
+  ],
+  "color": "#766142",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/MET_Standing_Parvati1.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/MET_Standing_Parvati1.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:MET_Standing_Parvati1.jpg",
+    "alt": "Escultura chola de Párvati en aleación de cobre, de pie con postura ondulante",
+    "licencia": "Licencia libre de la fotografía; imagen de la obra en dominio público según The Met",
+    "credito": "Taller chola · The Metropolitan Museum of Art / Wikimedia Commons",
+    "foco": "center"
+  }
+}

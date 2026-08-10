@@ -1,0 +1,41 @@
+{
+  "id": "prajnaparamita-java",
+  "titulo": "Prajñāpāramitā de Java",
+  "autor": "Taller de Singhasari",
+  "fecha": "Siglo XIII",
+  "fechaOrden": 1250,
+  "tipo": "Escultura",
+  "periodo": "Arte budista de Java",
+  "coleccion": "Arte del Sudeste Asiático",
+  "descripcion": "La personificación de la Sabiduría Perfecta medita sobre un doble loto, ricamente enjoyada pero completamente inmóvil. El equilibrio entre ornamento minucioso y serenidad hace de esta escultura una cumbre del arte de Singhasari.",
+  "localizacion": "Museo Nacional de Indonesia",
+  "ciudad": "Yakarta",
+  "urlLocalizacion": "https://www.museumnasional.or.id/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Indonesia%2C%20Yakarta%2C%20Indonesia",
+  "pais": "Indonesia",
+  "dimensiones": "126 × 50 cm",
+  "tecnicas": [
+    "Andesita tallada"
+  ],
+  "etiquetas": [
+    "Taller de Singhasari",
+    "Arte budista de Java",
+    "Escultura",
+    "Arte del Sudeste Asiático",
+    "Indonesia"
+  ],
+  "proporcion": [
+    1348,
+    2835
+  ],
+  "color": "#6b655b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Prajnaparamita_Java_Front.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Prajnaparamita_Java_Front.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Prajnaparamita_Java_Front.JPG",
+    "alt": "Escultura javanesa de Prajnaparamita sentada en meditación, con corona y joyas talladas",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Taller de Singhasari · fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "carro-bronce-qin",
+  "titulo": "Carro de bronce n.º 1 del mausoleo de Qin Shihuang",
+  "autor": "Talleres imperiales Qin",
+  "fecha": "c. 210 a. C.",
+  "fechaOrden": -210,
+  "tipo": "Escultura y objeto",
+  "periodo": "Dinastía Qin",
+  "coleccion": "Arte de China",
+  "descripcion": "Cuatro caballos tiran de un carro abierto gobernado por un auriga bajo un gran parasol. Fundido aproximadamente a media escala, el conjunto reproduce arneses, armas y mecanismos mediante miles de componentes de bronce.",
+  "localizacion": "Museo de los Carros de Bronce, Mausoleo del Primer Emperador Qin",
+  "ciudad": "Xi’an",
+  "urlLocalizacion": "https://www.bmy.com.cn/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20los%20Carros%20de%20Bronce%2C%20Mausoleo%20del%20Primer%20Emperador%20Qin%2C%20Xi%E2%80%99an%2C%20China",
+  "pais": "China",
+  "dimensiones": "Aproximadamente 225 cm de largo y 152 cm de alto; 1.061 kg",
+  "tecnicas": [
+    "Bronce fundido",
+    "Ensamblaje",
+    "Incrustación y pigmento"
+  ],
+  "etiquetas": [
+    "Talleres imperiales Qin",
+    "Dinastía Qin",
+    "Escultura y objeto",
+    "Arte de China",
+    "China"
+  ],
+  "proporcion": [
+    3264,
+    2448
+  ],
+  "color": "#536653",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flickr_-_archer10_(Dennis)_-_China-7244.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flickr_-_archer10_(Dennis)_-_China-7244.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)_-_China-7244.jpg",
+    "alt": "Carro de bronce Qin con cuatro caballos, auriga y parasol",
+    "licencia": "Licencia Creative Commons indicada en Wikimedia Commons",
+    "credito": "Talleres imperiales Qin · fotografía de Dennis Jarvis, Wikimedia Commons",
+    "foco": "center"
+  }
+}

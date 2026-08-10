@@ -1,0 +1,42 @@
+{
+  "id": "hombre-leon-hohlenstein-stadel",
+  "titulo": "Hombre león de Hohlenstein-Stadel",
+  "tituloOriginal": "Löwenmensch",
+  "autor": "Artista auriñaciense no identificado",
+  "fecha": "c. 40.000–35.000 años antes del presente",
+  "fechaOrden": -38000,
+  "tipo": "Escultura",
+  "periodo": "Auriñaciense",
+  "coleccion": "Prehistoria y primeras imágenes",
+  "descripcion": "Una figura humana con cabeza de león fue tallada en marfil de mamut y reconstruida a partir de numerosos fragmentos. Su cuerpo erguido y su identidad híbrida revelan una imaginación simbólica extraordinariamente antigua.",
+  "localizacion": "Museum Ulm",
+  "ciudad": "Ulm",
+  "urlLocalizacion": "https://museumulm.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20Ulm%2C%20Ulm%2C%20Alemania",
+  "pais": "Alemania",
+  "dimensiones": "31,1 cm de altura",
+  "tecnicas": [
+    "Marfil de mamut tallado, raspado y pulido"
+  ],
+  "etiquetas": [
+    "Artista auriñaciense no identificado",
+    "Auriñaciense",
+    "Escultura",
+    "Prehistoria y primeras imágenes",
+    "Alemania"
+  ],
+  "proporcion": [
+    1200,
+    3000
+  ],
+  "color": "#b7a381",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Loewenmensch2.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Loewenmensch2.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Loewenmensch2.jpg",
+    "alt": "Hombre león prehistórico de marfil, figura erguida con cabeza felina",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Artista auriñaciense no identificado · fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "descendimiento-rogier",
+  "titulo": "El Descendimiento",
+  "tituloOriginal": "De kruisafneming",
+  "autor": "Rogier van der Weyden",
+  "fecha": "c. 1435",
+  "fechaOrden": 1435,
+  "tipo": "Pintura",
+  "periodo": "Primitivos flamencos",
+  "coleccion": "Pintura devocional de los Países Bajos",
+  "descripcion": "Diez figuras comprimidas en una caja dorada convierten el descenso de Cristo en una coreografía de dolor. La curva del cuerpo de la Virgen repite la de su hijo y enlaza sacrificio, empatía y precisión material.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/en/the-collection/art-work/the-descent-from-the-cross/856d822a-dd22-4425-bebd-920a1d416aa7",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid%2C%20Espa%C3%B1a",
+  "pais": "España",
+  "dimensiones": "220 × 262 cm",
+  "tecnicas": [
+    "Óleo sobre tabla de roble"
+  ],
+  "etiquetas": [
+    "Rogier van der Weyden",
+    "Primitivos flamencos",
+    "Pintura",
+    "Pintura devocional de los Países Bajos",
+    "España"
+  ],
+  "proporcion": [
+    1672,
+    2000
+  ],
+  "color": "#9a6a31",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El_Descendimiento%2C_by_Rogier_van_der_Weyden%2C_from_Prado_in_Google_Earth.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El_Descendimiento%2C_by_Rogier_van_der_Weyden%2C_from_Prado_in_Google_Earth.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El_Descendimiento%2C_by_Rogier_van_der_Weyden%2C_from_Prado_in_Google_Earth.jpg",
+    "alt": "Descendimiento de Cristo de Rogier van der Weyden, con diez figuras ante un fondo dorado",
+    "licencia": "Dominio público (reproducción fiel de una obra bidimensional)",
+    "credito": "Rogier van der Weyden · Museo Nacional del Prado · Wikimedia Commons",
+    "foco": "center"
+  }
+}

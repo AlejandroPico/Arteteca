@@ -1,0 +1,42 @@
+{
+  "id": "toro-farnesio",
+  "titulo": "Toro Farnesio",
+  "autor": "Taller romano; según una composición helenística asociada a Apolonio y Taurisco de Tralles",
+  "fecha": "Versión romana, comienzos del siglo III d. C.; modelo helenístico anterior",
+  "fechaOrden": 225,
+  "tipo": "Escultura",
+  "periodo": "Helenismo tardío",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Anfión y Zeto atan a Dirce a un toro en un grupo de mármol que multiplica cuerpos, diagonales y puntos de vista. La obra conservada es una adaptación romana muy restaurada de una célebre composición helenística.",
+  "localizacion": "Museo Archeologico Nazionale di Napoli",
+  "ciudad": "Nápoles",
+  "urlLocalizacion": "https://mann-napoli.it/en/farnese-collection/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20Nazionale%20di%20Napoli%2C%20N%C3%A1poles%2C%20Italia",
+  "pais": "Italia",
+  "dimensiones": "Grupo monumental de más de 3,5 m de altura",
+  "tecnicas": [
+    "Mármol tallado",
+    "Restauraciones modernas"
+  ],
+  "etiquetas": [
+    "Taller romano; según una composición helenística asociada a Apolonio y Taurisco de Tralles",
+    "Helenismo tardío",
+    "Escultura",
+    "Grecia y Roma",
+    "Italia"
+  ],
+  "proporcion": [
+    2700,
+    3375
+  ],
+  "color": "#b7afa1",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Farnese_Bull_MAN_Napoli_Inv6002_n01.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Farnese_Bull_MAN_Napoli_Inv6002_n01.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Farnese_Bull_MAN_Napoli_Inv6002_n01.jpg",
+    "alt": "Toro Farnesio, enorme grupo de mármol con un toro y varias figuras humanas entrelazadas",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Taller romano · fotografía de Jastrow, Wikimedia Commons",
+    "foco": "center"
+  }
+}

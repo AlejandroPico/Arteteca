@@ -1,0 +1,42 @@
+{
+  "id": "vajrapani-ajanta",
+  "titulo": "Vajrapāṇi, cueva 1 de Ajanta",
+  "autor": "Talleres de Ajanta",
+  "fecha": "c. 475–500",
+  "fechaOrden": 488,
+  "tipo": "Pintura mural",
+  "periodo": "Arte budista de Ajanta",
+  "coleccion": "Arte de Asia meridional",
+  "descripcion": "El bodhisattva Vajrapāṇi aparece como una presencia cortesana junto al santuario de la cueva 1. Joyas, corona, flores y una mirada contenida convierten la pared en una visión de poder espiritual refinado.",
+  "localizacion": "Cuevas de Ajanta, cueva 1",
+  "ciudad": "Ajanta",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/242/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cuevas%20de%20Ajanta%2C%20cueva%201%2C%20Ajanta%2C%20India",
+  "pais": "India",
+  "dimensiones": "Pintura mural de escala arquitectónica",
+  "tecnicas": [
+    "Temple sobre enlucido seco",
+    "Pigmentos minerales y orgánicos"
+  ],
+  "etiquetas": [
+    "Talleres de Ajanta",
+    "Arte budista de Ajanta",
+    "Pintura mural",
+    "Arte de Asia meridional",
+    "India"
+  ],
+  "proporcion": [
+    3462,
+    5198
+  ],
+  "color": "#7c4b33",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vajrapani_Ajanta_Cave_1.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vajrapani_Ajanta_Cave_1.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vajrapani_Ajanta_Cave_1.jpg",
+    "alt": "Vajrapani en Ajanta, figura coronada y enjoyada pintada sobre un muro oscuro",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Talleres de Ajanta · fotografía de Shishirdasika, Wikimedia Commons",
+    "foco": "center"
+  }
+}

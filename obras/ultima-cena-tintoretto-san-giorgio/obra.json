@@ -1,0 +1,41 @@
+{
+  "id": "ultima-cena-tintoretto-san-giorgio",
+  "titulo": "La Última Cena",
+  "autor": "Tintoretto",
+  "fecha": "1592–1594",
+  "fechaOrden": 1593,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano tardío",
+  "coleccion": "Ciclo del presbiterio de San Giorgio Maggiore",
+  "descripcion": "La mesa de Cristo se aleja en una diagonal vertiginosa mientras sirvientes, humo y ángeles invaden la estancia. Tintoretto transforma la cena en una visión donde lo cotidiano y lo sobrenatural comparten el mismo aire.",
+  "localizacion": "Basílica de San Giorgio Maggiore",
+  "ciudad": "Venecia",
+  "urlLocalizacion": "https://www.abbaziasangiorgio.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20de%20San%20Giorgio%20Maggiore%2C%20Venecia%2C%20Italia",
+  "pais": "Italia",
+  "dimensiones": "365 × 568 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Tintoretto",
+    "Renacimiento veneciano tardío",
+    "Pintura",
+    "Ciclo del presbiterio de San Giorgio Maggiore",
+    "Italia"
+  ],
+  "proporcion": [
+    1083,
+    700
+  ],
+  "color": "#4d493e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg",
+    "alt": "Última Cena de Tintoretto con la mesa en diagonal, sirvientes en primer plano y ángeles luminosos",
+    "licencia": "Dominio público (reproducción fiel de una obra bidimensional)",
+    "credito": "Tintoretto · Basílica de San Giorgio Maggiore · Wikimedia Commons",
+    "foco": "center"
+  }
+}

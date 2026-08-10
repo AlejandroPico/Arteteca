@@ -1,0 +1,41 @@
+{
+  "id": "retrato-jovellanos-goya",
+  "titulo": "Gaspar Melchor de Jovellanos",
+  "autor": "Francisco de Goya",
+  "fecha": "1798",
+  "fechaOrden": 1798,
+  "tipo": "Pintura",
+  "periodo": "Ilustración española",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Jovellanos se apoya en una mesa de trabajo, fatigado y pensativo, con papeles y una estatua de Minerva a su espalda. Goya transforma el retrato ministerial en una imagen de inteligencia sometida al peso de la responsabilidad.",
+  "localizacion": "Museo Nacional del Prado",
+  "ciudad": "Madrid",
+  "urlLocalizacion": "https://www.museodelprado.es/coleccion/obra-de-arte/gaspar-melchor-de-jovellanos/e986896f-2db4-42b5-a318-5be5ac6305ce",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20del%20Prado%2C%20Madrid%2C%20Espa%C3%B1a",
+  "pais": "España",
+  "dimensiones": "205 × 133 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Francisco de Goya",
+    "Ilustración española",
+    "Pintura",
+    "De la Ilustración al Romanticismo",
+    "España"
+  ],
+  "proporcion": [
+    2000,
+    3000
+  ],
+  "color": "#5f5143",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco_de_Goya_y_Lucientes_-_Gaspar_Melchor_de_Jovellanos.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco_de_Goya_y_Lucientes_-_Gaspar_Melchor_de_Jovellanos.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_Gaspar_Melchor_de_Jovellanos.jpg",
+    "alt": "Retrato de Jovellanos por Goya, sentado y apoyado pensativamente sobre una mesa con documentos",
+    "licencia": "Dominio público",
+    "credito": "Francisco de Goya · Museo Nacional del Prado / Wikimedia Commons",
+    "foco": "center"
+  }
+}

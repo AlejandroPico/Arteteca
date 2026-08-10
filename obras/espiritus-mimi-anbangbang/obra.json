@@ -1,0 +1,41 @@
+{
+  "id": "espiritus-mimi-anbangbang",
+  "titulo": "Espíritus mimi de Anbangbang",
+  "autor": "Artistas aborígenes de la región de Kakadu",
+  "fecha": "Cronología tradicional; repintados en distintos momentos",
+  "fechaOrden": 1000,
+  "tipo": "Pintura rupestre",
+  "periodo": "Arte aborigen australiano",
+  "coleccion": "Arte de Oceanía",
+  "descripcion": "Figuras extremadamente delgadas avanzan, cazan y se inclinan sobre la roca de Anbangbang. Su fragilidad corporal identifica a los mimi, seres ancestrales asociados en Arnhem Land con la enseñanza de la pintura y la vida en el paisaje.",
+  "localizacion": "Galería de Anbangbang, Burrungkuy, Parque Nacional Kakadu",
+  "ciudad": "Kakadu",
+  "urlLocalizacion": "https://parksaustralia.gov.au/kakadu/do/rock-art/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Galer%C3%ADa%20de%20Anbangbang%2C%20Burrungkuy%2C%20Parque%20Nacional%20Kakadu%2C%20Kakadu%2C%20Australia",
+  "pais": "Australia",
+  "dimensiones": "Conjunto rupestre de escala variable",
+  "tecnicas": [
+    "Pigmentos minerales sobre roca"
+  ],
+  "etiquetas": [
+    "Artistas aborígenes de la región de Kakadu",
+    "Arte aborigen australiano",
+    "Pintura rupestre",
+    "Arte de Oceanía",
+    "Australia"
+  ],
+  "proporcion": [
+    1476,
+    742
+  ],
+  "color": "#9a4e2f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anbangbang_gallery_Mimi_rock_art_cropped.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anbangbang_gallery_Mimi_rock_art_cropped.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Anbangbang_gallery_Mimi_rock_art_cropped.jpg",
+    "alt": "Pinturas rupestres de espíritus mimi, figuras humanas muy finas y alargadas sobre roca",
+    "licencia": "CC BY-SA 2.5; la reutilización puede estar sujeta además a normativa y protocolos culturales del parque",
+    "credito": "Artistas aborígenes no identificados · fotografía de Dustin M. Ramsey / Kralizec!, Wikimedia Commons",
+    "foco": "center"
+  }
+}

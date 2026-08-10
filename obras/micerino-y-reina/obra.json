@@ -1,0 +1,42 @@
+{
+  "id": "micerino-y-reina",
+  "titulo": "Micerino y una reina",
+  "tituloOriginal": "King Menkaura and queen",
+  "autor": "Talleres reales egipcios",
+  "fecha": "c. 2490–2472 a. C.",
+  "fechaOrden": -2480,
+  "tipo": "Escultura",
+  "periodo": "Dinastía IV",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "El rey Micerino avanza con el pie izquierdo mientras una reina lo abraza y acompaña su paso. La pareja combina frontalidad ritual, cuerpos idealizados y un vínculo físico inusualmente cercano.",
+  "localizacion": "Museum of Fine Arts Boston",
+  "ciudad": "Boston",
+  "urlLocalizacion": "https://collections.mfa.org/objects/230",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Fine%20Arts%20Boston%2C%20Boston%2C%20Estados%20Unidos",
+  "pais": "Estados Unidos",
+  "dimensiones": "142,2 × 57,1 × 55,2 cm",
+  "tecnicas": [
+    "Grauvaca tallada y pulida"
+  ],
+  "etiquetas": [
+    "Talleres reales egipcios",
+    "Dinastía IV",
+    "Escultura",
+    "Antiguo Egipto",
+    "Estados Unidos"
+  ],
+  "proporcion": [
+    2501,
+    3817
+  ],
+  "color": "#5d665d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/King_Menkaura_(Mycerinus)_and_queen.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/King_Menkaura_(Mycerinus)_and_queen.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:King_Menkaura_(Mycerinus)_and_queen.jpg",
+    "alt": "Escultura de Micerino y una reina de pie, tallados juntos en piedra oscura",
+    "licencia": "Dominio público",
+    "credito": "Talleres reales egipcios · Museum of Fine Arts Boston / Wikimedia Commons",
+    "foco": "center"
+  }
+}

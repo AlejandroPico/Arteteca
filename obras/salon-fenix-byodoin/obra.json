@@ -1,0 +1,44 @@
+{
+  "id": "salon-fenix-byodoin",
+  "titulo": "Salón del Fénix del Byōdō-in",
+  "tituloOriginal": "鳳凰堂 (Hōō-dō)",
+  "autor": "Talleres del periodo Heian bajo Fujiwara no Yorimichi",
+  "fecha": "1053",
+  "fechaOrden": 1053,
+  "tipo": "Arquitectura",
+  "periodo": "Periodo Heian",
+  "coleccion": "Arquitectura budista de la Tierra Pura",
+  "descripcion": "Un pabellón dorado se extiende sobre el estanque como una visión del Paraíso Occidental de Amida. Arquitectura, escultura, pintura, jardín y reflejo se integran en una experiencia cortesana de salvación.",
+  "localizacion": "Byōdō-in",
+  "ciudad": "Uji",
+  "urlLocalizacion": "https://www.byodoin.or.jp/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=By%C5%8Dd%C5%8D-in%2C%20Uji%2C%20Jap%C3%B3n",
+  "pais": "Japón",
+  "dimensiones": "Pabellón central flanqueado por dos corredores alados",
+  "tecnicas": [
+    "Arquitectura de madera",
+    "Lacado y dorado",
+    "Jardín de la Tierra Pura"
+  ],
+  "etiquetas": [
+    "Talleres del periodo Heian bajo Fujiwara no Yorimichi",
+    "Periodo Heian",
+    "Arquitectura",
+    "Arquitectura budista de la Tierra Pura",
+    "Japón"
+  ],
+  "proporcion": [
+    4592,
+    3056
+  ],
+  "color": "#8d6231",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Byodoin_Phoenix_Hall_Uji_2009.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Byodoin_Phoenix_Hall_Uji_2009.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Byodoin_Phoenix_Hall_Uji_2009.jpg",
+    "alt": "Salón del Fénix del Byodo-in reflejado en su estanque, con alas laterales simétricas",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Byōdō-in · fotografía de 663highland · Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nadadores-wadi-sura",
+  "titulo": "Nadadores de Wadi Sura",
+  "autor": "Comunidades prehistóricas del Sahara oriental",
+  "fecha": "c. 7000–5000 a. C.",
+  "fechaOrden": -6000,
+  "tipo": "Pintura rupestre",
+  "periodo": "Holoceno temprano y medio",
+  "coleccion": "Prehistoria y primeras imágenes",
+  "descripcion": "Pequeñas figuras humanas parecen avanzar horizontalmente con brazos y piernas extendidos sobre la roca. Pintadas cuando el Sahara era mucho más húmedo, han generado debates sobre natación, ritual y memoria ambiental.",
+  "localizacion": "Cueva de los Nadadores, Wadi Sura, Gilf Kebir",
+  "ciudad": "Desierto Occidental",
+  "urlLocalizacion": "https://whc.unesco.org/en/tentativelists/182/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cueva%20de%20los%20Nadadores%2C%20Wadi%20Sura%2C%20Gilf%20Kebir%2C%20Desierto%20Occidental%2C%20Egipto",
+  "pais": "Egipto",
+  "dimensiones": "Conjunto rupestre de figuras pequeñas",
+  "tecnicas": [
+    "Pigmento sobre roca"
+  ],
+  "etiquetas": [
+    "Comunidades prehistóricas del Sahara oriental",
+    "Holoceno temprano y medio",
+    "Pintura rupestre",
+    "Prehistoria y primeras imágenes",
+    "Egipto"
+  ],
+  "proporcion": [
+    800,
+    533
+  ],
+  "color": "#a65f42",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/WadiSuraSwimmers.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/WadiSuraSwimmers.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:WadiSuraSwimmers.jpg",
+    "alt": "Pinturas rupestres de Wadi Sura con pequeñas figuras humanas extendidas como nadadores",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Artistas prehistóricos no identificados · fotografía de Roland Unger, Wikimedia Commons",
+    "foco": "center"
+  }
+}

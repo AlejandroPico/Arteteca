@@ -1,0 +1,42 @@
+{
+  "id": "moai-kavakava",
+  "titulo": "Moai kavakava",
+  "autor": "Artista rapanui no identificado",
+  "fecha": "Probablemente siglo XIX",
+  "fechaOrden": 1850,
+  "tipo": "Escultura",
+  "periodo": "Arte rapanui",
+  "coleccion": "Arte de Oceanía",
+  "descripcion": "Una figura masculina de madera exhibe costillas, vientre hundido, cabeza desproporcionada y una expresión alerta. Los moai kavakava encarnaban antepasados o seres poderosos y podían llevarse suspendidos en celebraciones.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.britishmuseum.org/collection/search?keyword=moai%20kavakava",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%2C%20Londres%2C%20Reino%20Unido",
+  "pais": "Reino Unido",
+  "dimensiones": "Figura portátil de madera",
+  "tecnicas": [
+    "Madera tallada",
+    "Incrustaciones"
+  ],
+  "etiquetas": [
+    "Artista rapanui no identificado",
+    "Arte rapanui",
+    "Escultura",
+    "Arte de Oceanía",
+    "Reino Unido"
+  ],
+  "proporcion": [
+    1200,
+    1800
+  ],
+  "color": "#6f4228",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mo%C3%A1i_Kava-Kava%2C_British_Museum.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mo%C3%A1i_Kava-Kava%2C_British_Museum.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Mo%C3%A1i_Kava-Kava%2C_British_Museum.jpg",
+    "alt": "Moai kavakava rapanui, figura de madera delgada con costillas marcadas y cabeza grande",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Artista rapanui no identificado · fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}

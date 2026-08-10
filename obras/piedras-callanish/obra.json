@@ -1,0 +1,43 @@
+{
+  "id": "piedras-callanish",
+  "titulo": "Piedras de Calanais",
+  "tituloOriginal": "Calanais Standing Stones",
+  "autor": "Comunidades neolíticas de las Hébridas",
+  "fecha": "c. 2900–2600 a. C.",
+  "fechaOrden": -2750,
+  "tipo": "Arquitectura y megalitismo",
+  "periodo": "Neolítico y Edad del Bronce",
+  "coleccion": "Megalitismo atlántico",
+  "descripcion": "Un círculo de monolitos y largas alineaciones de piedra articulan el paisaje de la isla de Lewis. El conjunto hizo del horizonte, los recorridos y los ciclos celestes parte de una arquitectura ceremonial colectiva.",
+  "localizacion": "Calanais I",
+  "ciudad": "Isla de Lewis",
+  "urlLocalizacion": "https://www.historicenvironment.scot/visit-a-place/places/calanais-standing-stones/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Calanais%20I%2C%20Isla%20de%20Lewis%2C%20Reino%20Unido",
+  "pais": "Reino Unido",
+  "dimensiones": "Monolito central de unos 4,8 m; conjunto de más de 40 piedras",
+  "tecnicas": [
+    "Gneis local hincado",
+    "Arquitectura megalítica"
+  ],
+  "etiquetas": [
+    "Comunidades neolíticas de las Hébridas",
+    "Neolítico y Edad del Bronce",
+    "Arquitectura y megalitismo",
+    "Megalitismo atlántico",
+    "Reino Unido"
+  ],
+  "proporcion": [
+    11400,
+    2675
+  ],
+  "color": "#6f746d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Callanish_Standing_Stones_Pano.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Callanish_Standing_Stones_Pano.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Callanish_Standing_Stones_Pano.jpg",
+    "alt": "Panorama de las piedras verticales de Calanais bajo un cielo abierto en la isla de Lewis",
+    "licencia": "CC BY-SA (consúltese la ficha del archivo)",
+    "credito": "Comunidades neolíticas de Lewis · Calanais · Wikimedia Commons",
+    "foco": "center"
+  }
+}

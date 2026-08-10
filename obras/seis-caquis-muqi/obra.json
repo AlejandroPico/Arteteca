@@ -1,0 +1,42 @@
+{
+  "id": "seis-caquis-muqi",
+  "titulo": "Seis caquis",
+  "tituloOriginal": "六柿図",
+  "autor": "Muqi Fachang",
+  "fecha": "Siglo XIII",
+  "fechaOrden": 1250,
+  "tipo": "Pintura",
+  "periodo": "Dinastía Song del Sur",
+  "coleccion": "Arte de China",
+  "descripcion": "Seis frutos se alinean sobre un fondo vacío, diferenciados por mínimos cambios de tinta, forma y distancia. Muqi convierte una escena humilde en una meditación sobre peso, ritmo y presencia.",
+  "localizacion": "Ryōkō-in, Daitoku-ji",
+  "ciudad": "Kioto",
+  "urlLocalizacion": "https://www.daitokuji.com/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Ry%C5%8Dk%C5%8D-in%2C%20Daitoku-ji%2C%20Kioto%2C%20Jap%C3%B3n",
+  "pais": "Japón",
+  "dimensiones": "36,2 × 38,1 cm",
+  "tecnicas": [
+    "Tinta sobre papel"
+  ],
+  "etiquetas": [
+    "Muqi Fachang",
+    "Dinastía Song del Sur",
+    "Pintura",
+    "Arte de China",
+    "Japón"
+  ],
+  "proporcion": [
+    491,
+    600
+  ],
+  "color": "#a99b82",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%E5%85%AD%E6%9F%BF%E5%9B%BE.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%E5%85%AD%E6%9F%BF%E5%9B%BE.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:%E5%85%AD%E6%9F%BF%E5%9B%BE.jpg",
+    "alt": "Pintura a tinta de Muqi con seis caquis alineados sobre papel vacío",
+    "licencia": "Dominio público",
+    "credito": "Muqi Fachang · Ryōkō-in / Wikimedia Commons",
+    "foco": "center"
+  }
+}

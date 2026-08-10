@@ -1,0 +1,42 @@
+{
+  "id": "fantasia-cromatica-augusto-giacometti",
+  "titulo": "Fantasía cromática",
+  "tituloOriginal": "Chromatische Phantasie",
+  "autor": "Augusto Giacometti",
+  "fecha": "1914",
+  "fechaOrden": 1914,
+  "tipo": "Pintura",
+  "periodo": "Abstracción lírica",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Una red de manchas poligonales encendidas cubre el lienzo sin figura ni fondo estables. Giacometti trata el color como materia autónoma y construye un campo luminoso que recuerda a un vitral visto de cerca.",
+  "localizacion": "Kunsthaus Zürich",
+  "ciudad": "Zúrich",
+  "urlLocalizacion": "https://www.kunsthaus.ch/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kunsthaus%20Z%C3%BCrich%2C%20Z%C3%BArich%2C%20Suiza",
+  "pais": "Suiza",
+  "dimensiones": "95,5 × 95,5 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Augusto Giacometti",
+    "Abstracción lírica",
+    "Pintura",
+    "Abstracción y diseño moderno",
+    "Suiza"
+  ],
+  "proporcion": [
+    1021,
+    1024
+  ],
+  "color": "#ba5a32",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chromatic_Fantasy_Augusto_Giacometti_-_1914.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chromatic_Fantasy_Augusto_Giacometti_-_1914.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Chromatic_Fantasy_Augusto_Giacometti_-_1914.jpg",
+    "alt": "Fantasía cromática de Augusto Giacometti, mosaico abstracto de colores intensos",
+    "licencia": "Dominio público (reproducción fiel de una obra bidimensional)",
+    "credito": "Augusto Giacometti · Kunsthaus Zürich · Wikimedia Commons",
+    "foco": "center"
+  }
+}

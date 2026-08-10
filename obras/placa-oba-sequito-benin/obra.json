@@ -1,0 +1,42 @@
+{
+  "id": "placa-oba-sequito-benin",
+  "titulo": "Placa con un oba y su séquito",
+  "autor": "Taller real del reino de Benín",
+  "fecha": "Siglos XVI–XVII",
+  "fechaOrden": 1600,
+  "tipo": "Relieve",
+  "periodo": "Arte de Benín",
+  "coleccion": "Arte de África",
+  "descripcion": "Un oba ocupa el eje de una placa de latón rodeado por asistentes y figuras portuguesas de menor escala. Jerarquía, comercio y poder cortesano se organizan mediante tamaño, simetría y una superficie densamente modelada.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.britishmuseum.org/collection/object/E_Af1898-0115-23",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%2C%20Londres%2C%20Reino%20Unido",
+  "pais": "Reino Unido",
+  "dimensiones": "Placa rectangular de latón",
+  "tecnicas": [
+    "Fundición a la cera perdida",
+    "Latón"
+  ],
+  "etiquetas": [
+    "Taller real del reino de Benín",
+    "Arte de Benín",
+    "Relieve",
+    "Arte de África",
+    "Reino Unido"
+  ],
+  "proporcion": [
+    2592,
+    3888
+  ],
+  "color": "#76522f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Benin_Bronzes_at_the_British_Museum_2.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Benin_Bronzes_at_the_British_Museum_2.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Benin_Bronzes_at_the_British_Museum_2.jpg",
+    "alt": "Placa de latón de Benín con un oba central, asistentes y figuras portuguesas",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Taller real de Benín · fotografía de Mike Peel, Wikimedia Commons",
+    "foco": "center"
+  }
+}

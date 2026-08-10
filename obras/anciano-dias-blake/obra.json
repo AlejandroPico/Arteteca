@@ -1,0 +1,43 @@
+{
+  "id": "anciano-dias-blake",
+  "titulo": "El Anciano de los Días",
+  "tituloOriginal": "The Ancient of Days",
+  "autor": "William Blake",
+  "fecha": "1794",
+  "fechaOrden": 1794,
+  "tipo": "Estampa e ilustración",
+  "periodo": "Romanticismo inglés",
+  "coleccion": "Europe: A Prophecy, copia D",
+  "descripcion": "Una figura solar se inclina desde un círculo de fuego y mide el abismo con un compás. Blake abre su libro profético con una imagen de creación que es también crítica de la razón convertida en límite.",
+  "localizacion": "British Museum",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.britishmuseum.org/collection/object/P_1859-0625-72",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=British%20Museum%2C%20Londres%2C%20Reino%20Unido",
+  "pais": "Reino Unido",
+  "dimensiones": "Página de aproximadamente 23,3 × 16,8 cm",
+  "tecnicas": [
+    "Aguafuerte en relieve",
+    "Impresión en color y acabado a mano"
+  ],
+  "etiquetas": [
+    "William Blake",
+    "Romanticismo inglés",
+    "Estampa e ilustración",
+    "Europe: A Prophecy, copia D",
+    "Reino Unido"
+  ],
+  "proporcion": [
+    1225,
+    2000
+  ],
+  "color": "#c36e2e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Europe_a_Prophecy_copy_D_1794_British_Museum_object_1.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Europe_a_Prophecy_copy_D_1794_British_Museum_object_1.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Europe_a_Prophecy_copy_D_1794_British_Museum_object_1.jpg",
+    "alt": "El Anciano de los Días de William Blake, figura luminosa que mide la oscuridad con un compás",
+    "licencia": "Dominio público (reproducción fiel de una obra bidimensional)",
+    "credito": "William Blake · British Museum · Wikimedia Commons",
+    "foco": "center"
+  }
+}

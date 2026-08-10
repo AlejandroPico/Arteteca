@@ -1,0 +1,44 @@
+{
+  "id": "poste-veranda-olowe-ise",
+  "titulo": "Poste de veranda con jinete y figura femenina",
+  "tituloOriginal": "Òpó",
+  "autor": "Olowe de Ise",
+  "fecha": "Antes de 1938",
+  "fechaOrden": 1930,
+  "tipo": "Escultura arquitectónica",
+  "periodo": "Arte yoruba",
+  "coleccion": "Arte de África",
+  "descripcion": "Un guerrero ecuestre se alza sobre una cariátide femenina que sostiene el nivel superior con los brazos. Olowe convierte un soporte palaciego en una composición de giros, vacíos y jerarquías que parece moverse pese a su altura monumental.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/art/collection/search/317823",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20Nueva%20York%2C%20Estados%20Unidos",
+  "pais": "Estados Unidos",
+  "dimensiones": "180,3 × 28,6 × 35,6 cm",
+  "tecnicas": [
+    "Madera de iroko tallada",
+    "Pigmento",
+    "Resina"
+  ],
+  "etiquetas": [
+    "Olowe de Ise",
+    "Arte yoruba",
+    "Escultura arquitectónica",
+    "Arte de África",
+    "Estados Unidos"
+  ],
+  "proporcion": [
+    1746,
+    3722
+  ],
+  "color": "#6b3f28",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Veranda_Post-_Equestrian_Figure_and_Female_Caryatid_MET_DT1226.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Veranda_Post-_Equestrian_Figure_and_Female_Caryatid_MET_DT1226.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Veranda_Post-_Equestrian_Figure_and_Female_Caryatid_MET_DT1226.jpg",
+    "alt": "Poste yoruba de Olowe de Ise con un jinete sobre una cariátide femenina",
+    "licencia": "CC0 1.0",
+    "credito": "Olowe de Ise · The Metropolitan Museum of Art, Open Access",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cosecha-muerte-osullivan",
+  "titulo": "Una cosecha de muerte, Gettysburg",
+  "tituloOriginal": "A Harvest of Death",
+  "autor": "Timothy H. O’Sullivan",
+  "fecha": "Julio de 1863",
+  "fechaOrden": 1863,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Historia de la fotografía",
+  "descripcion": "Varios soldados muertos se extienden por un campo que se pierde en la bruma, sin héroe ni acción gloriosa. Publicada con un texto de Alexander Gardner, la imagen convirtió las consecuencias de Gettysburg en un argumento moral contra la retórica de la guerra.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/art/collection/search/285644",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20Nueva%20York%2C%20Estados%20Unidos",
+  "pais": "Estados Unidos",
+  "dimensiones": "Copia a la albúmina de 45,2 × 57,2 cm en el ejemplar del Met",
+  "tecnicas": [
+    "Copia a la albúmina desde negativo de vidrio"
+  ],
+  "etiquetas": [
+    "Timothy H. O’Sullivan",
+    "Fotoperiodismo",
+    "Fotografía",
+    "Historia de la fotografía",
+    "Estados Unidos"
+  ],
+  "proporcion": [
+    3000,
+    2400
+  ],
+  "color": "#6a675e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A_Harvest_of_Death%2C_Gettysburg%2C_Pennsylvania_MET_DP274823.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A_Harvest_of_Death%2C_Gettysburg%2C_Pennsylvania_MET_DP274823.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:A_Harvest_of_Death%2C_Gettysburg%2C_Pennsylvania_MET_DP274823.jpg",
+    "alt": "Campo de Gettysburg con soldados muertos fotografiado por Timothy O'Sullivan",
+    "licencia": "CC0 1.0",
+    "credito": "Timothy H. O’Sullivan; impresión y edición de Alexander Gardner · The Met",
+    "foco": "center"
+  }
+}

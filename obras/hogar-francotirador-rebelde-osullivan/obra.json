@@ -1,0 +1,43 @@
+{
+  "id": "hogar-francotirador-rebelde-osullivan",
+  "titulo": "Hogar de un francotirador rebelde, Gettysburg",
+  "tituloOriginal": "Home of a Rebel Sharpshooter",
+  "autor": "Timothy H. O’Sullivan",
+  "fecha": "Julio de 1863",
+  "fechaOrden": 1863,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de guerra",
+  "coleccion": "Historia de la fotografía",
+  "descripcion": "El cuerpo de un soldado confederado yace entre rocas junto a un fusil, en una composición presentada como la guarida de un tirador. La investigación posterior demostró que el cadáver fue trasladado, convirtiendo la imagen en un caso crucial sobre puesta en escena y verdad fotográfica.",
+  "localizacion": "Library of Congress",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.loc.gov/item/2012647605/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Library%20of%20Congress%2C%20Washington%20D.%20C.%2C%20Estados%20Unidos",
+  "pais": "Estados Unidos",
+  "dimensiones": "Negativo de vidrio; copia en papel a la albúmina",
+  "tecnicas": [
+    "Negativo de colodión húmedo",
+    "Copia a la albúmina"
+  ],
+  "etiquetas": [
+    "Timothy H. O’Sullivan",
+    "Fotografía de guerra",
+    "Fotografía",
+    "Historia de la fotografía",
+    "Estados Unidos"
+  ],
+  "proporcion": [
+    3000,
+    2214
+  ],
+  "color": "#6d6559",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Home_of_a_Rebel_sharpshooter_LCCN2012647605.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Home_of_a_Rebel_sharpshooter_LCCN2012647605.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Home_of_a_Rebel_sharpshooter_LCCN2012647605.jpg",
+    "alt": "Fotografía de Gettysburg con un soldado muerto dispuesto entre rocas junto a un fusil",
+    "licencia": "Dominio público",
+    "credito": "Timothy H. O’Sullivan · Library of Congress",
+    "foco": "center"
+  }
+}

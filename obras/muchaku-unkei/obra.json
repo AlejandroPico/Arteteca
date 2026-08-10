@@ -1,0 +1,44 @@
+{
+  "id": "muchaku-unkei",
+  "titulo": "Muchaku",
+  "tituloOriginal": "無著像 (Mujaku-zō)",
+  "autor": "Unkei y taller",
+  "fecha": "c. 1208–1212",
+  "fechaOrden": 1210,
+  "tipo": "Escultura",
+  "periodo": "Periodo Kamakura",
+  "coleccion": "Escultura budista de la escuela Kei",
+  "descripcion": "El monje Muchaku aparece envejecido, firme y atento, con un realismo que convierte la autoridad espiritual en presencia corporal. La madera policromada conserva una de las cumbres del retrato budista de Kamakura.",
+  "localizacion": "Kōfuku-ji, Pabellón Octogonal Norte",
+  "ciudad": "Nara",
+  "urlLocalizacion": "https://www.kohfukuji.com/english/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=K%C5%8Dfuku-ji%2C%20Pabell%C3%B3n%20Octogonal%20Norte%2C%20Nara%2C%20Jap%C3%B3n",
+  "pais": "Japón",
+  "dimensiones": "194,7 cm de altura",
+  "tecnicas": [
+    "Madera ensamblada y tallada",
+    "Policromía",
+    "Ojos de cristal"
+  ],
+  "etiquetas": [
+    "Unkei y taller",
+    "Periodo Kamakura",
+    "Escultura",
+    "Escultura budista de la escuela Kei",
+    "Japón"
+  ],
+  "proporcion": [
+    2496,
+    3440
+  ],
+  "color": "#77553b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kofukuji_Hokuendo_Muchaku_Unkei.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kofukuji_Hokuendo_Muchaku_Unkei.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Kofukuji_Hokuendo_Muchaku_Unkei.jpg",
+    "alt": "Escultura de madera policromada del monje Muchaku, de pie con las manos reunidas",
+    "licencia": "Dominio público en Japón (fotografía histórica)",
+    "credito": "Unkei y taller · Kōfuku-ji · Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "abside-sant-climent-taull",
+  "titulo": "Ábside de Sant Climent de Taüll",
+  "autor": "Maestro de Taüll y taller",
+  "fecha": "Consagrado en 1123",
+  "fechaOrden": 1123,
+  "tipo": "Pintura mural",
+  "periodo": "Arte románico",
+  "coleccion": "Arte medieval europeo",
+  "descripcion": "Cristo en Majestad domina la cuenca absidal dentro de una mandorla, rodeado por ángeles, evangelistas y apóstoles. La escala jerárquica, el dibujo negro y los colores minerales convierten el muro en una visión teológica total.",
+  "localizacion": "Museu Nacional d’Art de Catalunya",
+  "ciudad": "Barcelona",
+  "urlLocalizacion": "https://www.museunacional.cat/en/colleccio/apse-sant-climent-de-taull/mestre-de-taull/015966-000",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museu%20Nacional%20d%E2%80%99Art%20de%20Catalunya%2C%20Barcelona%2C%20Espa%C3%B1a",
+  "pais": "España",
+  "dimensiones": "Conjunto mural trasladado; ábside de escala arquitectónica",
+  "tecnicas": [
+    "Pintura al fresco y retoques al temple sobre muro"
+  ],
+  "etiquetas": [
+    "Maestro de Taüll y taller",
+    "Arte románico",
+    "Pintura mural",
+    "Arte medieval europeo",
+    "España"
+  ],
+  "proporcion": [
+    6275,
+    9412
+  ],
+  "color": "#37516a",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/(Barcelona)_Frescos_of_Sant_Climent_de_Ta%C3%BCll.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/(Barcelona)_Frescos_of_Sant_Climent_de_Ta%C3%BCll.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:(Barcelona)_Frescos_of_Sant_Climent_de_Ta%C3%BCll.jpg",
+    "alt": "Ábside románico de Sant Climent de Taüll con Cristo en Majestad en azul",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Maestro de Taüll y taller · fotografía de Didier Descouens, Wikimedia Commons",
+    "foco": "center"
+  }
+}

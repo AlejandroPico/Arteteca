@@ -1,0 +1,42 @@
+{
+  "id": "cabeza-dada-taeuber-arp",
+  "titulo": "Cabeza dadá",
+  "tituloOriginal": "Tête Dada",
+  "autor": "Sophie Taeuber-Arp",
+  "fecha": "1920",
+  "fechaOrden": 1920,
+  "tipo": "Escultura",
+  "periodo": "Dadaísmo",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Una forma torneada de madera recibe ojos, bandas y señales pintadas que sugieren un rostro sin describirlo. Taeuber-Arp une escultura, diseño, danza y objeto cotidiano en una cabeza deliberadamente ambigua.",
+  "localizacion": "Musée National d’Art Moderne, Centre Pompidou",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.centrepompidou.fr/en/ressources/oeuvre/cR99bxb",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20National%20d%E2%80%99Art%20Moderne%2C%20Centre%20Pompidou%2C%20Par%C3%ADs%2C%20Francia",
+  "pais": "Francia",
+  "dimensiones": "29,4 cm de altura; 14 cm de diámetro",
+  "tecnicas": [
+    "Madera torneada y policromada"
+  ],
+  "etiquetas": [
+    "Sophie Taeuber-Arp",
+    "Dadaísmo",
+    "Escultura",
+    "Surrealismo y primeras vanguardias",
+    "Francia"
+  ],
+  "proporcion": [
+    1200,
+    1800
+  ],
+  "color": "#b06b4f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dada_Head_by_Sophie_Taeuber-Arp%2C_1920.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dada_Head_by_Sophie_Taeuber-Arp%2C_1920.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Dada_Head_by_Sophie_Taeuber-Arp%2C_1920.jpg",
+    "alt": "Cabeza dadá de Sophie Taeuber-Arp, forma de madera torneada pintada con signos geométricos",
+    "licencia": "Obra protegida en algunos territorios; fotografía bajo la licencia indicada en Wikimedia Commons",
+    "credito": "Sophie Taeuber-Arp · Centre Pompidou · Wikimedia Commons",
+    "foco": "center"
+  }
+}

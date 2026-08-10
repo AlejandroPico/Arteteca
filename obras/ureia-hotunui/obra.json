@@ -1,0 +1,43 @@
+{
+  "id": "ureia-hotunui",
+  "titulo": "Ureia, poupou de Hotunui",
+  "autor": "Talladores Ngāti Awa para Ngāti Maru",
+  "fecha": "1878",
+  "fechaOrden": 1878,
+  "tipo": "Talla arquitectónica",
+  "periodo": "Arte maorí",
+  "coleccion": "Arte de Oceanía",
+  "descripcion": "Ureia, guardián taniwha, surge de un poste interior con ojos de nácar, boca abierta y espirales talladas. El poupou forma parte de Hotunui, casa de reunión concebida como cuerpo genealógico y espacio vivo de Ngāti Maru.",
+  "localizacion": "Auckland War Memorial Museum Tāmaki Paenga Hira",
+  "ciudad": "Auckland",
+  "urlLocalizacion": "https://www.aucklandmuseum.com/visit/galleries/maori-court",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Auckland%20War%20Memorial%20Museum%20T%C4%81maki%20Paenga%20Hira%2C%20Auckland%2C%20Nueva%20Zelanda",
+  "pais": "Nueva Zelanda",
+  "dimensiones": "Poste de pared integrado en la casa de reunión Hotunui",
+  "tecnicas": [
+    "Madera tallada",
+    "Concha de pāua",
+    "Pigmento"
+  ],
+  "etiquetas": [
+    "Talladores Ngāti Awa para Ngāti Maru",
+    "Arte maorí",
+    "Talla arquitectónica",
+    "Arte de Oceanía",
+    "Nueva Zelanda"
+  ],
+  "proporcion": [
+    1200,
+    1600
+  ],
+  "color": "#5b3325",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ureia.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ureia.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ureia.jpg",
+    "alt": "Poupou maorí de Ureia, figura tallada con boca abierta y ojos de concha",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Talladores Ngāti Awa · fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}

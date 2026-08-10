@@ -1,0 +1,42 @@
+{
+  "id": "convite-casa-levi-veronese",
+  "titulo": "El convite en casa de Leví",
+  "tituloOriginal": "Convito in casa di Levi",
+  "autor": "Paolo Veronese",
+  "fecha": "1573",
+  "fechaOrden": 1573,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento tardío",
+  "coleccion": "Pintura monumental veneciana",
+  "descripcion": "Un banquete sagrado se despliega bajo una arquitectura de mármol entre sirvientes, soldados, bufones y animales. La exuberancia que llevó a Veronese ante la Inquisición convierte la narración religiosa en teatro social veneciano.",
+  "localizacion": "Gallerie dell’Accademia",
+  "ciudad": "Venecia",
+  "urlLocalizacion": "https://www.gallerieaccademia.it/opera/convito-in-casa-di-levi",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gallerie%20dell%E2%80%99Accademia%2C%20Venecia%2C%20Italia",
+  "pais": "Italia",
+  "dimensiones": "Aproximadamente 560 × 1309 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Paolo Veronese",
+    "Renacimiento tardío",
+    "Pintura",
+    "Pintura monumental veneciana",
+    "Italia"
+  ],
+  "proporcion": [
+    1280,
+    546
+  ],
+  "color": "#8c7457",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Feast_in_the_House_of_Levi_-_WGA24877.jpg",
+    "alt": "Gran banquete de Veronese bajo tres arcos monumentales, poblado por numerosos personajes",
+    "licencia": "Dominio público (reproducción fiel de una obra bidimensional)",
+    "credito": "Paolo Veronese · Gallerie dell’Accademia · Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "pensador-hamangia",
+  "titulo": "El pensador de Cernavodă",
+  "tituloOriginal": "Gânditorul de la Cernavodă",
+  "autor": "Cultura Hamangia",
+  "fecha": "c. 5000–4600 a. C.",
+  "fechaOrden": -4800,
+  "tipo": "Escultura",
+  "periodo": "Neolítico",
+  "coleccion": "Culturas neolíticas del bajo Danubio",
+  "descripcion": "Una figura sentada apoya la cabeza entre las manos en un gesto de extraordinaria concentración. Su economía formal convierte una pequeña terracota funeraria en una de las imágenes más memorables del Neolítico europeo.",
+  "localizacion": "Museo Nacional de Historia de Rumanía",
+  "ciudad": "Bucarest",
+  "urlLocalizacion": "https://www.mnir.ro/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Historia%20de%20Ruman%C3%ADa%2C%20Bucarest%2C%20Ruman%C3%ADa",
+  "pais": "Rumanía",
+  "dimensiones": "11,5 cm de altura",
+  "tecnicas": [
+    "Terracota modelada y cocida"
+  ],
+  "etiquetas": [
+    "Cultura Hamangia",
+    "Neolítico",
+    "Escultura",
+    "Culturas neolíticas del bajo Danubio",
+    "Rumanía"
+  ],
+  "proporcion": [
+    2320,
+    3088
+  ],
+  "color": "#8d6448",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%E6%80%9D%E6%83%B3%E8%80%85%E5%A1%91%E5%83%8F.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%E6%80%9D%E6%83%B3%E8%80%85%E5%A1%91%E5%83%8F.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:%E6%80%9D%E6%83%B3%E8%80%85%E5%A1%91%E5%83%8F.JPG",
+    "alt": "Figura neolítica de terracota sentada, con la cabeza apoyada entre ambas manos",
+    "licencia": "CC BY-SA (consúltese la ficha del archivo)",
+    "credito": "Cultura Hamangia · Museo Nacional de Historia de Rumanía · Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "san-sebastian-berruguete",
+  "titulo": "San Sebastián",
+  "autor": "Alonso Berruguete",
+  "fecha": "1526–1532",
+  "fechaOrden": 1529,
+  "tipo": "Escultura",
+  "periodo": "Renacimiento español",
+  "coleccion": "Retablo mayor de San Benito el Real",
+  "descripcion": "El santo se retuerce alrededor de un tronco como una llama, más sostenido por la tensión que por el equilibrio. Berruguete funde anatomía renacentista, espiritualidad y policromía en una escultura de intensidad extrema.",
+  "localizacion": "Museo Nacional de Escultura",
+  "ciudad": "Valladolid",
+  "urlLocalizacion": "https://www.cultura.gob.es/mnescultura/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Escultura%2C%20Valladolid%2C%20Espa%C3%B1a",
+  "pais": "España",
+  "dimensiones": "Aproximadamente 95 cm de altura",
+  "tecnicas": [
+    "Madera tallada, policromada y dorada"
+  ],
+  "etiquetas": [
+    "Alonso Berruguete",
+    "Renacimiento español",
+    "Escultura",
+    "Retablo mayor de San Benito el Real",
+    "España"
+  ],
+  "proporcion": [
+    2112,
+    2816
+  ],
+  "color": "#8c6548",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alonso_Berruguete%2C_San_Sebasti%C3%A1n.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alonso_Berruguete%2C_San_Sebasti%C3%A1n.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Alonso_Berruguete%2C_San_Sebasti%C3%A1n.jpg",
+    "alt": "Escultura policromada de San Sebastián por Alonso Berruguete, con el cuerpo torsionado junto a un tronco",
+    "licencia": "CC BY-SA (consúltese la ficha del archivo)",
+    "credito": "Alonso Berruguete · Museo Nacional de Escultura · Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sala-dos-hermanas-alhambra",
+  "titulo": "Sala de Dos Hermanas",
+  "autor": "Talleres nazaríes bajo Muhammad V",
+  "fecha": "c. 1362–1391",
+  "fechaOrden": 1375,
+  "tipo": "Arquitectura",
+  "periodo": "Arte nazarí",
+  "coleccion": "Arte islámico",
+  "descripcion": "Una cúpula de mocárabes se abre como una bóveda estrellada sobre muros cubiertos de yesería, alicatado e inscripciones. La sala transforma geometría, luz y repetición en una experiencia que cambia a cada paso.",
+  "localizacion": "Alhambra, Palacio de los Leones",
+  "ciudad": "Granada",
+  "urlLocalizacion": "https://www.alhambra-patronato.es/edificios-lugares/sala-de-dos-hermanas",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Alhambra%2C%20Palacio%20de%20los%20Leones%2C%20Granada%2C%20Espa%C3%B1a",
+  "pais": "España",
+  "dimensiones": "Sala palatina con cúpula de mocárabes",
+  "tecnicas": [
+    "Yesería tallada",
+    "Mocárabes",
+    "Alicatado",
+    "Madera y mármol"
+  ],
+  "etiquetas": [
+    "Talleres nazaríes bajo Muhammad V",
+    "Arte nazarí",
+    "Arquitectura",
+    "Arte islámico",
+    "España"
+  ],
+  "proporcion": [
+    3000,
+    4000
+  ],
+  "color": "#b99667",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sala_de_Dos_Hermanas_-_007.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sala_de_Dos_Hermanas_-_007.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sala_de_Dos_Hermanas_-_007.JPG",
+    "alt": "Cúpula de mocárabes de la Sala de Dos Hermanas de la Alhambra",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Talleres nazaríes · fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}

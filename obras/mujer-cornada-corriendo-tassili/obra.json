@@ -1,0 +1,42 @@
+{
+  "id": "mujer-cornada-corriendo-tassili",
+  "titulo": "Mujer cornada corriendo",
+  "tituloOriginal": "Running Horned Woman",
+  "autor": "Comunidades pastoriles del Tassili n’Ajjer",
+  "fecha": "c. 6000–4000 a. C.",
+  "fechaOrden": -5000,
+  "tipo": "Pintura rupestre",
+  "periodo": "Periodo de las Cabezas Redondas",
+  "coleccion": "Arte rupestre del Tassili n’Ajjer",
+  "descripcion": "Una figura femenina monumental corre o danza con los brazos extendidos, adornada con cuernos y pintura corporal. La imagen combina movimiento, ceremonia y escala en uno de los grandes conjuntos rupestres del Sahara.",
+  "localizacion": "Tassili n’Ajjer",
+  "ciudad": "Meseta de Djanet",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/179/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Tassili%20n%E2%80%99Ajjer%2C%20Meseta%20de%20Djanet%2C%20Argelia",
+  "pais": "Argelia",
+  "dimensiones": "Aproximadamente 2 m de altura",
+  "tecnicas": [
+    "Pigmento mineral sobre roca"
+  ],
+  "etiquetas": [
+    "Comunidades pastoriles del Tassili n’Ajjer",
+    "Periodo de las Cabezas Redondas",
+    "Pintura rupestre",
+    "Arte rupestre del Tassili n’Ajjer",
+    "Argelia"
+  ],
+  "proporcion": [
+    540,
+    702
+  ],
+  "color": "#a75532",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Running_Horned_Woman%2C_6%2C000%E2%80%934%2C000_B.C.E.%2C_pigment_on_rock%2C_Tassili_n%E2%80%99Ajjer%2C_Algeria.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Running_Horned_Woman%2C_6%2C000%E2%80%934%2C000_B.C.E.%2C_pigment_on_rock%2C_Tassili_n%E2%80%99Ajjer%2C_Algeria.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Running_Horned_Woman%2C_6%2C000%E2%80%934%2C000_B.C.E.%2C_pigment_on_rock%2C_Tassili_n%E2%80%99Ajjer%2C_Algeria.jpg",
+    "alt": "Figura rupestre rojiza de una mujer con cuernos y brazos extendidos en movimiento",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Comunidades del Tassili n’Ajjer · fotografía educativa de Smarthistory · Wikimedia Commons",
+    "foco": "center"
+  }
+}

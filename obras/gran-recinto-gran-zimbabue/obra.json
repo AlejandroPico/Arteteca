@@ -1,0 +1,41 @@
+{
+  "id": "gran-recinto-gran-zimbabue",
+  "titulo": "Gran Recinto de Gran Zimbabue",
+  "autor": "Constructores shona",
+  "fecha": "Principalmente siglos XIII–XV",
+  "fechaOrden": 1350,
+  "tipo": "Arquitectura",
+  "periodo": "Gran Zimbabue",
+  "coleccion": "Arte y arquitectura de África",
+  "descripcion": "Muros curvos de bloques de granito colocados sin mortero envuelven pasajes y una gran torre cónica. El recinto manifiesta la capacidad urbana, política y técnica del reino que controló redes comerciales del África austral.",
+  "localizacion": "Monumento Nacional de Gran Zimbabue",
+  "ciudad": "Masvingo",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/364/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Monumento%20Nacional%20de%20Gran%20Zimbabue%2C%20Masvingo%2C%20Zimbabue",
+  "pais": "Zimbabue",
+  "dimensiones": "Muro exterior de hasta unos 11 m de altura; recinto de gran escala",
+  "tecnicas": [
+    "Mampostería seca de granito"
+  ],
+  "etiquetas": [
+    "Constructores shona",
+    "Gran Zimbabue",
+    "Arquitectura",
+    "Arte y arquitectura de África",
+    "Zimbabue"
+  ],
+  "proporcion": [
+    3000,
+    2000
+  ],
+  "color": "#8b765f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Great_Zimbabwe_(Great_Enclosure).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Great_Zimbabwe_(Great_Enclosure).jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Great_Zimbabwe_(Great_Enclosure).jpg",
+    "alt": "Muros curvos de piedra del Gran Recinto de Gran Zimbabue",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Constructores shona · fotografía de Todinirunganga, Wikimedia Commons",
+    "foco": "center"
+  }
+}

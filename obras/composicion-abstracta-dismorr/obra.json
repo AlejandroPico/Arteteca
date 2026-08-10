@@ -1,0 +1,41 @@
+{
+  "id": "composicion-abstracta-dismorr",
+  "titulo": "Composición abstracta",
+  "autor": "Jessica Dismorr",
+  "fecha": "c. 1915",
+  "fechaOrden": 1915,
+  "tipo": "Pintura",
+  "periodo": "Abstracción",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Planos angulosos en rojo, negro, crema y azul se traban como piezas de una arquitectura inestable. Dismorr convierte el empuje vorticista en una composición pequeña, tensa y rigurosamente no figurativa.",
+  "localizacion": "Tate Britain",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.tate.org.uk/art/artworks/dismorr-abstract-composition-t01084",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Tate%20Britain%2C%20Londres%2C%20Reino%20Unido",
+  "pais": "Reino Unido",
+  "dimensiones": "41,3 × 50,8 cm",
+  "tecnicas": [
+    "Óleo sobre madera"
+  ],
+  "etiquetas": [
+    "Jessica Dismorr",
+    "Abstracción",
+    "Pintura",
+    "Abstracción y diseño moderno",
+    "Reino Unido"
+  ],
+  "proporcion": [
+    1032,
+    824
+  ],
+  "color": "#8f3f32",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jessica_Dismorr_-_Abstract_composition_1915.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jessica_Dismorr_-_Abstract_composition_1915.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jessica_Dismorr_-_Abstract_composition_1915.jpg",
+    "alt": "Composición abstracta de Jessica Dismorr, formada por planos rojos, negros, azules y crema",
+    "licencia": "Dominio público (reproducción fiel de una obra bidimensional)",
+    "credito": "Jessica Dismorr · Tate · Wikimedia Commons",
+    "foco": "center"
+  }
+}

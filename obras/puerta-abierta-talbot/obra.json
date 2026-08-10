@@ -1,0 +1,42 @@
+{
+  "id": "puerta-abierta-talbot",
+  "titulo": "La puerta abierta",
+  "tituloOriginal": "The Open Door",
+  "autor": "William Henry Fox Talbot",
+  "fecha": "Antes de mayo de 1844",
+  "fechaOrden": 1844,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía pionera",
+  "coleccion": "Historia de la fotografía",
+  "descripcion": "Una puerta de establo entreabierta, una escoba, un farol y un arnés forman una naturaleza muerta de luz y textura. Talbot demuestra que la fotografía podía construir una escena deliberada con objetos cotidianos y, además, multiplicarla en copias.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/art/collection/search/283068",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20Nueva%20York%2C%20Estados%20Unidos",
+  "pais": "Estados Unidos",
+  "dimensiones": "Imagen de 14,3 × 19,4 cm",
+  "tecnicas": [
+    "Copia en papel salado a partir de negativo de papel"
+  ],
+  "etiquetas": [
+    "William Henry Fox Talbot",
+    "Fotografía pionera",
+    "Fotografía",
+    "Historia de la fotografía",
+    "Estados Unidos"
+  ],
+  "proporcion": [
+    2500,
+    1900
+  ],
+  "color": "#81715d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Open_Door_MET_DP148629.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Open_Door_MET_DP148629.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Open_Door_MET_DP148629.jpg",
+    "alt": "Puerta de establo abierta fotografiada por Talbot, con escoba, farol y arnés",
+    "licencia": "CC0 1.0",
+    "credito": "William Henry Fox Talbot · The Metropolitan Museum of Art, Open Access",
+    "foco": "center"
+  }
+}

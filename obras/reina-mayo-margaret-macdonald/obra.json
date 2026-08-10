@@ -1,0 +1,46 @@
+{
+  "id": "reina-mayo-margaret-macdonald",
+  "titulo": "La Reina de Mayo",
+  "tituloOriginal": "The May Queen",
+  "autor": "Margaret Macdonald Mackintosh",
+  "fecha": "1900",
+  "fechaOrden": 1900,
+  "tipo": "Panel decorativo",
+  "periodo": "Glasgow Style",
+  "coleccion": "Modernismo y artes decorativas",
+  "descripcion": "Una figura femenina frontal se despliega entre rosas, tallos y discos metálicos en un panel largo y luminoso. Macdonald combina simbolismo, trabajo artesanal y diseño arquitectónico en una imagen que transforma la pared en rito primaveral.",
+  "localizacion": "Kelvingrove Art Gallery and Museum, Glasgow Museums",
+  "ciudad": "Glasgow",
+  "urlLocalizacion": "https://www.glasgowlife.org.uk/museums/venues/kelvingrove-art-gallery-and-museum",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kelvingrove%20Art%20Gallery%20and%20Museum%2C%20Glasgow%20Museums%2C%20Glasgow%2C%20Reino%20Unido",
+  "pais": "Reino Unido",
+  "dimensiones": "Panel horizontal de gran formato",
+  "tecnicas": [
+    "Gesso",
+    "Arpillera",
+    "Hilo",
+    "Cuentas",
+    "Metal y pintura"
+  ],
+  "etiquetas": [
+    "Margaret Macdonald Mackintosh",
+    "Glasgow Style",
+    "Panel decorativo",
+    "Modernismo y artes decorativas",
+    "Reino Unido"
+  ],
+  "proporcion": [
+    700,
+    320
+  ],
+  "color": "#c5b38d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Margaret_MacDonald_-_The_May_Queen_1900.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Margaret_MacDonald_-_The_May_Queen_1900.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Margaret_MacDonald_-_The_May_Queen_1900.jpg",
+    "alt": "La Reina de Mayo de Margaret Macdonald, figura femenina alargada entre flores y motivos metálicos",
+    "licencia": "Dominio público para la obra; reproducción indicada en Wikimedia Commons",
+    "credito": "Margaret Macdonald Mackintosh · Glasgow Museums / Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "flatiron-stieglitz",
+  "titulo": "El Flatiron",
+  "tituloOriginal": "The Flatiron",
+  "autor": "Alfred Stieglitz",
+  "fecha": "1903; copia impresa hacia 1910",
+  "fechaOrden": 1903,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía moderna",
+  "coleccion": "Historia de la fotografía",
+  "descripcion": "El edificio Flatiron emerge entre nieve, ramas y humo como una masa tonal más que como un alarde técnico. Stieglitz convierte un rascacielos nuevo en una imagen atmosférica capaz de dialogar con la pintura y el grabado.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/art/collection/search/269284",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20Nueva%20York%2C%20Estados%20Unidos",
+  "pais": "Estados Unidos",
+  "dimensiones": "Fotograbado, 32,8 × 16,7 cm",
+  "tecnicas": [
+    "Fotograbado a partir de negativo fotográfico"
+  ],
+  "etiquetas": [
+    "Alfred Stieglitz",
+    "Fotografía moderna",
+    "Fotografía",
+    "Historia de la fotografía",
+    "Estados Unidos"
+  ],
+  "proporcion": [
+    1800,
+    3000
+  ],
+  "color": "#59636b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Flatiron_MET_DP233039.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Flatiron_MET_DP233039.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Flatiron_MET_DP233039.jpg",
+    "alt": "Fotografía de Stieglitz del edificio Flatiron entre nieve, árboles y bruma",
+    "licencia": "CC0 1.0",
+    "credito": "Alfred Stieglitz · The Metropolitan Museum of Art, Open Access",
+    "foco": "center"
+  }
+}

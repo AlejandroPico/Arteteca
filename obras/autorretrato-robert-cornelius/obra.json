@@ -1,0 +1,41 @@
+{
+  "id": "autorretrato-robert-cornelius",
+  "titulo": "Autorretrato de Robert Cornelius",
+  "autor": "Robert Cornelius",
+  "fecha": "Octubre o noviembre de 1839",
+  "fechaOrden": 1839,
+  "tipo": "Fotografía",
+  "periodo": "Daguerrotipo",
+  "coleccion": "Historia de la fotografía",
+  "descripcion": "Cornelius aparece con el cabello revuelto y los brazos cruzados tras permanecer inmóvil ante la cámara. Este pequeño daguerrotipo es uno de los primeros retratos fotográficos conservados y un temprano autorretrato consciente del nuevo medio.",
+  "localizacion": "Library of Congress",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.loc.gov/pictures/item/2004664436/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Library%20of%20Congress%2C%20Washington%20D.%20C.%2C%20Estados%20Unidos",
+  "pais": "Estados Unidos",
+  "dimensiones": "Daguerrotipo de aproximadamente 9 × 7 cm",
+  "tecnicas": [
+    "Daguerrotipo sobre placa de cobre plateada"
+  ],
+  "etiquetas": [
+    "Robert Cornelius",
+    "Daguerrotipo",
+    "Fotografía",
+    "Historia de la fotografía",
+    "Estados Unidos"
+  ],
+  "proporcion": [
+    1800,
+    2400
+  ],
+  "color": "#72695e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/1839_Self-portrait_by_Robert_Cornelius.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/1839_Self-portrait_by_Robert_Cornelius.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:1839_Self-portrait_by_Robert_Cornelius.jpg",
+    "alt": "Autorretrato daguerrotípico de Robert Cornelius con cabello revuelto y brazos cruzados",
+    "licencia": "Dominio público",
+    "credito": "Robert Cornelius · Library of Congress",
+    "foco": "center"
+  }
+}

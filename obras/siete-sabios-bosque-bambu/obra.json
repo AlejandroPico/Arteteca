@@ -1,0 +1,42 @@
+{
+  "id": "siete-sabios-bosque-bambu",
+  "titulo": "Los siete sabios del bosque de bambú y Rong Qiqi",
+  "autor": "Taller funerario de las Dinastías del Sur",
+  "fecha": "Segunda mitad del siglo V",
+  "fechaOrden": 475,
+  "tipo": "Relieve funerario",
+  "periodo": "Dinastía Jin",
+  "coleccion": "Arte de China",
+  "descripcion": "Ocho pensadores y músicos descansan bajo árboles separados, modelados en ladrillos que revestían una tumba. El ciclo transforma el retiro intelectual de los sabios en compañía ideal para el difunto.",
+  "localizacion": "Nanjing Museum",
+  "ciudad": "Nankín",
+  "urlLocalizacion": "https://www.njmuseum.com/en/collectionDetails?id=478",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Nanjing%20Museum%2C%20Nank%C3%ADn%2C%20China",
+  "pais": "China",
+  "dimensiones": "Cada muro, aproximadamente 88 × 240 cm",
+  "tecnicas": [
+    "Ladrillos moldeados y cocidos",
+    "Relieve estampado"
+  ],
+  "etiquetas": [
+    "Taller funerario de las Dinastías del Sur",
+    "Dinastía Jin",
+    "Relieve funerario",
+    "Arte de China",
+    "China"
+  ],
+  "proporcion": [
+    2456,
+    905
+  ],
+  "color": "#9b8064",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Seven_Sages_of_the_Bamboo_Grove_2.Nanjing_Museum.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Seven_Sages_of_the_Bamboo_Grove_2.Nanjing_Museum.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Seven_Sages_of_the_Bamboo_Grove_2.Nanjing_Museum.jpg",
+    "alt": "Relieve chino en ladrillo con sabios sentados entre árboles, músicos y recipientes",
+    "licencia": "Dominio público para la obra; consultar licencia fotográfica en Wikimedia Commons",
+    "credito": "Taller funerario de las Dinastías del Sur · Nanjing Museum / Wikimedia Commons",
+    "foco": "center"
+  }
+}

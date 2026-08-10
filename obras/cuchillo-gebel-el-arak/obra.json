@@ -1,0 +1,42 @@
+{
+  "id": "cuchillo-gebel-el-arak",
+  "titulo": "Cuchillo de Gebel el-Arak",
+  "autor": "Taller egipcio predinástico",
+  "fecha": "c. 3600–3200 a. C.",
+  "fechaOrden": -3400,
+  "tipo": "Artes decorativas",
+  "periodo": "Periodo protodinástico",
+  "coleccion": "Egipto predinástico y formación del Estado",
+  "descripcion": "Un mango de marfil tallado reúne combate, barcos, animales y una figura dominante entre leones. La excepcional hoja de sílex convierte un objeto ceremonial en testimonio de las imágenes y poderes anteriores a los faraones.",
+  "localizacion": "Museo del Louvre, Departamento de Antigüedades Egipcias",
+  "ciudad": "París",
+  "urlLocalizacion": "https://collections.louvre.fr/en/ark:/53355/cl010007467",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%2C%20Departamento%20de%20Antig%C3%BCedades%20Egipcias%2C%20Par%C3%ADs%2C%20Francia",
+  "pais": "Francia",
+  "dimensiones": "25,5 × 4,5 cm",
+  "tecnicas": [
+    "Sílex tallado y pulido",
+    "Marfil de hipopótamo tallado en relieve"
+  ],
+  "etiquetas": [
+    "Taller egipcio predinástico",
+    "Periodo protodinástico",
+    "Artes decorativas",
+    "Egipto predinástico y formación del Estado",
+    "Francia"
+  ],
+  "proporcion": [
+    3000,
+    2030
+  ],
+  "color": "#805f42",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Couteau_de_Gebel_el-Arak_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_%C3%A9gyptiennes_E_11517_-_recto_verso.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Couteau_de_Gebel_el-Arak_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_%C3%A9gyptiennes_E_11517_-_recto_verso.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Couteau_de_Gebel_el-Arak_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_%C3%A9gyptiennes_E_11517_-_recto_verso.jpg",
+    "alt": "Anverso y reverso del cuchillo de Gebel el-Arak, con hoja de sílex y mango de marfil tallado",
+    "licencia": "CC BY-SA (consúltese la ficha del archivo)",
+    "credito": "Taller egipcio predinástico · Museo del Louvre · Wikimedia Commons",
+    "foco": "center"
+  }
+}

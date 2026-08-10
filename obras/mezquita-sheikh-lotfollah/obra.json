@@ -1,0 +1,44 @@
+{
+  "id": "mezquita-sheikh-lotfollah",
+  "titulo": "Mezquita del jeque Lotf Allah",
+  "autor": "Muhammad Reza Isfahani y talleres safávidas",
+  "fecha": "1603–1619",
+  "fechaOrden": 1611,
+  "tipo": "Arquitectura",
+  "periodo": "Arte safávida",
+  "coleccion": "Arte islámico",
+  "descripcion": "Una cúpula de azulejos crema se transforma desde el interior en una red de medallones, arabescos y caligrafía. El edificio, sin patio ni minaretes, fue concebido como oratorio palatino en la gran plaza de Isfahán.",
+  "localizacion": "Plaza Naqsh-e Jahan",
+  "ciudad": "Isfahán",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/115/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Plaza%20Naqsh-e%20Jahan%2C%20Isfah%C3%A1n%2C%20Ir%C3%A1n",
+  "pais": "Irán",
+  "dimensiones": "Oratorio cupulado de planta centralizada",
+  "tecnicas": [
+    "Mampostería",
+    "Azulejo vidriado",
+    "Mosaico cerámico",
+    "Caligrafía"
+  ],
+  "etiquetas": [
+    "Muhammad Reza Isfahani y talleres safávidas",
+    "Arte safávida",
+    "Arquitectura",
+    "Arte islámico",
+    "Irán"
+  ],
+  "proporcion": [
+    2981,
+    1996
+  ],
+  "color": "#b58a51",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Isfahan_Lotfollah_mosque_ceiling_symmetric.jpg",
+    "alt": "Interior de la cúpula de la mezquita del jeque Lotf Allah, cubierto de mosaicos crema y azules",
+    "licencia": "Licencia libre indicada en Wikimedia Commons",
+    "credito": "Muhammad Reza Isfahani y talleres safávidas · fotografía en Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "morteros-eynan-natufiense",
+  "titulo": "Morteros de piedra de Eynan",
+  "autor": "Comunidades natufienses de Eynan",
+  "fecha": "c. 12.500–10.000 a. C.",
+  "fechaOrden": -11250,
+  "tipo": "Objeto y diseño",
+  "periodo": "Natufiense",
+  "coleccion": "Prehistoria y primeras imágenes",
+  "descripcion": "Morteros altos y recipientes de basalto y caliza convierten la molienda en una forma monumental, duradera y visible. El conjunto de Eynan relaciona tecnología alimentaria, asentamiento y diseño mucho antes de la agricultura plenamente desarrollada.",
+  "localizacion": "The Israel Museum",
+  "ciudad": "Jerusalén",
+  "urlLocalizacion": "https://www.imj.org.il/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Israel%20Museum%2C%20Jerusal%C3%A9n%2C%20Israel",
+  "pais": "Israel",
+  "dimensiones": "Conjunto de morteros y recipientes de distintas dimensiones",
+  "tecnicas": [
+    "Basalto y caliza picados, perforados y pulidos"
+  ],
+  "etiquetas": [
+    "Comunidades natufienses de Eynan",
+    "Natufiense",
+    "Objeto y diseño",
+    "Prehistoria y primeras imágenes",
+    "Israel"
+  ],
+  "proporcion": [
+    3000,
+    2200
+  ],
+  "color": "#77736b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stone_Mortars_from_Eynan%2C_Natufian_period.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stone_Mortars_from_Eynan%2C_Natufian_period.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Stone_Mortars_from_Eynan%2C_Natufian_period.jpg",
+    "alt": "Conjunto de morteros de piedra natufienses de Eynan expuestos en el Museo de Israel",
+    "licencia": "CC0 1.0",
+    "credito": "Comunidades natufienses de Eynan · fotografía de Gary Todd, Wikimedia Commons",
+    "foco": "center"
+  }
+}

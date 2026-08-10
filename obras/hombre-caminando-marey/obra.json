@@ -1,0 +1,42 @@
+{
+  "id": "hombre-caminando-marey",
+  "titulo": "Hombre caminando con un peso",
+  "autor": "Étienne-Jules Marey",
+  "fecha": "1885",
+  "fechaOrden": 1885,
+  "tipo": "Fotografía",
+  "periodo": "Estudios del movimiento",
+  "coleccion": "Historia de la fotografía",
+  "descripcion": "Un mismo cuerpo aparece repetido en fases sucesivas mientras camina con una carga. Marey comprime el tiempo en una sola placa y convierte el movimiento en una forma visible, medible y casi abstracta.",
+  "localizacion": "Collège de France, archivos históricos de Marey",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.college-de-france.fr/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Coll%C3%A8ge%20de%20France%2C%20archivos%20hist%C3%B3ricos%20de%20Marey%2C%20Par%C3%ADs%2C%20Francia",
+  "pais": "Francia",
+  "dimensiones": "Cronofotografía en placa",
+  "tecnicas": [
+    "Cronofotografía",
+    "Exposición múltiple sobre placa"
+  ],
+  "etiquetas": [
+    "Étienne-Jules Marey",
+    "Estudios del movimiento",
+    "Fotografía",
+    "Historia de la fotografía",
+    "Francia"
+  ],
+  "proporcion": [
+    1000,
+    822
+  ],
+  "color": "#5f5b54",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gehender_Mann_ein_Gewicht_tragend_1885.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gehender_Mann_ein_Gewicht_tragend_1885.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gehender_Mann_ein_Gewicht_tragend_1885.jpg",
+    "alt": "Cronofotografía de Marey con varias fases superpuestas de un hombre caminando y cargando peso",
+    "licencia": "Dominio público",
+    "credito": "Étienne-Jules Marey · Wikimedia Commons",
+    "foco": "center"
+  }
+}

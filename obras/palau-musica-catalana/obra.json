@@ -1,0 +1,45 @@
+{
+  "id": "palau-musica-catalana",
+  "titulo": "Palau de la Música Catalana",
+  "autor": "Lluís Domènech i Montaner y talleres colaboradores",
+  "fecha": "1905–1908",
+  "fechaOrden": 1908,
+  "tipo": "Arquitectura",
+  "periodo": "Modernisme catalán",
+  "coleccion": "Modernismo y artes decorativas",
+  "descripcion": "La sala de conciertos reúne hierro, ladrillo, cerámica, vidrio y escultura bajo una claraboya invertida que parece un sol. Domènech i Montaner concibe el edificio como una obra colectiva donde estructura, luz y ornamentación son inseparables.",
+  "localizacion": "Palau de la Música Catalana",
+  "ciudad": "Barcelona",
+  "urlLocalizacion": "https://www.palaumusica.cat/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palau%20de%20la%20M%C3%BAsica%20Catalana%2C%20Barcelona%2C%20Espa%C3%B1a",
+  "pais": "España",
+  "dimensiones": "Edificio y sala de conciertos",
+  "tecnicas": [
+    "Estructura de hierro",
+    "Ladrillo",
+    "Mosaico",
+    "Vidriera",
+    "Escultura"
+  ],
+  "etiquetas": [
+    "Lluís Domènech i Montaner y talleres colaboradores",
+    "Modernisme catalán",
+    "Arquitectura",
+    "Modernismo y artes decorativas",
+    "España"
+  ],
+  "proporcion": [
+    8403,
+    5821
+  ],
+  "color": "#b46d45",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Palau_de_la_M%C3%BAsica_Catalana%2C_interior_4.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Palau_de_la_M%C3%BAsica_Catalana%2C_interior_4.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Palau_de_la_M%C3%BAsica_Catalana%2C_interior_4.jpg",
+    "alt": "Interior del Palau de la Música Catalana con escenario escultórico, mosaicos y gran claraboya de vidrio",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Lluís Domènech i Montaner y colaboradores · fotografía de Thomas Ledl, Wikimedia Commons",
+    "foco": "center"
+  }
+}

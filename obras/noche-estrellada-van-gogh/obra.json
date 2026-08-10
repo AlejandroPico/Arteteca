@@ -6,7 +6,7 @@
   "fecha": "Junio de 1889",
   "fechaOrden": 1889,
   "tipo": "Pintura",
-  "periodo": "Posimpresionismo",
+  "periodo": "Postimpresionismo",
   "coleccion": "Romanticismo, Realismo e Impresionismo",
   "descripcion": "Un cielo de remolinos luminosos domina Saint-Rémy. Van Gogh no pintó una transcripción literal de la vista, sino una noche reorganizada por memoria, observación e intensidad.",
   "localizacion": "Museum of Modern Art",
@@ -15,9 +15,21 @@
   "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20New%20York",
   "pais": "Francia",
   "dimensiones": "73,7 × 92,1 cm",
-  "tecnicas": ["Óleo sobre lienzo", "Impasto"],
-  "etiquetas": ["noche", "ciprés", "Saint-Rémy", "paisaje", "estrellas"],
-  "proporcion": [921, 737],
+  "tecnicas": [
+    "Óleo sobre lienzo",
+    "Impasto"
+  ],
+  "etiquetas": [
+    "noche",
+    "ciprés",
+    "Saint-Rémy",
+    "paisaje",
+    "estrellas"
+  ],
+  "proporcion": [
+    921,
+    737
+  ],
   "color": "#2f4b64",
   "imagen": {
     "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Van%20Gogh%20-%20Starry%20Night%20-%20Google%20Art%20Project.jpg?width=1600",

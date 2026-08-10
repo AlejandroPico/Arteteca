@@ -1,0 +1,42 @@
+{
+  "id": "jardin-paraiso-maestro-alto-rin",
+  "titulo": "El pequeño jardín del Paraíso",
+  "tituloOriginal": "Das Paradiesgärtlein",
+  "autor": "Maestro del Alto Rin",
+  "fecha": "c. 1410–1420",
+  "fechaOrden": 1415,
+  "tipo": "Pintura",
+  "periodo": "Gótico internacional",
+  "coleccion": "Arte medieval europeo",
+  "descripcion": "La Virgen, el Niño y varios santos ocupan un jardín cerrado lleno de flores, pájaros, frutos y tareas delicadas. El panel une devoción cortesana y observación botánica en un mundo minúsculo donde cada detalle parece tener tiempo propio.",
+  "localizacion": "Städel Museum",
+  "ciudad": "Fráncfort del Meno",
+  "urlLocalizacion": "https://sammlung.staedelmuseum.de/en/work/the-little-garden-of-paradise",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=St%C3%A4del%20Museum%2C%20Fr%C3%A1ncfort%20del%20Meno%2C%20Alemania",
+  "pais": "Alemania",
+  "dimensiones": "26,3 × 33,4 cm",
+  "tecnicas": [
+    "Técnica mixta sobre tabla de roble"
+  ],
+  "etiquetas": [
+    "Maestro del Alto Rin",
+    "Gótico internacional",
+    "Pintura",
+    "Arte medieval europeo",
+    "Alemania"
+  ],
+  "proporcion": [
+    3200,
+    2500
+  ],
+  "color": "#56763e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Upper_Rhenish_Master_-_The_little_Garden_of_Paradise_-_Google_Art_Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Upper_Rhenish_Master_-_The_little_Garden_of_Paradise_-_Google_Art_Project.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Upper_Rhenish_Master_-_The_little_Garden_of_Paradise_-_Google_Art_Project.jpg",
+    "alt": "Jardín cerrado gótico con la Virgen, santos, flores, aves y un muro blanco",
+    "licencia": "Dominio público",
+    "credito": "Maestro del Alto Rin · Städel Museum / Wikimedia Commons",
+    "foco": "center"
+  }
+}

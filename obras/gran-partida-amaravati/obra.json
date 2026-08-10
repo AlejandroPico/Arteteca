@@ -1,0 +1,41 @@
+{
+  "id": "gran-partida-amaravati",
+  "titulo": "La Gran Partida de Amaravati",
+  "autor": "Talleres de la escuela de Amaravati",
+  "fecha": "Siglo II",
+  "fechaOrden": 150,
+  "tipo": "Relieve",
+  "periodo": "Arte budista indio",
+  "coleccion": "Arte de Asia meridional",
+  "descripcion": "El abandono del palacio por Siddhartha se narra sin mostrar su cuerpo: el caballo, el parasol y los asistentes hacen presente al protagonista ausente. El relieve condensa movimiento, ceremonia y aniconismo en una piedra originalmente ligada a una gran estupa.",
+  "localizacion": "Musée national des arts asiatiques – Guimet",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.guimet.fr/en/nos-collections/monde-indien/le-grand-depart",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20national%20des%20arts%20asiatiques%20%E2%80%93%20Guimet%2C%20Par%C3%ADs%2C%20Francia",
+  "pais": "Francia",
+  "dimensiones": "100 × 92 × 18 cm",
+  "tecnicas": [
+    "Caliza marmórea tallada en relieve"
+  ],
+  "etiquetas": [
+    "Talleres de la escuela de Amaravati",
+    "Arte budista indio",
+    "Relieve",
+    "Arte de Asia meridional",
+    "Francia"
+  ],
+  "proporcion": [
+    1876,
+    1968
+  ],
+  "color": "#a79b86",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Andhra_pradesh%2C_la_grande_dipartita%2C_da_regione_di_amaravati%2C_II_sec.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Andhra_pradesh%2C_la_grande_dipartita%2C_da_regione_di_amaravati%2C_II_sec.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Andhra_pradesh%2C_la_grande_dipartita%2C_da_regione_di_amaravati%2C_II_sec.JPG",
+    "alt": "Relieve budista de Amaravati con el caballo de la Gran Partida rodeado de figuras",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Talleres de Amaravati · fotografía de Sailko, Wikimedia Commons",
+    "foco": "center"
+  }
+}

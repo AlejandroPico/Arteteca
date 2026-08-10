@@ -1,0 +1,43 @@
+{
+  "id": "guarida-bandidos-riis",
+  "titulo": "La guarida de los bandidos",
+  "tituloOriginal": "Bandits’ Roost",
+  "autor": "Jacob A. Riis",
+  "fecha": "1888",
+  "fechaOrden": 1888,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía documental",
+  "coleccion": "Historia de la fotografía",
+  "descripcion": "Un callejón estrecho de Mulberry Bend reúne figuras que miran a la cámara entre escaleras, ropa tendida y fachadas deterioradas. Riis empleó la fotografía con flash para denunciar las condiciones de vivienda de los inmigrantes de Nueva York, aunque su mirada reformista estuvo cargada de estereotipos.",
+  "localizacion": "Museum of the City of New York",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://collections.mcny.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20the%20City%20of%20New%20York%2C%20Nueva%20York%2C%20Estados%20Unidos",
+  "pais": "Estados Unidos",
+  "dimensiones": "Copia fotográfica de una imagen obtenida con flash de magnesio",
+  "tecnicas": [
+    "Fotografía con flash de magnesio",
+    "Copia en gelatina de plata"
+  ],
+  "etiquetas": [
+    "Jacob A. Riis",
+    "Fotografía documental",
+    "Fotografía",
+    "Historia de la fotografía",
+    "Estados Unidos"
+  ],
+  "proporcion": [
+    1563,
+    2270
+  ],
+  "color": "#5e584e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacob_Riis_-_The_Bandits'_Roost.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacob_Riis_-_The_Bandits'_Roost.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jacob_Riis_-_The_Bandits'_Roost.jpg",
+    "alt": "Callejón de Nueva York fotografiado por Jacob Riis, con vecinos, escaleras y ropa tendida",
+    "licencia": "Dominio público",
+    "credito": "Jacob A. Riis · Wikimedia Commons",
+    "foco": "center"
+  }
+}

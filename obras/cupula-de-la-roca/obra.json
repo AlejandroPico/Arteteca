@@ -1,0 +1,45 @@
+{
+  "id": "cupula-de-la-roca",
+  "titulo": "Cúpula de la Roca",
+  "tituloOriginal": "Qubbat al-Sakhra",
+  "autor": "Talleres del califato omeya bajo Abd al-Malik",
+  "fecha": "691–692",
+  "fechaOrden": 692,
+  "tipo": "Arquitectura",
+  "periodo": "Arte califal omeya",
+  "coleccion": "Arte islámico",
+  "descripcion": "Un santuario octogonal envuelve la roca sagrada bajo una gran cúpula dorada. Mosaicos, mármoles e inscripciones convierten el edificio en una afirmación visual y religiosa de la nueva dinastía omeya.",
+  "localizacion": "Explanada de las Mezquitas / Haram al-Sharif",
+  "ciudad": "Jerusalén",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/148/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Explanada%20de%20las%20Mezquitas%20%2F%20Haram%20al-Sharif%2C%20Jerusal%C3%A9n%2C%20Jerusal%C3%A9n",
+  "pais": "Jerusalén",
+  "dimensiones": "Cúpula de unos 20 m de diámetro; planta octogonal",
+  "tecnicas": [
+    "Mampostería",
+    "Mármol",
+    "Mosaico",
+    "Madera y metal"
+  ],
+  "etiquetas": [
+    "Talleres del califato omeya bajo Abd al-Malik",
+    "Arte califal omeya",
+    "Arquitectura",
+    "Arte islámico",
+    "Jerusalén"
+  ],
+  "proporcion": [
+    3784,
+    2523
+  ],
+  "color": "#3f6e79",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Exterior_of_the_Dome_of_the_Rock%2C_Jerusalem2.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Exterior_of_the_Dome_of_the_Rock%2C_Jerusalem2.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Dome_of_the_Rock%2C_Jerusalem2.jpg",
+    "alt": "Cúpula de la Roca en Jerusalén, edificio octogonal con azulejos azules y cúpula dorada",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Arquitectura omeya · fotografía de Diego Delso, Wikimedia Commons",
+    "foco": "center"
+  }
+}

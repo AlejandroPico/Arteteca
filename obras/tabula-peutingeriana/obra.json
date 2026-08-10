@@ -1,0 +1,42 @@
+{
+  "id": "tabula-peutingeriana",
+  "titulo": "Tabula Peutingeriana",
+  "autor": "Copista medieval a partir de modelos cartográficos romanos",
+  "fecha": "Finales del siglo XII–inicios del XIII",
+  "fechaOrden": 1200,
+  "tipo": "Manuscrito y cartografía",
+  "periodo": "Recepción medieval de Roma",
+  "coleccion": "Cartografía antigua transmitida en la Edad Media",
+  "descripcion": "Una franja de pergamino de casi siete metros comprime el mundo romano en una red continua de caminos, ciudades y etapas. La copia medieval preserva una forma antigua de entender el territorio a través del viaje.",
+  "localizacion": "Biblioteca Nacional de Austria",
+  "ciudad": "Viena",
+  "urlLocalizacion": "https://onb.digital/result/10002029",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Nacional%20de%20Austria%2C%20Viena%2C%20Austria",
+  "pais": "Austria",
+  "dimensiones": "11 segmentos; aproximadamente 34 cm × 6,75 m",
+  "tecnicas": [
+    "Tinta y color sobre pergamino",
+    "Copia manuscrita cartográfica"
+  ],
+  "etiquetas": [
+    "Copista medieval a partir de modelos cartográficos romanos",
+    "Recepción medieval de Roma",
+    "Manuscrito y cartografía",
+    "Cartografía antigua transmitida en la Edad Media",
+    "Austria"
+  ],
+  "proporcion": [
+    46380,
+    2953
+  ],
+  "color": "#b38a54",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tabula_Peutingeriana_-_Miller.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tabula_Peutingeriana_-_Miller.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tabula_Peutingeriana_-_Miller.jpg",
+    "alt": "Despliegue completo de la Tabula Peutingeriana en el facsímil de Konrad Miller",
+    "licencia": "Dominio público; imagen de un facsímil histórico",
+    "credito": "Modelo romano, copia medieval · facsímil de Konrad Miller · Wikimedia Commons",
+    "foco": "center"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hombre-sentado-nok-louvre",
+  "titulo": "Figura masculina sentada",
+  "autor": "Artista de la cultura Nok",
+  "fecha": "c. 500 a. C.–500 d. C.",
+  "fechaOrden": 0,
+  "tipo": "Escultura",
+  "periodo": "Cultura Nok",
+  "coleccion": "Arte de África",
+  "descripcion": "Un hombre sentado apoya los antebrazos sobre las rodillas y adelanta un rostro geométrico de ojos perforados. La terracota combina una pose concentrada con peinado, joyas y marcas modeladas que señalan identidad y rango.",
+  "localizacion": "Museo del Louvre, Pavillon des Sessions; depósito de Nigeria",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.louvre.fr/en/explore/the-palace/pavillon-des-sessions",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%2C%20Pavillon%20des%20Sessions%3B%20dep%C3%B3sito%20de%20Nigeria%2C%20Par%C3%ADs%2C%20Francia",
+  "pais": "Francia",
+  "dimensiones": "38 × 13 × 19 cm",
+  "tecnicas": [
+    "Terracota modelada y cocida"
+  ],
+  "etiquetas": [
+    "Artista de la cultura Nok",
+    "Cultura Nok",
+    "Escultura",
+    "Arte de África",
+    "Francia"
+  ],
+  "proporcion": [
+    1660,
+    2500
+  ],
+  "color": "#9d5f3c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nok_sculpture_Louvre_70-1998-11-1.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nok_sculpture_Louvre_70-1998-11-1.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Nok_sculpture_Louvre_70-1998-11-1.jpg",
+    "alt": "Figura masculina sentada de la cultura Nok, terracota con ojos triangulares perforados",
+    "licencia": "Dominio público o licencia libre indicada en Wikimedia Commons",
+    "credito": "Artista Nok no identificado · Museo del Louvre / Wikimedia Commons",
+    "foco": "center"
+  }
+}

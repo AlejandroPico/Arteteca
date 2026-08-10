@@ -1,0 +1,42 @@
+{
+  "id": "silla-roja-azul-rietveld",
+  "titulo": "Silla roja y azul",
+  "tituloOriginal": "Rood-blauwe stoel",
+  "autor": "Gerrit Rietveld",
+  "fecha": "Diseñada en 1918; esquema cromático c. 1923",
+  "fechaOrden": 1923,
+  "tipo": "Diseño",
+  "periodo": "De Stijl",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Listones negros atraviesan planos rojos y azules sin ocultar cómo se ensambla la silla. Rietveld transforma un mueble en una construcción espacial de líneas, superficies y colores primarios.",
+  "localizacion": "Auckland War Memorial Museum Tāmaki Paenga Hira",
+  "ciudad": "Auckland",
+  "urlLocalizacion": "https://www.aucklandmuseum.com/collections-research/collections/record/am_humanhistory-object-78998",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Auckland%20War%20Memorial%20Museum%20T%C4%81maki%20Paenga%20Hira%2C%20Auckland%2C%20Nueva%20Zelanda",
+  "pais": "Nueva Zelanda",
+  "dimensiones": "Ejemplar de la colección 2006.105.1",
+  "tecnicas": [
+    "Madera ensamblada y pintada"
+  ],
+  "etiquetas": [
+    "Gerrit Rietveld",
+    "De Stijl",
+    "Diseño",
+    "Abstracción y diseño moderno",
+    "Nueva Zelanda"
+  ],
+  "proporcion": [
+    2000,
+    2500
+  ],
+  "color": "#274d78",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chair_(AM_2006.105.1).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chair_(AM_2006.105.1).jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Chair_(AM_2006.105.1).jpg",
+    "alt": "Silla roja y azul de Rietveld con listones negros, asiento azul y respaldo rojo",
+    "licencia": "CC BY 4.0",
+    "credito": "Gerrit Rietveld · Auckland Museum Tāmaki Paenga Hira",
+    "foco": "center"
+  }
+}

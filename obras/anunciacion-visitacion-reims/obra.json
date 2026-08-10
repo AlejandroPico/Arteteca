@@ -1,0 +1,42 @@
+{
+  "id": "anunciacion-visitacion-reims",
+  "titulo": "Anunciación y Visitación de la catedral de Reims",
+  "autor": "Talleres escultóricos de Reims",
+  "fecha": "c. 1230–1255",
+  "fechaOrden": 1240,
+  "tipo": "Escultura arquitectónica",
+  "periodo": "Gótico",
+  "coleccion": "Arte medieval europeo",
+  "descripcion": "Gabriel y María forman la Anunciación junto a María e Isabel en la Visitación, cuatro figuras de estilos y gestos distintos reunidas en la portada occidental. Sus cuerpos dialogan con sonrisas, manos y paños que liberan la escultura de la rigidez del soporte.",
+  "localizacion": "Catedral de Notre-Dame de Reims, portada central occidental",
+  "ciudad": "Reims",
+  "urlLocalizacion": "https://www.cathedrale-reims.fr/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Notre-Dame%20de%20Reims%2C%20portada%20central%20occidental%2C%20Reims%2C%20Francia",
+  "pais": "Francia",
+  "dimensiones": "Figuras de jambas de tamaño superior al natural",
+  "tecnicas": [
+    "Piedra caliza tallada",
+    "Restos de policromía"
+  ],
+  "etiquetas": [
+    "Talleres escultóricos de Reims",
+    "Gótico",
+    "Escultura arquitectónica",
+    "Arte medieval europeo",
+    "Francia"
+  ],
+  "proporcion": [
+    2500,
+    3500
+  ],
+  "color": "#aaa08f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Reims%3B_Annunciation_and_Visitation-_Gabriel%2C_Mary%2C_Elizabeth%2C_David%3B_right_jamb_figures_of_the_central_portal%2C_west_facade_-_Vanderbilt_ACT_-_00000297.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Reims%3B_Annunciation_and_Visitation-_Gabriel%2C_Mary%2C_Elizabeth%2C_David%3B_right_jamb_figures_of_the_central_portal%2C_west_facade_-_Vanderbilt_ACT_-_00000297.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Reims%3B_Annunciation_and_Visitation-_Gabriel%2C_Mary%2C_Elizabeth%2C_David%3B_right_jamb_figures_of_the_central_portal%2C_west_facade_-_Vanderbilt_ACT_-_00000297.jpg",
+    "alt": "Esculturas góticas de la Anunciación y la Visitación en la fachada de la catedral de Reims",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Talleres de Reims · fotografía de Vanderbilt University, Wikimedia Commons",
+    "foco": "center"
+  }
+}

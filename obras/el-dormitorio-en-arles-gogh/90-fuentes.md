@@ -5,6 +5,7 @@ icono: enlace
 
 ## Identificación y reproducción
 
+- [Museo Van Gogh: The Bedroom, s0047V1962](https://www.vangoghmuseum.nl/en/collection/s0047v1962)
 - [Registro estructurado en Wikidata (Q724377)](https://www.wikidata.org/wiki/Q724377)
 - [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg)
 

@@ -5,8 +5,8 @@ icono: ojo
 
 ## Qué mirar
 
-La hoja representa **Los remolinos de Naruto en la provincia de Awa** mediante líneas, reservas claras y tramas de distinta densidad. Antes de buscar el detalle, conviene reconocer cómo esas marcas separan figura y fondo y construyen volumen sin depender del color.
+Una pared de roca oscura entra desde la izquierda y obliga a mirar hacia el estrecho. Abajo, el agua se curva en espirales blancas alrededor de las piedras; las crestas no forman un dibujo decorativo uniforme, sino corrientes que chocan, se abren y vuelven sobre sí mismas. El gran remolino queda muy cerca del espectador y domina el primer plano.
 
-La ausencia de una paleta amplia hace especialmente visibles la dirección y la densidad de cada trazo. Las reservas de papel actúan como luz y las tramas más cerradas acercan o hunden las formas.
+La costa del fondo y las montañas azuladas se apilan en bandas cada vez más claras. Esa profundidad serena contrasta con la violencia del agua próxima. En el cielo, el pequeño vuelo de aves prolonga con un ritmo ligero la espuma que salta sobre el mar.
 
-Hiroshige organiza el paisaje con encuadres recortados, diagonales y planos de color que hacen visible la lluvia, la nieve, el viento o la corriente. Pequeñas figuras humanas sirven de escala y convierten el trayecto en experiencia.
+Hiroshige construye así un paisaje sin figuras humanas en el que la naturaleza basta para establecer la escala. El formato vertical aumenta el salto entre la roca elevada, el horizonte distante y el torbellino inferior, de modo que la mirada desciende casi físicamente hacia la corriente.

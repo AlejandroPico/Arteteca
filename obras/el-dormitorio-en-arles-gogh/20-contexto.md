@@ -6,7 +6,7 @@ icono: reloj
 ## Identificación
 
 - **Autoría:** Vincent van Gogh
-- **Datación registrada:** c. 1888
+- **Datación registrada:** octubre de 1888
 - **Periodo de navegación:** Postimpresionismo
 - **Colección temática:** Romanticismo, Realismo e Impresionismo
 

@@ -5,6 +5,7 @@ icono: enlace
 
 ## Identificación y reproducción
 
+- [Museos Vaticanos: Apoxyomenos, Museo Pío-Clementino](https://www.museivaticani.va/content/museivaticani/es/collezioni/musei/museo-pio-clementino/vestibolo-quadrato-e-gabinetto-dell-apoxyomenos/apoxyomenos.html)
 - [Registro estructurado en Wikidata (Q431029)](https://www.wikidata.org/wiki/Q431029)
 - [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apoxyomenos_Pio-Clementino_Inv1185.jpg)
 

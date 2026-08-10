@@ -6,7 +6,7 @@ icono: reloj
 ## Identificación
 
 - **Autoría:** Utagawa Hiroshige
-- **Datación registrada:** c. 1853
+- **Datación registrada:** septiembre de 1855
 - **Periodo de navegación:** Ukiyo-e
 - **Colección temática:** Asia
 

@@ -5,6 +5,7 @@ icono: enlace
 
 ## Identificación y reproducción
 
+- [Museum of Fine Arts, Boston: Awa Province—Naruto Whirlpools](https://collections.mfa.org/objects/207009)
 - [Registro estructurado en Wikidata (Q131629216)](https://www.wikidata.org/wiki/Q131629216)
 - [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Famous_Scenes_of_the_Sixty_States_55_Awa.jpg)
 

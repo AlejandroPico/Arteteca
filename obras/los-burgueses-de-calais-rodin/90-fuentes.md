@@ -5,6 +5,7 @@ icono: enlace
 
 ## Identificación y reproducción
 
+- [Metropolitan Museum of Art: The Burghers of Calais, 1989.407](https://www.metmuseum.org/art/collection/search/207812)
 - [Registro estructurado en Wikidata (Q978987)](https://www.wikidata.org/wiki/Q978987)
 - [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Burghers_of_Calais_MET_DP221863.jpg)
 

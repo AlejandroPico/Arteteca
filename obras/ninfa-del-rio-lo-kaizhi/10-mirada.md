@@ -5,8 +5,8 @@ icono: ojo
 
 ## Qué mirar
 
-El paisaje de **Ninfa del río Lo** organiza la mirada por planos, desde los elementos próximos hasta el horizonte. La presencia humana, cuando aparece, sirve de escala frente a la extensión del entorno.
+La imagen es solo un fragmento de un rollo horizontal mucho más largo. Las figuras aparecen reunidas en episodios separados por árboles, rocas, agua y amplias zonas de seda sin ocupar; esos vacíos no son un fondo incompleto, sino pausas que permiten pasar de un momento del poema al siguiente.
 
-La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
+Los personajes son grandes respecto al paisaje. Sus túnicas caen en curvas largas y las líneas más finas describen rostros, manos y miradas, elementos decisivos para reconocer vínculos y emociones. El terreno no obedece a una perspectiva única: funciona como escenario sucesivo para la aparición de la diosa y el recorrido de Cao Zhi.
 
-La pintura atribuida a Gu Kaizhi se despliega como una lectura continua. La línea de pincel define cuerpos, vestidos y relaciones espaciales con gran economía; el vacío entre grupos marca pausas equivalentes a las de un relato escrito.
+La obra conservada en la Freer es una copia de la dinastía Song del Sur, tradicionalmente vinculada a una composición de Gu Kaizhi. Conviene mirar por ello tanto la narración antigua que transmite como la materialidad de una versión posterior: tinta y color sobre seda, sellos, uniones y huellas de su historia como rollo.

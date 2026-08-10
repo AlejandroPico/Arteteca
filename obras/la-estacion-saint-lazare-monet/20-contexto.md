@@ -6,7 +6,7 @@ icono: reloj
 ## Identificación
 
 - **Autoría:** Claude Monet
-- **Datación registrada:** c. 1877
+- **Datación registrada:** 1877
 - **Periodo de navegación:** Impresionismo
 - **Colección temática:** Romanticismo, Realismo e Impresionismo
 

@@ -5,6 +5,7 @@ icono: enlace
 
 ## Identificación y reproducción
 
+- [Metropolitan Museum of Art: Hokusai Manga, volumen 15, JIB83](https://www.metmuseum.org/art/collection/search/57390)
 - [Registro estructurado en Wikidata (Q65706172)](https://www.wikidata.org/wiki/Q65706172)
 - [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MET_JIB83_001.jpg)
 

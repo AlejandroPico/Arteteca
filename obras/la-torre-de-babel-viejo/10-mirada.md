@@ -5,8 +5,8 @@ icono: ojo
 
 ## Qué mirar
 
-La obra presenta **La torre de Babel** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
+La torre ocupa casi toda la superficie y parece crecer a la vez hacia arriba y hacia los lados. Sus pisos de arcos recuerdan al Coliseo, pero no forman anillos regulares: cada nivel se inclina, se interrumpe o entra en conflicto con el siguiente. La roca natural todavía asoma dentro de la fábrica, como si el edificio tratara de envolver una montaña sin llegar a dominarla.
 
-La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
+En primer plano, el rey Nemrod recibe la reverencia de canteros mientras, detrás, miles de figuras transportan piedra, levantan andamios y accionan grúas. Conviene recorrer despacio caminos, rampas y galerías: Brueghel describe procedimientos constructivos reconocibles para hacer verosímil una empresa imposible.
 
-Brueghel distribuye multitud de acciones dentro de paisajes y espacios colectivos. El motivo principal puede no ocupar el centro: recorrer caminos, edificios y pequeños grupos revela historias paralelas y conexiones que la primera mirada pasa por alto.
+La ciudad portuaria y el paisaje del horizonte ofrecen la escala. Frente a casas, barcos y personas diminutas, la torre resulta desmesurada; sin embargo, ya muestra grietas, tramos incompletos y ejes mal coordinados. El fracaso bíblico no aparece como un rayo repentino, sino inscrito en la propia organización de la obra.

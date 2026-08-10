@@ -5,6 +5,7 @@ icono: enlace
 
 ## Identificación y reproducción
 
+- [Museo del Louvre: Apollon Sauroctone, Ma 441](https://collections.louvre.fr/ark:/53355/cl010278000)
 - [Registro estructurado en Wikidata (Q619265)](https://www.wikidata.org/wiki/Q619265)
 - [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apollo_Saurocton_Louvre.jpg)
 

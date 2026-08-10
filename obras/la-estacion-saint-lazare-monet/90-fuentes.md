@@ -5,6 +5,7 @@ icono: enlace
 
 ## Identificación y reproducción
 
+- [Museo de Orsay: La Gare Saint-Lazare, RF 2775](https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897)
 - [Registro estructurado en Wikidata (Q49985736)](https://www.wikidata.org/wiki/Q49985736)
 - [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:La_Gare_Saint-Lazare_-_Claude_Monet.jpg)
 

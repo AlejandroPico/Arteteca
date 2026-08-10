@@ -3,13 +3,20 @@
   "titulo": "La estación Saint-Lazare",
   "tituloOriginal": "Gare Saint-Lazare (Monet series)",
   "autor": "Claude Monet",
-  "fecha": "c. 1877",
+  "fecha": "1877",
   "fechaOrden": 1877,
   "tipo": "Serie artística",
   "periodo": "Impresionismo",
   "coleccion": "Romanticismo, Realismo e Impresionismo",
-  "descripcion": "Impressionist paintings of French rail infrastructure.",
-  "tecnicas": [],
+  "descripcion": "Una de las vistas que Monet pintó dentro de la estación Saint-Lazare. La estructura de hierro, las locomotoras y los andenes quedan parcialmente disueltos por el vapor, convertido en materia para estudiar la luz y el movimiento de la ciudad moderna.",
+  "localizacion": "Museo de Orsay",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.musee-orsay.fr/en/artworks/la-gare-saint-lazare-10897",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20de%20Orsay%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "óleo sobre lienzo"
+  ],
   "etiquetas": [
     "Claude Monet",
     "Impresionismo",

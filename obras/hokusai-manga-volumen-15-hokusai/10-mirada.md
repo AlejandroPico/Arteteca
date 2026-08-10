@@ -5,8 +5,8 @@ icono: ojo
 
 ## Qué mirar
 
-La hoja representa **Hokusai Manga, volumen 15** mediante líneas, reservas claras y tramas de distinta densidad. Antes de buscar el detalle, conviene reconocer cómo esas marcas separan figura y fondo y construyen volumen sin depender del color.
+La reproducción corresponde a una sola hoja del ejemplar, no al contenido completo del volumen. El formato vertical, el tono cálido del papel y la impresión contenida recuerdan que los *Manga* fueron concebidos como libros que se sostienen, se abren y se recorren, no como estampas aisladas para colgar.
 
-La ausencia de una paleta amplia hace especialmente visibles la dirección y la densidad de cada trazo. Las reservas de papel actúan como luz y las tramas más cerradas acercan o hunden las formas.
+El volumen se lee de derecha a izquierda. Al avanzar por sus páginas, conviene observar cómo Hokusai cambia de escala y de asunto: una figura humana puede compartir secuencia con aves, herramientas, plantas, accidentes del terreno o movimientos del agua. La unidad no depende de una historia continua, sino de la curiosidad visual y del ritmo de la línea.
 
-Hokusai reduce el paisaje a perfiles enérgicos, planos de color y ritmos que enlazan agua, nubes, vegetación y presencia humana. La escala puede invertirse: un fenómeno natural domina el primer plano mientras la montaña o el horizonte actúan como medida estable.
+La paleta reducida deja a la vista el trabajo de la xilografía. Los perfiles negros fijan gestos y contornos; las tramas y los tonos suaves sugieren volumen, distancia o atmósfera; las zonas sin imprimir hacen que el blanco del papel participe activamente en cada composición.

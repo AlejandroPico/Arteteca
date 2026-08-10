@@ -6,7 +6,7 @@ icono: reloj
 ## Identificación
 
 - **Autoría:** Policleto
-- **Datación registrada:** c. 430 a. C.
+- **Datación registrada:** c. 430 a. C. (original); copia helenística tardía
 - **Periodo de navegación:** Grecia clásica
 - **Colección temática:** Grecia y Roma
 

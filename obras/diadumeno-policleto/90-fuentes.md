@@ -5,6 +5,7 @@ icono: enlace
 
 ## Identificación y reproducción
 
+- [Museo Arqueológico Nacional de Atenas: periodo clásico y Diadúmeno n.º 1826](https://www.namuseum.gr/en/collection/klasiki-periodos-2/)
 - [Registro estructurado en Wikidata (Q1208140)](https://www.wikidata.org/wiki/Q1208140)
 - [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diad%C3%BAmeno,_Atenas,_Grecia,_2019_07.jpg)
 

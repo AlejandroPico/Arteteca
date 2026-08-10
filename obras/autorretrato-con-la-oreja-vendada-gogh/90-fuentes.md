@@ -5,8 +5,10 @@ icono: enlace
 
 ## Identificación y reproducción
 
+- [The Courtauld: ficha de colección P.1948.SC.175](https://gallerycollections.courtauld.ac.uk/object-p-1948-sc-175)
+- [The Courtauld: estudio de la obra y su contexto](https://courtauld.ac.uk/highlights/self-portrait-with-bandaged-ear/)
 - [Registro estructurado en Wikidata (Q19363214)](https://www.wikidata.org/wiki/Q19363214)
-- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Selbstbildnis_mit_verbundenem_Ohr_und_Pfeife.jpeg)
+- [Archivo y licencia en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-portrait_with_bandaged_ear_(1889,_Courtauld_Institute).jpg)
 
 
 ## Procedencia de la selección

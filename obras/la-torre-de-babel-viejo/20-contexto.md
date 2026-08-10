@@ -6,7 +6,7 @@ icono: reloj
 ## Identificación
 
 - **Autoría:** Pieter Brueghel el Viejo
-- **Datación registrada:** c. 1563
+- **Datación registrada:** 1563
 - **Periodo de navegación:** Renacimiento nórdico
 - **Colección temática:** Renacimiento
 

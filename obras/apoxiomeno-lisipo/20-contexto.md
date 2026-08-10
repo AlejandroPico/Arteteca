@@ -6,7 +6,7 @@ icono: reloj
 ## Identificación
 
 - **Autoría:** Lisipo
-- **Datación registrada:** c. 330 a. C.
+- **Datación registrada:** c. 320 a. C. (original); c. 50 d. C. (copia romana)
 - **Periodo de navegación:** Helenismo
 - **Colección temática:** Grecia y Roma
 

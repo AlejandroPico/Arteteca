@@ -6,7 +6,7 @@ icono: reloj
 ## Identificación
 
 - **Autoría:** Auguste Rodin
-- **Datación registrada:** c. 1888
+- **Datación registrada:** modelado 1884–1895; fundición de 1985
 - **Periodo de navegación:** Escultura moderna
 - **Colección temática:** Romanticismo, Realismo e Impresionismo
 

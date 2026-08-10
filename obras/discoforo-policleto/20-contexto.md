@@ -5,9 +5,9 @@ icono: reloj
 
 ## Identificación
 
-- **Autoría:** Policleto
-- **Datación registrada:** c. 460 a. C.
-- **Periodo de navegación:** Grecia clásica
+- **Autoría:** Naucides (según original atribuido)
+- **Datación registrada:** c. 400–375 a. C. (original); 75–125 d. C. (copia romana)
+- **Periodo de navegación:** Grecia clásica tardía / Roma imperial
 - **Colección temática:** Grecia y Roma
 
 

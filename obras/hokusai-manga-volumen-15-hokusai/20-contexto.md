@@ -6,7 +6,7 @@ icono: reloj
 ## Identificación
 
 - **Autoría:** Katsushika Hokusai
-- **Datación registrada:** Fecha no determinada
+- **Datación registrada:** 1878
 - **Periodo de navegación:** Ukiyo-e
 - **Colección temática:** Asia
 

@@ -5,9 +5,9 @@ icono: reloj
 
 ## Identificación
 
-- **Autoría:** Gu Kaizhi
-- **Datación registrada:** Fecha no determinada
-- **Periodo de navegación:** Dinastía Jin
+- **Autoría:** Tradicionalmente atribuido a Gu Kaizhi
+- **Datación registrada:** mediados del siglo XII–mediados del XIII
+- **Periodo de navegación:** Dinastía Song del Sur
 - **Colección temática:** Asia
 
 

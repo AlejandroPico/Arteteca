@@ -1,0 +1,40 @@
+{
+  "id": "silla-wassily-breuer",
+  "titulo": "Silla Wassily",
+  "tituloOriginal": "Model B3 Chair",
+  "autor": "Marcel Breuer",
+  "fecha": "1925–1926",
+  "fechaOrden": 1925,
+  "tipo": "Diseño",
+  "periodo": "Bauhaus",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Tubos de acero cromado dibujan en el aire una estructura continua; bandas tensadas forman asiento, respaldo y apoyabrazos sin ocultar el esqueleto. El sillón parece ligero, desmontable y casi transparente.",
+  "localizacion": "Museum of Modern Art",
+  "ciudad": "Nueva York",
+  "pais": "Estados Unidos",
+  "urlLocalizacion": "https://www.moma.org/collection/works/2851",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20Nueva%20York",
+  "tecnicas": [
+    "Diseño"
+  ],
+  "etiquetas": [
+    "bauhaus",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bauhaus%203%20Chair.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bauhaus%203%20Chair.jpg",
+    "alt": "Tubos de acero cromado dibujan en el aire una estructura continua; bandas tensadas forman asiento, respaldo y apoyabrazos sin ocultar el esqueleto. El sillón parece ligero, desmontable y casi transparente.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bauhaus%203%20Chair.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

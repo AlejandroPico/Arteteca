@@ -1,0 +1,40 @@
+{
+  "id": "arringatore",
+  "titulo": "El Arringatore",
+  "tituloOriginal": "Aule Metele",
+  "autor": "Taller etrusco",
+  "fecha": "finales del siglo II a. C.",
+  "fechaOrden": -150,
+  "tipo": "Escultura",
+  "periodo": "Roma republicana",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Un magistrado vestido con toga avanza un brazo con la palma abierta, gesto de quien pide silencio antes de hablar. El rostro individualizado y la inscripción etrusca conviven con una vestimenta ya plenamente romana.",
+  "localizacion": "Museo Arqueológico Nacional de Florencia",
+  "ciudad": "Florencia",
+  "pais": "Italia",
+  "urlLocalizacion": "https://museitoscana.cultura.gov.it/luoghi_della_cultura/museo_archeologico_nazionale_firenze/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Arqueol%C3%B3gico%20Nacional%20de%20Florencia%20Florencia",
+  "tecnicas": [
+    "Escultura"
+  ],
+  "etiquetas": [
+    "roma republicana",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Arringatore.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Arringatore.jpg",
+    "alt": "Un magistrado vestido con toga avanza un brazo con la palma abierta, gesto de quien pide silencio antes de hablar. El rostro individualizado y la inscripción etrusca conviven con una vestimenta ya plenamente romana.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Arringatore.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

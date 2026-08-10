@@ -1,0 +1,40 @@
+{
+  "id": "timpano-moissac",
+  "titulo": "Tímpano de la abadía de Moissac",
+  "tituloOriginal": "Tympanum of Moissac Abbey",
+  "autor": "Talleres de Moissac",
+  "fecha": "c. 1115–1130",
+  "fechaOrden": 1115,
+  "tipo": "Relieve",
+  "periodo": "Arte románico",
+  "coleccion": "Arte medieval europeo",
+  "descripcion": "Cristo entronizado domina el centro, rodeado por los símbolos de los evangelistas y filas de ancianos del Apocalipsis. Los cuerpos se adaptan al semicírculo y los pliegues producen un ritmo nervioso que conduce hacia la visión central.",
+  "localizacion": "Abadía de Saint-Pierre de Moissac",
+  "ciudad": "Moissac",
+  "pais": "Francia",
+  "urlLocalizacion": "https://www.abbayemoissac.com/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Abad%C3%ADa%20de%20Saint-Pierre%20de%20Moissac%20Moissac",
+  "tecnicas": [
+    "Relieve"
+  ],
+  "etiquetas": [
+    "arte románico",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Moissac.%20Church%20of%20Saints%20Peter%20and%20Paul.%20South%20Portal%20Tympanum%20(3486768628).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Moissac.%20Church%20of%20Saints%20Peter%20and%20Paul.%20South%20Portal%20Tympanum%20(3486768628).jpg",
+    "alt": "Cristo entronizado domina el centro, rodeado por los símbolos de los evangelistas y filas de ancianos del Apocalipsis. Los cuerpos se adaptan al semicírculo y los pliegues producen un ritmo nervioso que conduce hacia la visión central.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Moissac.%20Church%20of%20Saints%20Peter%20and%20Paul.%20South%20Portal%20Tympanum%20(3486768628).jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

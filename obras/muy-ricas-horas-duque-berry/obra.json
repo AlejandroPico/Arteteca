@@ -1,0 +1,40 @@
+{
+  "id": "muy-ricas-horas-duque-berry",
+  "titulo": "Las muy ricas horas del duque de Berry",
+  "tituloOriginal": "Les Très Riches Heures du duc de Berry",
+  "autor": "Hermanos Limbourg y continuadores",
+  "fecha": "c. 1412–1416; completado en el siglo XV",
+  "fechaOrden": 1412,
+  "tipo": "Manuscrito iluminado",
+  "periodo": "Gótico internacional",
+  "coleccion": "Arte medieval europeo",
+  "descripcion": "El manuscrito alterna calendarios de labores y fiestas con escenas devocionales de minuciosidad excepcional. En enero, el duque recibe a sus invitados bajo un dosel azul mientras una mesa cargada, ropas brillantes y servidores construyen una corte densamente observada.",
+  "localizacion": "Musée Condé, Château de Chantilly",
+  "ciudad": "Chantilly",
+  "pais": "Francia",
+  "urlLocalizacion": "https://les-tres-riches-heures.chateaudechantilly.fr/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20Cond%C3%A9%2C%20Ch%C3%A2teau%20de%20Chantilly%20Chantilly",
+  "tecnicas": [
+    "Manuscrito iluminado"
+  ],
+  "etiquetas": [
+    "gótico internacional",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20-%20Janvier.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20-%20Janvier.jpg",
+    "alt": "El manuscrito alterna calendarios de labores y fiestas con escenas devocionales de minuciosidad excepcional. En enero, el duque recibe a sus invitados bajo un dosel azul mientras una mesa cargada, ropas brillantes y servidores construyen una corte densamente observada.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20-%20Janvier.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

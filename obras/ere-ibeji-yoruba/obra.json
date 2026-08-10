@@ -1,0 +1,40 @@
+{
+  "id": "ere-ibeji-yoruba",
+  "titulo": "Figura ere ibeji",
+  "tituloOriginal": "Ere ibeji",
+  "autor": "Artista yoruba no identificado",
+  "fecha": "siglos XIX–XX",
+  "fechaOrden": 1850,
+  "tipo": "Escultura",
+  "periodo": "Arte yoruba",
+  "coleccion": "Arte de África",
+  "descripcion": "La pequeña figura se mantiene erguida, con cabeza amplia, peinado cuidadosamente tallado y brazos pegados al cuerpo. El desgaste, los pigmentos y las cuentas registran el cuidado continuado que recibió, no un simple deterioro material.",
+  "localizacion": "Glenbow Museum",
+  "ciudad": "Calgary",
+  "pais": "Canadá",
+  "urlLocalizacion": "https://www.glenbow.org/collections/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Glenbow%20Museum%20Calgary",
+  "tecnicas": [
+    "Escultura"
+  ],
+  "etiquetas": [
+    "arte yoruba",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ibeji%2C%20Yoruba%20-%20Glenbow%20Museum%20-%20DSC00514.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ibeji%2C%20Yoruba%20-%20Glenbow%20Museum%20-%20DSC00514.JPG",
+    "alt": "La pequeña figura se mantiene erguida, con cabeza amplia, peinado cuidadosamente tallado y brazos pegados al cuerpo. El desgaste, los pigmentos y las cuentas registran el cuidado continuado que recibió, no un simple deterioro material.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ibeji%2C%20Yoruba%20-%20Glenbow%20Museum%20-%20DSC00514.JPG",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

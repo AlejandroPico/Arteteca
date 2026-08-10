@@ -1,0 +1,40 @@
+{
+  "id": "mosaico-justiniano-san-vitale",
+  "titulo": "Justiniano y su séquito",
+  "tituloOriginal": "Emperor Justinian and His Attendants",
+  "autor": "Talleres de San Vital de Rávena",
+  "fecha": "c. 547",
+  "fechaOrden": 547,
+  "tipo": "Mosaico",
+  "periodo": "Arte bizantino",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Justiniano ocupa el centro con nimbo, púrpura imperial y una patena de oro. A ambos lados se alinean clérigos, funcionarios y soldados; las figuras se pisan levemente y parecen suspendidas ante un fondo dorado sin profundidad naturalista.",
+  "localizacion": "Basílica de San Vital",
+  "ciudad": "Rávena",
+  "pais": "Italia",
+  "urlLocalizacion": "https://www.ravennamosaici.it/basilica-di-san-vitale/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20de%20San%20Vital%20R%C3%A1vena",
+  "tecnicas": [
+    "Mosaico"
+  ],
+  "etiquetas": [
+    "arte bizantino",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Justinian%20mosaic%2C%20San%20Vitale%2C%20consecrated%20547%2C%20Ravenna%2C%20Italy.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Justinian%20mosaic%2C%20San%20Vitale%2C%20consecrated%20547%2C%20Ravenna%2C%20Italy.jpg",
+    "alt": "Justiniano ocupa el centro con nimbo, púrpura imperial y una patena de oro. A ambos lados se alinean clérigos, funcionarios y soldados; las figuras se pisan levemente y parecen suspendidas ante un fondo dorado sin profundidad naturalista.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Justinian%20mosaic%2C%20San%20Vitale%2C%20consecrated%20547%2C%20Ravenna%2C%20Italy.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

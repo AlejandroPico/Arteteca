@@ -1,0 +1,40 @@
+{
+  "id": "autorretrato-bostezando-ducreux",
+  "titulo": "Autorretrato bostezando",
+  "tituloOriginal": "Self-Portrait, Yawning",
+  "autor": "Joseph Ducreux",
+  "fecha": "antes de 1783",
+  "fechaOrden": 1783,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Ducreux abre la boca, cierra los ojos y estira los brazos en un bostezo que ocupa todo el lienzo. La camisa desordenada, el pañuelo abierto y el brazo que avanza hacia nosotros sustituyen la pose estable del retrato por una acción corporal.",
+  "localizacion": "J. Paul Getty Museum",
+  "ciudad": "Los Ángeles",
+  "pais": "Estados Unidos",
+  "urlLocalizacion": "https://www.getty.edu/art/collection/object/103RBX",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=J.%20Paul%20Getty%20Museum%20Los%20%C3%81ngeles",
+  "tecnicas": [
+    "Pintura"
+  ],
+  "etiquetas": [
+    "neoclasicismo",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joseph%20Ducreux%20(French)%20-%20Self-Portrait%2C%20Yawning%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joseph%20Ducreux%20(French)%20-%20Self-Portrait%2C%20Yawning%20-%20Google%20Art%20Project.jpg",
+    "alt": "Ducreux abre la boca, cierra los ojos y estira los brazos en un bostezo que ocupa todo el lienzo. La camisa desordenada, el pañuelo abierto y el brazo que avanza hacia nosotros sustituyen la pose estable del retrato por una acción corporal.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Joseph%20Ducreux%20(French)%20-%20Self-Portrait%2C%20Yawning%20-%20Google%20Art%20Project.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

@@ -1,0 +1,40 @@
+{
+  "id": "caballero-sonriente-hals",
+  "titulo": "El caballero sonriente",
+  "tituloOriginal": "The Laughing Cavalier",
+  "autor": "Frans Hals",
+  "fecha": "1624",
+  "fechaOrden": 1624,
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco europeo",
+  "descripcion": "El joven gira el torso, apoya una mano en la cadera y mira desde arriba con bigote levantado y expresión segura. El negro del traje sirve de fondo a bordados blancos, dorados y rojos; los puños, encajes y motivos animan una silueta que parece avanzar fuera del marco.",
+  "localizacion": "The Wallace Collection",
+  "ciudad": "Londres",
+  "pais": "Reino Unido",
+  "urlLocalizacion": "https://www.wallacecollection.org/explore/collection/search-the-collection/laughing-cavalier/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Wallace%20Collection%20Londres",
+  "tecnicas": [
+    "Pintura"
+  ],
+  "etiquetas": [
+    "barroco neerlandés",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frans%20Hals%20%E2%80%93%20The%20Laughing%20Cavalier.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frans%20Hals%20%E2%80%93%20The%20Laughing%20Cavalier.jpg",
+    "alt": "El joven gira el torso, apoya una mano en la cadera y mira desde arriba con bigote levantado y expresión segura. El negro del traje sirve de fondo a bordados blancos, dorados y rojos; los puños, encajes y motivos animan una silueta que parece avanzar fuera del marco.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Frans%20Hals%20%E2%80%93%20The%20Laughing%20Cavalier.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

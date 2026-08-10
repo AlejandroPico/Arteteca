@@ -1,0 +1,40 @@
+{
+  "id": "pagina-alfombra-libro-durrow",
+  "titulo": "Página alfombra del Libro de Durrow",
+  "tituloOriginal": "Carpet Page, Book of Durrow",
+  "autor": "Escribas e iluminadores insulares",
+  "fecha": "c. 650–700",
+  "fechaOrden": 650,
+  "tipo": "Manuscrito iluminado",
+  "periodo": "Arte insular",
+  "coleccion": "Arte medieval y religioso",
+  "descripcion": "Una cruz central divide la página en campos densos de entrelazos, espirales y bandas coloreadas. No hay narración figurativa: el ojo recorre una superficie rítmica en la que cada nudo parece continuar en el siguiente.",
+  "localizacion": "Trinity College Library",
+  "ciudad": "Dublín",
+  "pais": "Irlanda",
+  "urlLocalizacion": "https://www.tcd.ie/library/research-collections/book-of-durrow/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Trinity%20College%20Library%20Dubl%C3%ADn",
+  "tecnicas": [
+    "Manuscrito iluminado"
+  ],
+  "etiquetas": [
+    "arte insular",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BookDurrowCarpetPage2.png?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BookDurrowCarpetPage2.png",
+    "alt": "Una cruz central divide la página en campos densos de entrelazos, espirales y bandas coloreadas. No hay narración figurativa: el ojo recorre una superficie rítmica en la que cada nudo parece continuar en el siguiente.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:BookDurrowCarpetPage2.png",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

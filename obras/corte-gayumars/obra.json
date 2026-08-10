@@ -1,0 +1,40 @@
+{
+  "id": "corte-gayumars",
+  "titulo": "La corte de Gayumars",
+  "tituloOriginal": "The Court of Gayumars",
+  "autor": "Sultan Muhammad",
+  "fecha": "c. 1522–1525",
+  "fechaOrden": 1522,
+  "tipo": "Manuscrito iluminado",
+  "periodo": "Arte safávida",
+  "coleccion": "Arte islámico",
+  "descripcion": "La primera corte legendaria se reúne en una montaña que parece florecer en cada centímetro. Figuras diminutas con pieles de leopardo se distribuyen entre rocas, árboles, animales y nubes; el paisaje funciona a la vez como escenario, tapiz y universo ordenado.",
+  "localizacion": "Aga Khan Museum",
+  "ciudad": "Toronto",
+  "pais": "Canadá",
+  "urlLocalizacion": "https://agakhanmuseum.org/collection/artifact/court-of-gayumars-akm165",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Aga%20Khan%20Museum%20Toronto",
+  "tecnicas": [
+    "Manuscrito iluminado"
+  ],
+  "etiquetas": [
+    "arte safávida",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Court%20of%20Gayumars%20(Cropped).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Court%20of%20Gayumars%20(Cropped).jpg",
+    "alt": "La primera corte legendaria se reúne en una montaña que parece florecer en cada centímetro. Figuras diminutas con pieles de leopardo se distribuyen entre rocas, árboles, animales y nubes; el paisaje funciona a la vez como escenario, tapiz y universo ordenado.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The%20Court%20of%20Gayumars%20(Cropped).jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

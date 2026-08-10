@@ -1,0 +1,40 @@
+{
+  "id": "namarrgon-kakadu",
+  "titulo": "Namarrgon, el Hombre Relámpago",
+  "tituloOriginal": "Namarrgon",
+  "autor": "Artistas aborígenes de la región de Kakadu",
+  "fecha": "múltiples fases, repintado histórico",
+  "fechaOrden": 1700,
+  "tipo": "Pintura rupestre",
+  "periodo": "Arte aborigen australiano",
+  "coleccion": "Arte de Oceanía",
+  "descripcion": "Namarrgon aparece con hachas de piedra en codos y rodillas y una banda arqueada que representa el relámpago. El cuerpo esquemático se integra entre otras figuras y capas de pintura sobre el abrigo rocoso.",
+  "localizacion": "Anbangbang Gallery, Kakadu National Park",
+  "ciudad": "Kakadu",
+  "pais": "Australia",
+  "urlLocalizacion": "https://parksaustralia.gov.au/kakadu/do/rock-art/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Anbangbang%20Gallery%2C%20Kakadu%20National%20Park%20Kakadu",
+  "tecnicas": [
+    "Pintura rupestre"
+  ],
+  "etiquetas": [
+    "arte aborigen australiano",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anbangbang%20gallery%20Namondjok%2C%20Namarrgon%2C%20and%20Barrginj%20rock%20art.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anbangbang%20gallery%20Namondjok%2C%20Namarrgon%2C%20and%20Barrginj%20rock%20art.jpg",
+    "alt": "Namarrgon aparece con hachas de piedra en codos y rodillas y una banda arqueada que representa el relámpago. El cuerpo esquemático se integra entre otras figuras y capas de pintura sobre el abrigo rocoso.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Anbangbang%20gallery%20Namondjok%2C%20Namarrgon%2C%20and%20Barrginj%20rock%20art.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

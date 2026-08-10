@@ -1,0 +1,40 @@
+{
+  "id": "santo-entierro-juan-juni",
+  "titulo": "Santo Entierro",
+  "tituloOriginal": "Santo Entierro",
+  "autor": "Juan de Juni",
+  "fecha": "1541–1544",
+  "fechaOrden": 1541,
+  "tipo": "Escultura",
+  "periodo": "Renacimiento español",
+  "coleccion": "Renacimiento y Manierismo",
+  "descripcion": "El cuerpo de Cristo yace ante un grupo de figuras que se inclinan, retuercen las manos o contienen el llanto. Los paños se quiebran en pliegues profundos y la policromía intensifica heridas, lágrimas y miradas.",
+  "localizacion": "Museo Nacional de Escultura",
+  "ciudad": "Valladolid",
+  "pais": "España",
+  "urlLocalizacion": "https://www.cultura.gob.es/mnescultura/colecciones/escultura/espanola/siglo-xvi/santo-entierro.html",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Escultura%20Valladolid",
+  "tecnicas": [
+    "Escultura"
+  ],
+  "etiquetas": [
+    "renacimiento español",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Juan%20de%20Juni%2C%20Entierro%20de%20Cristo%2C%201541-1544.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Juan%20de%20Juni%2C%20Entierro%20de%20Cristo%2C%201541-1544.jpg",
+    "alt": "El cuerpo de Cristo yace ante un grupo de figuras que se inclinan, retuercen las manos o contienen el llanto. Los paños se quiebran en pliegues profundos y la policromía intensifica heridas, lágrimas y miradas.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Juan%20de%20Juni%2C%20Entierro%20de%20Cristo%2C%201541-1544.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

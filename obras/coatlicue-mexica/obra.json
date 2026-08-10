@@ -1,0 +1,40 @@
+{
+  "id": "coatlicue-mexica",
+  "titulo": "Coatlicue",
+  "tituloOriginal": "Coatlicue",
+  "autor": "Escultores mexicas",
+  "fecha": "c. 1500",
+  "fechaOrden": 1500,
+  "tipo": "Escultura",
+  "periodo": "Arte mexica",
+  "coleccion": "África, Américas y Oceanía",
+  "descripcion": "La monumental figura reúne una falda de serpientes, garras, corazones y manos cortadas; dos serpientes brotan del cuello formando un rostro frontal. La simetría ordena una acumulación de elementos corporales, animales y sacrificiales.",
+  "localizacion": "Museo Nacional de Antropología",
+  "ciudad": "Ciudad de México",
+  "pais": "México",
+  "urlLocalizacion": "https://mna.inah.gob.mx/detalle_pieza_mes.php?id=149",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Nacional%20de%20Antropolog%C3%ADa%20Ciudad%20de%20M%C3%A9xico",
+  "tecnicas": [
+    "Escultura"
+  ],
+  "etiquetas": [
+    "arte mexica",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coatlicue%20Statue%20in%20National%20Museum%20of%20Anthropology%2C%20Mexico%20City%20(2748833231).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coatlicue%20Statue%20in%20National%20Museum%20of%20Anthropology%2C%20Mexico%20City%20(2748833231).jpg",
+    "alt": "La monumental figura reúne una falda de serpientes, garras, corazones y manos cortadas; dos serpientes brotan del cuello formando un rostro frontal. La simetría ordena una acumulación de elementos corporales, animales y sacrificiales.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Coatlicue%20Statue%20in%20National%20Museum%20of%20Anthropology%2C%20Mexico%20City%20(2748833231).jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

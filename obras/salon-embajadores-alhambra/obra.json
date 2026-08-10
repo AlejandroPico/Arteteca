@@ -1,0 +1,40 @@
+{
+  "id": "salon-embajadores-alhambra",
+  "titulo": "Salón de Embajadores de la Alhambra",
+  "tituloOriginal": "Qubba Mayor",
+  "autor": "Talleres nazaríes bajo Yusuf I",
+  "fecha": "c. 1333–1354",
+  "fechaOrden": 1333,
+  "tipo": "Arquitectura",
+  "periodo": "Arte nazarí",
+  "coleccion": "Arte islámico",
+  "descripcion": "La sala cúbica asciende hacia una cúpula de madera estrellada; zócalos de azulejo, yeserías epigráficas y ventanas en nichos cubren cada nivel con ritmos distintos. La luz cambia la densidad del ornamento según la altura.",
+  "localizacion": "Alhambra y Generalife",
+  "ciudad": "Granada",
+  "pais": "España",
+  "urlLocalizacion": "https://www.alhambra-patronato.es/edificios-lugares/torre-de-comares",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Alhambra%20y%20Generalife%20Granada",
+  "tecnicas": [
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "arte nazarí",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alhambra%20interior%20(4260946500).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alhambra%20interior%20(4260946500).jpg",
+    "alt": "La sala cúbica asciende hacia una cúpula de madera estrellada; zócalos de azulejo, yeserías epigráficas y ventanas en nichos cubren cada nivel con ritmos distintos. La luz cambia la densidad del ornamento según la altura.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Alhambra%20interior%20(4260946500).jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

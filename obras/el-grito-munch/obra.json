@@ -1,0 +1,40 @@
+{
+  "id": "el-grito-munch",
+  "titulo": "El grito",
+  "tituloOriginal": "Skrik",
+  "autor": "Edvard Munch",
+  "fecha": "1893",
+  "fechaOrden": 1893,
+  "tipo": "Pintura",
+  "periodo": "Arte moderno",
+  "coleccion": "Surrealismo y primeras vanguardias",
+  "descripcion": "Una figura sin identidad precisa se detiene sobre un puente, se tapa los oídos y abre la boca mientras el cielo, el fiordo y la orilla ondulan. Las diagonales rígidas de la barandilla chocan con curvas rojas, azules y amarillas que atraviesan paisaje y cuerpo.",
+  "localizacion": "Nasjonalmuseet",
+  "ciudad": "Oslo",
+  "pais": "Noruega",
+  "urlLocalizacion": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00939",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Nasjonalmuseet%20Oslo",
+  "tecnicas": [
+    "Pintura"
+  ],
+  "etiquetas": [
+    "arte moderno",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Edvard-Munch-The-Scream.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Edvard-Munch-The-Scream.jpg",
+    "alt": "Una figura sin identidad precisa se detiene sobre un puente, se tapa los oídos y abre la boca mientras el cielo, el fiordo y la orilla ondulan. Las diagonales rígidas de la barandilla chocan con curvas rojas, azules y amarillas que atraviesan paisaje y cuerpo.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Edvard-Munch-The-Scream.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

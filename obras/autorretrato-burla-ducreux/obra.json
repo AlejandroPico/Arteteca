@@ -1,0 +1,40 @@
+{
+  "id": "autorretrato-burla-ducreux",
+  "titulo": "Autorretrato del artista con gesto de burla",
+  "tituloOriginal": "Portrait de l’artiste sous les traits d’un moqueur",
+  "autor": "Joseph Ducreux",
+  "fecha": "c. 1793",
+  "fechaOrden": 1793,
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Ducreux se inclina hacia el espectador, señala con un dedo y contrae la boca en una mueca cómplice. La peluca empolvada y la casaca conservan la etiqueta del retrato cortesano, pero el cuerpo rompe su solemnidad con una proximidad casi teatral.",
+  "localizacion": "Museo del Louvre",
+  "ciudad": "París",
+  "pais": "Francia",
+  "urlLocalizacion": "https://collections.louvre.fr/en/ark:/53355/cl010062946",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Louvre%20Par%C3%ADs",
+  "tecnicas": [
+    "Pintura"
+  ],
+  "etiquetas": [
+    "neoclasicismo",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joseph%20Ducreux%20-%20Self-portrait%20of%20the%20artist%20as%20a%20mocker.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joseph%20Ducreux%20-%20Self-portrait%20of%20the%20artist%20as%20a%20mocker.jpg",
+    "alt": "Ducreux se inclina hacia el espectador, señala con un dedo y contrae la boca en una mueca cómplice. La peluca empolvada y la casaca conservan la etiqueta del retrato cortesano, pero el cuerpo rompe su solemnidad con una proximidad casi teatral.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Joseph%20Ducreux%20-%20Self-portrait%20of%20the%20artist%20as%20a%20mocker.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

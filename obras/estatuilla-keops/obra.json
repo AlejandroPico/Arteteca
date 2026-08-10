@@ -1,0 +1,40 @@
+{
+  "id": "estatuilla-keops",
+  "titulo": "Estatuilla de Keops",
+  "tituloOriginal": "Khufu Statuette",
+  "autor": "Talleres reales egipcios",
+  "fecha": "c. 2589–2566 a. C.",
+  "fechaOrden": -2589,
+  "tipo": "Escultura",
+  "periodo": "Dinastía IV",
+  "coleccion": "Antiguo Egipto",
+  "descripcion": "El faraón se sienta en un trono compacto, con corona roja y flagelo, en una figura de marfil de apenas unos centímetros. La escala diminuta contrasta con la enormidad de la pirámide asociada a su reinado.",
+  "localizacion": "Museo Egipcio",
+  "ciudad": "El Cairo",
+  "pais": "Egipto",
+  "urlLocalizacion": "https://egyptianmuseumcairo.eg/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museo%20Egipcio%20El%20Cairo",
+  "tecnicas": [
+    "Escultura"
+  ],
+  "etiquetas": [
+    "dinastía iv",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ivory%20statuette%20of%20Khufu%20from%20Abydos%2C%202551-2528%20BCE%3B%20Egyptian%20Museum%2C%20Cairo%20(1).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ivory%20statuette%20of%20Khufu%20from%20Abydos%2C%202551-2528%20BCE%3B%20Egyptian%20Museum%2C%20Cairo%20(1).jpg",
+    "alt": "El faraón se sienta en un trono compacto, con corona roja y flagelo, en una figura de marfil de apenas unos centímetros. La escala diminuta contrasta con la enormidad de la pirámide asociada a su reinado.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ivory%20statuette%20of%20Khufu%20from%20Abydos%2C%202551-2528%20BCE%3B%20Egyptian%20Museum%2C%20Cairo%20(1).jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

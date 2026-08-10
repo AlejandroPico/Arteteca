@@ -1,0 +1,40 @@
+{
+  "id": "gran-mezquita-damasco",
+  "titulo": "Gran Mezquita de Damasco",
+  "tituloOriginal": "Al-Jāmiʿ al-Umawī",
+  "autor": "Talleres omeyas bajo al-Walid I",
+  "fecha": "706–715",
+  "fechaOrden": 706,
+  "tipo": "Arquitectura",
+  "periodo": "Arte califal omeya",
+  "coleccion": "Arte islámico",
+  "descripcion": "El gran patio porticado conduce a una sala de oración de tres naves; en los muros sobreviven mosaicos de arquitecturas, árboles y ríos sin figuras humanas. Oro y verde convierten la ciudad ideal en una visión luminosa y continua.",
+  "localizacion": "Gran Mezquita de Damasco",
+  "ciudad": "Damasco",
+  "pais": "Siria",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/20/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gran%20Mezquita%20de%20Damasco%20Damasco",
+  "tecnicas": [
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "arte califal omeya",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Damascus%20south%20exterior%20of%20Umayyad%20Mosque%205599.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Damascus%20south%20exterior%20of%20Umayyad%20Mosque%205599.jpg",
+    "alt": "El gran patio porticado conduce a una sala de oración de tres naves; en los muros sobreviven mosaicos de arquitecturas, árboles y ríos sin figuras humanas. Oro y verde convierten la ciudad ideal en una visión luminosa y continua.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Damascus%20south%20exterior%20of%20Umayyad%20Mosque%205599.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

@@ -1,0 +1,40 @@
+{
+  "id": "casa-schroder-rietveld",
+  "titulo": "Casa Rietveld Schröder",
+  "tituloOriginal": "Rietveld Schröderhuis",
+  "autor": "Gerrit Rietveld y Truus Schröder-Schräder",
+  "fecha": "1924",
+  "fechaOrden": 1924,
+  "tipo": "Arquitectura",
+  "periodo": "De Stijl",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Planos blancos y grises se cruzan con líneas negras y acentos rojos, azules y amarillos. Balcones, barandillas y ventanas parecen deslizarse unos sobre otros, mientras el interior superior puede transformarse mediante paneles móviles.",
+  "localizacion": "Centraal Museum",
+  "ciudad": "Utrecht",
+  "pais": "Países Bajos",
+  "urlLocalizacion": "https://www.rietveldschroderhuis.nl/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Centraal%20Museum%20Utrecht",
+  "tecnicas": [
+    "Arquitectura"
+  ],
+  "etiquetas": [
+    "de stijl",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rietveld-SchroderhuisUtrechttheNetherlands.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rietveld-SchroderhuisUtrechttheNetherlands.jpg",
+    "alt": "Planos blancos y grises se cruzan con líneas negras y acentos rojos, azules y amarillos. Balcones, barandillas y ventanas parecen deslizarse unos sobre otros, mientras el interior superior puede transformarse mediante paneles móviles.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rietveld-SchroderhuisUtrechttheNetherlands.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

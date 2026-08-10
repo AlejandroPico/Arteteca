@@ -1,0 +1,40 @@
+{
+  "id": "buda-borobudur",
+  "titulo": "Buda de Borobudur",
+  "tituloOriginal": "Buddha of Borobudur",
+  "autor": "Talleres Sailendra",
+  "fecha": "c. 780–830",
+  "fechaOrden": 780,
+  "tipo": "Escultura",
+  "periodo": "Arte budista de Java",
+  "coleccion": "Arte del Sudeste Asiático",
+  "descripcion": "La figura sedente mantiene una postura estable y compacta, con párpados bajos, rizos regulares y manos que realizan un mudra. La piedra volcánica y el marco perforado de las estupas integran cuerpo, arquitectura y paisaje.",
+  "localizacion": "Templo de Borobudur",
+  "ciudad": "Magelang",
+  "pais": "Indonesia",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/592/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Templo%20de%20Borobudur%20Magelang",
+  "tecnicas": [
+    "Escultura"
+  ],
+  "etiquetas": [
+    "arte budista de java",
+    "obra influyente",
+    "ampliación de cobertura"
+  ],
+  "proporcion": [
+    4,
+    5
+  ],
+  "color": "#746557",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Borobudur%20Buddha.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Borobudur%20Buddha.jpg",
+    "alt": "La figura sedente mantiene una postura estable y compacta, con párpados bajos, rizos regulares y manos que realizan un mudra. La piedra volcánica y el marco perforado de las estupas integran cuerpo, arquitectura y paisaje.",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Borobudur%20Buddha.jpg",
+    "licencia": "Dominio público o reproducción libre indicada en Wikimedia Commons",
+    "credito": "Wikimedia Commons",
+    "foco": "center"
+  }
+}
+

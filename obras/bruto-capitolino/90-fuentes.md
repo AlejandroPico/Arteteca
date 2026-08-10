@@ -5,7 +5,7 @@ icono: libro
 
 ## Fuentes y procedencia
 
-- [Ficha oficial de los Museos Capitolinos](https://www.museicapitolini.org/fr/opera/bruto-capitolino)
+- [Ficha oficial de los Museos Capitolinos](https://www.museicapitolini.org/en/opera/bruto-capitolino)
 - [Imagen en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Capitoline_Brutus_Musei_Capitolini_MC1183.jpg)
 - [Smarthistory, Capitoline Brutus](https://smarthistory.org/capitoline-brutus/)
 

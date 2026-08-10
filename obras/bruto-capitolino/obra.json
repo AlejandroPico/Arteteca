@@ -10,7 +10,7 @@
   "descripcion": "Una cabeza de bronce de mirada incrustada y facciones severas encarna la autoridad de la temprana República. Su identificación tradicional con Lucio Junio Bruto es incierta, pero su intensidad retratística resulta indiscutible.",
   "localizacion": "Museos Capitolinos, Palazzo dei Conservatori",
   "ciudad": "Roma",
-  "urlLocalizacion": "https://www.museicapitolini.org/fr/opera/bruto-capitolino",
+  "urlLocalizacion": "https://www.museicapitolini.org/en/opera/bruto-capitolino",
   "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museos%20Capitolinos%2C%20Palazzo%20dei%20Conservatori%2C%20Roma%2C%20Italia",
   "pais": "Italia",
   "dimensiones": "69 cm de altura con el busto moderno",
@@ -26,8 +26,8 @@
     "Italia"
   ],
   "proporcion": [
-    3264,
-    4896
+    1930,
+    2570
   ],
   "color": "#466153",
   "imagen": {
@@ -35,8 +35,8 @@
     "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Capitoline_Brutus_Musei_Capitolini_MC1183.jpg",
     "fuente": "https://commons.wikimedia.org/wiki/File:Capitoline_Brutus_Musei_Capitolini_MC1183.jpg",
     "alt": "Cabeza de bronce conocida como Bruto Capitolino, con barba corta y ojos incrustados",
-    "licencia": "CC BY-SA (consúltese la ficha del archivo)",
-    "credito": "Taller itálico o romano · Museos Capitolinos · Wikimedia Commons",
+    "licencia": "Dominio público (fotografía liberada por su autor)",
+    "credito": "Taller itálico o romano · fotografía de Jastrow · Museos Capitolinos / Wikimedia Commons",
     "foco": "center"
   }
 }

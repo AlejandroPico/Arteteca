@@ -1,6 +1,6 @@
 # Ampliación de cobertura por periodos — agosto de 2026
 
-Esta entrega añade **52 obras completas** (312 archivos editoriales) para que cada categoría legítima que tenía una sola muestra pase a contar, como mínimo, con una segunda referencia. La selección combina obras canónicas con aportaciones de segundo orden historiográfico: piezas menos omnipresentes, pero decisivas por su influencia, técnica o capacidad para ampliar el relato.
+Esta entrega añade **54 obras completas** (324 archivos editoriales) para que cada categoría legítima que tenía una sola muestra pase a contar, como mínimo, con una segunda referencia. La selección combina obras canónicas con aportaciones de segundo orden historiográfico: piezas menos omnipresentes, pero decisivas por su influencia, técnica o capacidad para ampliar el relato.
 
 También se normalizan seis etiquetas compuestas o redundantes. No se crean obras artificialmente para categorías nacidas de una inconsistencia taxonómica.
 
@@ -52,14 +52,16 @@ También se normalizan seis etiquetas compuestas o redundantes. No se crean obra
 | Periodo de las Cabezas Redondas | Mujer cornada corriendo | Comunidades pastoriles del Tassili n’Ajjer |
 | Periodo Heian | Salón del Fénix del Byōdō-in | Talleres del periodo Heian bajo Fujiwara no Yorimichi |
 | Periodo Kamakura | Muchaku | Unkei y taller |
+| Periodo Kamakura | Seshin | Unkei y taller |
 | Periodo protodinástico | Cuchillo de Gebel el-Arak | Taller egipcio predinástico |
 | Primitivos flamencos | El Descendimiento | Rogier van der Weyden |
 | Recepción medieval de Roma | Tabula Peutingeriana | Copista medieval a partir de modelos cartográficos romanos |
 | Renacimiento español | San Sebastián | Alonso Berruguete |
 | Renacimiento tardío | El convite en casa de Leví | Paolo Veronese |
 | Renacimiento veneciano tardío | La Última Cena | Tintoretto |
+| Renacimiento veneciano tardío | Los israelitas en el desierto | Tintoretto |
 | Roma republicana | Bruto Capitolino | Taller romano o centro itálico |
-| Romanticismo inglés | El Anciano de los Días | William Blake |
+| Romanticismo inglés | La pesadilla | Henry Fuseli |
 
 ## Normalizaciones
 
@@ -71,6 +73,12 @@ También se normalizan seis etiquetas compuestas o redundantes. No se crean obra
 | `udnie-picabia` | Orfismo y dadaísmo | Orfismo |
 | `regalo-man-ray` | Dadaísmo y surrealismo | Dadaísmo |
 | `noche-estrellada-van-gogh` | Posimpresionismo | Postimpresionismo |
+
+## Conjuntos completados
+
+- **Muchaku y Seshin**: las dos figuras asociadas del Pabellón Octogonal Norte cuentan ahora con fichas independientes y relacionadas.
+- **Presbiterio de San Giorgio Maggiore**: se reúnen La Última Cena y Los israelitas en el desierto, concebidas como pareja tipológica a ambos lados del espacio litúrgico.
+- La lámina de Blake perteneciente a *Europe: A Prophecy* se sustituye por una obra autónoma, para no representar de forma incompleta un libro iluminado.
 
 ## Criterios editoriales
 

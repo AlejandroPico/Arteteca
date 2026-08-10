@@ -1,0 +1,42 @@
+{
+  "id": "pesadilla-fuseli",
+  "titulo": "La pesadilla",
+  "tituloOriginal": "The Nightmare",
+  "autor": "Henry Fuseli",
+  "fecha": "1781",
+  "fechaOrden": 1781,
+  "tipo": "Pintura",
+  "periodo": "Romanticismo inglés",
+  "coleccion": "Imaginación gótica y romanticismo británico",
+  "descripcion": "Una mujer dormida se derrama sobre el lecho mientras un íncubo se sienta sobre su pecho y una yegua asoma entre las cortinas. Fuseli convierte la experiencia física del mal sueño en una escena teatral y perturbadora.",
+  "localizacion": "Detroit Institute of Arts",
+  "ciudad": "Detroit",
+  "urlLocalizacion": "https://dia.org/collection/nightmare-45573",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Detroit%20Institute%20of%20Arts%2C%20Detroit%2C%20Estados%20Unidos",
+  "pais": "Estados Unidos",
+  "dimensiones": "101,6 × 127 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Henry Fuseli",
+    "Romanticismo inglés",
+    "Pintura",
+    "Imaginación gótica y romanticismo británico",
+    "Estados Unidos"
+  ],
+  "proporcion": [
+    3013,
+    2442
+  ],
+  "color": "#40332f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John_Henry_Fuseli_-_The_Nightmare.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John_Henry_Fuseli_-_The_Nightmare.JPG",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_Nightmare.JPG",
+    "alt": "Mujer desvanecida sobre una cama con un íncubo sobre el pecho y una cabeza de yegua tras la cortina",
+    "licencia": "Dominio público (reproducción fiel de una obra bidimensional)",
+    "credito": "Henry Fuseli · Detroit Institute of Arts · Wikimedia Commons",
+    "foco": "center"
+  }
+}

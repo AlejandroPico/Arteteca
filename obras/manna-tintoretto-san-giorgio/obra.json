@@ -1,0 +1,42 @@
+{
+  "id": "manna-tintoretto-san-giorgio",
+  "titulo": "Los israelitas en el desierto",
+  "tituloOriginal": "Il popolo d’Israele nel deserto",
+  "autor": "Tintoretto",
+  "fecha": "1592–1594",
+  "fechaOrden": 1593,
+  "tipo": "Pintura",
+  "periodo": "Renacimiento veneciano tardío",
+  "coleccion": "Ciclo del presbiterio de San Giorgio Maggiore",
+  "descripcion": "Una multitud recoge el maná que desciende sobre el campamento de Israel. Tintoretto enlaza el alimento del Éxodo con la Eucaristía y completa, frente a la Última Cena, el programa del presbiterio de San Giorgio Maggiore.",
+  "localizacion": "Basílica de San Giorgio Maggiore",
+  "ciudad": "Venecia",
+  "urlLocalizacion": "https://www.abbaziasangiorgio.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20de%20San%20Giorgio%20Maggiore%2C%20Venecia%2C%20Italia",
+  "pais": "Italia",
+  "dimensiones": "377 × 576 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Tintoretto",
+    "Renacimiento veneciano tardío",
+    "Pintura",
+    "Ciclo del presbiterio de San Giorgio Maggiore",
+    "Italia"
+  ],
+  "proporcion": [
+    1241,
+    800
+  ],
+  "color": "#665742",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacopo_Tintoretto_-_The_Jews_in_the_Desert_-_WGA22646.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacopo_Tintoretto_-_The_Jews_in_the_Desert_-_WGA22646.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_-_The_Jews_in_the_Desert_-_WGA22646.jpg",
+    "alt": "Multitud de israelitas recoge el maná en un paisaje oscuro pintado por Tintoretto",
+    "licencia": "Dominio público (reproducción fiel de una obra bidimensional)",
+    "credito": "Tintoretto · Basílica de San Giorgio Maggiore · Wikimedia Commons",
+    "foco": "center"
+  }
+}

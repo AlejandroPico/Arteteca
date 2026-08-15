@@ -1,0 +1,51 @@
+{
+  "id": "edificio-bacardi-habana",
+  "titulo": "Edificio Bacardí de La Habana",
+  "tituloOriginal": "Edificio Bacardí",
+  "autor": "Esteban Rodríguez Castells, Rafael Fernández Ruenes y José Menéndez",
+  "fecha": "1927–1930",
+  "fechaOrden": 1927,
+  "tipo": "Arquitectura",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "descripcion": "La antigua sede de Bacardí combina una torre escalonada, revestimientos de terracota coloreada y ornamentación geométrica en uno de los hitos del art déco caribeño.",
+  "localizacion": "Edificio Bacardí",
+  "ciudad": "La Habana",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/204/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Edificio%20Bacard%C3%AD%2C%20La%20Habana",
+  "pais": "Cuba",
+  "tecnicas": [
+    "Granito",
+    "Terracota vidriada",
+    "Hormigón armado",
+    "Metalistería"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Art déco",
+    "Cuba",
+    "rascacielos",
+    "arquitectura corporativa",
+    "Art déco caribeño",
+    "murciélago Bacardí"
+  ],
+  "proporcion": [
+    1079,
+    924
+  ],
+  "color": "#8f7042",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Baradi%20Building%2C%20Havana.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Baradi%20Building%2C%20Havana.jpg",
+    "alt": "Vista de Edificio Bacardí de La Habana, La Habana",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Baradi%20Building%2C%20Havana.jpg",
+    "licencia": "CC BY-SA 2.0",
+    "credito": "Sandra Cohen-Rose and Colin Rose · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Baradi Building, Havana.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

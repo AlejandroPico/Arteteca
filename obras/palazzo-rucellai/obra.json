@@ -1,0 +1,50 @@
+{
+  "id": "palazzo-rucellai",
+  "titulo": "Palazzo Rucellai",
+  "autor": "Leon Battista Alberti; construcción atribuida a Bernardo Rossellino",
+  "fecha": "c. 1446–1451",
+  "fechaOrden": 1446,
+  "tipo": "Arquitectura",
+  "periodo": "Renacimiento",
+  "coleccion": "Renacimiento",
+  "descripcion": "Alberti ordenó la fachada de este palacio florentino mediante pilastras y entablamentos superpuestos, llevando el lenguaje clásico a la escala regular de una vivienda urbana.",
+  "localizacion": "Palazzo Rucellai",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.feelflorence.it/it/punti-di-interesse/palazzo-rucellai",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Rucellai%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Piedra",
+    "Fachada almohadillada",
+    "Órdenes superpuestos",
+    "Mampostería"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Renacimiento",
+    "Italia",
+    "palacio urbano",
+    "Primer Renacimiento",
+    "Florencia",
+    "arquitectura civil"
+  ],
+  "proporcion": [
+    4153,
+    4461
+  ],
+  "color": "#a8845c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Via%20della%20Vigna%20Nuova%2018%2C%20palazzo%20rucellai%2C%2002%2C0.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Via%20della%20Vigna%20Nuova%2018%2C%20palazzo%20rucellai%2C%2002%2C0.jpg",
+    "alt": "Vista de Palazzo Rucellai, Florencia",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Via%20della%20Vigna%20Nuova%2018%2C%20palazzo%20rucellai%2C%2002%2C0.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Francesco Bini · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Via della Vigna Nuova 18, palazzo rucellai, 02,0.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

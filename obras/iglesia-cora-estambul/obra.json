@@ -1,0 +1,53 @@
+{
+  "id": "iglesia-cora-estambul",
+  "titulo": "Iglesia de San Salvador de Cora",
+  "tituloOriginal": "Μονὴ τῆς Χώρας · Kariye Camii",
+  "autor": "Sucesivos talleres bizantinos (autoría desconocida)",
+  "fecha": "c. 1077–1081; ampliada en el siglo XIV",
+  "fechaOrden": 1077,
+  "tipo": "Arquitectura",
+  "periodo": "Arte bizantino",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Parte de las Zonas históricas de Estambul, Patrimonio Mundial de la UNESCO",
+  "descripcion": "Este edificio de escala contenida creció mediante nártex, capilla funeraria y cúpulas, y conserva uno de los programas de mosaico y pintura más refinados del Bizancio tardío.",
+  "localizacion": "Kariye Camii",
+  "ciudad": "Estambul",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/356/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kariye%20Camii%2C%20Estambul",
+  "pais": "Turquía",
+  "tecnicas": [
+    "Ladrillo",
+    "Cúpulas",
+    "Mosaico",
+    "Pintura mural"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arte bizantino",
+    "Arte medieval y religioso",
+    "Turquía",
+    "arquitectura religiosa",
+    "Bizancio tardío",
+    "mosaicos",
+    "Constantinopla"
+  ],
+  "proporcion": [
+    4000,
+    2250
+  ],
+  "color": "#9f6a36",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chora%20Church%202024.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chora%20Church%202024.jpg",
+    "alt": "Vista de Iglesia de San Salvador de Cora, Estambul",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Chora%20Church%202024.jpg",
+    "licencia": "CC0",
+    "credito": "Tadam · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Chora Church 2024.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "petit-palais-paris",
+  "titulo": "Petit Palais",
+  "autor": "Charles Girault",
+  "fecha": "1897–1900",
+  "fechaOrden": 1897,
+  "tipo": "Arquitectura",
+  "periodo": "Beaux-Arts",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "reconocimiento": "Monumento histórico de Francia",
+  "descripcion": "El Petit Palais combina una fachada curva y monumental con galerías iluminadas y un jardín semicircular que introduce naturaleza en el recorrido museístico.",
+  "localizacion": "Petit Palais — Musée des Beaux-Arts de la Ville de Paris",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.petitpalais.paris.fr/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Petit%20Palais%20%E2%80%94%20Mus%C3%A9e%20des%20Beaux-Arts%20de%20la%20Ville%20de%20Paris%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Piedra",
+    "Estructura metálica",
+    "Cúpula",
+    "Mosaico y pintura mural"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Beaux-Arts",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "museo",
+    "Exposición Universal de 1900",
+    "París"
+  ],
+  "proporcion": [
+    4800,
+    3200
+  ],
+  "color": "#8e7b70",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Petit%20Palais%20Paris%202.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Petit%20Palais%20Paris%202.jpg",
+    "alt": "Vista de Petit Palais, París",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Petit%20Palais%20Paris%202.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Chabe01 · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Petit Palais Paris 2.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

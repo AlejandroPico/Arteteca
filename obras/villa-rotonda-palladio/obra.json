@@ -1,0 +1,52 @@
+{
+  "id": "villa-rotonda-palladio",
+  "titulo": "Villa Almerico Capra, La Rotonda",
+  "tituloOriginal": "Villa Almerico Capra detta La Rotonda",
+  "autor": "Andrea Palladio; completada por Vincenzo Scamozzi",
+  "fecha": "1566–c. 1591",
+  "fechaOrden": 1566,
+  "tipo": "Arquitectura",
+  "periodo": "Renacimiento",
+  "coleccion": "Renacimiento",
+  "reconocimiento": "Parte de la Ciudad de Vicenza y las villas palladianas del Véneto, Patrimonio Mundial de la UNESCO",
+  "descripcion": "Cuatro pórticos idénticos orientan esta villa hacia el paisaje, mientras una sala central cubierta por cúpula organiza un edificio concebido para contemplar el territorio desde todas sus fachadas.",
+  "localizacion": "Villa La Rotonda",
+  "ciudad": "Vicenza",
+  "urlLocalizacion": "https://www.villalarotonda.it/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Villa%20La%20Rotonda%2C%20Vicenza",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mampostería revocada",
+    "Planta centralizada",
+    "Pórticos clásicos",
+    "Cúpula"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Renacimiento",
+    "Italia",
+    "villa",
+    "Palladianismo",
+    "Renacimiento italiano",
+    "paisaje"
+  ],
+  "proporcion": [
+    1600,
+    1067
+  ],
+  "color": "#a8845c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/07-Villa-Rotonda-Palladio.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/07-Villa-Rotonda-Palladio.jpg",
+    "alt": "Vista de Villa Almerico Capra, La Rotonda, Vicenza",
+    "fuente": "https://commons.wikimedia.org/wiki/File:07-Villa-Rotonda-Palladio.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Quinok · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "07-Villa-Rotonda-Palladio.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "catedral-colonia",
+  "titulo": "Catedral de Colonia",
+  "tituloOriginal": "Kölner Dom",
+  "autor": "Maestro Gerhard y sucesivos talleres de la catedral",
+  "fecha": "1248–1880",
+  "fechaOrden": 1248,
+  "tipo": "Arquitectura",
+  "periodo": "Gótico",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "descripcion": "La catedral de Colonia lleva el ideal de verticalidad gótica a una escala monumental: agujas gemelas, bosque de pináculos y una cabecera concebida para custodiar reliquias y recibir peregrinos.",
+  "localizacion": "Catedral de Colonia",
+  "ciudad": "Colonia",
+  "urlLocalizacion": "https://www.koelner-dom.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Colonia%2C%20Colonia",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Piedra arenisca",
+    "Bóvedas de crucería",
+    "Arbotantes",
+    "Tracería"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Gótico",
+    "Arte medieval y religioso",
+    "Alemania",
+    "arquitectura religiosa",
+    "catedral",
+    "gótico alemán",
+    "obra de larga duración"
+  ],
+  "proporcion": [
+    4589,
+    7220
+  ],
+  "color": "#6f7584",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/K%C3%B6lner%20Dom%20von%20Osten.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/K%C3%B6lner%20Dom%20von%20Osten.jpg",
+    "alt": "Vista de Catedral de Colonia, Colonia",
+    "fuente": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner%20Dom%20von%20Osten.jpg",
+    "licencia": "CC BY-SA 3.0 de",
+    "credito": "Thomas Wolf , www.foto-tw.de · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Kölner Dom von Osten.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

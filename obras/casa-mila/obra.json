@@ -1,0 +1,53 @@
+{
+  "id": "casa-mila",
+  "titulo": "Casa Milà",
+  "tituloOriginal": "La Pedrera",
+  "autor": "Antoni Gaudí",
+  "fecha": "1906–1912",
+  "fechaOrden": 1906,
+  "tipo": "Arquitectura",
+  "periodo": "Art Nouveau",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "reconocimiento": "Parte de las Obras de Antoni Gaudí, Patrimonio Mundial de la UNESCO",
+  "descripcion": "La Pedrera sustituye la fachada plana por una superficie pétrea ondulante y organiza viviendas flexibles alrededor de patios, bajo una azotea poblada por chimeneas escultóricas.",
+  "localizacion": "Casa Milà — La Pedrera",
+  "ciudad": "Barcelona",
+  "urlLocalizacion": "https://www.lapedrera.com/en",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Casa%20Mil%C3%A0%20%E2%80%94%20La%20Pedrera%2C%20Barcelona",
+  "pais": "España",
+  "tecnicas": [
+    "Piedra autoportante en fachada",
+    "Estructura metálica",
+    "Patios",
+    "Cerámica y hierro forjado"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Art Nouveau",
+    "Art Nouveau y artes decorativas",
+    "España",
+    "Modernisme catalán",
+    "vivienda colectiva",
+    "Gaudí",
+    "Barcelona"
+  ],
+  "proporcion": [
+    4299,
+    3348
+  ],
+  "color": "#5f7b6d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa%20Mil%C3%A0%2C%20general%20view.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa%20Mil%C3%A0%2C%20general%20view.jpg",
+    "alt": "Vista de Casa Milà, Barcelona",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Casa%20Mil%C3%A0%2C%20general%20view.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Thomas Ledl · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Casa Milà, general view.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

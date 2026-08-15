@@ -1,0 +1,53 @@
+{
+  "id": "santa-sofia-estambul",
+  "titulo": "Santa Sofía",
+  "tituloOriginal": "Ἁγία Σοφία · Ayasofya",
+  "autor": "Antemio de Tralles e Isidoro de Mileto",
+  "fecha": "532–537",
+  "fechaOrden": 532,
+  "tipo": "Arquitectura",
+  "periodo": "Arte bizantino",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Parte de las Zonas históricas de Estambul, Patrimonio Mundial de la UNESCO",
+  "descripcion": "La gran iglesia de Justiniano hizo parecer suspendida una cúpula de escala inédita sobre un espacio central inundado de luz, articulado mediante pechinas, semicúpulas y galerías.",
+  "localizacion": "Santa Sofía",
+  "ciudad": "Estambul",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/356/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Santa%20Sof%C3%ADa%2C%20Estambul",
+  "pais": "Turquía",
+  "tecnicas": [
+    "Ladrillo y mortero",
+    "Cúpula sobre pechinas",
+    "Mármol",
+    "Mosaico"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arte bizantino",
+    "Arte medieval y religioso",
+    "Turquía",
+    "arquitectura religiosa",
+    "Bizancio",
+    "cúpula",
+    "Constantinopla"
+  ],
+  "proporcion": [
+    5514,
+    3681
+  ],
+  "color": "#9f6a36",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hagia%20Sophia%20Mars%202013.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hagia%20Sophia%20Mars%202013.jpg",
+    "alt": "Vista de Santa Sofía, Estambul",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Hagia%20Sophia%20Mars%202013.jpg",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Arild Vågen · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Hagia Sophia Mars 2013.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

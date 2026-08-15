@@ -1,0 +1,53 @@
+{
+  "id": "abadia-sainte-foy-conques",
+  "titulo": "Iglesia abacial de Sainte-Foy de Conques",
+  "tituloOriginal": "Abbatiale Sainte-Foy de Conques",
+  "autor": "Talleres monásticos (autoría desconocida)",
+  "fecha": "c. 1050–1130",
+  "fechaOrden": 1050,
+  "tipo": "Arquitectura",
+  "periodo": "Arte románico",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Parte de los Caminos de Santiago de Compostela en Francia, Patrimonio Mundial de la UNESCO",
+  "descripcion": "La iglesia de Conques adapta una planta de peregrinación a un valle estrecho y recibe al visitante con el gran tímpano del Juicio Final.",
+  "localizacion": "Abadía de Sainte-Foy",
+  "ciudad": "Conques",
+  "urlLocalizacion": "https://abbaye-conques.org/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Abad%C3%ADa%20de%20Sainte-Foy%2C%20Conques",
+  "pais": "Francia",
+  "tecnicas": [
+    "Sillería",
+    "Bóveda de cañón",
+    "Tribunas",
+    "Relieve monumental"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arte románico",
+    "Arte medieval y religioso",
+    "Francia",
+    "peregrinación",
+    "románico francés",
+    "tímpano",
+    "Camino de Santiago"
+  ],
+  "proporcion": [
+    4272,
+    2848
+  ],
+  "color": "#846b57",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Abbaye%20Ste%20Foy%20%C3%A0%20Conques%20(01).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Abbaye%20Ste%20Foy%20%C3%A0%20Conques%20(01).jpg",
+    "alt": "Vista de Iglesia abacial de Sainte-Foy de Conques, Conques",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Abbaye%20Ste%20Foy%20%C3%A0%20Conques%20(01).jpg",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Daniel VILLAFRUELA . · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Abbaye Ste Foy à Conques (01).jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

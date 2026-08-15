@@ -1,0 +1,50 @@
+{
+  "id": "edificio-kavanagh",
+  "titulo": "Edificio Kavanagh",
+  "autor": "Gregorio Sánchez, Ernesto Lagos y Luis María de la Torre",
+  "fecha": "1934–1936",
+  "fechaOrden": 1934,
+  "tipo": "Arquitectura",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "reconocimiento": "Monumento Histórico Nacional de Argentina",
+  "descripcion": "Este rascacielos residencial porteño se afila mediante retranqueos sucesivos y combina la monumentalidad art déco con una organización funcional de viviendas de lujo.",
+  "localizacion": "Edificio Kavanagh",
+  "ciudad": "Buenos Aires",
+  "urlLocalizacion": "https://turismo.buenosaires.gob.ar/en/otros-establecimientos/kavanagh-building",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Edificio%20Kavanagh%2C%20Buenos%20Aires",
+  "pais": "Argentina",
+  "tecnicas": [
+    "Hormigón armado",
+    "Revestimiento pétreo",
+    "Volúmenes escalonados",
+    "Carpintería metálica"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Art déco",
+    "Argentina",
+    "rascacielos residencial",
+    "Buenos Aires",
+    "modernidad latinoamericana"
+  ],
+  "proporcion": [
+    4288,
+    2848
+  ],
+  "color": "#8f7042",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kavanagh%20building.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kavanagh%20building.jpg",
+    "alt": "Vista de Edificio Kavanagh, Buenos Aires",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Kavanagh%20building.jpg",
+    "licencia": "CC BY 2.0",
+    "credito": "Marcos Prack · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Kavanagh building.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

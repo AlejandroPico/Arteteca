@@ -1,0 +1,51 @@
+{
+  "id": "amalienburg-nymphenburg",
+  "titulo": "Amalienburg",
+  "autor": "François de Cuvilliés el Viejo",
+  "fecha": "1734–1739",
+  "fechaOrden": 1734,
+  "tipo": "Arquitectura",
+  "periodo": "Rococó",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Este pabellón de caza del parque de Nymphenburg oculta tras un exterior relativamente contenido uno de los interiores rococó más refinados, centrado en la Sala de los Espejos.",
+  "localizacion": "Parque del Palacio de Nymphenburg",
+  "ciudad": "Múnich",
+  "urlLocalizacion": "https://www.schloss-nymphenburg.de/englisch/p-palaces/amalien.htm",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Parque%20del%20Palacio%20de%20Nymphenburg%2C%20M%C3%BAnich",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Mampostería revocada",
+    "Estuco",
+    "Espejos",
+    "Talla y pintura"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Rococó",
+    "De la Ilustración al Romanticismo",
+    "Alemania",
+    "pabellón de caza",
+    "rococó bávaro",
+    "Nymphenburg",
+    "interiorismo"
+  ],
+  "proporcion": [
+    4762,
+    3179
+  ],
+  "color": "#b88f9d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20230209%20Amalienburg%20Nymphenburg.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20230209%20Amalienburg%20Nymphenburg.jpg",
+    "alt": "Vista de Amalienburg, Múnich",
+    "fuente": "https://commons.wikimedia.org/wiki/File:20230209%20Amalienburg%20Nymphenburg.jpg",
+    "licencia": "CC BY 4.0",
+    "credito": "Flocci Nivis · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "20230209 Amalienburg Nymphenburg.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

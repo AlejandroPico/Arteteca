@@ -1,0 +1,52 @@
+{
+  "id": "pabellon-secesion-viena",
+  "titulo": "Pabellón de la Secesión de Viena",
+  "tituloOriginal": "Wiener Secessionsgebäude",
+  "autor": "Joseph Maria Olbrich",
+  "fecha": "1897–1898",
+  "fechaOrden": 1897,
+  "tipo": "Arquitectura",
+  "periodo": "Art Nouveau",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "descripcion": "Olbrich diseñó para los artistas secesionistas un pabellón blanco de geometría nítida, coronado por una cúpula calada de hojas de laurel doradas.",
+  "localizacion": "Secession",
+  "ciudad": "Viena",
+  "urlLocalizacion": "https://secession.at/building/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Secession%2C%20Viena",
+  "pais": "Austria",
+  "tecnicas": [
+    "Mampostería revocada",
+    "Cúpula metálica dorada",
+    "Ornamento vegetal",
+    "Iluminación cenital"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Art Nouveau",
+    "Art Nouveau y artes decorativas",
+    "Austria",
+    "Secesión vienesa",
+    "sala de exposiciones",
+    "Jugendstil",
+    "Viena"
+  ],
+  "proporcion": [
+    4134,
+    2520
+  ],
+  "color": "#5f7b6d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wien%20-%20Secessionsgeb%C3%A4ude.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wien%20-%20Secessionsgeb%C3%A4ude.JPG",
+    "alt": "Vista de Pabellón de la Secesión de Viena, Viena",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Wien%20-%20Secessionsgeb%C3%A4ude.JPG",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "C.Stadler/Bwag · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Wien - Secessionsgebäude.JPG",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

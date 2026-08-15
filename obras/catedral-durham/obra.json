@@ -1,0 +1,53 @@
+{
+  "id": "catedral-durham",
+  "titulo": "Catedral de Durham",
+  "tituloOriginal": "Durham Cathedral",
+  "autor": "Maestros de obra normandos (autoría desconocida)",
+  "fecha": "1093–1133",
+  "fechaOrden": 1093,
+  "tipo": "Arquitectura",
+  "periodo": "Arte románico",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "descripcion": "Durham combina la masa poderosa de la arquitectura normanda con tempranas bóvedas nervadas que anticipan soluciones desarrolladas después por el gótico.",
+  "localizacion": "Durham Cathedral",
+  "ciudad": "Durham",
+  "urlLocalizacion": "https://www.durhamcathedral.co.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Durham%20Cathedral%2C%20Durham",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Piedra",
+    "Bóvedas nervadas",
+    "Pilares compuestos",
+    "Mampostería normanda"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arte románico",
+    "Arte medieval y religioso",
+    "Reino Unido",
+    "arquitectura normanda",
+    "románico",
+    "catedral",
+    "bóveda nervada"
+  ],
+  "proporcion": [
+    431,
+    600
+  ],
+  "color": "#846b57",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Southx.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Southx.jpg",
+    "alt": "Vista de Catedral de Durham, Durham",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Southx.jpg",
+    "licencia": "Public domain",
+    "credito": "Robin Widdison at English Wikipedia · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Southx.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "unite-habitation-marsella",
+  "titulo": "Unité d’Habitation de Marsella",
+  "tituloOriginal": "Unité d’habitation de Marseille",
+  "autor": "Le Corbusier",
+  "fecha": "1945–1952",
+  "fechaOrden": 1945,
+  "tipo": "Arquitectura",
+  "periodo": "Brutalismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "reconocimiento": "Parte de la obra arquitectónica de Le Corbusier, Patrimonio Mundial de la UNESCO",
+  "descripcion": "La Cité Radieuse reúne 337 viviendas, calles interiores, comercios y equipamientos en un gran bloque elevado sobre pilotis y coronado por una cubierta comunitaria.",
+  "localizacion": "Cité Radieuse",
+  "ciudad": "Marsella",
+  "urlLocalizacion": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-unite-dhabitation-marseille-france-1945-1952/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Cit%C3%A9%20Radieuse%2C%20Marsella",
+  "pais": "Francia",
+  "tecnicas": [
+    "Hormigón armado visto",
+    "Pilotis",
+    "Apartamentos dúplex",
+    "Modulor"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Brutalismo",
+    "Abstracción y diseño moderno",
+    "Francia",
+    "vivienda colectiva",
+    "ciudad vertical",
+    "Le Corbusier",
+    "brutalismo"
+  ],
+  "proporcion": [
+    4368,
+    2912
+  ],
+  "color": "#70716f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/France%2C%20Bouches-du-Rh%C3%B4ne%20(13)%2C%20Marseille%2C%208%C3%A8me%20arr.%20jardin%20de%20la%20Magalone.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/France%2C%20Bouches-du-Rh%C3%B4ne%20(13)%2C%20Marseille%2C%208%C3%A8me%20arr.%20jardin%20de%20la%20Magalone.jpg",
+    "alt": "Vista de Unité d’Habitation de Marsella, Marsella",
+    "fuente": "https://commons.wikimedia.org/wiki/File:France%2C%20Bouches-du-Rh%C3%B4ne%20(13)%2C%20Marseille%2C%208%C3%A8me%20arr.%20jardin%20de%20la%20Magalone.jpg",
+    "licencia": "CC BY 2.0",
+    "credito": "vincent desjardins · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "France, Bouches-du-Rhône (13), Marseille, 8ème arr. jardin de la Magalone.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

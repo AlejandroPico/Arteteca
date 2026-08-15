@@ -1,0 +1,52 @@
+{
+  "id": "ayuntamiento-boston",
+  "titulo": "Ayuntamiento de Boston",
+  "tituloOriginal": "Boston City Hall",
+  "autor": "Kallmann, McKinnell & Knowles",
+  "fecha": "1963–1968",
+  "fechaOrden": 1963,
+  "tipo": "Arquitectura",
+  "periodo": "Brutalismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "El ayuntamiento expresa distintas funciones públicas mediante grandes voladizos y módulos de hormigón, elevándose sobre una plaza concebida como nuevo centro cívico.",
+  "localizacion": "Boston City Hall",
+  "ciudad": "Boston",
+  "urlLocalizacion": "https://www.boston.gov/news/mayor-michelle-wu-announces-city-hall-newest-historic-landmark-boston",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Boston%20City%20Hall%2C%20Boston",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Hormigón prefabricado y vertido",
+    "Ladrillo",
+    "Estructura expresiva",
+    "Plaza cívica"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Brutalismo",
+    "Abstracción y diseño moderno",
+    "Estados Unidos",
+    "arquitectura cívica",
+    "brutalismo estadounidense",
+    "Boston",
+    "hormigón"
+  ],
+  "proporcion": [
+    4304,
+    2768
+  ],
+  "color": "#70716f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boston%20City%20Hall%20-%20Boston%2C%20MA%20-%20DSC04704%20(cropped).JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boston%20City%20Hall%20-%20Boston%2C%20MA%20-%20DSC04704%20(cropped).JPG",
+    "alt": "Vista de Ayuntamiento de Boston, Boston",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Boston%20City%20Hall%20-%20Boston%2C%20MA%20-%20DSC04704%20(cropped).JPG",
+    "licencia": "CC0",
+    "credito": "Daderot · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Boston City Hall - Boston, MA - DSC04704 (cropped).JPG",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "catedral-espira",
+  "titulo": "Catedral de Espira",
+  "tituloOriginal": "Speyerer Dom",
+  "autor": "Talleres imperiales salios (autoría desconocida)",
+  "fecha": "c. 1030–1106",
+  "fechaOrden": 1030,
+  "tipo": "Arquitectura",
+  "periodo": "Arte románico",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "descripcion": "La catedral imperial de Espira impone una nave de gran escala, torres simétricas y una de las criptas románicas más extensas de Europa.",
+  "localizacion": "Catedral de Espira",
+  "ciudad": "Espira",
+  "urlLocalizacion": "https://www.dom-zu-speyer.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Espira%2C%20Espira",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Arenisca",
+    "Bóvedas de arista",
+    "Sistema alterno de soportes",
+    "Cripta"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arte románico",
+    "Arte medieval y religioso",
+    "Alemania",
+    "románico imperial",
+    "catedral",
+    "Sacro Imperio",
+    "arquitectura religiosa"
+  ],
+  "proporcion": [
+    4634,
+    2800
+  ],
+  "color": "#846b57",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Speyer-Dom-01-Suedseite%20vom%20Technikmuseum-gje.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Speyer-Dom-01-Suedseite%20vom%20Technikmuseum-gje.jpg",
+    "alt": "Vista de Catedral de Espira, Espira",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Speyer-Dom-01-Suedseite%20vom%20Technikmuseum-gje.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Gerd Eichmann · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Speyer-Dom-01-Suedseite vom Technikmuseum-gje.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

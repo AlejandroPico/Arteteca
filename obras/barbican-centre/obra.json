@@ -1,0 +1,52 @@
+{
+  "id": "barbican-centre",
+  "titulo": "Barbican Centre",
+  "autor": "Chamberlin, Powell and Bon",
+  "fecha": "1965–1982",
+  "fechaOrden": 1965,
+  "tipo": "Arquitectura",
+  "periodo": "Brutalismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "reconocimiento": "Edificio protegido Grade II",
+  "descripcion": "El Barbican integra salas de concierto, teatro, cine, biblioteca y espacios públicos en un complejo de hormigón conectado con viviendas, jardines y recorridos elevados.",
+  "localizacion": "Barbican Centre",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.barbican.org.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Barbican%20Centre%2C%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Hormigón armado abujardado",
+    "Ladrillo",
+    "Pasarelas elevadas",
+    "Estructura modular"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Brutalismo",
+    "Abstracción y diseño moderno",
+    "Reino Unido",
+    "centro cultural",
+    "urbanismo",
+    "brutalismo británico",
+    "City of London"
+  ],
+  "proporcion": [
+    800,
+    600
+  ],
+  "color": "#70716f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Barbican-arts-centre-large.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Barbican-arts-centre-large.jpg",
+    "alt": "Vista de Barbican Centre, Londres",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Barbican-arts-centre-large.jpg",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "en:User:Nevilley · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Barbican-arts-centre-large.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "cupula-santa-maria-fiore",
+  "titulo": "Cúpula de Santa Maria del Fiore",
+  "tituloOriginal": "Cupola di Santa Maria del Fiore",
+  "autor": "Filippo Brunelleschi",
+  "fecha": "1420–1436",
+  "fechaOrden": 1420,
+  "tipo": "Arquitectura",
+  "periodo": "Renacimiento",
+  "coleccion": "Renacimiento",
+  "reconocimiento": "Parte del Centro histórico de Florencia, Patrimonio Mundial de la UNESCO",
+  "descripcion": "Brunelleschi cubrió el enorme crucero de la catedral florentina mediante una cúpula octogonal de doble cascarón, construida sin una cimbra continua del tamaño del vano.",
+  "localizacion": "Catedral de Santa Maria del Fiore",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://duomo.firenze.it/en/discover/dome",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Santa%20Maria%20del%20Fiore%2C%20Florencia",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mampostería de ladrillo",
+    "Doble cascarón",
+    "Espina de pez",
+    "Cadenas de piedra y madera"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Renacimiento",
+    "Italia",
+    "cúpula",
+    "Primer Renacimiento",
+    "ingeniería",
+    "Florencia"
+  ],
+  "proporcion": [
+    3308,
+    2399
+  ],
+  "color": "#a8845c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Florence%20Duomo%20from%20Michelangelo%20hill.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Florence%20Duomo%20from%20Michelangelo%20hill.jpg",
+    "alt": "Vista de Cúpula de Santa Maria del Fiore, Florencia",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Florence%20Duomo%20from%20Michelangelo%20hill.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Petar Milošević · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Florence Duomo from Michelangelo hill.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

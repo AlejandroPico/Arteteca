@@ -1,0 +1,53 @@
+{
+  "id": "san-vitale-ravena",
+  "titulo": "Basílica de San Vital de Rávena",
+  "tituloOriginal": "Basilica di San Vitale",
+  "autor": "Autoría desconocida; talleres bizantinos y raveneses",
+  "fecha": "c. 526–547",
+  "fechaOrden": 526,
+  "tipo": "Arquitectura",
+  "periodo": "Arte bizantino",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Parte de los Monumentos paleocristianos de Rávena, Patrimonio Mundial de la UNESCO",
+  "descripcion": "San Vital organiza un complejo espacio octogonal de dos niveles alrededor del presbiterio, célebre por los mosaicos imperiales de Justiniano y Teodora.",
+  "localizacion": "Basílica de San Vital",
+  "ciudad": "Rávena",
+  "urlLocalizacion": "https://www.ravennamosaici.it/basilica-di-san-vitale/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20de%20San%20Vital%2C%20R%C3%A1vena",
+  "pais": "Italia",
+  "tecnicas": [
+    "Ladrillo",
+    "Planta octogonal",
+    "Bóvedas",
+    "Mosaico"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arte bizantino",
+    "Arte medieval y religioso",
+    "Italia",
+    "arquitectura religiosa",
+    "Rávena",
+    "planta central",
+    "mosaicos de Justiniano"
+  ],
+  "proporcion": [
+    6728,
+    6160
+  ],
+  "color": "#9f6a36",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Basilica%20of%20San%20Vitale.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Basilica%20of%20San%20Vitale.jpg",
+    "alt": "Vista de Basílica de San Vital de Rávena, Rávena",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Basilica%20of%20San%20Vitale.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Commonists · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Basilica of San Vitale.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

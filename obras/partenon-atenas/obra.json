@@ -1,0 +1,54 @@
+{
+  "id": "partenon-atenas",
+  "titulo": "Partenón",
+  "tituloOriginal": "Παρθενών",
+  "autor": "Ictino y Calícrates; supervisión escultórica de Fidias",
+  "fecha": "447–432 a. C.",
+  "fechaOrden": -447,
+  "tipo": "Arquitectura",
+  "periodo": "Arquitectura clásica",
+  "coleccion": "Grecia y Roma",
+  "reconocimiento": "Parte de la Acrópolis de Atenas, Patrimonio Mundial de la UNESCO",
+  "descripcion": "El templo de Atenea Parthenos combina proporción dórica, refinamientos ópticos y un programa escultórico excepcional en el punto dominante de la Acrópolis.",
+  "localizacion": "Acrópolis de Atenas",
+  "ciudad": "Atenas",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/404/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Acr%C3%B3polis%20de%20Atenas%2C%20Atenas",
+  "pais": "Grecia",
+  "tecnicas": [
+    "Mármol pentélico",
+    "Orden dórico",
+    "Correcciones ópticas",
+    "Construcción adintelada"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arquitectura clásica",
+    "Grecia clásica",
+    "Grecia y Roma",
+    "Grecia",
+    "templo",
+    "Atenea",
+    "arquitectura griega",
+    "Acrópolis"
+  ],
+  "proporcion": [
+    1144,
+    804
+  ],
+  "color": "#b9a07d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Parthenon%20in%20Athens.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Parthenon%20in%20Athens.jpg",
+    "alt": "Vista de Partenón, Atenas",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The%20Parthenon%20in%20Athens.jpg",
+    "licencia": "CC BY 2.0",
+    "credito": "Steve Swayne · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "The Parthenon in Athens.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

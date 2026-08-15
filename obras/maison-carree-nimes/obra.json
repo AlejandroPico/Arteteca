@@ -1,0 +1,53 @@
+{
+  "id": "maison-carree-nimes",
+  "titulo": "Maison Carrée",
+  "autor": "Arquitectos y talleres romanos (autoría desconocida)",
+  "fecha": "c. 20–12 a. C.",
+  "fechaOrden": -20,
+  "tipo": "Arquitectura",
+  "periodo": "Arquitectura clásica",
+  "coleccion": "Grecia y Roma",
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "descripcion": "Este templo romano de Nîmes combina un pórtico corintio profundo con una cella elevada sobre podio y columnas laterales adosadas.",
+  "localizacion": "Maison Carrée",
+  "ciudad": "Nîmes",
+  "urlLocalizacion": "https://www.maisoncarree.eu/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Maison%20Carr%C3%A9e%2C%20N%C3%AEmes",
+  "pais": "Francia",
+  "tecnicas": [
+    "Piedra caliza",
+    "Orden corintio",
+    "Pseudoperíptero",
+    "Podio elevado"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arquitectura clásica",
+    "Roma imperial",
+    "Grecia y Roma",
+    "Francia",
+    "templo romano",
+    "Nemausus",
+    "arquitectura clásica",
+    "culto imperial"
+  ],
+  "proporcion": [
+    4626,
+    3248
+  ],
+  "color": "#b9a07d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Maison%20Carree%20in%20Nimes%20(16).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Maison%20Carree%20in%20Nimes%20(16).jpg",
+    "alt": "Vista de Maison Carrée, Nîmes",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Maison%20Carree%20in%20Nimes%20(16).jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Krzysztof Golik · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Maison Carree in Nimes (16).jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

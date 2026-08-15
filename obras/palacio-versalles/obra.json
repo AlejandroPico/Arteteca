@@ -1,0 +1,52 @@
+{
+  "id": "palacio-versalles",
+  "titulo": "Palacio de Versalles",
+  "tituloOriginal": "Château de Versailles",
+  "autor": "Louis Le Vau y Jules Hardouin-Mansart, con numerosos artistas y talleres",
+  "fecha": "1661–1715",
+  "fechaOrden": 1661,
+  "tipo": "Arquitectura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "descripcion": "Versalles convirtió un pabellón de caza en una residencia-palacio donde arquitectura, jardines, ceremonias y perspectivas escenificaban el poder de la monarquía francesa.",
+  "localizacion": "Palacio de Versalles",
+  "ciudad": "Versalles",
+  "urlLocalizacion": "https://en.chateauversailles.fr/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20Versalles%2C%20Versalles",
+  "pais": "Francia",
+  "tecnicas": [
+    "Piedra",
+    "Mampostería",
+    "Cubiertas de pizarra",
+    "Ordenación axial"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Barroco",
+    "Francia",
+    "palacio",
+    "monarquía absoluta",
+    "barroco francés",
+    "jardines"
+  ],
+  "proporcion": [
+    4608,
+    3456
+  ],
+  "color": "#6f4438",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vue%20a%C3%A9rienne%20du%20domaine%20de%20Versailles%20par%20ToucanWings%20-%20Creative%20Commons%20By%20Sa%203.0%20-%20083.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vue%20a%C3%A9rienne%20du%20domaine%20de%20Versailles%20par%20ToucanWings%20-%20Creative%20Commons%20By%20Sa%203.0%20-%20083.jpg",
+    "alt": "Vista de Palacio de Versalles, Versalles",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vue%20a%C3%A9rienne%20du%20domaine%20de%20Versailles%20par%20ToucanWings%20-%20Creative%20Commons%20By%20Sa%203.0%20-%20083.jpg",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "ToucanWings · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Vue aérienne du domaine de Versailles par ToucanWings - Creative Commons By Sa 3.0 - 083.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

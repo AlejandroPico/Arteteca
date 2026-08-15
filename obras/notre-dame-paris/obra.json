@@ -1,0 +1,53 @@
+{
+  "id": "notre-dame-paris",
+  "titulo": "Catedral de Notre-Dame de París",
+  "tituloOriginal": "Cathédrale Notre-Dame de Paris",
+  "autor": "Maestros de obra medievales; Jean de Chelles y Pierre de Montreuil, entre otros",
+  "fecha": "1163–1345",
+  "fechaOrden": 1163,
+  "tipo": "Arquitectura",
+  "periodo": "Gótico",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Parte de París, riberas del Sena, Patrimonio Mundial de la UNESCO",
+  "descripcion": "La catedral parisina reúne fachada armónica, grandes rosetones, bóvedas de crucería y un sistema de arbotantes que convirtió la piedra en una estructura de sorprendente ligereza.",
+  "localizacion": "Catedral de Notre-Dame de París",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.notredamedeparis.fr/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Notre-Dame%20de%20Par%C3%ADs%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Piedra caliza",
+    "Bóvedas de crucería",
+    "Arbotantes",
+    "Vidrieras"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Gótico",
+    "Arte medieval y religioso",
+    "Francia",
+    "arquitectura religiosa",
+    "catedral",
+    "gótico francés",
+    "Île de la Cité"
+  ],
+  "proporcion": [
+    3348,
+    4519
+  ],
+  "color": "#6f7584",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Notre-Dame%20de%20Paris%202013-07-24.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Notre-Dame%20de%20Paris%202013-07-24.jpg",
+    "alt": "Vista de Catedral de Notre-Dame de París, París",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Notre-Dame%20de%20Paris%202013-07-24.jpg",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "P e z i · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Notre-Dame de Paris 2013-07-24.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

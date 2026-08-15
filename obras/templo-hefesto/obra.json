@@ -1,0 +1,53 @@
+{
+  "id": "templo-hefesto",
+  "titulo": "Templo de Hefesto",
+  "tituloOriginal": "Ναός Ηφαίστου",
+  "autor": "Autoría desconocida",
+  "fecha": "c. 460–415 a. C.",
+  "fechaOrden": -460,
+  "tipo": "Arquitectura",
+  "periodo": "Arquitectura clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "El Hefestión es uno de los templos dóricos mejor conservados y permite leer con claridad la relación entre columnata, cella, frontones y paisaje del Ágora ateniense.",
+  "localizacion": "Ágora Antigua de Atenas",
+  "ciudad": "Atenas",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/404/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=%C3%81gora%20Antigua%20de%20Atenas%2C%20Atenas",
+  "pais": "Grecia",
+  "tecnicas": [
+    "Mármol pentélico",
+    "Orden dórico",
+    "Construcción adintelada",
+    "Teja cerámica"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arquitectura clásica",
+    "Grecia clásica",
+    "Grecia y Roma",
+    "Grecia",
+    "templo",
+    "Hefesto",
+    "Ágora de Atenas",
+    "arquitectura griega"
+  ],
+  "proporcion": [
+    3264,
+    2448
+  ],
+  "color": "#b9a07d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Greece-0176%20(2215880732).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Greece-0176%20(2215880732).jpg",
+    "alt": "Vista de Templo de Hefesto, Atenas",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Greece-0176%20(2215880732).jpg",
+    "licencia": "CC BY-SA 2.0",
+    "credito": "Dennis G. Jarvis · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Greece-0176 (2215880732).jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

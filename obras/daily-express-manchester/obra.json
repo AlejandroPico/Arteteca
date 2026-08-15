@@ -1,0 +1,51 @@
+{
+  "id": "daily-express-manchester",
+  "titulo": "Daily Express Building de Mánchester",
+  "autor": "Sir Owen Williams, con Ellis and Clark",
+  "fecha": "1936–1939",
+  "fechaOrden": 1936,
+  "tipo": "Arquitectura",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "reconocimiento": "Edificio protegido Grade II*",
+  "descripcion": "La sede y antigua imprenta del Daily Express envuelve su estructura en vidrio oscuro y líneas horizontales continuas, con esquinas curvas propias del Streamline Moderne.",
+  "localizacion": "Daily Express Building",
+  "ciudad": "Mánchester",
+  "urlLocalizacion": "https://historicengland.org.uk/listing/the-list/list-entry/1218285",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Daily%20Express%20Building%2C%20M%C3%A1nchester",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Estructura de acero y hormigón",
+    "Muro cortina de vidrio",
+    "Vitrolite",
+    "Esquinas curvas"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Art déco",
+    "Reino Unido",
+    "Streamline Moderne",
+    "prensa",
+    "arquitectura industrial",
+    "Mánchester"
+  ],
+  "proporcion": [
+    640,
+    545
+  ],
+  "color": "#8f7042",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Express%20Building%20Manchester.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Express%20Building%20Manchester.jpg",
+    "alt": "Vista de Daily Express Building de Mánchester, Mánchester",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Express%20Building%20Manchester.jpg",
+    "licencia": "CC BY-SA 2.0",
+    "credito": "Stephen Richards · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Express Building Manchester.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

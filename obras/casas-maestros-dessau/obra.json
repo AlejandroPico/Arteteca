@@ -1,0 +1,52 @@
+{
+  "id": "casas-maestros-dessau",
+  "titulo": "Casas de los Maestros de Dessau",
+  "tituloOriginal": "Meisterhäuser Dessau",
+  "autor": "Walter Gropius",
+  "fecha": "1925–1926",
+  "fechaOrden": 1925,
+  "tipo": "Arquitectura",
+  "periodo": "Bauhaus",
+  "coleccion": "Abstracción y diseño moderno",
+  "reconocimiento": "Parte de la Bauhaus y sus sitios en Weimar, Dessau y Bernau, Patrimonio Mundial de la UNESCO",
+  "descripcion": "Gropius dispuso una casa independiente y tres casas pareadas mediante volúmenes cúbicos, terrazas y grandes estudios acristalados para profesores de la Bauhaus.",
+  "localizacion": "Meisterhäuser",
+  "ciudad": "Dessau-Roßlau",
+  "urlLocalizacion": "https://bauhaus-dessau.de/en/venues/masters-houses/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Meisterh%C3%A4user%2C%20Dessau-Ro%C3%9Flau",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Ladrillo Jurko",
+    "Hormigón",
+    "Grandes paños de vidrio",
+    "Construcción modular"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Bauhaus",
+    "Abstracción y diseño moderno",
+    "Alemania",
+    "vivienda",
+    "Dessau",
+    "casas de artistas"
+  ],
+  "proporcion": [
+    3872,
+    2592
+  ],
+  "color": "#a44635",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/6375%20Dessau%2001.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/6375%20Dessau%2001.JPG",
+    "alt": "Vista de Casas de los Maestros de Dessau, Dessau-Roßlau",
+    "fuente": "https://commons.wikimedia.org/wiki/File:6375%20Dessau%2001.JPG",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Spyrosdrakopoulos · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "6375 Dessau 01.JPG",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

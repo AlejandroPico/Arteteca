@@ -1,0 +1,53 @@
+{
+  "id": "panteon-roma",
+  "titulo": "Panteón de Roma",
+  "tituloOriginal": "Pantheon",
+  "autor": "Autoría desconocida; promovido bajo el emperador Adriano",
+  "fecha": "c. 118–128",
+  "fechaOrden": 118,
+  "tipo": "Arquitectura",
+  "periodo": "Arquitectura clásica",
+  "coleccion": "Grecia y Roma",
+  "descripcion": "Tras un pórtico tradicional se abre una rotonda cubierta por una cúpula de hormigón cuyo diámetro equivale aproximadamente a la altura del espacio interior.",
+  "localizacion": "Pantheon",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://www.pantheonroma.com/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Pantheon%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Hormigón romano",
+    "Mampostería de ladrillo",
+    "Cúpula artesonada",
+    "Óculo"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arquitectura clásica",
+    "Roma imperial",
+    "Grecia y Roma",
+    "Italia",
+    "templo romano",
+    "cúpula",
+    "arquitectura clásica",
+    "Adriano"
+  ],
+  "proporcion": [
+    7512,
+    6048
+  ],
+  "color": "#b9a07d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pantheon%20(Rome)%20-%20Right%20side%20and%20front.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pantheon%20(Rome)%20-%20Right%20side%20and%20front.jpg",
+    "alt": "Vista de Panteón de Roma, Roma",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pantheon%20(Rome)%20-%20Right%20side%20and%20front.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "NikonZ7II · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Pantheon (Rome) - Right side and front.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

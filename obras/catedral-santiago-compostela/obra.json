@@ -1,0 +1,52 @@
+{
+  "id": "catedral-santiago-compostela",
+  "titulo": "Catedral de Santiago de Compostela",
+  "autor": "Maestro Esteban, Bernardo el Viejo, Maestro Mateo y sucesivos talleres",
+  "fecha": "1075–1211; ampliaciones posteriores",
+  "fechaOrden": 1075,
+  "tipo": "Arquitectura",
+  "periodo": "Arte románico",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Parte de Santiago de Compostela, Patrimonio Mundial de la UNESCO",
+  "descripcion": "La catedral articula una gran iglesia románica de peregrinación con siglos de añadidos, entre ellos la fachada barroca del Obradoiro que hoy domina su imagen urbana.",
+  "localizacion": "Catedral de Santiago de Compostela",
+  "ciudad": "Santiago de Compostela",
+  "urlLocalizacion": "https://catedraldesantiago.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Santiago%20de%20Compostela%2C%20Santiago%20de%20Compostela",
+  "pais": "España",
+  "tecnicas": [
+    "Sillería de granito",
+    "Bóveda de cañón",
+    "Tribunas",
+    "Escultura monumental"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arte románico",
+    "Arte medieval y religioso",
+    "España",
+    "peregrinación",
+    "Camino de Santiago",
+    "románico",
+    "arquitectura religiosa"
+  ],
+  "proporcion": [
+    3507,
+    4384
+  ],
+  "color": "#846b57",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Santiago%20cathedral%202021.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Santiago%20cathedral%202021.jpg",
+    "alt": "Vista de Catedral de Santiago de Compostela, Santiago de Compostela",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Santiago%20cathedral%202021.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Fernando · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Santiago cathedral 2021.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "grand-central-terminal",
+  "titulo": "Grand Central Terminal",
+  "autor": "Reed and Stem; Warren and Wetmore",
+  "fecha": "1903–1913",
+  "fechaOrden": 1903,
+  "tipo": "Arquitectura",
+  "periodo": "Beaux-Arts",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "reconocimiento": "Hito histórico nacional de Estados Unidos",
+  "descripcion": "Grand Central convierte una enorme infraestructura ferroviaria en un edificio cívico organizado por ejes, rampas, niveles superpuestos y una gran sala abovedada.",
+  "localizacion": "Grand Central Terminal",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.grandcentralterminal.com/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Terminal%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Estructura de acero",
+    "Piedra caliza y granito",
+    "Bóveda de ladrillo Guastavino",
+    "Circulaciones a distintos niveles"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Beaux-Arts",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "estación ferroviaria",
+    "Nueva York",
+    "infraestructura"
+  ],
+  "proporcion": [
+    4726,
+    3805
+  ],
+  "color": "#8e7b70",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Image-Grand%20central%20Station%20Outside%20Night%202.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Image-Grand%20central%20Station%20Outside%20Night%202.jpg",
+    "alt": "Vista de Grand Central Terminal, Nueva York",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Image-Grand%20central%20Station%20Outside%20Night%202.jpg",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Fcb981 ; Eric Baetscher (attribution required) · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Image-Grand central Station Outside Night 2.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

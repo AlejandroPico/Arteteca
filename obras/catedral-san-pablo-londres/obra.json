@@ -1,0 +1,52 @@
+{
+  "id": "catedral-san-pablo-londres",
+  "titulo": "Catedral de San Pablo de Londres",
+  "tituloOriginal": "St Paul's Cathedral",
+  "autor": "Christopher Wren",
+  "fecha": "1675–1710",
+  "fechaOrden": 1675,
+  "tipo": "Arquitectura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "reconocimiento": "Monumento protegido Grade I",
+  "descripcion": "La catedral de Wren domina el perfil histórico de Londres con una gran cúpula y una composición que combina tradición clásica, ingeniería moderna y liturgia anglicana.",
+  "localizacion": "St Paul’s Cathedral",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.stpauls.co.uk/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=St%20Paul%E2%80%99s%20Cathedral%2C%20Londres",
+  "pais": "Reino Unido",
+  "tecnicas": [
+    "Piedra de Portland",
+    "Cúpula de triple estructura",
+    "Mampostería",
+    "Carpintería"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Barroco",
+    "Reino Unido",
+    "barroco inglés",
+    "catedral",
+    "Londres",
+    "Christopher Wren"
+  ],
+  "proporcion": [
+    1833,
+    1259
+  ],
+  "color": "#6f4438",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/St%20Pauls%20aerial%20(cropped).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/St%20Pauls%20aerial%20(cropped).jpg",
+    "alt": "Vista de Catedral de San Pablo de Londres, Londres",
+    "fuente": "https://commons.wikimedia.org/wiki/File:St%20Pauls%20aerial%20(cropped).jpg",
+    "licencia": "CC BY 2.0",
+    "credito": "Mark Fosh · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "St Pauls aerial (cropped).jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "palacio-sanssouci",
+  "titulo": "Palacio de Sanssouci",
+  "tituloOriginal": "Schloss Sanssouci",
+  "autor": "Georg Wenzeslaus von Knobelsdorff, a partir de ideas de Federico II",
+  "fecha": "1745–1747",
+  "fechaOrden": 1745,
+  "tipo": "Arquitectura",
+  "periodo": "Rococó",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "reconocimiento": "Parte de los Palacios y parques de Potsdam y Berlín, Patrimonio Mundial de la UNESCO",
+  "descripcion": "Sanssouci se extiende como un pabellón de una sola planta sobre terrazas de viñedos, concebido por Federico II como retiro personal más que como gran residencia ceremonial.",
+  "localizacion": "Palacio de Sanssouci",
+  "ciudad": "Potsdam",
+  "urlLocalizacion": "https://www.spsg.de/en/palaces-gardens/object/sanssouci-palace/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20Sanssouci%2C%20Potsdam",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Mampostería revocada",
+    "Cúpula",
+    "Estuco y dorado",
+    "Terrazas ajardinadas"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Rococó",
+    "De la Ilustración al Romanticismo",
+    "Alemania",
+    "palacio",
+    "rococó prusiano",
+    "Federico el Grande",
+    "Potsdam"
+  ],
+  "proporcion": [
+    3300,
+    2200
+  ],
+  "color": "#b88f9d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/.00%202522%20Schloss%20Sanssouci%20in%20Potsdam.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/.00%202522%20Schloss%20Sanssouci%20in%20Potsdam.jpg",
+    "alt": "Vista de Palacio de Sanssouci, Potsdam",
+    "fuente": "https://commons.wikimedia.org/wiki/File:.00%202522%20Schloss%20Sanssouci%20in%20Potsdam.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "W. Bulach · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": ".00 2522 Schloss Sanssouci in Potsdam.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

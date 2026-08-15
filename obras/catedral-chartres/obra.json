@@ -1,0 +1,53 @@
+{
+  "id": "catedral-chartres",
+  "titulo": "Catedral de Chartres",
+  "tituloOriginal": "Cathédrale Notre-Dame de Chartres",
+  "autor": "Maestros de obra medievales (autoría desconocida)",
+  "fecha": "c. 1194–1220",
+  "fechaOrden": 1194,
+  "tipo": "Arquitectura",
+  "periodo": "Gótico",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "descripcion": "Reconstruida con rapidez tras el incendio de 1194, Chartres ofrece una unidad excepcional entre estructura gótica, portadas esculpidas y uno de los conjuntos de vidrieras medievales mejor conservados.",
+  "localizacion": "Catedral de Chartres",
+  "ciudad": "Chartres",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/81/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20Chartres%2C%20Chartres",
+  "pais": "Francia",
+  "tecnicas": [
+    "Piedra",
+    "Bóvedas de crucería cuatripartitas",
+    "Arbotantes",
+    "Vidrieras"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Gótico",
+    "Arte medieval y religioso",
+    "Francia",
+    "arquitectura religiosa",
+    "catedral",
+    "gótico francés",
+    "vidrieras"
+  ],
+  "proporcion": [
+    1920,
+    2960
+  ],
+  "color": "#6f7584",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Westfassade%20Chartres.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Westfassade%20Chartres.jpg",
+    "alt": "Vista de Catedral de Chartres, Chartres",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Westfassade%20Chartres.jpg",
+    "licencia": "Public domain",
+    "credito": "BT · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Westfassade Chartres.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

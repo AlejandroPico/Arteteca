@@ -1,0 +1,52 @@
+{
+  "id": "palais-garnier",
+  "titulo": "Palais Garnier",
+  "tituloOriginal": "Opéra Garnier",
+  "autor": "Charles Garnier",
+  "fecha": "1861–1875",
+  "fechaOrden": 1861,
+  "tipo": "Arquitectura",
+  "periodo": "Beaux-Arts",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "reconocimiento": "Monumento histórico de Francia",
+  "descripcion": "Garnier organizó el teatro de la ópera como una secuencia ceremonial de fachadas, vestíbulos y escaleras donde el espectáculo comienza antes de entrar en la sala.",
+  "localizacion": "Palais Garnier — Opéra national de Paris",
+  "ciudad": "París",
+  "urlLocalizacion": "https://www.operadeparis.fr/en/visits/palais-garnier",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Palais%20Garnier%20%E2%80%94%20Op%C3%A9ra%20national%20de%20Paris%2C%20Par%C3%ADs",
+  "pais": "Francia",
+  "tecnicas": [
+    "Piedra",
+    "Estructura metálica",
+    "Mármol policromo",
+    "Escultura y dorado"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Beaux-Arts",
+    "Romanticismo, Realismo e Impresionismo",
+    "Francia",
+    "ópera",
+    "Segundo Imperio",
+    "París"
+  ],
+  "proporcion": [
+    2079,
+    1397
+  ],
+  "color": "#8e7b70",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paris%20Opera%20full%20frontal%20architecture%2C%20May%202009.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paris%20Opera%20full%20frontal%20architecture%2C%20May%202009.jpg",
+    "alt": "Vista de Palais Garnier, París",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paris%20Opera%20full%20frontal%20architecture%2C%20May%202009.jpg",
+    "licencia": "CC BY 2.0",
+    "credito": "Peter Rivera · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Paris Opera full frontal architecture, May 2009.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

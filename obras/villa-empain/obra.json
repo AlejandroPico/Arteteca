@@ -1,0 +1,51 @@
+{
+  "id": "villa-empain",
+  "titulo": "Villa Empain",
+  "autor": "Michel Polak",
+  "fecha": "1930–1934",
+  "fechaOrden": 1930,
+  "tipo": "Arquitectura",
+  "periodo": "Art déco",
+  "coleccion": "Art déco",
+  "reconocimiento": "Monumento protegido de Bruselas",
+  "descripcion": "La residencia de Louis Empain combina volúmenes rigurosos con materiales lujosos, una piscina exterior y un interior donde arquitectura, mobiliario y artes decorativas fueron concebidos como conjunto.",
+  "localizacion": "Villa Empain — Fundación Boghossian",
+  "ciudad": "Bruselas",
+  "urlLocalizacion": "https://www.villaempain.com/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Villa%20Empain%20%E2%80%94%20Fundaci%C3%B3n%20Boghossian%2C%20Bruselas",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "Granito pulido",
+    "Bronce",
+    "Maderas nobles",
+    "Vidrio y mosaico"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Art déco",
+    "Bélgica",
+    "residencia",
+    "Art déco belga",
+    "interiorismo",
+    "Bruselas"
+  ],
+  "proporcion": [
+    2250,
+    1500
+  ],
+  "color": "#8f7042",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20villa%20Empain-Brussels.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20villa%20Empain-Brussels.jpg",
+    "alt": "Vista de Villa Empain, Bruselas",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La%20villa%20Empain-Brussels.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Aldeko · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "La villa Empain-Brussels.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

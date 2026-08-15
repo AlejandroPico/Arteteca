@@ -1,0 +1,50 @@
+{
+  "id": "sant-ivo-sapienza",
+  "titulo": "Sant’Ivo alla Sapienza",
+  "autor": "Francesco Borromini",
+  "fecha": "1642–1660",
+  "fechaOrden": 1642,
+  "tipo": "Arquitectura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "Borromini insertó una iglesia de geometría estrellada en el patio de la antigua Universidad de Roma y la coronó con una linterna espiral de silueta inconfundible.",
+  "localizacion": "Sant’Ivo alla Sapienza",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://cultura.gov.it/comunicato/sant-ivo-alla-sapienza-apre-le-porte-ai-visitatori",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Sant%E2%80%99Ivo%20alla%20Sapienza%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mampostería revocada",
+    "Geometría estrellada",
+    "Cúpula",
+    "Linterna helicoidal"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Barroco",
+    "Italia",
+    "barroco romano",
+    "arquitectura religiosa",
+    "universidad",
+    "Borromini"
+  ],
+  "proporcion": [
+    4365,
+    3433
+  ],
+  "color": "#6f4438",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sant'Ivo%20alla%20Sapienza%20-Rome.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sant'Ivo%20alla%20Sapienza%20-Rome.jpg",
+    "alt": "Vista de Sant’Ivo alla Sapienza, Roma",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sant'Ivo%20alla%20Sapienza%20-Rome.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Paris Orlando · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Sant'Ivo alla Sapienza -Rome.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

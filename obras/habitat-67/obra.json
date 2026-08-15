@@ -1,0 +1,52 @@
+{
+  "id": "habitat-67",
+  "titulo": "Habitat 67",
+  "autor": "Moshe Safdie",
+  "fecha": "1964–1967",
+  "fechaOrden": 1964,
+  "tipo": "Arquitectura",
+  "periodo": "Brutalismo",
+  "coleccion": "Abstracción y diseño moderno",
+  "reconocimiento": "Sitio histórico nacional de Canadá",
+  "descripcion": "Safdie apiló módulos prefabricados de hormigón para combinar densidad urbana, vivienda individual, terrazas y vistas en un conjunto construido para la Expo 67.",
+  "localizacion": "Habitat 67",
+  "ciudad": "Montreal",
+  "urlLocalizacion": "https://www.habitat67.com/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Habitat%2067%2C%20Montreal",
+  "pais": "Canadá",
+  "tecnicas": [
+    "Módulos prefabricados de hormigón",
+    "Postensado",
+    "Ensamblaje tridimensional",
+    "Terrazas"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Brutalismo",
+    "Abstracción y diseño moderno",
+    "Canadá",
+    "vivienda colectiva",
+    "Expo 67",
+    "prefabricación",
+    "brutalismo"
+  ],
+  "proporcion": [
+    5356,
+    3598
+  ],
+  "color": "#70716f",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Habitat%2067%2C%202600%2C%20avenue%20Pierre-Dupuy%20(Ville-Marie)%20(35399872943).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Habitat%2067%2C%202600%2C%20avenue%20Pierre-Dupuy%20(Ville-Marie)%20(35399872943).jpg",
+    "alt": "Vista de Habitat 67, Montreal",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Habitat%2067%2C%202600%2C%20avenue%20Pierre-Dupuy%20(Ville-Marie)%20(35399872943).jpg",
+    "licencia": "CC BY 2.0",
+    "credito": "Parcours riverain - Ville de Montréal from Canada · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Habitat 67, 2600, avenue Pierre-Dupuy (Ville-Marie) (35399872943).jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

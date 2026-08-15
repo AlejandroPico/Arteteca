@@ -1,0 +1,51 @@
+{
+  "id": "haus-am-horn",
+  "titulo": "Haus am Horn",
+  "autor": "Georg Muche; oficina de arquitectura de Walter Gropius",
+  "fecha": "1923",
+  "fechaOrden": 1923,
+  "tipo": "Arquitectura",
+  "periodo": "Bauhaus",
+  "coleccion": "Abstracción y diseño moderno",
+  "reconocimiento": "Parte de la Bauhaus y sus sitios en Weimar, Dessau y Bernau, Patrimonio Mundial de la UNESCO",
+  "descripcion": "La casa experimental de la exposición Bauhaus de 1923 organiza pequeñas habitaciones alrededor de una sala central elevada e integra construcción, mobiliario y equipamiento doméstico.",
+  "localizacion": "Haus am Horn",
+  "ciudad": "Weimar",
+  "urlLocalizacion": "https://www.klassik-stiftung.de/en/haus-am-horn/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Haus%20am%20Horn%2C%20Weimar",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Mampostería ligera",
+    "Aislamiento de turba",
+    "Planta compacta",
+    "Mobiliario integrado"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Bauhaus",
+    "Abstracción y diseño moderno",
+    "Alemania",
+    "vivienda experimental",
+    "Weimar",
+    "diseño doméstico"
+  ],
+  "proporcion": [
+    2816,
+    2112
+  ],
+  "color": "#a44635",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Haus%20am%20Horn%2004.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Haus%20am%20Horn%2004.JPG",
+    "alt": "Vista de Haus am Horn, Weimar",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Haus%20am%20Horn%2004.JPG",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "sailko · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Haus am Horn 04.JPG",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

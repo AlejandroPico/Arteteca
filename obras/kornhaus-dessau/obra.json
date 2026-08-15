@@ -1,0 +1,50 @@
+{
+  "id": "kornhaus-dessau",
+  "titulo": "Kornhaus de Dessau",
+  "autor": "Carl Fieger",
+  "fecha": "1929–1930",
+  "fechaOrden": 1929,
+  "tipo": "Arquitectura",
+  "periodo": "Bauhaus",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Este restaurante junto al Elba combina un cuerpo horizontal con una galería semicircular acristalada que parece suspendida sobre la ribera.",
+  "localizacion": "Kornhaus",
+  "ciudad": "Dessau-Roßlau",
+  "urlLocalizacion": "https://bauhaus-dessau.de/en/venues/kornhaus/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Kornhaus%2C%20Dessau-Ro%C3%9Flau",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Estructura de hormigón armado",
+    "Mampostería",
+    "Revoco",
+    "Galería semicircular acristalada"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Bauhaus",
+    "Abstracción y diseño moderno",
+    "Alemania",
+    "restaurante",
+    "río Elba",
+    "Carl Fieger"
+  ],
+  "proporcion": [
+    4583,
+    3055
+  ],
+  "color": "#a44635",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kornhaus%20Dessau%20230713.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kornhaus%20Dessau%20230713.jpg",
+    "alt": "Vista de Kornhaus de Dessau, Dessau-Roßlau",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Kornhaus%20Dessau%20230713.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Michael Deutsch · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Kornhaus Dessau 230713.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

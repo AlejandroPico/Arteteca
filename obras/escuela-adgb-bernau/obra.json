@@ -1,0 +1,52 @@
+{
+  "id": "escuela-adgb-bernau",
+  "titulo": "Escuela sindical ADGB de Bernau",
+  "tituloOriginal": "Bundesschule des ADGB",
+  "autor": "Hannes Meyer y Hans Wittwer",
+  "fecha": "1928–1930",
+  "fechaOrden": 1928,
+  "tipo": "Arquitectura",
+  "periodo": "Bauhaus",
+  "coleccion": "Abstracción y diseño moderno",
+  "reconocimiento": "Parte de la Bauhaus y sus sitios en Weimar, Dessau y Bernau, Patrimonio Mundial de la UNESCO",
+  "descripcion": "Meyer y Wittwer extendieron aulas, dormitorios, comedor y gimnasio siguiendo la pendiente y las relaciones funcionales de una escuela para el movimiento sindical alemán.",
+  "localizacion": "Bauhaus World Heritage Site Bernau",
+  "ciudad": "Bernau bei Berlin",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/729/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bauhaus%20World%20Heritage%20Site%20Bernau%2C%20Bernau%20bei%20Berlin",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Hormigón armado",
+    "Ladrillo visto",
+    "Vidrio",
+    "Organización funcional"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Bauhaus",
+    "Abstracción y diseño moderno",
+    "Alemania",
+    "escuela",
+    "sindicalismo",
+    "Hannes Meyer"
+  ],
+  "proporcion": [
+    2304,
+    1712
+  ],
+  "color": "#a44635",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bernau%20bei%20Berlin%20ADGB%20Schule%20Wohntrakte%20vorne.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bernau%20bei%20Berlin%20ADGB%20Schule%20Wohntrakte%20vorne.jpg",
+    "alt": "Vista de Escuela sindical ADGB de Bernau, Bernau bei Berlin",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bernau%20bei%20Berlin%20ADGB%20Schule%20Wohntrakte%20vorne.jpg",
+    "licencia": "CC BY 2.5",
+    "credito": "User:Dabbelju · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Bernau bei Berlin ADGB Schule Wohntrakte vorne.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

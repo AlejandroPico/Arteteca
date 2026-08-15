@@ -1,0 +1,52 @@
+{
+  "id": "biblioteca-publica-nueva-york",
+  "titulo": "Edificio Stephen A. Schwarzman de la Biblioteca Pública de Nueva York",
+  "tituloOriginal": "Stephen A. Schwarzman Building",
+  "autor": "Carrère and Hastings",
+  "fecha": "1897–1911",
+  "fechaOrden": 1897,
+  "tipo": "Arquitectura",
+  "periodo": "Beaux-Arts",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "reconocimiento": "Hito histórico nacional de Estados Unidos",
+  "descripcion": "La sede principal de la NYPL presenta la biblioteca como institución cívica mediante una fachada de mármol, una gran escalinata y salas de lectura organizadas sobre depósitos de libros.",
+  "localizacion": "New York Public Library — Stephen A. Schwarzman Building",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.nypl.org/locations/schwarzman",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=New%20York%20Public%20Library%20%E2%80%94%20Stephen%20A.%20Schwarzman%20Building%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Mármol de Vermont",
+    "Estructura metálica",
+    "Patios interiores",
+    "Salas de lectura monumentales"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Beaux-Arts",
+    "Romanticismo, Realismo e Impresionismo",
+    "Estados Unidos",
+    "biblioteca",
+    "Nueva York",
+    "arquitectura pública"
+  ],
+  "proporcion": [
+    4776,
+    2687
+  ],
+  "color": "#8e7b70",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/New%20York%20Public%20Library%20-%20Main%20Branch%20(51396225599).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/New%20York%20Public%20Library%20-%20Main%20Branch%20(51396225599).jpg",
+    "alt": "Vista de Edificio Stephen A. Schwarzman de la Biblioteca Pública de Nueva York, Nueva York",
+    "fuente": "https://commons.wikimedia.org/wiki/File:New%20York%20Public%20Library%20-%20Main%20Branch%20(51396225599).jpg",
+    "licencia": "CC BY 2.0",
+    "credito": "ajay_suresh · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "New York Public Library - Main Branch (51396225599).jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

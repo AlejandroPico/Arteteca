@@ -1,0 +1,53 @@
+{
+  "id": "casa-municipal-praga",
+  "titulo": "Casa Municipal de Praga",
+  "tituloOriginal": "Obecní dům",
+  "autor": "Antonín Balšánek y Osvald Polívka",
+  "fecha": "1905–1912",
+  "fechaOrden": 1905,
+  "tipo": "Arquitectura",
+  "periodo": "Art Nouveau",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "reconocimiento": "Monumento cultural nacional de la República Checa",
+  "descripcion": "La Casa Municipal reúne sala de conciertos, espacios cívicos, cafés y decoración de numerosos artistas en una versión monumental del Art Nouveau checo.",
+  "localizacion": "Casa Municipal",
+  "ciudad": "Praga",
+  "urlLocalizacion": "https://www.obecnidum.cz/en/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Casa%20Municipal%2C%20Praga",
+  "pais": "República Checa",
+  "tecnicas": [
+    "Mampostería",
+    "Cúpula",
+    "Mosaico",
+    "Vidrieras y metalistería"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Art Nouveau",
+    "Art Nouveau y artes decorativas",
+    "República Checa",
+    "Secesión checa",
+    "centro cívico",
+    "sala de conciertos",
+    "Praga"
+  ],
+  "proporcion": [
+    5693,
+    3328
+  ],
+  "color": "#5f7b6d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa%20municipal%2C%20Praga%2C%20Rep%C3%BAblica%20Checa%2C%202022-07-02%2C%20DD%2009.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Casa%20municipal%2C%20Praga%2C%20Rep%C3%BAblica%20Checa%2C%202022-07-02%2C%20DD%2009.jpg",
+    "alt": "Vista de Casa Municipal de Praga, Praga",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Casa%20municipal%2C%20Praga%2C%20Rep%C3%BAblica%20Checa%2C%202022-07-02%2C%20DD%2009.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Diego Delso · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Casa municipal, Praga, República Checa, 2022-07-02, DD 09.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "san-carlo-quattro-fontane",
+  "titulo": "San Carlo alle Quattro Fontane",
+  "tituloOriginal": "Chiesa di San Carlo alle Quattro Fontane",
+  "autor": "Francesco Borromini",
+  "fecha": "1638–1667",
+  "fechaOrden": 1638,
+  "tipo": "Arquitectura",
+  "periodo": "Barroco",
+  "coleccion": "Barroco",
+  "descripcion": "En una parcela mínima, Borromini creó una iglesia donde muros ondulantes, planta oval y cúpula geométrica producen una sensación espacial mucho mayor que su tamaño real.",
+  "localizacion": "San Carlo alle Quattro Fontane",
+  "ciudad": "Roma",
+  "urlLocalizacion": "https://www.sancarlino.es/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=San%20Carlo%20alle%20Quattro%20Fontane%2C%20Roma",
+  "pais": "Italia",
+  "tecnicas": [
+    "Mampostería revocada",
+    "Planta oval compleja",
+    "Cúpula artesonada",
+    "Fachada ondulante"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Barroco",
+    "Italia",
+    "barroco romano",
+    "arquitectura religiosa",
+    "Borromini",
+    "espacio pequeño"
+  ],
+  "proporcion": [
+    3638,
+    5233
+  ],
+  "color": "#6f4438",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/San%20Carlo%20alle%20Quattro%20Fontane%20-%20Front.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/San%20Carlo%20alle%20Quattro%20Fontane%20-%20Front.jpg",
+    "alt": "Vista de San Carlo alle Quattro Fontane, Roma",
+    "fuente": "https://commons.wikimedia.org/wiki/File:San%20Carlo%20alle%20Quattro%20Fontane%20-%20Front.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Architas · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "San Carlo alle Quattro Fontane - Front.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

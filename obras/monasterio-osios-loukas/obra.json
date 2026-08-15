@@ -1,0 +1,52 @@
+{
+  "id": "monasterio-osios-loukas",
+  "titulo": "Monasterio de Osios Loukás",
+  "tituloOriginal": "Ὅσιος Λουκᾶς",
+  "autor": "Talleres monásticos bizantinos (autoría desconocida)",
+  "fecha": "siglos X–XI",
+  "fechaOrden": 950,
+  "tipo": "Arquitectura",
+  "periodo": "Arte bizantino",
+  "coleccion": "Arte medieval y religioso",
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "descripcion": "El conjunto monástico reúne dos iglesias de escala y fecha distintas, cuyos muros de piedra y ladrillo contienen interiores revestidos de mármol y mosaico.",
+  "localizacion": "Monasterio de Osios Loukás",
+  "ciudad": "Distomo",
+  "urlLocalizacion": "https://whc.unesco.org/en/list/537/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Monasterio%20de%20Osios%20Louk%C3%A1s%2C%20Distomo",
+  "pais": "Grecia",
+  "tecnicas": [
+    "Piedra y ladrillo",
+    "Cúpula sobre trompas",
+    "Mármol",
+    "Mosaico"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Arte bizantino",
+    "Arte medieval y religioso",
+    "Grecia",
+    "monasterio",
+    "Bizancio medio",
+    "arquitectura religiosa"
+  ],
+  "proporcion": [
+    5904,
+    3820
+  ],
+  "color": "#9f6a36",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hosios%20Loukas%20BW%202017-10-08%2014-55-46.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hosios%20Loukas%20BW%202017-10-08%2014-55-46.jpg",
+    "alt": "Vista de Monasterio de Osios Loukás, Distomo",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Hosios%20Loukas%20BW%202017-10-08%2014-55-46.jpg",
+    "licencia": "CC BY-SA 3.0",
+    "credito": "Berthold Werner · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Hosios Loukas BW 2017-10-08 14-55-46.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

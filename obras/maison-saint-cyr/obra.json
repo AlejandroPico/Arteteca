@@ -1,0 +1,52 @@
+{
+  "id": "maison-saint-cyr",
+  "titulo": "Maison Saint-Cyr",
+  "autor": "Gustave Strauven",
+  "fecha": "1901–1903",
+  "fechaOrden": 1901,
+  "tipo": "Arquitectura",
+  "periodo": "Art Nouveau",
+  "coleccion": "Art Nouveau y artes decorativas",
+  "reconocimiento": "Patrimonio protegido de la Región de Bruselas-Capital",
+  "descripcion": "En una parcela extremadamente estrecha, Strauven convirtió la fachada de esta casa en una composición ascendente de balcones, hierro curvado y color.",
+  "localizacion": "Maison Saint-Cyr",
+  "ciudad": "Bruselas",
+  "urlLocalizacion": "https://monument.heritage.brussels/fr/Bruxelles_Extension_Est/Square_Ambiorix/11/18550",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Maison%20Saint-Cyr%2C%20Bruselas",
+  "pais": "Bélgica",
+  "tecnicas": [
+    "Piedra y ladrillo",
+    "Hierro forjado",
+    "Esgrafiado",
+    "Carpintería"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Art Nouveau",
+    "Art Nouveau y artes decorativas",
+    "Bélgica",
+    "casa urbana",
+    "Art Nouveau belga",
+    "Bruselas",
+    "fachada estrecha"
+  ],
+  "proporcion": [
+    2818,
+    4542
+  ],
+  "color": "#5f7b6d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Maison%20Saint-Cyr%20(DSCF7558).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Maison%20Saint-Cyr%20(DSCF7558).jpg",
+    "alt": "Vista de Maison Saint-Cyr, Bruselas",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Maison%20Saint-Cyr%20(DSCF7558).jpg",
+    "licencia": "CC BY 4.0",
+    "credito": "Trougnouf (Benoit Brummer) · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Maison Saint-Cyr (DSCF7558).jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

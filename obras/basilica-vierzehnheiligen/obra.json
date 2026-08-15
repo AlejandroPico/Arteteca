@@ -1,0 +1,52 @@
+{
+  "id": "basilica-vierzehnheiligen",
+  "titulo": "Basílica de los Catorce Santos Auxiliadores",
+  "tituloOriginal": "Basilika Vierzehnheiligen",
+  "autor": "Balthasar Neumann",
+  "fecha": "1743–1772",
+  "fechaOrden": 1743,
+  "tipo": "Arquitectura",
+  "periodo": "Rococó",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "descripcion": "Neumann organizó la iglesia alrededor del lugar de una aparición, enlazando óvalos y altares en un interior de movimiento continuo bajo una envolvente basilical.",
+  "localizacion": "Basílica de Vierzehnheiligen",
+  "ciudad": "Bad Staffelstein",
+  "urlLocalizacion": "https://vierzehnheiligen.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20de%20Vierzehnheiligen%2C%20Bad%20Staffelstein",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Mampostería",
+    "Bóvedas",
+    "Estuco",
+    "Fresco"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Rococó",
+    "De la Ilustración al Romanticismo",
+    "Alemania",
+    "iglesia de peregrinación",
+    "rococó franconio",
+    "Balthasar Neumann",
+    "arquitectura religiosa"
+  ],
+  "proporcion": [
+    3914,
+    3086
+  ],
+  "color": "#b88f9d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vierzehnheiligen%20Basilika%20Luftbild-20220304-RM-115153.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vierzehnheiligen%20Basilika%20Luftbild-20220304-RM-115153.jpg",
+    "alt": "Vista de Basílica de los Catorce Santos Auxiliadores, Bad Staffelstein",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vierzehnheiligen%20Basilika%20Luftbild-20220304-RM-115153.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Ermell · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Vierzehnheiligen Basilika Luftbild-20220304-RM-115153.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

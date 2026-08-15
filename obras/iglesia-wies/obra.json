@@ -1,0 +1,53 @@
+{
+  "id": "iglesia-wies",
+  "titulo": "Iglesia de peregrinación de Wies",
+  "tituloOriginal": "Wieskirche",
+  "autor": "Dominikus Zimmermann; decoración de Johann Baptist Zimmermann",
+  "fecha": "1745–1754",
+  "fechaOrden": 1745,
+  "tipo": "Arquitectura",
+  "periodo": "Rococó",
+  "coleccion": "De la Ilustración al Romanticismo",
+  "reconocimiento": "Patrimonio Mundial de la UNESCO",
+  "descripcion": "La iglesia de Wies combina un exterior claro y sereno con un interior oval donde estuco, pintura y luz convierten la cubierta en una visión abierta y festiva.",
+  "localizacion": "Wieskirche",
+  "ciudad": "Steingaden",
+  "urlLocalizacion": "https://www.wieskirche.de/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Wieskirche%2C%20Steingaden",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Mampostería",
+    "Estuco",
+    "Fresco",
+    "Estructura de madera"
+  ],
+  "etiquetas": [
+    "Arquitectura",
+    "Rococó",
+    "De la Ilustración al Romanticismo",
+    "Alemania",
+    "iglesia de peregrinación",
+    "rococó bávaro",
+    "arquitectura religiosa",
+    "paisaje alpino"
+  ],
+  "proporcion": [
+    2240,
+    1680
+  ],
+  "color": "#b88f9d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wieskirche%20boenisch%20okt%202003.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wieskirche%20boenisch%20okt%202003.jpg",
+    "alt": "Vista de Iglesia de peregrinación de Wies, Steingaden",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Wieskirche%20boenisch%20okt%202003.jpg",
+    "licencia": "CC BY-SA 2.0 de",
+    "credito": "Bönisch · fotografía en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Wieskirche boenisch okt 2003.jpg",
+    "incorporado": "2026-08-15",
+    "bloque": "Ampliación de arquitectura por estilos"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "calle-venecia-sargent",
+  "titulo": "Una calle de Venecia",
+  "tituloOriginal": "A Street in Venice",
+  "autor": "John Singer Sargent",
+  "fecha": "c. 1880–1882",
+  "fechaOrden": 1880,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Un hombre y una mujer se encuentran en la entrada de una bodega dentro de un callejón estrecho y descascarillado. En lugar de la Venecia monumental, Sargent presenta una situación cotidiana y ambigua observada desde una distancia incómodamente próxima.",
+  "localizacion": "Clark Art Institute",
+  "ciudad": "Williamstown",
+  "urlLocalizacion": "https://www.clarkart.edu/artpiece/detail/a-street-in-venice",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Clark%20Art%20Institute%2C%20Williamstown%2C%20Massachusetts",
+  "pais": "Estados Unidos",
+  "dimensiones": "75,1 × 52,4 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Venecia",
+    "callejón",
+    "vida cotidiana",
+    "figuras",
+    "arquitectura urbana",
+    "viaje"
+  ],
+  "proporcion": [
+    4613,
+    6189
+  ],
+  "color": "#6e6459",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20A%20Street%20in%20Venice.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20A%20Street%20in%20Venice.jpg",
+    "alt": "Hombre y mujer conversan en la puerta de un edificio dentro de un estrecho callejón veneciano",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John%20Singer%20Sargent%20A%20Street%20in%20Venice.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · Clark Art Institute / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q104773692",
+    "wikimediaFile": "John Singer Sargent A Street in Venice.jpg",
+    "fuenteInstitucional": "https://www.clarkart.edu/artpiece/detail/a-street-in-venice",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

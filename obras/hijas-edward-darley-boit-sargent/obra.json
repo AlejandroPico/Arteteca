@@ -1,0 +1,50 @@
+{
+  "id": "hijas-edward-darley-boit-sargent",
+  "titulo": "Las hijas de Edward Darley Boit",
+  "tituloOriginal": "The Daughters of Edward Darley Boit",
+  "autor": "John Singer Sargent",
+  "fecha": "1882",
+  "fechaOrden": 1882,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Las cuatro hermanas Boit aparecen separadas por la luz, la distancia y un gran espacio doméstico que no se comporta como un retrato familiar convencional. La composición transforma un vestíbulo parisino en una escena enigmática sobre infancia, presencia y retirada.",
+  "localizacion": "Museum of Fine Arts, Boston",
+  "ciudad": "Boston",
+  "urlLocalizacion": "https://collections.mfa.org/objects/31782",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Fine%20Arts%2C%20Boston",
+  "pais": "Estados Unidos",
+  "dimensiones": "221,93 × 222,57 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "retrato infantil",
+    "hermanas",
+    "interior",
+    "luz y sombra",
+    "familia Boit",
+    "jarrones japoneses"
+  ],
+  "proporcion": [
+    2571,
+    2591
+  ],
+  "color": "#625344",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%2C%20Les%20Filles%20d'Edward%20Darley%20Boit.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%2C%20Les%20Filles%20d'Edward%20Darley%20Boit.jpg",
+    "alt": "Cuatro niñas vestidas con delantales blancos se distribuyen a distintas profundidades en un gran interior oscuro flanqueado por jarrones japoneses",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John%20Singer%20Sargent,%20Les%20Filles%20d'Edward%20Darley%20Boit.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · reproducción de dominio público en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q644106",
+    "wikimediaFile": "John Singer Sargent, Les Filles d'Edward Darley Boit.jpg",
+    "fuenteInstitucional": "https://collections.mfa.org/objects/31782",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

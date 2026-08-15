@@ -1,0 +1,51 @@
+{
+  "id": "santa-maria-salute-sargent",
+  "titulo": "Santa Maria della Salute",
+  "tituloOriginal": "Santa Maria della Salute",
+  "autor": "John Singer Sargent",
+  "fecha": "1904",
+  "fechaOrden": 1904,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "La fachada de Santa Maria della Salute aparece desde el nivel cambiante del canal, parcialmente interrumpida por una embarcación y sus pasajeros. En esta gran acuarela Sargent combina dibujo arquitectónico preciso con lavados libres, reflejos y raspados de luz.",
+  "localizacion": "Brooklyn Museum",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.brooklynmuseum.org/opencollection/objects/20389",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Museum%2C%20New%20York",
+  "pais": "Estados Unidos",
+  "dimensiones": "46,2 × 58,3 cm",
+  "tecnicas": [
+    "Acuarela transparente y opaca",
+    "Grafito sobre papel",
+    "Raspado"
+  ],
+  "etiquetas": [
+    "Venecia",
+    "acuarela",
+    "arquitectura",
+    "canal",
+    "góndola",
+    "viaje"
+  ],
+  "proporcion": [
+    1536,
+    1225
+  ],
+  "color": "#8b897c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sargent%20-%20Santa%20Maria%20della%20Salute%2C%201904%2C%2009.838.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sargent%20-%20Santa%20Maria%20della%20Salute%2C%201904%2C%2009.838.jpg",
+    "alt": "Vista en acuarela de la fachada de Santa Maria della Salute desde el canal, con una embarcación y figuras en primer plano",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sargent%20-%20Santa%20Maria%20della%20Salute,%201904,%2009.838.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · Brooklyn Museum / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikimediaFile": "Sargent - Santa Maria della Salute, 1904, 09.838.jpg",
+    "fuenteInstitucional": "https://www.brooklynmuseum.org/opencollection/objects/20389",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "estudio-aire-libre-sargent",
+  "titulo": "Estudio al aire libre",
+  "tituloOriginal": "An Out-of-Doors Study (Paul Helleu Sketching with His Wife)",
+  "autor": "John Singer Sargent",
+  "fecha": "1889",
+  "fechaOrden": 1889,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Paul Helleu pinta junto al agua mientras Alice Helleu descansa a su lado, integrada en las hierbas y el reflejo de una canoa roja. Sargent sustituye la pose social por una escena asimétrica de amistad, ocio y trabajo artístico al aire libre.",
+  "localizacion": "Brooklyn Museum",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.brooklynmuseum.org/objects/131",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Museum%2C%20New%20York",
+  "pais": "Estados Unidos",
+  "dimensiones": "65,9 × 80,7 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo",
+    "Pintura al aire libre"
+  ],
+  "etiquetas": [
+    "Paul Helleu",
+    "Alice Helleu",
+    "pintura al aire libre",
+    "Cotswolds",
+    "canoa",
+    "amistad",
+    "artista trabajando"
+  ],
+  "proporcion": [
+    4849,
+    3975
+  ],
+  "color": "#6e745c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20An%20Out-of-Doors%20Study%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20An%20Out-of-Doors%20Study%20-%20Google%20Art%20Project.jpg",
+    "alt": "Un pintor trabaja sentado ante su caballete mientras una mujer descansa en la hierba junto a una canoa roja",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John%20Singer%20Sargent%20-%20An%20Out-of-Doors%20Study%20-%20Google%20Art%20Project.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · Brooklyn Museum / Google Art Project / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q28796795",
+    "wikimediaFile": "John Singer Sargent - An Out-of-Doors Study - Google Art Project.jpg",
+    "fuenteInstitucional": "https://www.brooklynmuseum.org/objects/131",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

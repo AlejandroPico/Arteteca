@@ -1,0 +1,50 @@
+{
+  "id": "hermanas-wyndham-sargent",
+  "titulo": "Las hermanas Wyndham",
+  "tituloOriginal": "The Wyndham Sisters: Lady Elcho, Mrs. Adeane, and Mrs. Tennant",
+  "autor": "John Singer Sargent",
+  "fecha": "1899",
+  "fechaOrden": 1899,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Madeline Adeane, Pamela Tennant y Lady Elcho forman un grupo monumental en el salón familiar, bajo el retrato de su madre pintado por George Frederic Watts. Sargent convierte parentesco, vestido y decoración en una imagen de continuidad social y complicidad entre hermanas.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/art/collection/search/12477",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20New%20York",
+  "pais": "Estados Unidos",
+  "dimensiones": "292,1 × 213,7 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "retrato de grupo",
+    "hermanas",
+    "familia Wyndham",
+    "aristocracia",
+    "moda",
+    "interior londinense"
+  ],
+  "proporcion": [
+    2709,
+    3722
+  ],
+  "color": "#746052",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Wyndham%20Sisters%20-%20Lady%20Elcho%2C%20Mrs.%20Adeane%2C%20and%20Mrs.%20Tenant.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Wyndham%20Sisters%20-%20Lady%20Elcho%2C%20Mrs.%20Adeane%2C%20and%20Mrs.%20Tenant.jpg",
+    "alt": "Tres hermanas con vestidos claros posan juntas sobre un sofá bajo un retrato familiar en un salón oscuro",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The%20Wyndham%20Sisters%20-%20Lady%20Elcho,%20Mrs.%20Adeane,%20and%20Mrs.%20Tenant.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · The Metropolitan Museum of Art / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q20170430",
+    "wikimediaFile": "The Wyndham Sisters - Lady Elcho, Mrs. Adeane, and Mrs. Tenant.jpg",
+    "fuenteInstitucional": "https://www.metmuseum.org/art/collection/search/12477",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "val-aosta-arroyo-sargent",
+  "titulo": "Valle de Aosta: un arroyo sobre las rocas",
+  "tituloOriginal": "Val d'Aosta (A Stream over Rocks; Stream in Val d'Aosta)",
+  "autor": "John Singer Sargent",
+  "fecha": "c. 1907–1908",
+  "fechaOrden": 1907,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "El agua desciende entre piedras y vegetación sin que aparezcan cielo ni horizonte. Sargent renuncia a la gran panorámica alpina y acerca la mirada a la experiencia inmediata del caminante: superficie, corriente, reflejo y luz fragmentada.",
+  "localizacion": "Brooklyn Museum",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.brooklynmuseum.org/objects/1442",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Museum%2C%20New%20York",
+  "pais": "Estados Unidos",
+  "dimensiones": "54,9 × 69,9 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Alpes",
+    "Valle de Aosta",
+    "arroyo",
+    "rocas",
+    "paisaje",
+    "viaje"
+  ],
+  "proporcion": [
+    1536,
+    1209
+  ],
+  "color": "#657067",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sargent%20-%20Val%20d'Aosta%20(A%20Stream%20over%20Rocks%3B%20Stream%20in%20Val%20d'Aosta)%2C%20ca.%201907-1908%2C%2069.52.jpg?width=1400",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sargent%20-%20Val%20d'Aosta%20(A%20Stream%20over%20Rocks%3B%20Stream%20in%20Val%20d'Aosta)%2C%20ca.%201907-1908%2C%2069.52.jpg",
+    "alt": "Arroyo alpino que corre entre rocas grises, hierbas y reflejos blancos sin cielo visible",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sargent%20-%20Val%20d'Aosta%20(A%20Stream%20over%20Rocks;%20Stream%20in%20Val%20d'Aosta),%20ca.%201907-1908,%2069.52.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · Brooklyn Museum / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q106357125",
+    "wikimediaFile": "Sargent - Val d'Aosta (A Stream over Rocks; Stream in Val d'Aosta), ca. 1907-1908, 69.52.jpg",
+    "fuenteInstitucional": "https://www.brooklynmuseum.org/objects/1442",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

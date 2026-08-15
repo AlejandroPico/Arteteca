@@ -1,0 +1,50 @@
+{
+  "id": "madame-x-sargent",
+  "titulo": "Madame X",
+  "tituloOriginal": "Madame X (Madame Pierre Gautreau)",
+  "autor": "John Singer Sargent",
+  "fecha": "1883–1884",
+  "fechaOrden": 1883,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "El perfil afilado, la piel empolvada y el vestido negro de Virginie Gautreau forman uno de los retratos más audaces del siglo XIX. Su presentación en el Salón de 1884 provocó un escándalo que transformó la carrera parisina de Sargent.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/art/collection/search/12127",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20New%20York",
+  "pais": "Estados Unidos",
+  "dimensiones": "208,6 × 109,9 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "retrato",
+    "Virginie Gautreau",
+    "moda",
+    "Salón de París",
+    "Belle Époque",
+    "escándalo"
+  ],
+  "proporcion": [
+    1967,
+    3722
+  ],
+  "color": "#493f39",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sargent%20MadameX.jpeg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sargent%20MadameX.jpeg",
+    "alt": "Mujer de perfil con vestido negro de tirantes, piel muy pálida y una mano apoyada sobre una mesa",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sargent%20MadameX.jpeg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · The Metropolitan Museum of Art / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q2664039",
+    "wikimediaFile": "Sargent MadameX.jpeg",
+    "fuenteInstitucional": "https://www.metmuseum.org/art/collection/search/12127",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

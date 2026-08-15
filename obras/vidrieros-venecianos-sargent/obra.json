@@ -1,0 +1,50 @@
+{
+  "id": "vidrieros-venecianos-sargent",
+  "titulo": "Vidrieros venecianos",
+  "tituloOriginal": "Venetian Glass Workers",
+  "autor": "John Singer Sargent",
+  "fecha": "c. 1880–1882",
+  "fechaOrden": 1880,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Trabajadores preparan varillas de vidrio para fabricar cuentas dentro de un taller oscuro de Venecia. Sargent concentra la escena en la actividad manual, la luz posterior y los destellos verdes y plateados del material, lejos de la ciudad monumental.",
+  "localizacion": "Art Institute of Chicago",
+  "ciudad": "Chicago",
+  "urlLocalizacion": "https://www.artic.edu/artworks/110761/venetian-glass-workers",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Art%20Institute%20of%20Chicago",
+  "pais": "Estados Unidos",
+  "dimensiones": "56,5 × 84,5 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Venecia",
+    "trabajo",
+    "artesanía",
+    "vidrio",
+    "taller",
+    "vida cotidiana"
+  ],
+  "proporcion": [
+    5590,
+    3650
+  ],
+  "color": "#5c6252",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20Venetian%20Glass%20Workers%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20Venetian%20Glass%20Workers%20-%20Google%20Art%20Project.jpg",
+    "alt": "Varias personas trabajan en un taller veneciano oscuro mientras haces de varillas de vidrio capturan la luz",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John%20Singer%20Sargent%20-%20Venetian%20Glass%20Workers%20-%20Google%20Art%20Project.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · Art Institute of Chicago / Google Art Project / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q20275291",
+    "wikimediaFile": "John Singer Sargent - Venetian Glass Workers - Google Art Project.jpg",
+    "fuenteInstitucional": "https://www.artic.edu/artworks/110761/venetian-glass-workers",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

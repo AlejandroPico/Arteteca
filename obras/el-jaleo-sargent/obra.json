@@ -1,0 +1,50 @@
+{
+  "id": "el-jaleo-sargent",
+  "titulo": "El jaleo",
+  "tituloOriginal": "El Jaleo",
+  "autor": "John Singer Sargent",
+  "fecha": "1882",
+  "fechaOrden": 1882,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Una bailaora atraviesa con su falda blanca un espacio oscuro de músicos, palmas y sombras. Sargent elaboró esta visión escénica a partir de su viaje por España y la convirtió en una pintura que parece extender el sonido y el movimiento fuera del lienzo.",
+  "localizacion": "Isabella Stewart Gardner Museum",
+  "ciudad": "Boston",
+  "urlLocalizacion": "https://www.gardnermuseum.org/experience/collection/13259",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Isabella%20Stewart%20Gardner%20Museum%2C%20Boston",
+  "pais": "Estados Unidos",
+  "dimensiones": "232 × 348 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "danza española",
+    "flamenco",
+    "música",
+    "viaje a España",
+    "bailaora",
+    "luz escénica"
+  ],
+  "proporcion": [
+    3000,
+    2028
+  ],
+  "color": "#6f5844",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/EL%20JALEO-SINGER.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/EL%20JALEO-SINGER.jpg",
+    "alt": "Bailaora con falda blanca iluminada ante una fila de músicos y espectadores sentados en penumbra",
+    "fuente": "https://commons.wikimedia.org/wiki/File:EL%20JALEO-SINGER.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · reproducción de dominio público en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q5351449",
+    "wikimediaFile": "EL JALEO-SINGER.jpg",
+    "fuenteInstitucional": "https://www.gardnermuseum.org/experience/collection/13259",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

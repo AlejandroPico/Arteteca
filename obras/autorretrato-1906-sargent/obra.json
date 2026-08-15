@@ -1,0 +1,49 @@
+{
+  "id": "autorretrato-1906-sargent",
+  "titulo": "Autorretrato",
+  "tituloOriginal": "Self-Portrait",
+  "autor": "John Singer Sargent",
+  "fecha": "1906",
+  "fechaOrden": 1906,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Sargent se representa de medio cuerpo, vestido de oscuro y con una expresión contenida que rehúye la teatralidad de muchos de sus retratos sociales. Pintó la obra para incorporarse a la histórica colección de autorretratos de artistas de las Galerías Uffizi.",
+  "localizacion": "Gallerie degli Uffizi",
+  "ciudad": "Florencia",
+  "urlLocalizacion": "https://www.uffizi.it/opere/autoritratto-di-john-singer-sargent",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Gallerie%20degli%20Uffizi%2C%20Firenze",
+  "pais": "Italia",
+  "dimensiones": "c. 70 × 53 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "autorretrato",
+    "colección de autorretratos",
+    "Uffizi",
+    "artista",
+    "identidad"
+  ],
+  "proporcion": [
+    2727,
+    3683
+  ],
+  "color": "#4d453e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sargent%2C%20John%20SInger%20(1856-1925)%20-%20Self-Portrait%201907%20b.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sargent%2C%20John%20SInger%20(1856-1925)%20-%20Self-Portrait%201907%20b.jpg",
+    "alt": "John Singer Sargent de medio cuerpo, con bigote y barba, vestido con traje oscuro ante un fondo neutro",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Sargent,%20John%20SInger%20(1856-1925)%20-%20Self-Portrait%201907%20b.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · Gallerie degli Uffizi / Wikimedia Commons",
+    "foco": "center 35%"
+  },
+  "referencia": {
+    "wikidata": "Q52157937",
+    "wikimediaFile": "Sargent, John SInger (1856-1925) - Self-Portrait 1907 b.jpg",
+    "fuenteInstitucional": "https://www.uffizi.it/opere/autoritratto-di-john-singer-sargent",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

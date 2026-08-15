@@ -1,0 +1,50 @@
+{
+  "id": "lady-agnew-sargent",
+  "titulo": "Lady Agnew de Lochnaw",
+  "tituloOriginal": "Gertrude Vernon, Lady Agnew of Lochnaw",
+  "autor": "John Singer Sargent",
+  "fecha": "1892",
+  "fechaOrden": 1892,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Gertrude Agnew sostiene la mirada del espectador desde una pose aparentemente relajada, rodeada por seda, lila y un fondo floral. El retrato consolidó a Sargent como pintor de referencia de la sociedad londinense y convirtió también a la modelo en una figura célebre.",
+  "localizacion": "Scottish National Gallery",
+  "ciudad": "Edimburgo",
+  "urlLocalizacion": "https://www.nationalgalleries.org/art-and-artists/5396",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Scottish%20National%20Gallery%2C%20Edinburgh",
+  "pais": "Reino Unido",
+  "dimensiones": "127 × 101 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "retrato",
+    "Gertrude Agnew",
+    "sociedad londinense",
+    "moda",
+    "seda",
+    "mirada"
+  ],
+  "proporcion": [
+    5000,
+    6324
+  ],
+  "color": "#8a7d7d",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20Lady%20Agnew%20of%20Lochnaw%20(1892).jpeg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20Lady%20Agnew%20of%20Lochnaw%20(1892).jpeg",
+    "alt": "Mujer sentada con vestido blanco y banda lila que mira directamente al espectador ante un tejido floral",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John%20Singer%20Sargent%20-%20Lady%20Agnew%20of%20Lochnaw%20(1892).jpeg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · National Galleries of Scotland / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q18344787",
+    "wikimediaFile": "John Singer Sargent - Lady Agnew of Lochnaw (1892).jpeg",
+    "fuenteInstitucional": "https://www.nationalgalleries.org/art-and-artists/5396",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

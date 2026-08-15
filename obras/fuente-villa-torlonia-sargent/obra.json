@@ -1,0 +1,52 @@
+{
+  "id": "fuente-villa-torlonia-sargent",
+  "titulo": "La fuente, Villa Torlonia, Frascati",
+  "tituloOriginal": "The Fountain, Villa Torlonia, Frascati, Italy",
+  "autor": "John Singer Sargent",
+  "fecha": "1907",
+  "fechaOrden": 1907,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Jane Emmet de Glehn pinta mientras Wilfrid de Glehn descansa junto a una fuente en Frascati. La escena une retrato informal, jardín y trabajo artístico dentro de una superficie atravesada por reflejos, hojas y manchas de sol.",
+  "localizacion": "Art Institute of Chicago",
+  "ciudad": "Chicago",
+  "urlLocalizacion": "https://www.artic.edu/artworks/69780/the-fountain-villa-torlonia-frascati-italy",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Art%20Institute%20of%20Chicago",
+  "pais": "Estados Unidos",
+  "dimensiones": "71,4 × 56,5 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo",
+    "Pintura al aire libre"
+  ],
+  "etiquetas": [
+    "Frascati",
+    "jardín italiano",
+    "fuente",
+    "artistas",
+    "Jane de Glehn",
+    "Wilfrid de Glehn",
+    "viaje"
+  ],
+  "proporcion": [
+    4455,
+    5677
+  ],
+  "color": "#74745e",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20The%20Fountain%2C%20Villa%20Torlonia%2C%20Frascati%2C%20Italy%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20The%20Fountain%2C%20Villa%20Torlonia%2C%20Frascati%2C%20Italy%20-%20Google%20Art%20Project.jpg",
+    "alt": "Mujer pinta sentada junto a un caballete mientras un hombre descansa cerca de una fuente cubierta de vegetación",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John%20Singer%20Sargent%20-%20The%20Fountain,%20Villa%20Torlonia,%20Frascati,%20Italy%20-%20Google%20Art%20Project.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · Art Institute of Chicago / Google Art Project / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q20268306",
+    "wikimediaFile": "John Singer Sargent - The Fountain, Villa Torlonia, Frascati, Italy - Google Art Project.jpg",
+    "fuenteInstitucional": "https://www.artic.edu/artworks/69780/the-fountain-villa-torlonia-frascati-italy",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "gassed-sargent",
+  "titulo": "Gaseados",
+  "tituloOriginal": "Gassed",
+  "autor": "John Singer Sargent",
+  "fecha": "1919",
+  "fechaOrden": 1919,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "reconocimiento": "Encargo oficial británico sobre la Primera Guerra Mundial",
+  "descripcion": "Una fila de soldados cegados temporalmente por gas mostaza avanza hacia un puesto médico mientras, al fondo, otros militares juegan al fútbol. Sargent convirtió una escena que presenció en 1918 en una imagen monumental de vulnerabilidad, disciplina y guerra industrial.",
+  "localizacion": "Imperial War Museum London",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.iwm.org.uk/collections/item/object/23722",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Imperial%20War%20Museum%20London",
+  "pais": "Reino Unido",
+  "dimensiones": "231 × 611,1 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "Primera Guerra Mundial",
+    "gas mostaza",
+    "soldados",
+    "ceguera",
+    "fútbol",
+    "arte de guerra",
+    "frente occidental"
+  ],
+  "proporcion": [
+    36017,
+    13568
+  ],
+  "color": "#80765b",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20Gassed%20(1919).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20Gassed%20(1919).jpg?width=8000",
+    "alt": "Larga fila de soldados con los ojos vendados que avanza guiándose por los hombros, mientras al fondo se disputa un partido de fútbol",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John%20Singer%20Sargent%20-%20Gassed%20(1919).jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · reproducción de dominio público en Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q5526647",
+    "wikimediaFile": "John Singer Sargent - Gassed (1919).jpg",
+    "fuenteInstitucional": "https://www.iwm.org.uk/collections/item/object/23722",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

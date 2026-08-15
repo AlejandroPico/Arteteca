@@ -1,0 +1,51 @@
+{
+  "id": "carnation-lily-lily-rose-sargent",
+  "titulo": "Clavel, lirio, lirio, rosa",
+  "tituloOriginal": "Carnation, Lily, Lily, Rose",
+  "autor": "John Singer Sargent",
+  "fecha": "1885–1886",
+  "fechaOrden": 1885,
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Dos niñas encienden farolillos japoneses entre flores durante los breves minutos del crepúsculo. Sargent trabajó la escena al aire libre durante dos veranos para conservar una luz que cambiaba casi de inmediato.",
+  "localizacion": "Tate Britain",
+  "ciudad": "Londres",
+  "urlLocalizacion": "https://www.tate.org.uk/art/artworks/sargent-carnation-lily-lily-rose-n01615",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Tate%20Britain%2C%20London",
+  "pais": "Reino Unido",
+  "dimensiones": "174 × 153,7 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo",
+    "Pintura al aire libre"
+  ],
+  "etiquetas": [
+    "crepúsculo",
+    "farolillos japoneses",
+    "jardín",
+    "infancia",
+    "flores",
+    "Cotswolds"
+  ],
+  "proporcion": [
+    3330,
+    3762
+  ],
+  "color": "#66755c",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20Carnation%2C%20Lily%2C%20Lily%2C%20Rose%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20Carnation%2C%20Lily%2C%20Lily%2C%20Rose%20-%20Google%20Art%20Project.jpg",
+    "alt": "Dos niñas vestidas de blanco encienden farolillos de papel entre lirios y rosas al anochecer",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John%20Singer%20Sargent%20-%20Carnation,%20Lily,%20Lily,%20Rose%20-%20Google%20Art%20Project.jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · Google Art Project / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1560719",
+    "wikimediaFile": "John Singer Sargent - Carnation, Lily, Lily, Rose - Google Art Project.jpg",
+    "fuenteInstitucional": "https://www.tate.org.uk/art/artworks/sargent-carnation-lily-lily-rose-n01615",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

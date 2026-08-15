@@ -1,0 +1,50 @@
+{
+  "id": "nonchaloir-repose-sargent",
+  "titulo": "Nonchaloir (Reposo)",
+  "tituloOriginal": "Nonchaloir (Repose)",
+  "autor": "John Singer Sargent",
+  "fecha": "1911",
+  "fechaOrden": 1911,
+  "tipo": "Pintura",
+  "periodo": "Realismo y modernidad",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Rose-Marie Ormond, sobrina del artista, descansa en un sofá y queda absorbida por una postura sin ceremonia. Sargent transforma el lujo del vestido y el interior en un estudio informal de quietud, alejado de las exigencias de un retrato oficial.",
+  "localizacion": "National Gallery of Art",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.nga.gov/artworks/35080-nonchaloir-repose",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Art%2C%20Washington%20DC",
+  "pais": "Estados Unidos",
+  "dimensiones": "63,8 × 76,2 cm",
+  "tecnicas": [
+    "Óleo sobre lienzo"
+  ],
+  "etiquetas": [
+    "figura reclinada",
+    "Rose-Marie Ormond",
+    "reposo",
+    "interior",
+    "vestido",
+    "intimidad"
+  ],
+  "proporcion": [
+    2892,
+    2417
+  ],
+  "color": "#827260",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20Nonchaloir%20(1911).jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Singer%20Sargent%20-%20Nonchaloir%20(1911).jpg",
+    "alt": "Mujer con vestido claro reclinada de lado sobre un sofá, con las manos entrelazadas y la mirada baja",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John%20Singer%20Sargent%20-%20Nonchaloir%20(1911).jpg",
+    "licencia": "Dominio público",
+    "credito": "John Singer Sargent · National Gallery of Art / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q20191580",
+    "wikimediaFile": "John Singer Sargent - Nonchaloir (1911).jpg",
+    "fuenteInstitucional": "https://www.nga.gov/artworks/35080-nonchaloir-repose",
+    "incorporado": "2026-08-16",
+    "bloque": "Selección John Singer Sargent"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "portrait-of-the-court-jester-gonella-fouquet",
+  "titulo": "Portrait of the court jester Gonella",
+  "autor": "Jean Fouquet",
+  "fecha": "1447",
+  "tipo": "Pintura",
+  "periodo": "Renacimiento francés",
+  "coleccion": "Renacimiento",
+  "descripcion": "En Portrait of the court jester Gonella, Jean Fouquet evita que el asunto quede reducido a su título. La pose, el rostro y la indumentaria no son simples datos de identidad: organizan una negociación entre presencia privada e imagen pública. Fouquet unió observación retratística, geometría cortesana y una luz de precisión casi esmaltada, abriendo una vía singular entre…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Renacimiento francés",
+    "Jean Fouquet",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1127,
+    1762
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean%20Fouquet-%20Portrait%20of%20the%20Ferrara%20Court%20Jester%20Gonella.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean%20Fouquet-%20Portrait%20of%20the%20Ferrara%20Court%20Jester%20Gonella.JPG",
+    "alt": "Reproducción de Portrait of the court jester Gonella, obra de Jean Fouquet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jean_Fouquet-_Portrait_of_the_Ferrara_Court_Jester_Gonella.JPG",
+    "licencia": "Public domain",
+    "credito": "Christian Vöhringer –  Pieter Bruegel. 1525/30–1569 , Tandem Verlag 2007 S. 120    ISBN     978-3-8331-3852-2",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q3937425",
+    "wikimediaFile": "Jean Fouquet- Portrait of the Ferrara Court Jester Gonella.JPG",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1447
+}

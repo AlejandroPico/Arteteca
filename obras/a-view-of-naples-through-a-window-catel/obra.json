@@ -1,0 +1,38 @@
+{
+  "id": "a-view-of-naples-through-a-window-catel",
+  "titulo": "A View of Naples through a Window",
+  "autor": "Franz Ludwig Catel",
+  "fecha": "1824",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo alemán",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En A View of Naples through a Window, Franz Ludwig Catel evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Catel hizo de Italia un escenario romántico de ruinas, monasterios, tormentas y vida popular, donde la arquitectura ordena una…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Romanticismo alemán",
+    "Franz Ludwig Catel",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3934,
+    5546
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Franz%20Ludwig%20Catel%20-%20A%20View%20of%20Naples%20through%20a%20Window%20-%201994.198%20-%20Cleveland%20Museum%20of%20Art.tiff?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Franz%20Ludwig%20Catel%20-%20A%20View%20of%20Naples%20through%20a%20Window%20-%201994.198%20-%20Cleveland%20Museum%20of%20Art.tiff",
+    "alt": "Reproducción de A View of Naples through a Window, obra de Franz Ludwig Catel",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Franz_Ludwig_Catel_-_A_View_of_Naples_through_a_Window_-_1994.198_-_Cleveland_Museum_of_Art.tiff",
+    "licencia": "Public domain",
+    "credito": "https://clevelandart.org/art/1994.198",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q60477072",
+    "wikimediaFile": "Franz Ludwig Catel - A View of Naples through a Window - 1994.198 - Cleveland Museum of Art.tiff",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1824
+}

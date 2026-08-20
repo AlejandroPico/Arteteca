@@ -1,0 +1,38 @@
+{
+  "id": "martirio-de-santiago-el-menor-orrente",
+  "titulo": "Martirio de Santiago el Menor",
+  "autor": "Pedro de Orrente",
+  "fecha": "1639",
+  "tipo": "Pintura",
+  "periodo": "Barroco español",
+  "coleccion": "Barroco",
+  "descripcion": "En Martirio de Santiago el Menor, Pedro de Orrente evita que el asunto quede reducido a su título. La luz y la atmósfera modifican cada superficie; agua, cielo, vegetación o nieve dejan de ser fondo y pasan a determinar el ritmo emocional de la escena. Orrente trasladó a la pintura española el paisaje narrativo aprendido de los Bassano: episodios bíblicos extensos, animales…",
+  "pais": "España",
+  "etiquetas": [
+    "Barroco español",
+    "Pedro de Orrente",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    621,
+    800
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Orrente-martirio%20santiago.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Orrente-martirio%20santiago.jpg",
+    "alt": "Reproducción de Martirio de Santiago el Menor, obra de Pedro de Orrente",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Orrente-martirio_santiago.jpg",
+    "licencia": "Public domain",
+    "credito": "[2]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q125315879",
+    "wikimediaFile": "Orrente-martirio santiago.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1639
+}

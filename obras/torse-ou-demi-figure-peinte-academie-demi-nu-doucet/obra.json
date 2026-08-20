@@ -1,0 +1,38 @@
+{
+  "id": "torse-ou-demi-figure-peinte-academie-demi-nu-doucet",
+  "titulo": "Torse ou demi-figure peinte (Académie demi-nu)",
+  "autor": "Henri-Lucien Doucet",
+  "fecha": "1879",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Torse ou demi-figure peinte (Académie demi-nu), Henri-Lucien Doucet evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Doucet combinó dibujo académico, teatralidad contenida y una atención muy precisa a la expresión y al gesto.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Henri-Lucien Doucet",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    700,
+    901
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Doucet%20demi-nu.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Doucet%20demi-nu.jpg",
+    "alt": "Reproducción de Torse ou demi-figure peinte (Académie demi-nu), obra de Henri-Lucien Doucet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Doucet_demi-nu.jpg",
+    "licencia": "Public domain",
+    "credito": "Internet",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q141108055",
+    "wikimediaFile": "Doucet demi-nu.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1879
+}

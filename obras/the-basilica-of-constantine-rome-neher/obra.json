@@ -1,0 +1,38 @@
+{
+  "id": "the-basilica-of-constantine-rome-neher",
+  "titulo": "The Basilica of Constantine, Rome",
+  "autor": "Michael Neher",
+  "fecha": "1830",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo arquitectónico",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En The Basilica of Constantine, Rome, Michael Neher evita que el asunto quede reducido a su título. La perspectiva conduce la mirada por la arquitectura, mientras las figuras pequeñas permiten medir la escala y percibir cómo el espacio condiciona la experiencia humana. Neher hizo de plazas, puertas, iglesias y ruinas una memoria urbana minuciosa, animada por figuras…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Romanticismo arquitectónico",
+    "Michael Neher",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4000,
+    3007
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michael%20Neher%20-%20The%20Basilica%20of%20Constantine%2C%20Rome%20-%202018.830.6%20-%20Metropolitan%20Museum%20of%20Art.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michael%20Neher%20-%20The%20Basilica%20of%20Constantine%2C%20Rome%20-%202018.830.6%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "alt": "Reproducción de The Basilica of Constantine, Rome, obra de Michael Neher",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michael_Neher_-_The_Basilica_of_Constantine,_Rome_-_2018.830.6_-_Metropolitan_Museum_of_Art.jpg",
+    "licencia": "Public domain",
+    "credito": "Metropolitan Museum of Art",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q78634151",
+    "wikimediaFile": "Michael Neher - The Basilica of Constantine, Rome - 2018.830.6 - Metropolitan Museum of Art.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1830
+}

@@ -1,0 +1,38 @@
+{
+  "id": "el-despertar-de-la-tristeza-bouguereau",
+  "titulo": "El Despertar de la Tristeza",
+  "autor": "William-Adolphe Bouguereau",
+  "fecha": "1888",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En El Despertar de la Tristeza, William-Adolphe Bouguereau evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Bouguereau llevó el acabado académico a una superficie casi sin huella de pincel, combinando anatomía idealizada con gestos…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "William-Adolphe Bouguereau",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3300,
+    2634
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/William%20Bouguereau%20-%20El%20primer%20duelo.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/William%20Bouguereau%20-%20El%20primer%20duelo.jpg",
+    "alt": "Reproducción de El Despertar de la Tristeza, obra de William-Adolphe Bouguereau",
+    "fuente": "https://commons.wikimedia.org/wiki/File:William_Bouguereau_-_El_primer_duelo.jpg",
+    "licencia": "Public domain",
+    "credito": "[1]   [2]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q369810",
+    "wikimediaFile": "William Bouguereau - El primer duelo.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1888
+}

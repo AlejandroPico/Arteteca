@@ -1,0 +1,38 @@
+{
+  "id": "der-dom-zu-konstanz-neher",
+  "titulo": "Der Dom zu Konstanz",
+  "autor": "Michael Neher",
+  "fecha": "1863",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo arquitectónico",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Der Dom zu Konstanz, Michael Neher evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Neher hizo de plazas, puertas, iglesias y ruinas una memoria urbana minuciosa, animada por figuras pequeñas que devuelven escala humana a la…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Romanticismo arquitectónico",
+    "Michael Neher",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2000,
+    1662
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michael%20Neher%20-%20Der%20Dom%20zu%20Konstanz%20-%20G%2013240%20-%20Lenbachhaus.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michael%20Neher%20-%20Der%20Dom%20zu%20Konstanz%20-%20G%2013240%20-%20Lenbachhaus.jpg",
+    "alt": "Reproducción de Der Dom zu Konstanz, obra de Michael Neher",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michael_Neher_-_Der_Dom_zu_Konstanz_-_G_13240_-_Lenbachhaus.jpg",
+    "licencia": "Public domain",
+    "credito": "https://sammlungonline.lenbachhaus.de/objekt/der-dom-zu-konstanz-30020006.html",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q75408106",
+    "wikimediaFile": "Michael Neher - Der Dom zu Konstanz - G 13240 - Lenbachhaus.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1863
+}

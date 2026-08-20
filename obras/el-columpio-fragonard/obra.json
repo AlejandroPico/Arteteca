@@ -1,0 +1,38 @@
+{
+  "id": "el-columpio-fragonard",
+  "titulo": "El columpio",
+  "autor": "Jean-Honoré Fragonard",
+  "fecha": "1767",
+  "tipo": "Pintura",
+  "periodo": "Rococó",
+  "coleccion": "Barroco y Rococó",
+  "descripcion": "El vestido se abre como una flor mientras el zapato sale despedido. Entre la joven, el amante oculto entre los arbustos y el hombre que impulsa el columpio se organiza un juego de miradas cargado de deseo, secreto y desigualdad.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Rococó",
+    "Jean-Honoré Fragonard",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4280,
+    5373
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fragonard%2C%20The%20Swing.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fragonard%2C%20The%20Swing.jpg",
+    "alt": "Reproducción de El columpio, obra de Jean-Honoré Fragonard",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Fragonard,_The_Swing.jpg",
+    "licencia": "Public domain",
+    "credito": "https://www.oxfordartonline.com/page/wallace-collection-guide",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q2629559",
+    "wikimediaFile": "Fragonard, The Swing.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1767
+}

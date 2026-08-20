@@ -1,0 +1,38 @@
+{
+  "id": "the-orphan-a-memory-of-auvergne-schenck",
+  "titulo": "The Orphan. A Memory of Auvergne",
+  "autor": "August Friedrich Schenck",
+  "fecha": "1885",
+  "tipo": "Pintura",
+  "periodo": "Realismo animalista",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En The Orphan. A Memory of Auvergne, August Friedrich Schenck evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Schenck convirtió animales y paisajes invernales en dramas de vulnerabilidad, instinto y supervivencia, sin necesidad de…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Realismo animalista",
+    "August Friedrich Schenck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    684,
+    480
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/L%27Orphelin%20-%20souvenir%20d%27Auvergne.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/L%27Orphelin%20-%20souvenir%20d%27Auvergne.jpg",
+    "alt": "Reproducción de The Orphan. A Memory of Auvergne, obra de August Friedrich Schenck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:L%27Orphelin_-_souvenir_d%27Auvergne.jpg",
+    "licencia": "Public domain",
+    "credito": "Musée d'Orsay",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q55208918",
+    "wikimediaFile": "L'Orphelin - souvenir d'Auvergne.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1885
+}

@@ -1,0 +1,39 @@
+{
+  "id": "atardecer-con-aguilas-pescadoras-sosa",
+  "titulo": "Atardecer con águilas pescadoras",
+  "tituloOriginal": "Sunset with Ospreys",
+  "autor": "Manuel Sosa",
+  "fecha": "Contemporánea",
+  "tipo": "Pintura",
+  "periodo": "Naturalismo contemporáneo",
+  "coleccion": "Arte y ciencia",
+  "descripcion": "La última luz reúne a las aves y al agua en una misma gama fría, interrumpida por reflejos breves. Sosa observa la fauna sin aislarla de su hábitat: plumaje, roca, agua, viento y vegetación forman una sola situación ecológica y pictórica.",
+  "pais": "España",
+  "etiquetas": [
+    "Naturalismo contemporáneo",
+    "Manuel Sosa",
+    "selección Tres Ubres Dobles",
+    "imagen remota"
+  ],
+  "proporcion": [
+    2048,
+    1593
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://manuelsosa.com/wp-content/uploads/001/aguilas_pescadoras_twilight-2048x1593.jpg",
+    "urlAltaResolucion": "https://manuelsosa.com/wp-content/uploads/001/aguilas_pescadoras_twilight-2048x1593.jpg",
+    "alt": "Reproducción de Atardecer con águilas pescadoras, obra de Manuel Sosa",
+    "fuente": "https://manuelsosa.com/en/paintings-of/birds-paintings-prints/ospreys-twilight/",
+    "licencia": "© artista o titular de derechos · reproducción remota acreditada",
+    "credito": "Manuel Sosa · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://manuelsosa.com/en/paintings-of/birds-paintings-prints/ospreys-twilight/",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": true
+  }
+}

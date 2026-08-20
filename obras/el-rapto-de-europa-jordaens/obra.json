@@ -1,0 +1,38 @@
+{
+  "id": "el-rapto-de-europa-jordaens",
+  "titulo": "El rapto de Europa",
+  "autor": "Jacob Jordaens",
+  "fecha": "1643",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En El rapto de Europa, Jacob Jordaens evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jordaens hizo del cuerpo, el banquete, la familia y el mito una pintura expansiva: densa, táctil, ruidosa y estrechamente ligada a la cultura de…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jacob Jordaens",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2400,
+    2224
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lille%20PdBA%20jordaens%20enlevement%20europe.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lille%20PdBA%20jordaens%20enlevement%20europe.JPG",
+    "alt": "Reproducción de El rapto de Europa, obra de Jacob Jordaens",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lille_PdBA_jordaens_enlevement_europe.JPG",
+    "licencia": "Public domain",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q11825001",
+    "wikimediaFile": "Lille PdBA jordaens enlevement europe.JPG",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1643
+}

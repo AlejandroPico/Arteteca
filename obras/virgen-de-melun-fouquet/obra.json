@@ -1,0 +1,38 @@
+{
+  "id": "virgen-de-melun-fouquet",
+  "titulo": "Virgen de Melun",
+  "autor": "Jean Fouquet",
+  "fecha": "1450",
+  "tipo": "Pintura",
+  "periodo": "Renacimiento francés",
+  "coleccion": "Renacimiento",
+  "descripcion": "La Virgen aparece como una reina de piel casi ebúrnea, rodeada por querubines azules y serafines rojos. El pecho descubierto alude a María como nutridora de la humanidad, pero la geometría fría y la identidad probable de Agnès Sorel vuelven la imagen extrañamente terrenal.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Renacimiento francés",
+    "Jean Fouquet",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    5045,
+    5594
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Madonna%20omringd%20door%20serafijnen%20en%20cherubijnen%2C%20Jean%20Fouquet%2C%20%281454-1456%29%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20132.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Madonna%20omringd%20door%20serafijnen%20en%20cherubijnen%2C%20Jean%20Fouquet%2C%20%281454-1456%29%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20132.jpg",
+    "alt": "Reproducción de Virgen de Melun, obra de Jean Fouquet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Madonna_omringd_door_serafijnen_en_cherubijnen,_Jean_Fouquet,_(1454-1456),_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen,_132.jpg",
+    "licencia": "CC0",
+    "credito": "Royal Museum of Fine Arts Antwerp",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q29585674",
+    "wikimediaFile": "Madonna omringd door serafijnen en cherubijnen, Jean Fouquet, (1454-1456), Koninklijk Museum voor Schone Kunsten Antwerpen, 132.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1450
+}

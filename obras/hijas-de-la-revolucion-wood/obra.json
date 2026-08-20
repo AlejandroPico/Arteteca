@@ -1,0 +1,38 @@
+{
+  "id": "hijas-de-la-revolucion-wood",
+  "titulo": "Hijas de la Revolución",
+  "autor": "Grant Wood",
+  "fecha": "1932",
+  "tipo": "Pintura",
+  "periodo": "Regionalismo estadounidense",
+  "coleccion": "Modernidad y vanguardias",
+  "descripcion": "En Hijas de la Revolución, Grant Wood evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Wood convirtió el Medio Oeste estadounidense en un escenario nítido y deliberadamente extraño, a medio camino entre el homenaje, la ironía y la…",
+  "pais": "Estados Unidos",
+  "etiquetas": [
+    "Regionalismo estadounidense",
+    "Grant Wood",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1024,
+    497
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Daughters%20of%20Revolution.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Daughters%20of%20Revolution.jpg",
+    "alt": "Reproducción de Hijas de la Revolución, obra de Grant Wood",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Daughters_of_Revolution.jpg",
+    "licencia": "Public domain",
+    "credito": "Tumbr",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q5227954",
+    "wikimediaFile": "Daughters of Revolution.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1932
+}

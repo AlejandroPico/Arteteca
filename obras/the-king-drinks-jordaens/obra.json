@@ -1,0 +1,38 @@
+{
+  "id": "the-king-drinks-jordaens",
+  "titulo": "The King Drinks",
+  "autor": "Jacob Jordaens",
+  "fecha": "1640",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En The King Drinks, Jacob Jordaens evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jordaens hizo del cuerpo, el banquete, la familia y el mito una pintura expansiva: densa, táctil, ruidosa y estrechamente ligada a la cultura de…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jacob Jordaens",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1453,
+    1057
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacob%20Jordaens%20-%20The%20Bean%20King%20%28Louvre%29.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacob%20Jordaens%20-%20The%20Bean%20King%20%28Louvre%29.JPG",
+    "alt": "Reproducción de The King Drinks, obra de Jacob Jordaens",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jacob_Jordaens_-_The_Bean_King_(Louvre).JPG",
+    "licencia": "Public domain",
+    "credito": "https://collections.louvre.fr/en/ark:/53355/cl010059143",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q29656614",
+    "wikimediaFile": "Jacob Jordaens - The Bean King (Louvre).JPG",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1640
+}

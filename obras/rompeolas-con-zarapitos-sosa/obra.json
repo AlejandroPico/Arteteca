@@ -1,0 +1,39 @@
+{
+  "id": "rompeolas-con-zarapitos-sosa",
+  "titulo": "Rompeolas con zarapitos",
+  "tituloOriginal": "Breakwater with Curlews",
+  "autor": "Manuel Sosa",
+  "fecha": "Contemporánea",
+  "tipo": "Pintura",
+  "periodo": "Naturalismo contemporáneo",
+  "coleccion": "Arte y ciencia",
+  "descripcion": "Dos zarapitos se recortan sobre la roca húmeda; la costa no es telón, sino el medio que explica cada postura. Sosa observa la fauna sin aislarla de su hábitat: plumaje, roca, agua, viento y vegetación forman una sola situación ecológica y pictórica.",
+  "pais": "España",
+  "etiquetas": [
+    "Naturalismo contemporáneo",
+    "Manuel Sosa",
+    "selección Tres Ubres Dobles",
+    "imagen remota"
+  ],
+  "proporcion": [
+    1800,
+    988
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://manuelsosa.com/wp-content/uploads/001/zarapitos.jpg",
+    "urlAltaResolucion": "https://manuelsosa.com/wp-content/uploads/001/zarapitos.jpg",
+    "alt": "Reproducción de Rompeolas con zarapitos, obra de Manuel Sosa",
+    "fuente": "https://manuelsosa.com/en/paintings-of/birds-paintings-prints/curlews/",
+    "licencia": "© artista o titular de derechos · reproducción remota acreditada",
+    "credito": "Manuel Sosa · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://manuelsosa.com/en/paintings-of/birds-paintings-prints/curlews/",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": true
+  }
+}

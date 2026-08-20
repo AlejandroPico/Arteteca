@@ -1,0 +1,38 @@
+{
+  "id": "piedad-jordaens",
+  "titulo": "Piedad",
+  "autor": "Jacob Jordaens",
+  "fecha": "c. 1650–1660",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En Piedad, Jacob Jordaens evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jordaens hizo del cuerpo, el banquete, la familia y el mito una pintura expansiva: densa, táctil, ruidosa y estrechamente ligada a la cultura de Amberes.",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jacob Jordaens",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2331,
+    3051
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacob%20Jordaens%20-%20La%20Piedad%2C%201650-1660.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacob%20Jordaens%20-%20La%20Piedad%2C%201650-1660.jpg",
+    "alt": "Reproducción de Piedad, obra de Jacob Jordaens",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jacob_Jordaens_-_La_Piedad,_1650-1660.jpg",
+    "licencia": "Public domain",
+    "credito": "[1]  [2]  [3]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "Jacob Jordaens - La Piedad, 1650-1660.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "Pietà"
+}

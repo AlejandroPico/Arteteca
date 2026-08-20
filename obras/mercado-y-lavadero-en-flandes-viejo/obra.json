@@ -1,0 +1,38 @@
+{
+  "id": "mercado-y-lavadero-en-flandes-viejo",
+  "titulo": "Mercado y lavadero en Flandes",
+  "autor": "Jan Brueghel el Viejo",
+  "fecha": "1620",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En Mercado y lavadero en Flandes, Jan Brueghel el Viejo evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jan Brueghel el Viejo pobló paisajes, infiernos, floreros y alegorías con una miniatura de detalles. Su pintura invita a…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jan Brueghel el Viejo",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1884,
+    1612
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Market%20and%20Washing%20Place%20in%20Flanders%20%281%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Market%20and%20Washing%20Place%20in%20Flanders%20%281%29.jpg",
+    "alt": "Reproducción de Mercado y lavadero en Flandes, obra de Jan Brueghel el Viejo",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Market_and_Washing_Place_in_Flanders_(1).jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "https://www.museodelprado.es/en/the-collection/art-work/market-and-washing-place-in-flanders/9d52f6ed-1203-46b0-91b8-4436ce965d03",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q27699461",
+    "wikimediaFile": "Market and Washing Place in Flanders (1).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1620
+}

@@ -1,0 +1,38 @@
+{
+  "id": "rocas-de-javea-y-el-bote-blanco-sorolla",
+  "titulo": "Rocas de Jávea y el bote blanco",
+  "autor": "Joaquín Sorolla",
+  "fecha": "1905",
+  "tipo": "Pintura",
+  "periodo": "Luminismo valenciano",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Rocas de Jávea y el bote blanco, Joaquín Sorolla evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Sorolla hizo de la luz un fenómeno físico: rebota en el agua, atraviesa las telas y deshace los contornos, pero nunca borra la…",
+  "pais": "España",
+  "etiquetas": [
+    "Luminismo valenciano",
+    "Joaquín Sorolla",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    7161,
+    5275
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joaqu%C3%ADn%20Sorolla%20y%20Bastida%20-%20Rocas%20de%20J%C3%A1vea%20y%20el%20bote%20blanco.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joaqu%C3%ADn%20Sorolla%20y%20Bastida%20-%20Rocas%20de%20J%C3%A1vea%20y%20el%20bote%20blanco.jpg?width=6000",
+    "alt": "Reproducción de Rocas de Jávea y el bote blanco, obra de Joaquín Sorolla",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Rocas_de_J%C3%A1vea_y_el_bote_blanco.jpg",
+    "licencia": "Public domain",
+    "credito": "1.  Museo Carmen Thyssen, Málaga  2.  Google Arts & Culture",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "Joaquín Sorolla y Bastida - Rocas de Jávea y el bote blanco.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1905
+}

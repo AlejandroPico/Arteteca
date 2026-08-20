@@ -1808,6 +1808,27 @@ incorporarla:
 8. registra las coincidencias dudosas y déjalas pendientes, en vez de forzar un
    resultado.
 
+Si el usuario acompaña una obra con un comentario propio o de referencia, ese
+texto define el **nivel editorial y el ángulo de observación**, no una redacción
+que deba copiarse literalmente. El protocolo es:
+
+- conservar la idea visual o narrativa que motivó la selección;
+- corregir datos, matizar leyendas y separar hechos de interpretaciones;
+- distribuir el contenido entre `Mirada`, `Contexto`, `Técnica` o `Legado` para
+  evitar repeticiones;
+- escribir con concreción visual —qué cuerpos, objetos, luces, gestos y
+  relaciones se ven— antes de formular una lectura abstracta;
+- cuando el usuario señala una obra o un artista, auditar también su producción
+  y añadir un pequeño núcleo comparativo de obras relevantes y menos conocidas,
+  siempre que puedan identificarse y reproducirse de manera responsable;
+- enriquecer una ficha existente si la obra ya estaba catalogada, nunca crear un
+  duplicado para introducir un comentario mejor.
+
+En autores vivos o todavía protegidos se permite una reproducción remota desde
+el sitio del artista, museo, fundación o galería acreditada. Debe declararse la
+protección, enlazar la fuente y evitar descargar o redistribuir el archivo en el
+repositorio.
+
 Cuando una reconstrucción o copia sea útil para documentar un original perdido,
 el título, la descripción, el tipo y la pestaña de fuentes deben decirlo de
 forma inequívoca. La imagen nunca puede hacerse pasar por el original.
@@ -1831,6 +1852,14 @@ la Historia* siguió este protocolo. Su auditoría queda documentada en:
 
 ```text
 docs/auditoria-guia-maestra-2026-07.md
+```
+
+La ampliación de agosto de 2026 basada en la selección de
+`tresubresdobles.com/tag/pintura` aplica además el protocolo de comentario
+aportado por el usuario. Su trazabilidad queda en:
+
+```text
+docs/auditoria-seleccion-tresubresdobles-2026-08.md
 ```
 
 ---

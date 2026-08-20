@@ -1,0 +1,38 @@
+{
+  "id": "frine-frente-al-areopago-gerome",
+  "titulo": "Friné frente al Areópago",
+  "autor": "Jean-Léon Gérôme",
+  "fecha": "1861",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Friné frente al Areópago, Jean-Léon Gérôme evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Gérôme construyó escenas históricas de enorme verosimilitud visual y fuerte teatralidad. Esa precisión seductora también exige examinar…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Jean-Léon Gérôme",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2240,
+    1400
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%2C%20Phryne%20revealed%20before%20the%20Areopagus%20%281861%29%20-%2001.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%2C%20Phryne%20revealed%20before%20the%20Areopagus%20%281861%29%20-%2001.jpg",
+    "alt": "Reproducción de Friné frente al Areópago, obra de Jean-Léon Gérôme",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me,_Phryne_revealed_before_the_Areopagus_(1861)_-_01.jpg",
+    "licencia": "Public domain",
+    "credito": "Uploaded by  Popszes  on 19 February 2006.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q6543739",
+    "wikimediaFile": "Jean-Léon Gérôme, Phryne revealed before the Areopagus (1861) - 01.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1861
+}

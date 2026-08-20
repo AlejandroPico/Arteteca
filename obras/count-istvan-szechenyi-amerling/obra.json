@@ -1,0 +1,38 @@
+{
+  "id": "count-istvan-szechenyi-amerling",
+  "titulo": "Count István Széchenyi",
+  "autor": "Friedrich von Amerling",
+  "fecha": "1836",
+  "tipo": "Pintura",
+  "periodo": "Biedermeier",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Count István Széchenyi, Friedrich von Amerling evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Amerling combinó el prestigio del gran retrato con una observación íntima de rostros, telas y relaciones familiares, clave para…",
+  "pais": "Austria",
+  "etiquetas": [
+    "Biedermeier",
+    "Friedrich von Amerling",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2427,
+    3232
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amerling%20sz%C3%A9chenyi%20framed.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amerling%20sz%C3%A9chenyi%20framed.jpg",
+    "alt": "Reproducción de Count István Széchenyi, obra de Friedrich von Amerling",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Amerling_sz%C3%A9chenyi_framed.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q34191901",
+    "wikimediaFile": "Amerling széchenyi framed.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1836
+}

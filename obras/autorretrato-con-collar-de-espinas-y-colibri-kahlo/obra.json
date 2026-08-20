@@ -1,0 +1,40 @@
+{
+  "id": "autorretrato-con-collar-de-espinas-y-colibri-kahlo",
+  "titulo": "Autorretrato con collar de espinas y colibrí",
+  "tituloOriginal": "Self-Portrait with Thorn Necklace and Hummingbird",
+  "autor": "Frida Kahlo",
+  "fecha": "1940",
+  "tipo": "Pintura",
+  "periodo": "Modernismo mexicano",
+  "coleccion": "Modernidad y vanguardias",
+  "descripcion": "Kahlo mira de frente mientras las espinas abren pequeñas heridas en el cuello. El colibrí oscuro cuelga como una joya sin vida; el mono tira del collar y el gato negro se prepara detrás del hombro. La vegetación cierra el espacio y transforma el retrato en un sistema de presiones físicas, afectivas y simbólicas.",
+  "pais": "México",
+  "etiquetas": [
+    "Modernismo mexicano",
+    "Frida Kahlo",
+    "selección Tres Ubres Dobles",
+    "imagen remota"
+  ],
+  "proporcion": [
+    640,
+    825
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://www.hrc.utexas.edu/frida-kahlo-self-portrait/images/frida-kahlo-self-portrait-640-full.jpg",
+    "urlAltaResolucion": "https://www.hrc.utexas.edu/frida-kahlo-self-portrait/images/frida-kahlo-self-portrait-640-full.jpg",
+    "alt": "Reproducción de Autorretrato con collar de espinas y colibrí, obra de Frida Kahlo",
+    "fuente": "https://www.hrc.utexas.edu/frida-kahlo-self-portrait/",
+    "licencia": "© Banco de México, fiduciario del Fideicomiso Diego Rivera y Frida Kahlo",
+    "credito": "Frida Kahlo · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://www.hrc.utexas.edu/frida-kahlo-self-portrait/",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": true
+  },
+  "fechaOrden": 1940
+}

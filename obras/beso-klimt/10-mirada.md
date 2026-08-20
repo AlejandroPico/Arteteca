@@ -3,15 +3,8 @@ titulo: Mirar la obra
 icono: ojo
 ---
 
-## Una entrada visual
+## Entre abrazo y precipicio
 
-Una pareja queda envuelta por oro, patrones geométricos y flores hasta casi fundirse con la superficie ornamental.
+La pareja se arrodilla sobre un prado que termina de manera abrupta. Él se inclina y rodea el rostro de ella; ella cierra los ojos, curva los dedos de los pies y se deja envolver por un manto común. El oro aplana casi todo el espacio, pero manos, pies y rostros conservan volumen y temperatura humana.
 
-La escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.
-
-## Claves de observación
-
-- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.
-- **Materia:** Óleo, Pan de oro y plata sobre lienzo.
-- **Tiempo:** 1907–1908, dentro de Secesión vienesa.
-
+Los rectángulos oscuros del manto masculino contrastan con los círculos y espirales del vestido femenino. Klimt une así dos cuerpos mediante ornamentación sin borrar del todo su diferencia. El pan de oro real acerca la pintura a mosaicos, iconos y objetos preciosos; el beso parece íntimo y, a la vez, convertido en imagen ritual.

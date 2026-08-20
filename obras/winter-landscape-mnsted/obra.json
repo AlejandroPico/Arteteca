@@ -1,0 +1,38 @@
+{
+  "id": "winter-landscape-mnsted",
+  "titulo": "Winter landscape",
+  "autor": "Peder Mørk Mønsted",
+  "fecha": "1927",
+  "tipo": "Pintura",
+  "periodo": "Naturalismo nórdico",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Winter landscape, Peder Mørk Mønsted evita que el asunto quede reducido a su título. La luz y la atmósfera modifican cada superficie; agua, cielo, vegetación o nieve dejan de ser fondo y pasan a determinar el ritmo emocional de la escena. Mønsted observó agua, nieve, hojas y reflejos con una paciencia casi microscópica, pero organizó esa precisión para que el paisaje…",
+  "pais": "Dinamarca",
+  "etiquetas": [
+    "Naturalismo nórdico",
+    "Peder Mørk Mønsted",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    7158,
+    4622
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Peder%20M%C3%B8rk%20M%C3%B8nsted%20Winterlandschaft%20%28Holmstrup%29%201927.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Peder%20M%C3%B8rk%20M%C3%B8nsted%20Winterlandschaft%20%28Holmstrup%29%201927.jpg?width=6000",
+    "alt": "Reproducción de Winter landscape, obra de Peder Mørk Mønsted",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Peder_M%C3%B8rk_M%C3%B8nsted_Winterlandschaft_(Holmstrup)_1927.jpg",
+    "licencia": "Public domain",
+    "credito": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=124001089&anummer=562",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q137796742",
+    "wikimediaFile": "Peder Mørk Mønsted Winterlandschaft (Holmstrup) 1927.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1927
+}

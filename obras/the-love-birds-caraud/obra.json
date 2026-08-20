@@ -1,0 +1,37 @@
+{
+  "id": "the-love-birds-caraud",
+  "titulo": "The Love Birds",
+  "autor": "Joseph Caraud",
+  "fecha": "Fecha no documentada",
+  "tipo": "Pintura",
+  "periodo": "Pintura de género francesa",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En The Love Birds, Joseph Caraud evita que el asunto quede reducido a su título. La postura y la distancia entre los animales sostienen el relato; el entorno no los decora, sino que determina su vulnerabilidad y su comportamiento. Caraud cultivó escenas de intimidad doméstica y galantería, narradas a través de miradas, cartas, objetos y pequeñas vacilaciones.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Pintura de género francesa",
+    "Joseph Caraud",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    320,
+    499
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caraud%2C%20Joseph%20-%20The%20Love%20Birds.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caraud%2C%20Joseph%20-%20The%20Love%20Birds.jpg",
+    "alt": "Reproducción de The Love Birds, obra de Joseph Caraud",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Caraud,_Joseph_-_The_Love_Birds.jpg",
+    "licencia": "Public domain",
+    "credito": "http://www.russianpaintings.net/picture.vphp?id=8037&author=739",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q136470519",
+    "wikimediaFile": "Caraud, Joseph - The Love Birds.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  }
+}

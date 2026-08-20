@@ -1,0 +1,38 @@
+{
+  "id": "american-gothic-wood",
+  "titulo": "American Gothic",
+  "autor": "Grant Wood",
+  "fecha": "1930",
+  "tipo": "Pintura",
+  "periodo": "Regionalismo estadounidense",
+  "coleccion": "Modernidad y vanguardias",
+  "descripcion": "En American Gothic, Grant Wood evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Wood convirtió el Medio Oeste estadounidense en un escenario nítido y deliberadamente extraño, a medio camino entre el homenaje, la ironía y la inquietud.",
+  "pais": "Estados Unidos",
+  "etiquetas": [
+    "Regionalismo estadounidense",
+    "Grant Wood",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    6949,
+    8400
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grant%20Wood%20-%20American%20Gothic%20%281930%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grant%20Wood%20-%20American%20Gothic%20%281930%29.jpg?width=6000",
+    "alt": "Reproducción de American Gothic, obra de Grant Wood",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg",
+    "licencia": "Public domain",
+    "credito": "Art Institute of Chicago  :  online database:  entry   6565",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q464782",
+    "wikimediaFile": "Grant Wood - American Gothic (1930).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1930
+}

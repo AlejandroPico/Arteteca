@@ -1,0 +1,38 @@
+{
+  "id": "rendez-vous-of-lovers-csontvary",
+  "titulo": "Rendez-vous of Lovers",
+  "autor": "Tivadar Kosztka Csontváry",
+  "fecha": "1902",
+  "tipo": "Pintura",
+  "periodo": "Modernidad centroeuropea",
+  "coleccion": "Modernidad y vanguardias",
+  "descripcion": "En Rendez-vous of Lovers, Tivadar Kosztka Csontváry evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Csontváry tensó el paisaje y el retrato con colores visionarios, perspectivas inestables y una espiritualidad personal que no…",
+  "pais": "Hungría",
+  "etiquetas": [
+    "Modernidad centroeuropea",
+    "Tivadar Kosztka Csontváry",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    900,
+    1139
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Csontv%C3%A1ry%20Szerelmesek%20tal%C3%A1lkoz%C3%A1sa.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Csontv%C3%A1ry%20Szerelmesek%20tal%C3%A1lkoz%C3%A1sa.jpg",
+    "alt": "Reproducción de Rendez-vous of Lovers, obra de Tivadar Kosztka Csontváry",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Csontv%C3%A1ry_Szerelmesek_tal%C3%A1lkoz%C3%A1sa.jpg",
+    "licencia": "Public domain",
+    "credito": "[1] ,  [2]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1297549",
+    "wikimediaFile": "Csontváry Szerelmesek találkozása.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1902
+}

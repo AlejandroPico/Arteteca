@@ -1,0 +1,38 @@
+{
+  "id": "una-dama-escribe-una-carta-con-su-sirvienta-vermeer",
+  "titulo": "Una dama escribe una carta con su sirvienta",
+  "autor": "Johannes Vermeer",
+  "fecha": "1670",
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "En Una dama escribe una carta con su sirvienta, Johannes Vermeer evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Vermeer concentra el mundo en interiores silenciosos donde la luz, los objetos y las pausas entre acciones revelan más…",
+  "pais": "Países Bajos",
+  "etiquetas": [
+    "Barroco neerlandés",
+    "Johannes Vermeer",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2469,
+    3000
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Woman%20writing%20a%20letter%2C%20with%20her%20maid%2C%20by%20Johannes%20Vermeer.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Woman%20writing%20a%20letter%2C%20with%20her%20maid%2C%20by%20Johannes%20Vermeer.jpg",
+    "alt": "Reproducción de Una dama escribe una carta con su sirvienta, obra de Johannes Vermeer",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Woman_writing_a_letter,_with_her_maid,_by_Johannes_Vermeer.jpg",
+    "licencia": "Public domain",
+    "credito": "Derived from  National Gallery of Ireland",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q641666",
+    "wikimediaFile": "Woman writing a letter, with her maid, by Johannes Vermeer.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1670
+}

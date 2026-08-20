@@ -1,0 +1,38 @@
+{
+  "id": "at-the-mosque-deutsch",
+  "titulo": "At the Mosque",
+  "autor": "Ludwig Deutsch",
+  "fecha": "1895",
+  "tipo": "Pintura",
+  "periodo": "Orientalismo",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En At the Mosque, Ludwig Deutsch evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Deutsch pintó escenas orientalistas de precisión casi arqueológica. Su virtuosismo debe leerse junto a la mirada europea y colonial desde la que…",
+  "pais": "Austria",
+  "etiquetas": [
+    "Orientalismo",
+    "Ludwig Deutsch",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1048,
+    1600
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/At%20the%20Mosque%20-%20Ludwig%20Deutsch%20-%201895.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/At%20the%20Mosque%20-%20Ludwig%20Deutsch%20-%201895.jpg",
+    "alt": "Reproducción de At the Mosque, obra de Ludwig Deutsch",
+    "fuente": "https://commons.wikimedia.org/wiki/File:At_the_Mosque_-_Ludwig_Deutsch_-_1895.jpg",
+    "licencia": "Public domain",
+    "credito": "https://twitter.com/bonhams1793/status/1090626737015279616",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q140479343",
+    "wikimediaFile": "At the Mosque - Ludwig Deutsch - 1895.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1895
+}

@@ -1,0 +1,38 @@
+{
+  "id": "the-palace-guard-deutsch",
+  "titulo": "The Palace Guard",
+  "autor": "Ludwig Deutsch",
+  "fecha": "1900",
+  "tipo": "Pintura",
+  "periodo": "Orientalismo",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En The Palace Guard, Ludwig Deutsch evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Deutsch pintó escenas orientalistas de precisión casi arqueológica. Su virtuosismo debe leerse junto a la mirada europea y colonial desde la que…",
+  "pais": "Austria",
+  "etiquetas": [
+    "Orientalismo",
+    "Ludwig Deutsch",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    800,
+    1140
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Palace%20Guard%20by%20Ludwig%20Deutsch%2C%201900.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Palace%20Guard%20by%20Ludwig%20Deutsch%2C%201900.jpg",
+    "alt": "Reproducción de The Palace Guard, obra de Ludwig Deutsch",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Palace_Guard_by_Ludwig_Deutsch,_1900.jpg",
+    "licencia": "Public domain",
+    "credito": "Sotheby's",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q140479319",
+    "wikimediaFile": "The Palace Guard by Ludwig Deutsch, 1900.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1900
+}

@@ -1,0 +1,38 @@
+{
+  "id": "a-manchester-terrier-palizzi",
+  "titulo": "A Manchester Terrier",
+  "autor": "Filippo Palizzi",
+  "fecha": "1859",
+  "tipo": "Pintura",
+  "periodo": "Realismo italiano",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En A Manchester Terrier, Filippo Palizzi evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Palizzi renovó la pintura napolitana mediante la observación directa de animales, campesinos y paisajes, alejándose de la fórmula académica…",
+  "pais": "Italia",
+  "etiquetas": [
+    "Realismo italiano",
+    "Filippo Palizzi",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    640,
+    800
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Filippo%20Palizzi%20%281818-1899%29%20-%20A%20Manchester%20Terrier%20-%201.2004%20-%20Waddesdon%20Manor.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Filippo%20Palizzi%20%281818-1899%29%20-%20A%20Manchester%20Terrier%20-%201.2004%20-%20Waddesdon%20Manor.jpg",
+    "alt": "Reproducción de A Manchester Terrier, obra de Filippo Palizzi",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Filippo_Palizzi_(1818-1899)_-_A_Manchester_Terrier_-_1.2004_-_Waddesdon_Manor.jpg",
+    "licencia": "Public domain",
+    "credito": "Art UK",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q119083449",
+    "wikimediaFile": "Filippo Palizzi (1818-1899) - A Manchester Terrier - 1.2004 - Waddesdon Manor.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1859
+}

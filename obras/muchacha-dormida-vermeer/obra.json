@@ -1,0 +1,38 @@
+{
+  "id": "muchacha-dormida-vermeer",
+  "titulo": "Muchacha dormida",
+  "autor": "Johannes Vermeer",
+  "fecha": "1657",
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "En Muchacha dormida, Johannes Vermeer evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Vermeer concentra el mundo en interiores silenciosos donde la luz, los objetos y las pausas entre acciones revelan más que el argumento explícito.",
+  "pais": "Países Bajos",
+  "etiquetas": [
+    "Barroco neerlandés",
+    "Johannes Vermeer",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3263,
+    3759
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vermeer%20young%20women%20sleeping.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vermeer%20young%20women%20sleeping.jpg",
+    "alt": "Reproducción de Muchacha dormida, obra de Johannes Vermeer",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vermeer_young_women_sleeping.jpg",
+    "licencia": "Public domain",
+    "credito": "Jan Vermeer (1632-1675), 1993.    ISBN     3-8228-9610-1 . Distributed by Benedikt Taschen Verlag GmbH.  Metropolitan Museum of Art",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q684935",
+    "wikimediaFile": "Vermeer young women sleeping.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1657
+}

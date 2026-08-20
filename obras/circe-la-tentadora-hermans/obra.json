@@ -1,0 +1,38 @@
+{
+  "id": "circe-la-tentadora-hermans",
+  "titulo": "Circe - la tentadora",
+  "autor": "Charles Hermans",
+  "fecha": "1891",
+  "tipo": "Pintura",
+  "periodo": "Realismo belga",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Circe - la tentadora, Charles Hermans evita que el asunto quede reducido a su título. El pintor elige un instante cargado de consecuencias y lo vuelve legible mediante gestos, diagonales y contrastes de luz, sin reducir el mito o el relato sagrado a una ilustración literal. Hermans combinó crítica social, retrato y fantasía. Sus escenas suelen enfrentar mundos que…",
+  "pais": "Bélgica",
+  "etiquetas": [
+    "Realismo belga",
+    "Charles Hermans",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    512,
+    837
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charles%20Hermans%20-%20Circe%20the%20temptress.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charles%20Hermans%20-%20Circe%20the%20temptress.jpg",
+    "alt": "Reproducción de Circe - la tentadora, obra de Charles Hermans",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Charles_Hermans_-_Circe_the_temptress.jpg",
+    "licencia": "Public domain",
+    "credito": "Christie's , LotFinder:  entry   4821365  (sale 7273, lot 4, London, 16 November 2006)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q99662681",
+    "wikimediaFile": "Charles Hermans - Circe the temptress.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1891
+}

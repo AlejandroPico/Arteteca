@@ -1,0 +1,38 @@
+{
+  "id": "alegoria-de-la-vanidad-ligozzi",
+  "titulo": "Alegoría de la vanidad",
+  "autor": "Jacopo Ligozzi",
+  "fecha": "c. 1604",
+  "tipo": "Pintura",
+  "periodo": "Manierismo tardío",
+  "coleccion": "Renacimiento",
+  "descripcion": "En Alegoría de la vanidad, Jacopo Ligozzi evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Ligozzi podía pasar del retrato cortesano a la historia natural y a la vanitas macabra. Su precisión descriptiva convierte plantas, animales…",
+  "pais": "Italia",
+  "etiquetas": [
+    "Manierismo tardío",
+    "Jacopo Ligozzi",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2220,
+    2904
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacopo%20ligozzi%2C%20natura%20morta%20macabra%20%28nasjonalmuseet%2C%20oslo%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacopo%20ligozzi%2C%20natura%20morta%20macabra%20%28nasjonalmuseet%2C%20oslo%29.jpg",
+    "alt": "Reproducción de Alegoría de la vanidad, obra de Jacopo Ligozzi",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jacopo_ligozzi,_natura_morta_macabra_(nasjonalmuseet,_oslo).jpg",
+    "licencia": "Public domain",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q126901504",
+    "wikimediaFile": "Jacopo ligozzi, natura morta macabra (nasjonalmuseet, oslo).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "Allegory of Vanity"
+}

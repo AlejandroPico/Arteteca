@@ -1,0 +1,38 @@
+{
+  "id": "la-declaration-caraud",
+  "titulo": "La déclaration",
+  "autor": "Joseph Caraud",
+  "fecha": "1877",
+  "tipo": "Pintura",
+  "periodo": "Pintura de género francesa",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En La déclaration, Joseph Caraud evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Caraud cultivó escenas de intimidad doméstica y galantería, narradas a través de miradas, cartas, objetos y pequeñas vacilaciones.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Pintura de género francesa",
+    "Joseph Caraud",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3555,
+    4866
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Beaux-Arts%20de%20Carcassonne%20-%20La%20d%C3%A9claration%201877%20-%20Joseph%20Caraud.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Beaux-Arts%20de%20Carcassonne%20-%20La%20d%C3%A9claration%201877%20-%20Joseph%20Caraud.jpg",
+    "alt": "Reproducción de La déclaration, obra de Joseph Caraud",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Beaux-Arts_de_Carcassonne_-_La_d%C3%A9claration_1877_-_Joseph_Caraud.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q106730331",
+    "wikimediaFile": "Beaux-Arts de Carcassonne - La déclaration 1877 - Joseph Caraud.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1877
+}

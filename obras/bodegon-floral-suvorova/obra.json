@@ -1,0 +1,39 @@
+{
+  "id": "bodegon-floral-suvorova",
+  "titulo": "Bodegón floral",
+  "tituloOriginal": "Floral Still Life",
+  "autor": "Olga Suvorova",
+  "fecha": "Contemporánea",
+  "tipo": "Pintura",
+  "periodo": "Figuración ornamental contemporánea",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "Las flores se acumulan como personajes y hacen del bodegón un escenario de abundancia casi ceremonial. Suvorova imagina una corte teatral y atemporal, saturada de flores, aves, joyas y telas; el ornamento no rodea a las figuras, sino que define su mundo.",
+  "pais": "Rusia",
+  "etiquetas": [
+    "Figuración ornamental contemporánea",
+    "Olga Suvorova",
+    "selección Tres Ubres Dobles",
+    "imagen remota"
+  ],
+  "proporcion": [
+    337,
+    460
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://rakovgallery.com/media/Catalog/Product/2025-10-29/preview_XL_9707b8944c735657bd8fb544d0c275f7.jpg",
+    "urlAltaResolucion": "https://rakovgallery.com/media/Catalog/Product/2025-10-29/preview_XL_9707b8944c735657bd8fb544d0c275f7.jpg",
+    "alt": "Reproducción de Bodegón floral, obra de Olga Suvorova",
+    "fuente": "https://rakovgallery.com/artist/olga-suvorova",
+    "licencia": "© artista o titular de derechos · reproducción remota acreditada",
+    "credito": "Olga Suvorova · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://rakovgallery.com/artist/olga-suvorova",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "der-dom-zu-aachen-neher",
+  "titulo": "Der Dom zu Aachen",
+  "autor": "Michael Neher",
+  "fecha": "1853",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo arquitectónico",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Der Dom zu Aachen, Michael Neher evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Neher hizo de plazas, puertas, iglesias y ruinas una memoria urbana minuciosa, animada por figuras pequeñas que devuelven escala humana a la…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Romanticismo arquitectónico",
+    "Michael Neher",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1820,
+    1028
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michael%20Neher%201853%20Heiligtumsfahrt.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michael%20Neher%201853%20Heiligtumsfahrt.jpg",
+    "alt": "Reproducción de Der Dom zu Aachen, obra de Michael Neher",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michael_Neher_1853_Heiligtumsfahrt.jpg",
+    "licencia": "Public domain",
+    "credito": "Scan einer Reproduktion",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q116537085",
+    "wikimediaFile": "Michael Neher 1853 Heiligtumsfahrt.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1853
+}

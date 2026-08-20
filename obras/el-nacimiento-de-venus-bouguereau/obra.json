@@ -1,0 +1,38 @@
+{
+  "id": "el-nacimiento-de-venus-bouguereau",
+  "titulo": "El nacimiento de Venus",
+  "autor": "William-Adolphe Bouguereau",
+  "fecha": "1879",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En El nacimiento de Venus, William-Adolphe Bouguereau evita que el asunto quede reducido a su título. El pintor elige un instante cargado de consecuencias y lo vuelve legible mediante gestos, diagonales y contrastes de luz, sin reducir el mito o el relato sagrado a una ilustración literal. Bouguereau llevó el acabado académico a una superficie casi sin huella de pincel,…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "William-Adolphe Bouguereau",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4014,
+    5670
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/William-Adolphe%20Bouguereau%20%281825-1905%29%20-%20The%20Birth%20of%20Venus%20%281879%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/William-Adolphe%20Bouguereau%20%281825-1905%29%20-%20The%20Birth%20of%20Venus%20%281879%29.jpg",
+    "alt": "Reproducción de El nacimiento de Venus, obra de William-Adolphe Bouguereau",
+    "fuente": "https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Birth_of_Venus_(1879).jpg",
+    "licencia": "Public domain",
+    "credito": "www.musee-orsay.fr",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1283024",
+    "wikimediaFile": "William-Adolphe Bouguereau (1825-1905) - The Birth of Venus (1879).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1879
+}

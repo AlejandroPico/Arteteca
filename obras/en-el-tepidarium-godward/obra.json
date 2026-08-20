@@ -1,0 +1,38 @@
+{
+  "id": "en-el-tepidarium-godward",
+  "titulo": "En el tepidarium",
+  "autor": "John William Godward",
+  "fecha": "1913",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo victoriano",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En En el tepidarium, John William Godward evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Godward construyó una Antigüedad sensual y silenciosa mediante mármoles, piel, telas y posturas suspendidas; su exactitud material sirve a un…",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Neoclasicismo victoriano",
+    "John William Godward",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1949,
+    4000
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Godward-In%20the%20Tepidarium-1913.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Godward-In%20the%20Tepidarium-1913.jpg",
+    "alt": "Reproducción de En el tepidarium, obra de John William Godward",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Godward-In_the_Tepidarium-1913.jpg",
+    "licencia": "Public domain",
+    "credito": "Sotheby's, sale N08783, New York, 4 November 2011,  lot 55",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q19947174",
+    "wikimediaFile": "Godward-In the Tepidarium-1913.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1913
+}

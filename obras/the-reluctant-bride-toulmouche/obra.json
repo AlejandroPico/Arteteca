@@ -1,0 +1,38 @@
+{
+  "id": "the-reluctant-bride-toulmouche",
+  "titulo": "The Reluctant Bride",
+  "autor": "Auguste Toulmouche",
+  "fecha": "1866",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En The Reluctant Bride, Auguste Toulmouche evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Toulmouche observó la vida burguesa desde el gesto contenido: telas lujosas, interiores impecables y emociones que apenas rompen la…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Auguste Toulmouche",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    900,
+    1103
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Toulmouche%20Bride.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Toulmouche%20Bride.jpg",
+    "alt": "Reproducción de The Reluctant Bride, obra de Auguste Toulmouche",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Toulmouche_Bride.jpg",
+    "licencia": "Public domain",
+    "credito": "Art Renewal Center  \n  WikiArt.org",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q123542850",
+    "wikimediaFile": "Toulmouche Bride.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1866
+}

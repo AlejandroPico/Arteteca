@@ -1,0 +1,38 @@
+{
+  "id": "atleta-triunfante-hayez",
+  "titulo": "Atleta triunfante",
+  "autor": "Francesco Hayez",
+  "fecha": "1813",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo italiano",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Atleta triunfante, Francesco Hayez evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Hayez dio al Romanticismo italiano una pintura de historia cargada de emoción política, deseo y memoria nacional, además de una extraordinaria…",
+  "pais": "Italia",
+  "etiquetas": [
+    "Romanticismo italiano",
+    "Francesco Hayez",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1856,
+    2780
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hayez%20-%20Atleta%20trionfante%2C%201813%2C%200007.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hayez%20-%20Atleta%20trionfante%2C%201813%2C%200007.jpg",
+    "alt": "Reproducción de Atleta triunfante, obra de Francesco Hayez",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Hayez_-_Atleta_trionfante,_1813,_0007.jpg",
+    "licencia": "Public domain",
+    "credito": "accademiasanluca.eu",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q3628259",
+    "wikimediaFile": "Hayez - Atleta trionfante, 1813, 0007.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1813
+}

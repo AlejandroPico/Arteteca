@@ -1,0 +1,38 @@
+{
+  "id": "reina-victoria-winterhalter",
+  "titulo": "Reina Victoria",
+  "autor": "Franz Xaver Winterhalter",
+  "fecha": "1843",
+  "tipo": "Pintura",
+  "periodo": "Retrato cortesano del siglo XIX",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Reina Victoria, Franz Xaver Winterhalter evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Winterhalter dominó el retrato de corte europeo: convirtió rango, moda y presencia física en imágenes de autoridad que conservan una…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Retrato cortesano del siglo XIX",
+    "Franz Xaver Winterhalter",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1231,
+    1500
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Franz%20Xaver%20Winterhalter%20%281805-73%29%20-%20Queen%20Victoria%20%281819-1901%29%20-%20RCIN%20406010%20-%20Royal%20Collection.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Franz%20Xaver%20Winterhalter%20%281805-73%29%20-%20Queen%20Victoria%20%281819-1901%29%20-%20RCIN%20406010%20-%20Royal%20Collection.jpg",
+    "alt": "Reproducción de Reina Victoria, obra de Franz Xaver Winterhalter",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Franz_Xaver_Winterhalter_(1805-73)_-_Queen_Victoria_(1819-1901)_-_RCIN_406010_-_Royal_Collection.jpg",
+    "licencia": "Public domain",
+    "credito": "Royal Collection",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q28027883",
+    "wikimediaFile": "Franz Xaver Winterhalter (1805-73) - Queen Victoria (1819-1901) - RCIN 406010 - Royal Collection.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1843
+}

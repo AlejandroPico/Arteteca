@@ -1,0 +1,38 @@
+{
+  "id": "le-reveil-schenck",
+  "titulo": "Le Réveil",
+  "autor": "August Friedrich Schenck",
+  "fecha": "1865",
+  "tipo": "Pintura",
+  "periodo": "Realismo animalista",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Le Réveil, August Friedrich Schenck evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Schenck convirtió animales y paisajes invernales en dramas de vulnerabilidad, instinto y supervivencia, sin necesidad de humanizar sus cuerpos.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Realismo animalista",
+    "August Friedrich Schenck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    650,
+    427
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/August%20Friedrich%20Albrecht%20Schenck%20-%20Moutons%20s%27%C3%A9veillant%20aux%20premi%C3%A8res%20heures%20du%20jour.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/August%20Friedrich%20Albrecht%20Schenck%20-%20Moutons%20s%27%C3%A9veillant%20aux%20premi%C3%A8res%20heures%20du%20jour.jpg",
+    "alt": "Reproducción de Le Réveil, obra de August Friedrich Schenck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:August_Friedrich_Albrecht_Schenck_-_Moutons_s%27%C3%A9veillant_aux_premi%C3%A8res_heures_du_jour.jpg",
+    "licencia": "Public domain",
+    "credito": "Collection du musée de Bordeaux",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q135191010",
+    "wikimediaFile": "August Friedrich Albrecht Schenck - Moutons s'éveillant aux premières heures du jour.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1865
+}

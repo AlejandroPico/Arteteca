@@ -1,0 +1,38 @@
+{
+  "id": "el-beso-hayez",
+  "titulo": "El beso",
+  "autor": "Francesco Hayez",
+  "fecha": "1859",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo italiano",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En El beso, Francesco Hayez evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Hayez dio al Romanticismo italiano una pintura de historia cargada de emoción política, deseo y memoria nacional, además de una extraordinaria galería de…",
+  "pais": "Italia",
+  "etiquetas": [
+    "Romanticismo italiano",
+    "Francesco Hayez",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    6329,
+    7885
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Beso%20%28Pinacoteca%20de%20Brera%2C%20Mil%C3%A1n%2C%201859%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/El%20Beso%20%28Pinacoteca%20de%20Brera%2C%20Mil%C3%A1n%2C%201859%29.jpg?width=6000",
+    "alt": "Reproducción de El beso, obra de Francesco Hayez",
+    "fuente": "https://commons.wikimedia.org/wiki/File:El_Beso_(Pinacoteca_de_Brera,_Mil%C3%A1n,_1859).jpg",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art  :         Image         Info about artwork  wga QS:P11807,\"s-e.html?/html/h/hayez/6hayez\"",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1195035",
+    "wikimediaFile": "El Beso (Pinacoteca de Brera, Milán, 1859).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1859
+}

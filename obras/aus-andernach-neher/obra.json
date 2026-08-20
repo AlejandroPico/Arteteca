@@ -1,0 +1,38 @@
+{
+  "id": "aus-andernach-neher",
+  "titulo": "Aus Andernach",
+  "autor": "Michael Neher",
+  "fecha": "1855",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo arquitectónico",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Aus Andernach, Michael Neher evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Neher hizo de plazas, puertas, iglesias y ruinas una memoria urbana minuciosa, animada por figuras pequeñas que devuelven escala humana a la arquitectura.",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Romanticismo arquitectónico",
+    "Michael Neher",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    626,
+    768
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michael%20Neher%20-%20Aus%20Andernach%20-%208020%20-%20Bavarian%20State%20Painting%20Collections.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michael%20Neher%20-%20Aus%20Andernach%20-%208020%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+    "alt": "Reproducción de Aus Andernach, obra de Michael Neher",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michael_Neher_-_Aus_Andernach_-_8020_-_Bavarian_State_Painting_Collections.jpg",
+    "licencia": "Public domain",
+    "credito": "https://www.sammlung.pinakothek.de/en/bookmark/artwork/Dj4mJlRx5A",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q29903363",
+    "wikimediaFile": "Michael Neher - Aus Andernach - 8020 - Bavarian State Painting Collections.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1855
+}

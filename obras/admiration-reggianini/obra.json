@@ -1,0 +1,38 @@
+{
+  "id": "admiration-reggianini",
+  "titulo": "Admiration",
+  "autor": "Vittorio Reggianini",
+  "fecha": "1900",
+  "tipo": "Pintura",
+  "periodo": "Academicismo italiano",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Admiration, Vittorio Reggianini evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Reggianini recreó interiores dieciochescos con una técnica minuciosa, usando sedas, porcelanas y gestos galantes como un teatro retrospectivo de la…",
+  "pais": "Italia",
+  "etiquetas": [
+    "Academicismo italiano",
+    "Vittorio Reggianini",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3967,
+    2925
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Admiration%2C%20by%20Vittorio%20Reggianini.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Admiration%2C%20by%20Vittorio%20Reggianini.jpg",
+    "alt": "Reproducción de Admiration, obra de Vittorio Reggianini",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Admiration,_by_Vittorio_Reggianini.jpg",
+    "licencia": "Public domain",
+    "credito": "Sotheby's",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q113883503",
+    "wikimediaFile": "Admiration, by Vittorio Reggianini.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1900
+}

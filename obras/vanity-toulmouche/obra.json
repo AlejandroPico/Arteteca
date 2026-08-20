@@ -1,0 +1,38 @@
+{
+  "id": "vanity-toulmouche",
+  "titulo": "Vanity",
+  "autor": "Auguste Toulmouche",
+  "fecha": "1889",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Vanity, Auguste Toulmouche evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Toulmouche observó la vida burguesa desde el gesto contenido: telas lujosas, interiores impecables y emociones que apenas rompen la disciplina social.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Auguste Toulmouche",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2676,
+    4160
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Auguste%20toulmouche-vanity.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Auguste%20toulmouche-vanity.jpg",
+    "alt": "Reproducción de Vanity, obra de Auguste Toulmouche",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Auguste_toulmouche-vanity.jpg",
+    "licencia": "Public domain",
+    "credito": "http://steelromanticism.blogspot.nl/2010/05/currently-reading-vanity-fair.html   Archived  2016-03-04 at the  Wayback Machine",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q107562659",
+    "wikimediaFile": "Auguste toulmouche-vanity.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1889
+}

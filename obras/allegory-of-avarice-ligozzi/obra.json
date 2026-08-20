@@ -1,0 +1,38 @@
+{
+  "id": "allegory-of-avarice-ligozzi",
+  "titulo": "Allegory of Avarice",
+  "autor": "Jacopo Ligozzi",
+  "fecha": "1596",
+  "tipo": "Pintura",
+  "periodo": "Manierismo tardío",
+  "coleccion": "Renacimiento",
+  "descripcion": "En Allegory of Avarice, Jacopo Ligozzi evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Ligozzi podía pasar del retrato cortesano a la historia natural y a la vanitas macabra. Su precisión descriptiva convierte plantas, animales y…",
+  "pais": "Italia",
+  "etiquetas": [
+    "Manierismo tardío",
+    "Jacopo Ligozzi",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2203,
+    3722
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Allegory%20of%20Avarice%20MET%20DT6782.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Allegory%20of%20Avarice%20MET%20DT6782.jpg",
+    "alt": "Reproducción de Allegory of Avarice, obra de Jacopo Ligozzi",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Allegory_of_Avarice_MET_DT6782.jpg",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the  Metropolitan Museum of Art . See the  Image and Data Resources Open Access Policy",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q19905097",
+    "wikimediaFile": "Allegory of Avarice MET DT6782.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1596
+}

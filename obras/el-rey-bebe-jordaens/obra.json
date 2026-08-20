@@ -1,0 +1,38 @@
+{
+  "id": "el-rey-bebe-jordaens",
+  "titulo": "El rey bebe",
+  "autor": "Jacob Jordaens",
+  "fecha": "1640",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En El rey bebe, Jacob Jordaens evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jordaens hizo del cuerpo, el banquete, la familia y el mito una pintura expansiva: densa, táctil, ruidosa y estrechamente ligada a la cultura de Amberes.",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jacob Jordaens",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    866,
+    646
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Koningdrinkt.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Koningdrinkt.jpg",
+    "alt": "Reproducción de El rey bebe, obra de Jacob Jordaens",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Koningdrinkt.jpg",
+    "licencia": "Public domain",
+    "credito": "painting",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q5826453",
+    "wikimediaFile": "Koningdrinkt.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1640
+}

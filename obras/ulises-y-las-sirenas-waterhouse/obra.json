@@ -1,0 +1,38 @@
+{
+  "id": "ulises-y-las-sirenas-waterhouse",
+  "titulo": "Ulises y las sirenas",
+  "autor": "John William Waterhouse",
+  "fecha": "1891",
+  "tipo": "Pintura",
+  "periodo": "Prerrafaelismo tardío",
+  "coleccion": "Simbolismo y fin de siglo",
+  "descripcion": "En Ulises y las sirenas, John William Waterhouse evita que el asunto quede reducido a su título. El pintor elige un instante cargado de consecuencias y lo vuelve legible mediante gestos, diagonales y contrastes de luz, sin reducir el mito o el relato sagrado a una ilustración literal. Waterhouse reimaginó mitos y poemas desde el instante previo a una decisión irreversible.…",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Prerrafaelismo tardío",
+    "John William Waterhouse",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    11001,
+    5386
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/WATERHOUSE%20-%20Ulises%20y%20las%20Sirenas%20%28National%20Gallery%20of%20Victoria%2C%20Melbourne%2C%201891.%20%C3%93leo%20sobre%20lienzo%2C%20100.6%20x%20202%20cm%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/WATERHOUSE%20-%20Ulises%20y%20las%20Sirenas%20%28National%20Gallery%20of%20Victoria%2C%20Melbourne%2C%201891.%20%C3%93leo%20sobre%20lienzo%2C%20100.6%20x%20202%20cm%29.jpg?width=6000",
+    "alt": "Reproducción de Ulises y las sirenas, obra de John William Waterhouse",
+    "fuente": "https://commons.wikimedia.org/wiki/File:WATERHOUSE_-_Ulises_y_las_Sirenas_(National_Gallery_of_Victoria,_Melbourne,_1891._%C3%93leo_sobre_lienzo,_100.6_x_202_cm).jpg",
+    "licencia": "Public domain",
+    "credito": "Google Art Project:  Home  -  pic  Maximum resolution.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q5651584",
+    "wikimediaFile": "WATERHOUSE - Ulises y las Sirenas (National Gallery of Victoria, Melbourne, 1891. Óleo sobre lienzo, 100.6 x 202 cm).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1891
+}

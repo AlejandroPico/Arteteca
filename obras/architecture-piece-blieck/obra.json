@@ -1,0 +1,38 @@
+{
+  "id": "architecture-piece-blieck",
+  "titulo": "Architecture Piece",
+  "autor": "Daniël de Blieck",
+  "fecha": "1658",
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "En Architecture Piece, Daniël de Blieck evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. De Blieck especializó su mirada en arquitecturas reales e imaginadas, haciendo de la perspectiva y de la luz que cruza las naves el verdadero…",
+  "pais": "Países Bajos",
+  "etiquetas": [
+    "Barroco neerlandés",
+    "Daniël de Blieck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    610,
+    768
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dani%C3%ABl%20de%20Blieck%20-%20Architecture%20Piece%20-%20KMSsp497%20-%20Statens%20Museum%20for%20Kunst.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dani%C3%ABl%20de%20Blieck%20-%20Architecture%20Piece%20-%20KMSsp497%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "alt": "Reproducción de Architecture Piece, obra de Daniël de Blieck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Dani%C3%ABl_de_Blieck_-_Architecture_Piece_-_KMSsp497_-_Statens_Museum_for_Kunst.jpg",
+    "licencia": "Public domain",
+    "credito": "http://collection.smk.dk/#/en/detail/KMSsp497",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q20540111",
+    "wikimediaFile": "Daniël de Blieck - Architecture Piece - KMSsp497 - Statens Museum for Kunst.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1658
+}

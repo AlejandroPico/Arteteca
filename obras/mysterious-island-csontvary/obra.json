@@ -1,0 +1,38 @@
+{
+  "id": "mysterious-island-csontvary",
+  "titulo": "Mysterious Island",
+  "autor": "Tivadar Kosztka Csontváry",
+  "fecha": "1903",
+  "tipo": "Pintura",
+  "periodo": "Modernidad centroeuropea",
+  "coleccion": "Modernidad y vanguardias",
+  "descripcion": "En Mysterious Island, Tivadar Kosztka Csontváry evita que el asunto quede reducido a su título. La luz y la atmósfera modifican cada superficie; agua, cielo, vegetación o nieve dejan de ser fondo y pasan a determinar el ritmo emocional de la escena. Csontváry tensó el paisaje y el retrato con colores visionarios, perspectivas inestables y una espiritualidad personal que no…",
+  "pais": "Hungría",
+  "etiquetas": [
+    "Modernidad centroeuropea",
+    "Tivadar Kosztka Csontváry",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1336,
+    887
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mysterious%20Island%20by%20Csontv%C3%A1ry.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mysterious%20Island%20by%20Csontv%C3%A1ry.jpg",
+    "alt": "Reproducción de Mysterious Island, obra de Tivadar Kosztka Csontváry",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Mysterious_Island_by_Csontv%C3%A1ry.jpg",
+    "licencia": "Public domain",
+    "credito": "Photo by  Szilas  in the Virág Judit Gallery, Budapest",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q110246800",
+    "wikimediaFile": "Mysterious Island by Csontváry.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1903
+}

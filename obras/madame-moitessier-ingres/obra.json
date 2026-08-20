@@ -1,0 +1,38 @@
+{
+  "id": "madame-moitessier-ingres",
+  "titulo": "Madame Moitessier",
+  "autor": "Jean-Auguste-Dominique Ingres",
+  "fecha": "1856",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Madame Moitessier, Jean-Auguste-Dominique Ingres evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Ingres defendió la primacía de la línea y del dibujo, aunque sus cuerpos alargados, superficies pulidas y espacios tensos desbordan…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Neoclasicismo",
+    "Jean-Auguste-Dominique Ingres",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4577,
+    6000
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dominique%20Ingres%20-%20Mme%20Moitessier.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dominique%20Ingres%20-%20Mme%20Moitessier.jpg",
+    "alt": "Reproducción de Madame Moitessier, obra de Jean-Auguste-Dominique Ingres",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Dominique_Ingres_-_Mme_Moitessier.jpg",
+    "licencia": "Public domain",
+    "credito": "Olga's Gallery  (original upload)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q3137278",
+    "wikimediaFile": "Dominique Ingres - Mme Moitessier.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1856
+}

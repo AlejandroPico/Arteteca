@@ -1,0 +1,38 @@
+{
+  "id": "cleopatra-s-feast-jordaens",
+  "titulo": "Cleopatra's Feast",
+  "autor": "Jacob Jordaens",
+  "fecha": "1653",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En Cleopatra's Feast, Jacob Jordaens evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jordaens hizo del cuerpo, el banquete, la familia y el mito una pintura expansiva: densa, táctil, ruidosa y estrechamente ligada a la cultura de…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jacob Jordaens",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1896,
+    1999
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jordaens%20-%20Feestmaal%20van%20Cleopatra.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jordaens%20-%20Feestmaal%20van%20Cleopatra.jpg",
+    "alt": "Reproducción de Cleopatra's Feast, obra de Jacob Jordaens",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jordaens_-_Feestmaal_van_Cleopatra.jpg",
+    "licencia": "Public domain",
+    "credito": "https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+paintings/47657",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q16038408",
+    "wikimediaFile": "Jordaens - Feestmaal van Cleopatra.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1653
+}

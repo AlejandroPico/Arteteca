@@ -1,0 +1,38 @@
+{
+  "id": "francisco-i-de-austria-en-traje-de-coronacion-amerling",
+  "titulo": "Francisco I de Austria en traje de coronación",
+  "autor": "Friedrich von Amerling",
+  "fecha": "1832",
+  "tipo": "Pintura",
+  "periodo": "Biedermeier",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Francisco I de Austria en traje de coronación, Friedrich von Amerling evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Amerling combinó el prestigio del gran retrato con una observación íntima de rostros, telas y relaciones…",
+  "pais": "Austria",
+  "etiquetas": [
+    "Biedermeier",
+    "Friedrich von Amerling",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1087,
+    1575
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Friedrich%20von%20Amerling%20003a.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Friedrich%20von%20Amerling%20003a.jpg",
+    "alt": "Reproducción de Francisco I de Austria en traje de coronación, obra de Friedrich von Amerling",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Friedrich_von_Amerling_003a.jpg",
+    "licencia": "Public domain",
+    "credito": "Kunsthistorisches Museum Wien, Bilddatenbank .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q28018987",
+    "wikimediaFile": "Friedrich von Amerling 003a.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1832
+}

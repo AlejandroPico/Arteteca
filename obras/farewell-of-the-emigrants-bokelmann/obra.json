@@ -1,0 +1,38 @@
+{
+  "id": "farewell-of-the-emigrants-bokelmann",
+  "titulo": "Farewell of the emigrants",
+  "autor": "Christian Ludwig Bokelmann",
+  "fecha": "1882",
+  "tipo": "Pintura",
+  "periodo": "Realismo social alemán",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Farewell of the emigrants, Christian Ludwig Bokelmann evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Bokelmann construyó escenas narrativas de la vida moderna en las que una mirada, un objeto o una diferencia social…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Realismo social alemán",
+    "Christian Ludwig Bokelmann",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    800,
+    532
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bokelmann-Emigrants.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bokelmann-Emigrants.jpg",
+    "alt": "Reproducción de Farewell of the emigrants, obra de Christian Ludwig Bokelmann",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bokelmann-Emigrants.jpg",
+    "licencia": "Public domain",
+    "credito": "MUSÉE IMAGINAIRE",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q50331132",
+    "wikimediaFile": "Bokelmann-Emigrants.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1882
+}

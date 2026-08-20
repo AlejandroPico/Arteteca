@@ -1,0 +1,38 @@
+{
+  "id": "el-jardin-del-eden-con-la-caida-del-hombre-viejo",
+  "titulo": "El Jardín del Edén con la caída del hombre",
+  "autor": "Jan Brueghel el Viejo",
+  "fecha": "1615",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En El Jardín del Edén con la caída del hombre, Jan Brueghel el Viejo evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jan Brueghel el Viejo pobló paisajes, infiernos, floreros y alegorías con una miniatura de detalles. Su pintura…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jan Brueghel el Viejo",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    6000,
+    3875
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Brueghel%20de%20Oude%20en%20Peter%20Paul%20Rubens%20-%20Het%20aards%20paradijs%20met%20de%20zondeval%20van%20Adam%20en%20Eva.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Brueghel%20de%20Oude%20en%20Peter%20Paul%20Rubens%20-%20Het%20aards%20paradijs%20met%20de%20zondeval%20van%20Adam%20en%20Eva.jpg",
+    "alt": "Reproducción de El Jardín del Edén con la caída del hombre, obra de Jan Brueghel el Viejo",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_de_Oude_en_Peter_Paul_Rubens_-_Het_aards_paradijs_met_de_zondeval_van_Adam_en_Eva.jpg",
+    "licencia": "Public domain",
+    "credito": "Geheugen van Nederland :  Home  :  Info  :  Pic",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q3898507",
+    "wikimediaFile": "Jan Brueghel de Oude en Peter Paul Rubens - Het aards paradijs met de zondeval van Adam en Eva.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1615
+}

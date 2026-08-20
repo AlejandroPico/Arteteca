@@ -1,0 +1,38 @@
+{
+  "id": "muchacha-leyendo-una-carta-vermeer",
+  "titulo": "Muchacha leyendo una carta",
+  "autor": "Johannes Vermeer",
+  "fecha": "1658",
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "En Muchacha leyendo una carta, Johannes Vermeer evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Vermeer concentra el mundo en interiores silenciosos donde la luz, los objetos y las pausas entre acciones revelan más que el argumento…",
+  "pais": "Países Bajos",
+  "etiquetas": [
+    "Barroco neerlandés",
+    "Johannes Vermeer",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3303,
+    4263
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Vermeer%20van%20Delft%20-%20Brieflezend%20meisje%20bij%20het%20venster%20%28ca.%201657-59%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Vermeer%20van%20Delft%20-%20Brieflezend%20meisje%20bij%20het%20venster%20%28ca.%201657-59%29.jpg",
+    "alt": "Reproducción de Muchacha leyendo una carta, obra de Johannes Vermeer",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_(ca._1657-59).jpg",
+    "licencia": "Public domain",
+    "credito": "Staatliche Kunstsammlungen Dresden, online collection",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q700251",
+    "wikimediaFile": "Jan Vermeer van Delft - Brieflezend meisje bij het venster (ca. 1657-59).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1658
+}

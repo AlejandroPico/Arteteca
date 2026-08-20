@@ -1,0 +1,38 @@
+{
+  "id": "beypore-india-north",
+  "titulo": "'Beypore, India'",
+  "autor": "Marianne North",
+  "fecha": "1878",
+  "tipo": "Pintura",
+  "periodo": "Ilustración botánica victoriana",
+  "coleccion": "Arte y ciencia",
+  "descripcion": "En 'Beypore, India', Marianne North evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. North pintó plantas en sus ecosistemas y no como ejemplares aislados. Sus obras son a la vez paisaje, registro botánico, memoria de viaje y…",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Ilustración botánica victoriana",
+    "Marianne North",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2000,
+    952
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Oil%20painting%20on%20paper%20by%20Marianne%20North%20of%20Beypore.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Oil%20painting%20on%20paper%20by%20Marianne%20North%20of%20Beypore.jpg",
+    "alt": "Reproducción de 'Beypore, India', obra de Marianne North",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Oil_painting_on_paper_by_Marianne_North_of_Beypore.jpg",
+    "licencia": "Public domain",
+    "credito": "British Library",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q100795660",
+    "wikimediaFile": "Oil painting on paper by Marianne North of Beypore.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1878
+}

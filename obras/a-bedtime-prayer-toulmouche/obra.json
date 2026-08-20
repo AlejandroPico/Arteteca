@@ -1,0 +1,37 @@
+{
+  "id": "a-bedtime-prayer-toulmouche",
+  "titulo": "A Bedtime Prayer",
+  "autor": "Auguste Toulmouche",
+  "fecha": "Fecha no documentada",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En A Bedtime Prayer, Auguste Toulmouche evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Toulmouche observó la vida burguesa desde el gesto contenido: telas lujosas, interiores impecables y emociones que apenas rompen la disciplina…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Auguste Toulmouche",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    512,
+    621
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A%20Bedtime%20Prayer%202008%20NYR%2001984.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A%20Bedtime%20Prayer%202008%20NYR%2001984.jpg",
+    "alt": "Reproducción de A Bedtime Prayer, obra de Auguste Toulmouche",
+    "fuente": "https://commons.wikimedia.org/wiki/File:A_Bedtime_Prayer_2008_NYR_01984.jpg",
+    "licencia": "Public domain",
+    "credito": "https://www.christies.com/lotfinder/lot_details.aspx?intObjectID=5056072",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q123783760",
+    "wikimediaFile": "A Bedtime Prayer 2008 NYR 01984.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  }
+}

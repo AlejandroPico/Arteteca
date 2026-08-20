@@ -1,0 +1,38 @@
+{
+  "id": "mischief-godward",
+  "titulo": "Mischief",
+  "autor": "John William Godward",
+  "fecha": "1905",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo victoriano",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Mischief, John William Godward evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Godward construyó una Antigüedad sensual y silenciosa mediante mármoles, piel, telas y posturas suspendidas; su exactitud material sirve a un mundo…",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Neoclasicismo victoriano",
+    "John William Godward",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    975,
+    2000
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Godward-Mischief-1905.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Godward-Mischief-1905.jpg",
+    "alt": "Reproducción de Mischief, obra de John William Godward",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Godward-Mischief-1905.jpg",
+    "licencia": "Public domain",
+    "credito": "Art Renewal Center Museum ,  image 3556",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q122703268",
+    "wikimediaFile": "Godward-Mischief-1905.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1905
+}

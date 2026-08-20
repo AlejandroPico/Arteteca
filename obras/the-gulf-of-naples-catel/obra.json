@@ -1,0 +1,38 @@
+{
+  "id": "the-gulf-of-naples-catel",
+  "titulo": "The Gulf of Naples",
+  "autor": "Franz Ludwig Catel",
+  "fecha": "1831",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo alemán",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En The Gulf of Naples, Franz Ludwig Catel evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Catel hizo de Italia un escenario romántico de ruinas, monasterios, tormentas y vida popular, donde la arquitectura ordena una naturaleza…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Romanticismo alemán",
+    "Franz Ludwig Catel",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4752,
+    3409
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/1831%20Catel%20Am%20Golf%20von%20Neapel%20anagoria.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/1831%20Catel%20Am%20Golf%20von%20Neapel%20anagoria.JPG",
+    "alt": "Reproducción de The Gulf of Naples, obra de Franz Ludwig Catel",
+    "fuente": "https://commons.wikimedia.org/wiki/File:1831_Catel_Am_Golf_von_Neapel_anagoria.JPG",
+    "licencia": "Public domain",
+    "credito": "Self-photographed ,  Anagoria , Taken in 1 May 2013",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q19900863",
+    "wikimediaFile": "1831 Catel Am Golf von Neapel anagoria.JPG",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1831
+}

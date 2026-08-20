@@ -1,0 +1,38 @@
+{
+  "id": "pallas-athene-stuck",
+  "titulo": "Pallas Athene",
+  "autor": "Franz von Stuck",
+  "fecha": "1898",
+  "tipo": "Pintura",
+  "periodo": "Simbolismo",
+  "coleccion": "Simbolismo y fin de siglo",
+  "descripcion": "En Pallas Athene, Franz von Stuck evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Von Stuck condensó deseo, amenaza y mito en figuras frontales, fondos oscuros y marcos concebidos como parte de la obra; lo demoníaco aparece…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Simbolismo",
+    "Franz von Stuck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1642,
+    2151
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pallas%20Athene%20by%20Franz%20von%20Stuck%2C%201898.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pallas%20Athene%20by%20Franz%20von%20Stuck%2C%201898.jpg",
+    "alt": "Reproducción de Pallas Athene, obra de Franz von Stuck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pallas_Athene_by_Franz_von_Stuck,_1898.jpg",
+    "licencia": "Public domain",
+    "credito": "https://fryemuseum.org/calendar/event/5348/",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q117271941",
+    "wikimediaFile": "Pallas Athene by Franz von Stuck, 1898.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1898
+}

@@ -1,0 +1,38 @@
+{
+  "id": "horas-de-etienne-chevalier-fouquet",
+  "titulo": "Horas de Étienne Chevalier",
+  "autor": "Jean Fouquet",
+  "fecha": "1450",
+  "tipo": "Pintura",
+  "periodo": "Renacimiento francés",
+  "coleccion": "Renacimiento",
+  "descripcion": "En Horas de Étienne Chevalier, Jean Fouquet evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Fouquet unió observación retratística, geometría cortesana y una luz de precisión casi esmaltada, abriendo una vía singular entre tradición…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Renacimiento francés",
+    "Jean Fouquet",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    440,
+    600
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Saint%20Jean%20%C3%A0%20Pathmos.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Saint%20Jean%20%C3%A0%20Pathmos.jpg",
+    "alt": "Reproducción de Horas de Étienne Chevalier, obra de Jean Fouquet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Saint_Jean_%C3%A0_Pathmos.jpg",
+    "licencia": "Public domain",
+    "credito": "R.-G. Ojeda, RMN ;  expositions.bnf.fr",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1671114",
+    "wikimediaFile": "Saint Jean à Pathmos.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1450
+}

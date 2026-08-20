@@ -1,0 +1,38 @@
+{
+  "id": "el-regreso-de-la-sagrada-familia-tras-la-huida-a-egipto-jordaens",
+  "titulo": "El regreso de la Sagrada Familia tras la huida a Egipto",
+  "autor": "Jacob Jordaens",
+  "fecha": "c. 1616",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En El regreso de la Sagrada Familia tras la huida a Egipto, Jacob Jordaens evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jordaens hizo del cuerpo, el banquete, la familia y el mito una pintura expansiva: densa, táctil, ruidosa y…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jacob Jordaens",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1100,
+    1409
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jordaens%20Return%20of%20the%20Holy%20Family%20from%20Egypt.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jordaens%20Return%20of%20the%20Holy%20Family%20from%20Egypt.jpg",
+    "alt": "Reproducción de El regreso de la Sagrada Familia tras la huida a Egipto, obra de Jacob Jordaens",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jordaens_Return_of_the_Holy_Family_from_Egypt.jpg",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art  :         Image         Info about artwork  wga QS:P11807,\"j/jordaens/3/holyfami\"",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "Jordaens Return of the Holy Family from Egypt.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "The Return of the Holy Family from Egypt"
+}

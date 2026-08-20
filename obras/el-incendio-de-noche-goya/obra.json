@@ -1,0 +1,38 @@
+{
+  "id": "el-incendio-de-noche-goya",
+  "titulo": "El incendio de noche",
+  "autor": "Francisco de Goya",
+  "fecha": "c. 1793–1794",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo español",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En El incendio de noche, Francisco de Goya evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Goya convirtió el desastre, la violencia y el miedo colectivo en escenas donde la luz no aclara: expone.",
+  "pais": "España",
+  "etiquetas": [
+    "Romanticismo español",
+    "Francisco de Goya",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    850,
+    1148
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco%20de%20Goya%20y%20Lucientes%20-%20Fire%20at%20Night%20-%20WGA10017.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francisco%20de%20Goya%20y%20Lucientes%20-%20Fire%20at%20Night%20-%20WGA10017.jpg",
+    "alt": "Reproducción de El incendio de noche, obra de Francisco de Goya",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_Fire_at_Night_-_WGA10017.jpg",
+    "licencia": "Public domain",
+    "credito": "Web Gallery of Art  :         Image         Info about artwork  wga QS:P11807,\"/g/goya/3/308goya\"",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "Francisco de Goya y Lucientes - Fire at Night - WGA10017.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "Fire at Night"
+}

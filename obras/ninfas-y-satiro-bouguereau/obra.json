@@ -1,0 +1,38 @@
+{
+  "id": "ninfas-y-satiro-bouguereau",
+  "titulo": "Ninfas y sátiro",
+  "autor": "William-Adolphe Bouguereau",
+  "fecha": "1873",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Ninfas y sátiro, William-Adolphe Bouguereau evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Bouguereau llevó el acabado académico a una superficie casi sin huella de pincel, combinando anatomía idealizada con gestos de dolor,…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "William-Adolphe Bouguereau",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2266,
+    3285
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/William-Adolphe%20Bouguereau%20%281825-1905%29%20-%20Nymphs%20and%20Satyr%20%281873%29%20HQ.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/William-Adolphe%20Bouguereau%20%281825-1905%29%20-%20Nymphs%20and%20Satyr%20%281873%29%20HQ.jpg",
+    "alt": "Reproducción de Ninfas y sátiro, obra de William-Adolphe Bouguereau",
+    "fuente": "https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Nymphs_and_Satyr_(1873)_HQ.jpg",
+    "licencia": "Public domain",
+    "credito": "The Clark   Webarchive  \n Previous version  gallerix.ru  (straighten, cropped, & retouched)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q3555076",
+    "wikimediaFile": "William-Adolphe Bouguereau (1825-1905) - Nymphs and Satyr (1873) HQ.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1873
+}

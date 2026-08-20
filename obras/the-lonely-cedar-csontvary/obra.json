@@ -1,0 +1,38 @@
+{
+  "id": "the-lonely-cedar-csontvary",
+  "titulo": "The Lonely Cedar",
+  "autor": "Tivadar Kosztka Csontváry",
+  "fecha": "1907",
+  "tipo": "Pintura",
+  "periodo": "Modernidad centroeuropea",
+  "coleccion": "Modernidad y vanguardias",
+  "descripcion": "En The Lonely Cedar, Tivadar Kosztka Csontváry evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Csontváry tensó el paisaje y el retrato con colores visionarios, perspectivas inestables y una espiritualidad personal que no encaja del…",
+  "pais": "Hungría",
+  "etiquetas": [
+    "Modernidad centroeuropea",
+    "Tivadar Kosztka Csontváry",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1427,
+    1117
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cskt-maganyos%20cedrus%20%281907%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cskt-maganyos%20cedrus%20%281907%29.jpg",
+    "alt": "Reproducción de The Lonely Cedar, obra de Tivadar Kosztka Csontváry",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Cskt-maganyos_cedrus_(1907).jpg",
+    "licencia": "Public domain",
+    "credito": "Fine Arts in Hungary:",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q105373720",
+    "wikimediaFile": "Cskt-maganyos cedrus (1907).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1907
+}

@@ -1,0 +1,38 @@
+{
+  "id": "arcadia-eakins",
+  "titulo": "Arcadia",
+  "autor": "Thomas Eakins",
+  "fecha": "1883",
+  "tipo": "Pintura",
+  "periodo": "Realismo estadounidense",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Arcadia, Thomas Eakins evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Eakins llevó al lienzo una observación casi científica del cuerpo, el trabajo y la vida contemporánea, sin suavizar lo incómodo para acomodarlo al gusto del…",
+  "pais": "Estados Unidos",
+  "etiquetas": [
+    "Realismo estadounidense",
+    "Thomas Eakins",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3799,
+    3235
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomas%20Eakins%20-%20Arcadia.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomas%20Eakins%20-%20Arcadia.jpg",
+    "alt": "Reproducción de Arcadia, obra de Thomas Eakins",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Thomas_Eakins_-_Arcadia.jpg",
+    "licencia": "Public domain",
+    "credito": "Metropolitan Museum of Art, online collection (The Met object ID 20011161)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1645088",
+    "wikimediaFile": "Thomas Eakins - Arcadia.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1883
+}

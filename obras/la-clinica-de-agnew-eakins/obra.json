@@ -1,0 +1,38 @@
+{
+  "id": "la-clinica-de-agnew-eakins",
+  "titulo": "La clínica de Agnew",
+  "autor": "Thomas Eakins",
+  "fecha": "1889",
+  "tipo": "Pintura",
+  "periodo": "Realismo estadounidense",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Catorce años después, el anfiteatro es más claro y el equipo viste batas blancas. La paciente, la enfermera Mary Clymer y la iluminación artificial alteran por completo la imagen de la cirugía frente a la oscuridad compacta de la Clínica Gross.",
+  "pais": "Estados Unidos",
+  "etiquetas": [
+    "Realismo estadounidense",
+    "Thomas Eakins",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4000,
+    2753
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eakins%2C%20Thomas%20-%20The%20Agnew%20Clinic.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eakins%2C%20Thomas%20-%20The%20Agnew%20Clinic.jpg",
+    "alt": "Reproducción de La clínica de Agnew, obra de Thomas Eakins",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Eakins,_Thomas_-_The_Agnew_Clinic.jpg",
+    "licencia": "Public domain",
+    "credito": "https://static01.nyt.com/newsgraphics/2020/05/11/zoomy-eakins/assets/images/agnew-eakins-4000.jpg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q2811576",
+    "wikimediaFile": "Eakins, Thomas - The Agnew Clinic.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1889
+}

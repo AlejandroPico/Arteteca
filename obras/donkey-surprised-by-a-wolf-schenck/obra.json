@@ -1,0 +1,38 @@
+{
+  "id": "donkey-surprised-by-a-wolf-schenck",
+  "titulo": "Donkey Surprised by a Wolf",
+  "autor": "August Friedrich Schenck",
+  "fecha": "1865",
+  "tipo": "Pintura",
+  "periodo": "Realismo animalista",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Donkey Surprised by a Wolf, August Friedrich Schenck evita que el asunto quede reducido a su título. La postura y la distancia entre los animales sostienen el relato; el entorno no los decora, sino que determina su vulnerabilidad y su comportamiento. Schenck convirtió animales y paisajes invernales en dramas de vulnerabilidad, instinto y supervivencia, sin necesidad de…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Realismo animalista",
+    "August Friedrich Schenck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    800,
+    548
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/August%20Friedrich%20Albrecht%20Schenck%20%281828-1901%29%20-%20Donkey%20Surprised%20by%20a%20Wolf%20-%20VIS.1519%20-%20Sheffield%20Galleries%20and%20Museums%20Trust.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/August%20Friedrich%20Albrecht%20Schenck%20%281828-1901%29%20-%20Donkey%20Surprised%20by%20a%20Wolf%20-%20VIS.1519%20-%20Sheffield%20Galleries%20and%20Museums%20Trust.jpg",
+    "alt": "Reproducción de Donkey Surprised by a Wolf, obra de August Friedrich Schenck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:August_Friedrich_Albrecht_Schenck_(1828-1901)_-_Donkey_Surprised_by_a_Wolf_-_VIS.1519_-_Sheffield_Galleries_and_Museums_Trust.jpg",
+    "licencia": "Public domain",
+    "credito": "Art UK",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q119083839",
+    "wikimediaFile": "August Friedrich Albrecht Schenck (1828-1901) - Donkey Surprised by a Wolf - VIS.1519 - Sheffield Galleries and Museums Trust.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1865
+}

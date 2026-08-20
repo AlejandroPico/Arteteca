@@ -1,0 +1,38 @@
+{
+  "id": "la-lectora-fragonard",
+  "titulo": "La lectora",
+  "autor": "Jean-Honoré Fragonard",
+  "fecha": "1770",
+  "tipo": "Pintura",
+  "periodo": "Rococó",
+  "coleccion": "Barroco y Rococó",
+  "descripcion": "En La lectora, Jean-Honoré Fragonard evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Fragonard convirtió el impulso, el roce y la velocidad del pincel en una pintura de deseo y juego, pero también de ambigüedad social y sexual.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Rococó",
+    "Jean-Honoré Fragonard",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3182,
+    4000
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fragonard%2C%20The%20Reader.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fragonard%2C%20The%20Reader.jpg",
+    "alt": "Reproducción de La lectora, obra de Jean-Honoré Fragonard",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Fragonard,_The_Reader.jpg",
+    "licencia": "Public domain",
+    "credito": "National Gallery of Art .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q2629423",
+    "wikimediaFile": "Fragonard, The Reader.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1770
+}

@@ -1,0 +1,38 @@
+{
+  "id": "eine-unangenehme-nachricht-zewy",
+  "titulo": "Eine unangenehme Nachricht",
+  "autor": "Carl Zewy",
+  "fecha": "1929",
+  "tipo": "Pintura",
+  "periodo": "Pintura de género austrohúngara",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Eine unangenehme Nachricht, Carl Zewy evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Zewy encontró drama en la lectura, la música doméstica y las noticias: interiores cotidianos en los que el relato depende de una reacción…",
+  "pais": "Austria",
+  "etiquetas": [
+    "Pintura de género austrohúngara",
+    "Carl Zewy",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1674,
+    2067
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carl%20Zewy%20Eine%20unangenehme%20Nachricht.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carl%20Zewy%20Eine%20unangenehme%20Nachricht.jpg",
+    "alt": "Reproducción de Eine unangenehme Nachricht, obra de Carl Zewy",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Carl_Zewy_Eine_unangenehme_Nachricht.jpg",
+    "licencia": "Public domain",
+    "credito": "Dorotheum",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q137270401",
+    "wikimediaFile": "Carl Zewy Eine unangenehme Nachricht.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1929
+}

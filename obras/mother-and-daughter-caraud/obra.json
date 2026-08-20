@@ -1,0 +1,38 @@
+{
+  "id": "mother-and-daughter-caraud",
+  "titulo": "Mother and Daughter",
+  "autor": "Joseph Caraud",
+  "fecha": "1870",
+  "tipo": "Pintura",
+  "periodo": "Pintura de género francesa",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Mother and Daughter, Joseph Caraud evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Caraud cultivó escenas de intimidad doméstica y galantería, narradas a través de miradas, cartas, objetos y pequeñas vacilaciones.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Pintura de género francesa",
+    "Joseph Caraud",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    623,
+    768
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joseph%20Caraud%20-%20Mother%20and%20Daughter%20-%2064.036%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joseph%20Caraud%20-%20Mother%20and%20Daughter%20-%2064.036%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+    "alt": "Reproducción de Mother and Daughter, obra de Joseph Caraud",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Joseph_Caraud_-_Mother_and_Daughter_-_64.036_-_Rhode_Island_School_of_Design_Museum.jpg",
+    "licencia": "Public domain",
+    "credito": "https://risdmuseum.org/art-design/collection/mother-and-daughter-64036",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q64512468",
+    "wikimediaFile": "Joseph Caraud - Mother and Daughter - 64.036 - Rhode Island School of Design Museum.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1870
+}

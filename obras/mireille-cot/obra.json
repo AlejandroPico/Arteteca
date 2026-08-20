@@ -1,0 +1,38 @@
+{
+  "id": "mireille-cot",
+  "titulo": "Mireille",
+  "autor": "Pierre Auguste Cot",
+  "fecha": "1882",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Mireille, Pierre Auguste Cot evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Cot hizo del movimiento de telas, cuerpos y vegetación un lenguaje para el enamoramiento, la amenaza y la fantasía sentimental del Salón.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Pierre Auguste Cot",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1217,
+    1801
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pierre%20Auguste%20Cot%20-%20Mireille%20faisant%20l%27aum%C3%B4ne%20%C3%A0%20la%20sortie%20de%20Saint-Trophime%20%281882%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pierre%20Auguste%20Cot%20-%20Mireille%20faisant%20l%27aum%C3%B4ne%20%C3%A0%20la%20sortie%20de%20Saint-Trophime%20%281882%29.jpg",
+    "alt": "Reproducción de Mireille, obra de Pierre Auguste Cot",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pierre_Auguste_Cot_-_Mireille_faisant_l%27aum%C3%B4ne_%C3%A0_la_sortie_de_Saint-Trophime_(1882).jpg",
+    "licencia": "Public domain",
+    "credito": "Musée Fabre",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q115670153",
+    "wikimediaFile": "Pierre Auguste Cot - Mireille faisant l'aumône à la sortie de Saint-Trophime (1882).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1882
+}

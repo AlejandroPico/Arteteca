@@ -1,0 +1,38 @@
+{
+  "id": "travesura-y-reposo-godward",
+  "titulo": "Travesura y reposo",
+  "autor": "John William Godward",
+  "fecha": "1895",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo victoriano",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Travesura y reposo, John William Godward evita que el asunto quede reducido a su título. La postura y la distancia entre los animales sostienen el relato; el entorno no los decora, sino que determina su vulnerabilidad y su comportamiento. Godward construyó una Antigüedad sensual y silenciosa mediante mármoles, piel, telas y posturas suspendidas; su exactitud material…",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Neoclasicismo victoriano",
+    "John William Godward",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    5583,
+    2476
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Godward%2C%20John%20William%20-%20Mischief%20and%20Repose%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Godward%2C%20John%20William%20-%20Mischief%20and%20Repose%20-%20Google%20Art%20Project.jpg",
+    "alt": "Reproducción de Travesura y reposo, obra de John William Godward",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Godward,_John_William_-_Mischief_and_Repose_-_Google_Art_Project.jpg",
+    "licencia": "Public domain",
+    "credito": "0QF1YzAdaX6cRQ at Google Cultural Institute  maximum zoom level",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q19953571",
+    "wikimediaFile": "Godward, John William - Mischief and Repose - Google Art Project.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1895
+}

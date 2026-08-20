@@ -1,0 +1,39 @@
+{
+  "id": "el-asedio-de-ochakov-suchodolski",
+  "titulo": "El asedio de Ochákov",
+  "autor": "January Suchodolski",
+  "fecha": "1853",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo histórico polaco",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En El asedio de Ochákov, January Suchodolski evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Suchodolski pintó la historia militar desde la experiencia de un oficial: caballos, terreno, humo y movimientos de tropas importan tanto…",
+  "pais": "Polonia",
+  "etiquetas": [
+    "Romanticismo histórico polaco",
+    "January Suchodolski",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1800,
+    1203
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/January%20Suchodolski%20-%20Ochakiv%20siege.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/January%20Suchodolski%20-%20Ochakiv%20siege.jpg",
+    "alt": "Reproducción de El asedio de Ochákov, obra de January Suchodolski",
+    "fuente": "https://commons.wikimedia.org/wiki/File:January_Suchodolski_-_Ochakiv_siege.jpg",
+    "licencia": "Public domain",
+    "credito": "https://www.artillery-museum.ru/ru/feedback/#gallery-1201-13",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "January Suchodolski - Ochakiv siege.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "Siege of Ochakov",
+  "fechaOrden": 1853
+}

@@ -1,0 +1,39 @@
+{
+  "id": "musica-suvorova",
+  "titulo": "Música",
+  "tituloOriginal": "Music",
+  "autor": "Olga Suvorova",
+  "fecha": "Contemporánea",
+  "tipo": "Pintura",
+  "periodo": "Figuración ornamental contemporánea",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "Instrumentos, figuras y ornamentos comparten un mismo ritmo; la música se traduce en densidad de superficie. Suvorova imagina una corte teatral y atemporal, saturada de flores, aves, joyas y telas; el ornamento no rodea a las figuras, sino que define su mundo.",
+  "pais": "Rusia",
+  "etiquetas": [
+    "Figuración ornamental contemporánea",
+    "Olga Suvorova",
+    "selección Tres Ubres Dobles",
+    "imagen remota"
+  ],
+  "proporcion": [
+    460,
+    304
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://rakovgallery.com/media/Catalog/Product/2025-11-03/preview_XL_49b71f2409df82d85e78dfa348f66131.jpg",
+    "urlAltaResolucion": "https://rakovgallery.com/media/Catalog/Product/2025-11-03/preview_XL_49b71f2409df82d85e78dfa348f66131.jpg",
+    "alt": "Reproducción de Música, obra de Olga Suvorova",
+    "fuente": "https://rakovgallery.com/artist/olga-suvorova",
+    "licencia": "© artista o titular de derechos · reproducción remota acreditada",
+    "credito": "Olga Suvorova · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://rakovgallery.com/artist/olga-suvorova",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": true
+  }
+}

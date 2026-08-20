@@ -1,0 +1,38 @@
+{
+  "id": "at-dawn-hermans",
+  "titulo": "At Dawn",
+  "autor": "Charles Hermans",
+  "fecha": "1875",
+  "tipo": "Pintura",
+  "periodo": "Realismo belga",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En At Dawn, Charles Hermans evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Hermans combinó crítica social, retrato y fantasía. Sus escenas suelen enfrentar mundos que comparten el mismo espacio sin pertenecer realmente a él.",
+  "pais": "Bélgica",
+  "etiquetas": [
+    "Realismo belga",
+    "Charles Hermans",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1986,
+    1554
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charles%20Hermans.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charles%20Hermans.jpg",
+    "alt": "Reproducción de At Dawn, obra de Charles Hermans",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Charles_Hermans.jpg",
+    "licencia": "Public domain",
+    "credito": "Royal Museum of Fine Arts of Belgium, Brussels",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q56146184",
+    "wikimediaFile": "Charles Hermans.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1875
+}

@@ -1,0 +1,38 @@
+{
+  "id": "swimming-hole-eakins",
+  "titulo": "Swimming Hole",
+  "autor": "Thomas Eakins",
+  "fecha": "1885",
+  "tipo": "Pintura",
+  "periodo": "Realismo estadounidense",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Swimming Hole, Thomas Eakins evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Eakins llevó al lienzo una observación casi científica del cuerpo, el trabajo y la vida contemporánea, sin suavizar lo incómodo para acomodarlo al…",
+  "pais": "Estados Unidos",
+  "etiquetas": [
+    "Realismo estadounidense",
+    "Thomas Eakins",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    9611,
+    7126
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomas%20Eakins%20-%20Swimming%20%281895%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomas%20Eakins%20-%20Swimming%20%281895%29.jpg?width=6000",
+    "alt": "Reproducción de Swimming Hole, obra de Thomas Eakins",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Thomas_Eakins_-_Swimming_(1895).jpg",
+    "licencia": "Public domain",
+    "credito": "1.  themagazineantiques.com  2.   Google Arts & Culture    —  HQFDDvvCMUoCgg",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q766212",
+    "wikimediaFile": "Thomas Eakins - Swimming (1895).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1885
+}

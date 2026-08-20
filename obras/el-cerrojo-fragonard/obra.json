@@ -1,0 +1,38 @@
+{
+  "id": "el-cerrojo-fragonard",
+  "titulo": "El cerrojo",
+  "autor": "Jean-Honoré Fragonard",
+  "fecha": "1777",
+  "tipo": "Pintura",
+  "periodo": "Rococó",
+  "coleccion": "Barroco y Rococó",
+  "descripcion": "En El cerrojo, Jean-Honoré Fragonard evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Fragonard convirtió el impulso, el roce y la velocidad del pincel en una pintura de deseo y juego, pero también de ambigüedad social y sexual.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Rococó",
+    "Jean-Honoré Fragonard",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    6438,
+    5032
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Le%20Verrou%20-%20Jean-Honor%C3%A9%20Fragonard%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201974%202.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Le%20Verrou%20-%20Jean-Honor%C3%A9%20Fragonard%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201974%202.jpg?width=6000",
+    "alt": "Reproducción de El cerrojo, obra de Jean-Honoré Fragonard",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Le_Verrou_-_Jean-Honor%C3%A9_Fragonard_-_Mus%C3%A9e_du_Louvre_Peintures_RF_1974_2.jpg",
+    "licencia": "Public domain",
+    "credito": "photo  Shonagon  2026-01-02",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q3228069",
+    "wikimediaFile": "Le Verrou - Jean-Honoré Fragonard - Musée du Louvre Peintures RF 1974 2.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1777
+}

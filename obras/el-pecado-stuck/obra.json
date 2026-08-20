@@ -1,0 +1,38 @@
+{
+  "id": "el-pecado-stuck",
+  "titulo": "El pecado",
+  "autor": "Franz von Stuck",
+  "fecha": "1893",
+  "tipo": "Pintura",
+  "periodo": "Simbolismo",
+  "coleccion": "Simbolismo y fin de siglo",
+  "descripcion": "En El pecado, Franz von Stuck evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Von Stuck condensó deseo, amenaza y mito en figuras frontales, fondos oscuros y marcos concebidos como parte de la obra; lo demoníaco aparece…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Simbolismo",
+    "Franz von Stuck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    447,
+    746
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/STUCK%2C%20FRANZ-VON%20-%20S%C3%BCNDE%20-%20BSTGS%207925%20%282%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/STUCK%2C%20FRANZ-VON%20-%20S%C3%BCNDE%20-%20BSTGS%207925%20%282%29.jpg",
+    "alt": "Reproducción de El pecado, obra de Franz von Stuck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:STUCK,_FRANZ-VON_-_S%C3%BCNDE_-_BSTGS_7925_(2).jpg",
+    "licencia": "Public domain",
+    "credito": "https://www.sammlung.pinakothek.de/de/artwork/ApL8qN7GN2",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q15874516",
+    "wikimediaFile": "STUCK, FRANZ-VON - SüNDE - BSTGS 7925 (2).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1893
+}

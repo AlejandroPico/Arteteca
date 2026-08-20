@@ -1,0 +1,39 @@
+{
+  "id": "muchacha-con-ropaje-amarillo-godward",
+  "titulo": "Muchacha con ropaje amarillo",
+  "autor": "John William Godward",
+  "fecha": "1901",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo victoriano",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Muchacha con ropaje amarillo, John William Godward evita que el asunto quede reducido a su título. La luz y la atmósfera modifican cada superficie; agua, cielo, vegetación o nieve dejan de ser fondo y pasan a determinar el ritmo emocional de la escena. Godward construyó una Antigüedad sensual y silenciosa mediante mármoles, piel, telas y posturas suspendidas; su…",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Neoclasicismo victoriano",
+    "John William Godward",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2000,
+    970
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20William%20Godward%20-%20Girl%20in%20yellow%20Drapery%2C%201901.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20William%20Godward%20-%20Girl%20in%20yellow%20Drapery%2C%201901.jpg",
+    "alt": "Reproducción de Muchacha con ropaje amarillo, obra de John William Godward",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John_William_Godward_-_Girl_in_yellow_Drapery,_1901.jpg",
+    "licencia": "Public domain",
+    "credito": "Sotheby's Lot.105",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "John William Godward - Girl in yellow Drapery, 1901.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "Girl in a Yellow Drapery",
+  "fechaOrden": 1901
+}

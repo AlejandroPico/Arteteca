@@ -1,0 +1,38 @@
+{
+  "id": "la-muchacha-del-collar-de-perlas-vermeer",
+  "titulo": "La muchacha del collar de perlas",
+  "autor": "Johannes Vermeer",
+  "fecha": "1660",
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "En La muchacha del collar de perlas, Johannes Vermeer evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Vermeer concentra el mundo en interiores silenciosos donde la luz, los objetos y las pausas entre acciones revelan más que el…",
+  "pais": "Países Bajos",
+  "etiquetas": [
+    "Barroco neerlandés",
+    "Johannes Vermeer",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4500,
+    5236
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Vermeer%20van%20Delft%20-%20Young%20Woman%20with%20a%20Pearl%20Necklace%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Vermeer%20van%20Delft%20-%20Young%20Woman%20with%20a%20Pearl%20Necklace%20-%20Google%20Art%20Project.jpg",
+    "alt": "Reproducción de La muchacha del collar de perlas, obra de Johannes Vermeer",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture    —  kQFMVJh6zAXoxQ",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q151143",
+    "wikimediaFile": "Jan Vermeer van Delft - Young Woman with a Pearl Necklace - Google Art Project.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1660
+}

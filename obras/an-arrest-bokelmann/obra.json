@@ -1,0 +1,38 @@
+{
+  "id": "an-arrest-bokelmann",
+  "titulo": "An Arrest",
+  "autor": "Christian Ludwig Bokelmann",
+  "fecha": "1881",
+  "tipo": "Pintura",
+  "periodo": "Realismo social alemán",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En An Arrest, Christian Ludwig Bokelmann evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Bokelmann construyó escenas narrativas de la vida moderna en las que una mirada, un objeto o una diferencia social desencadenan toda la historia.",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Realismo social alemán",
+    "Christian Ludwig Bokelmann",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1748,
+    1185
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Christian%20L.%20Bokelmann%20-%20Eine%20Verhaftung%20%281881%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Christian%20L.%20Bokelmann%20-%20Eine%20Verhaftung%20%281881%29.jpg",
+    "alt": "Reproducción de An Arrest, obra de Christian Ludwig Bokelmann",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Christian_L._Bokelmann_-_Eine_Verhaftung_(1881).jpg",
+    "licencia": "Public domain",
+    "credito": "Bridgeman Art Library  :  Object  827949",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q130064097",
+    "wikimediaFile": "Christian L. Bokelmann - Eine Verhaftung (1881).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1881
+}

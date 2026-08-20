@@ -1,0 +1,39 @@
+{
+  "id": "frailecillo-sosa",
+  "titulo": "Frailecillo",
+  "tituloOriginal": "Puffin",
+  "autor": "Manuel Sosa",
+  "fecha": "Contemporánea",
+  "tipo": "Pintura",
+  "periodo": "Naturalismo contemporáneo",
+  "coleccion": "Arte y ciencia",
+  "descripcion": "El perfil compacto del frailecillo se afirma contra el acantilado, equilibrando observación zoológica y presencia individual. Sosa observa la fauna sin aislarla de su hábitat: plumaje, roca, agua, viento y vegetación forman una sola situación ecológica y pictórica.",
+  "pais": "España",
+  "etiquetas": [
+    "Naturalismo contemporáneo",
+    "Manuel Sosa",
+    "selección Tres Ubres Dobles",
+    "imagen remota"
+  ],
+  "proporcion": [
+    1508,
+    2000
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://manuelsosa.com/wp-content/uploads/001/frailecillos.jpg",
+    "urlAltaResolucion": "https://manuelsosa.com/wp-content/uploads/001/frailecillos.jpg",
+    "alt": "Reproducción de Frailecillo, obra de Manuel Sosa",
+    "fuente": "https://manuelsosa.com/en/paintings-of/birds-paintings-prints/puffin/",
+    "licencia": "© artista o titular de derechos · reproducción remota acreditada",
+    "credito": "Manuel Sosa · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://manuelsosa.com/en/paintings-of/birds-paintings-prints/puffin/",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": true
+  }
+}

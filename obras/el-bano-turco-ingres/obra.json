@@ -1,0 +1,38 @@
+{
+  "id": "el-bano-turco-ingres",
+  "titulo": "El baño turco",
+  "autor": "Jean-Auguste-Dominique Ingres",
+  "fecha": "1862",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En El baño turco, Jean-Auguste-Dominique Ingres evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Ingres defendió la primacía de la línea y del dibujo, aunque sus cuerpos alargados, superficies pulidas y espacios tensos desbordan la…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Neoclasicismo",
+    "Jean-Auguste-Dominique Ingres",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    5000,
+    4978
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Le%20Bain%20Turc%2C%20by%20Jean%20Auguste%20Dominique%20Ingres%2C%20from%20C2RMFFXD.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Le%20Bain%20Turc%2C%20by%20Jean%20Auguste%20Dominique%20Ingres%2C%20from%20C2RMFFXD.jpg",
+    "alt": "Reproducción de El baño turco, obra de Jean-Auguste-Dominique Ingres",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Le_Bain_Turc,_by_Jean_Auguste_Dominique_Ingres,_from_C2RMFFXD.jpg",
+    "licencia": "Public domain",
+    "credito": "This file was derived from:   Le Bain Turc, by Jean Auguste Dominique Ingres, from C2RMF.jpg :",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q2027662",
+    "wikimediaFile": "Le Bain Turc, by Jean Auguste Dominique Ingres, from C2RMFFXD.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1862
+}

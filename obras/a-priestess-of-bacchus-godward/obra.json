@@ -1,0 +1,38 @@
+{
+  "id": "a-priestess-of-bacchus-godward",
+  "titulo": "A priestess of Bacchus",
+  "autor": "John William Godward",
+  "fecha": "1890",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo victoriano",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En A priestess of Bacchus, John William Godward evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Godward construyó una Antigüedad sensual y silenciosa mediante mármoles, piel, telas y posturas suspendidas; su exactitud material…",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Neoclasicismo victoriano",
+    "John William Godward",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2000,
+    1342
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A%20priestess%20of%20Bacchus%2C%20by%20John%20William%20Godward.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A%20priestess%20of%20Bacchus%2C%20by%20John%20William%20Godward.jpg",
+    "alt": "Reproducción de A priestess of Bacchus, obra de John William Godward",
+    "fuente": "https://commons.wikimedia.org/wiki/File:A_priestess_of_Bacchus,_by_John_William_Godward.jpg",
+    "licencia": "Public domain",
+    "credito": "Sotheby's",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q124023346",
+    "wikimediaFile": "A priestess of Bacchus, by John William Godward.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1890
+}

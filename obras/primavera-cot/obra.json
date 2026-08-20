@@ -1,0 +1,38 @@
+{
+  "id": "primavera-cot",
+  "titulo": "Primavera.",
+  "autor": "Pierre Auguste Cot",
+  "fecha": "1873",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "La pareja se abraza sobre el columpio como si el movimiento pudiera aislarla del mundo. Las telas, las diagonales y la vegetación convierten el primer amor en una suspensión física: todavía ascienden, todavía no han tenido que volver al suelo.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Pierre Auguste Cot",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2199,
+    3722
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/PIERRE-AUGUSTE%20COT%20-%20Primavera%20%28Museo%20Metropolitano%20de%20Nueva%20York%2C%201873.%20%C3%93leo%20sobre%20lienzo%2C%20213.4%20x%20127%20cm%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/PIERRE-AUGUSTE%20COT%20-%20Primavera%20%28Museo%20Metropolitano%20de%20Nueva%20York%2C%201873.%20%C3%93leo%20sobre%20lienzo%2C%20213.4%20x%20127%20cm%29.jpg",
+    "alt": "Reproducción de Primavera., obra de Pierre Auguste Cot",
+    "fuente": "https://commons.wikimedia.org/wiki/File:PIERRE-AUGUSTE_COT_-_Primavera_(Museo_Metropolitano_de_Nueva_York,_1873._%C3%93leo_sobre_lienzo,_213.4_x_127_cm).jpg",
+    "licencia": "Public domain",
+    "credito": "Metropolitan Museum of Art, online collection (The Met object ID 438158)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q19905085",
+    "wikimediaFile": "PIERRE-AUGUSTE COT - Primavera (Museo Metropolitano de Nueva York, 1873. Óleo sobre lienzo, 213.4 x 127 cm).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1873
+}

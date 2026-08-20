@@ -1,0 +1,38 @@
+{
+  "id": "paseo-a-orillas-del-mar-sorolla",
+  "titulo": "Paseo a orillas del mar",
+  "autor": "Joaquín Sorolla",
+  "fecha": "1909",
+  "tipo": "Pintura",
+  "periodo": "Luminismo valenciano",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Paseo a orillas del mar, Joaquín Sorolla evita que el asunto quede reducido a su título. La luz y la atmósfera modifican cada superficie; agua, cielo, vegetación o nieve dejan de ser fondo y pasan a determinar el ritmo emocional de la escena. Sorolla hizo de la luz un fenómeno físico: rebota en el agua, atraviesa las telas y deshace los contornos, pero nunca borra la…",
+  "pais": "España",
+  "etiquetas": [
+    "Luminismo valenciano",
+    "Joaquín Sorolla",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4832,
+    4894
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joaqu%C3%ADn%20Sorolla%20y%20Bastida%20-%20Strolling%20along%20the%20Seashore%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joaqu%C3%ADn%20Sorolla%20y%20Bastida%20-%20Strolling%20along%20the%20Seashore%20-%20Google%20Art%20Project.jpg",
+    "alt": "Reproducción de Paseo a orillas del mar, obra de Joaquín Sorolla",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg",
+    "licencia": "Public domain",
+    "credito": "7wGWEyJfhrRgCg at Google Cultural Institute , zoom level maximum",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q6065609",
+    "wikimediaFile": "Joaquín Sorolla y Bastida - Strolling along the Seashore - Google Art Project.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1909
+}

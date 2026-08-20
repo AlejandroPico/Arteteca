@@ -1,0 +1,38 @@
+{
+  "id": "la-gran-odalisca-ingres",
+  "titulo": "La gran odalisca",
+  "autor": "Jean-Auguste-Dominique Ingres",
+  "fecha": "1810",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En La gran odalisca, Jean-Auguste-Dominique Ingres evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Ingres defendió la primacía de la línea y del dibujo, aunque sus cuerpos alargados, superficies pulidas y espacios tensos desbordan…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Neoclasicismo",
+    "Jean-Auguste-Dominique Ingres",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    9311,
+    5196
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20grande%20odalisque%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201158.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20grande%20odalisque%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201158.jpg?width=6000",
+    "alt": "Reproducción de La gran odalisca, obra de Jean-Auguste-Dominique Ingres",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_grande_odalisque_-_Jean-Auguste_Dominique_Ingres_-_Mus%C3%A9e_du_Louvre_Peintures_RF_1158.jpg",
+    "licencia": "Public domain",
+    "credito": "photo  Shonagon  2025-03-15",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1978815",
+    "wikimediaFile": "La grande odalisque - Jean-Auguste Dominique Ingres - Musée du Louvre Peintures RF 1158.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1810
+}

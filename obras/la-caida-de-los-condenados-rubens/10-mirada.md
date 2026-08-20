@@ -3,10 +3,8 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué mirar
+## Un derrumbe de cuerpos
 
-La obra presenta **La Caída de los Condenados** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
+La salvación apenas ocupa el borde luminoso superior. Desde allí se precipita una cascada de hombres y mujeres desnudos: cuerpos vistos de frente, de espaldas, acortados o retorcidos, atrapados por demonios, serpientes y fauces animales. No hay suelo firme ni pausa compositiva; cada figura empuja o arrastra a la siguiente y la caída parece continuar fuera del lienzo.
 
-El formato vertical conduce la mirada entre niveles. Compara la base, el núcleo de mayor contraste y la zona superior para reconocer si la composición asciende, cae o mantiene las figuras en tensión.
-
-Rubens encadena cuerpos mediante diagonales, curvas y miradas que mantienen la escena en movimiento. La carne, las telas, los animales y el paisaje reciben tratamientos distintos, pero el color y la luz los integran en una energía continua.
+Rubens usa la anatomía como motor dramático. La abundancia de carne no celebra aquí la vitalidad, sino que vuelve el castigo insoportablemente corporal. La pintura evita ofrecer a Cristo como juez visible y concentra toda la experiencia en el descenso: luz contra oscuridad, piel contra bestia, multitud contra abismo.

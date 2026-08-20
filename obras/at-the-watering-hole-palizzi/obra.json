@@ -1,0 +1,38 @@
+{
+  "id": "at-the-watering-hole-palizzi",
+  "titulo": "At the watering hole",
+  "autor": "Filippo Palizzi",
+  "fecha": "1867",
+  "tipo": "Pintura",
+  "periodo": "Realismo italiano",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En At the watering hole, Filippo Palizzi evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Palizzi renovó la pintura napolitana mediante la observación directa de animales, campesinos y paisajes, alejándose de la fórmula académica…",
+  "pais": "Italia",
+  "etiquetas": [
+    "Realismo italiano",
+    "Filippo Palizzi",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    11205,
+    7590
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Filippo%20Palizzi%20-%20All%27Abbeverata%20%281867%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Filippo%20Palizzi%20-%20All%27Abbeverata%20%281867%29.jpg?width=6000",
+    "alt": "Reproducción de At the watering hole, obra de Filippo Palizzi",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Filippo_Palizzi_-_All%27Abbeverata_(1867).jpg",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q118178076",
+    "wikimediaFile": "Filippo Palizzi - All'Abbeverata (1867).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1867
+}

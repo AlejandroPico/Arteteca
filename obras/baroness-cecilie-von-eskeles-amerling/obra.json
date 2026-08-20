@@ -1,0 +1,38 @@
+{
+  "id": "baroness-cecilie-von-eskeles-amerling",
+  "titulo": "Baroness Cecilie von Eskeles",
+  "autor": "Friedrich von Amerling",
+  "fecha": "1832",
+  "tipo": "Pintura",
+  "periodo": "Biedermeier",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Baroness Cecilie von Eskeles, Friedrich von Amerling evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Amerling combinó el prestigio del gran retrato con una observación íntima de rostros, telas y relaciones familiares, clave para…",
+  "pais": "Austria",
+  "etiquetas": [
+    "Biedermeier",
+    "Friedrich von Amerling",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3168,
+    3836
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/1832%20Amerling%20Bildnis%20Freifrau%20Cecilie%20von%20Eskeles%20anagoria.JPG?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/1832%20Amerling%20Bildnis%20Freifrau%20Cecilie%20von%20Eskeles%20anagoria.JPG",
+    "alt": "Reproducción de Baroness Cecilie von Eskeles, obra de Friedrich von Amerling",
+    "fuente": "https://commons.wikimedia.org/wiki/File:1832_Amerling_Bildnis_Freifrau_Cecilie_von_Eskeles_anagoria.JPG",
+    "licencia": "Public domain",
+    "credito": "Germanisches Nationalmuseum",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q123055229",
+    "wikimediaFile": "1832 Amerling Bildnis Freifrau Cecilie von Eskeles anagoria.JPG",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1832
+}

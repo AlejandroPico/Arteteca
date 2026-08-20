@@ -1,0 +1,38 @@
+{
+  "id": "portrait-of-the-politician-auguste-van-loo-hermans",
+  "titulo": "Portrait of the Politician Auguste Van Loo",
+  "autor": "Charles Hermans",
+  "fecha": "1889",
+  "tipo": "Pintura",
+  "periodo": "Realismo belga",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Portrait of the Politician Auguste Van Loo, Charles Hermans evita que el asunto quede reducido a su título. La pose, el rostro y la indumentaria no son simples datos de identidad: organizan una negociación entre presencia privada e imagen pública. Hermans combinó crítica social, retrato y fantasía. Sus escenas suelen enfrentar mundos que comparten el mismo espacio sin…",
+  "pais": "Bélgica",
+  "etiquetas": [
+    "Realismo belga",
+    "Charles Hermans",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3137,
+    2865
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charles%20Hermans%20-%20Portrait%20of%20the%20Politician%20Auguste%20Van%20Loo%20-%201910-M%20-%20Museum%20of%20Fine%20Arts%20Ghent%20%28MSK%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charles%20Hermans%20-%20Portrait%20of%20the%20Politician%20Auguste%20Van%20Loo%20-%201910-M%20-%20Museum%20of%20Fine%20Arts%20Ghent%20%28MSK%29.jpg",
+    "alt": "Reproducción de Portrait of the Politician Auguste Van Loo, obra de Charles Hermans",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Charles_Hermans_-_Portrait_of_the_Politician_Auguste_Van_Loo_-_1910-M_-_Museum_of_Fine_Arts_Ghent_(MSK).jpg",
+    "licencia": "Public domain",
+    "credito": "Museum of Fine Arts Ghent (MSK)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q21675051",
+    "wikimediaFile": "Charles Hermans - Portrait of the Politician Auguste Van Loo - 1910-M - Museum of Fine Arts Ghent (MSK).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1889
+}

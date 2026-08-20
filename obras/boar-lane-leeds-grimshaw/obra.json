@@ -1,0 +1,38 @@
+{
+  "id": "boar-lane-leeds-grimshaw",
+  "titulo": "Boar Lane, Leeds",
+  "autor": "John Atkinson Grimshaw",
+  "fecha": "1881",
+  "tipo": "Pintura",
+  "periodo": "Esteticismo victoriano",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Boar Lane, Leeds, John Atkinson Grimshaw evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Grimshaw transformó la ciudad industrial y el puerto victoriano mediante lunas frías, pavimentos húmedos y luces aisladas; la atmósfera…",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Esteticismo victoriano",
+    "John Atkinson Grimshaw",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    800,
+    534
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Atkinson%20Grimshaw%20%281836-1893%29%20-%20Boar%20Lane%2C%20Leeds%20-%20LEEAG.PA.2000.0017%20-%20Leeds%20Art%20Gallery.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20Atkinson%20Grimshaw%20%281836-1893%29%20-%20Boar%20Lane%2C%20Leeds%20-%20LEEAG.PA.2000.0017%20-%20Leeds%20Art%20Gallery.jpg",
+    "alt": "Reproducción de Boar Lane, Leeds, obra de John Atkinson Grimshaw",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John_Atkinson_Grimshaw_(1836-1893)_-_Boar_Lane,_Leeds_-_LEEAG.PA.2000.0017_-_Leeds_Art_Gallery.jpg",
+    "licencia": "Public domain",
+    "credito": "Art UK",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q119133021",
+    "wikimediaFile": "John Atkinson Grimshaw (1836-1893) - Boar Lane, Leeds - LEEAG.PA.2000.0017 - Leeds Art Gallery.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1881
+}

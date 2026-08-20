@@ -1,0 +1,39 @@
+{
+  "id": "el-alma-de-la-rosa-waterhouse",
+  "titulo": "El alma de la rosa",
+  "autor": "John William Waterhouse",
+  "fecha": "1908",
+  "tipo": "Pintura",
+  "periodo": "Prerrafaelismo tardío",
+  "coleccion": "Simbolismo y fin de siglo",
+  "descripcion": "En El alma de la rosa, John William Waterhouse evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Waterhouse reimaginó mitos y poemas desde el instante previo a una decisión irreversible. Sus mujeres no son simple decoración:…",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Prerrafaelismo tardío",
+    "John William Waterhouse",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1951,
+    3000
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20William%20Waterhouse%20-%20The%20Soul%20of%20the%20Rose%2C%201903.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/John%20William%20Waterhouse%20-%20The%20Soul%20of%20the%20Rose%2C%201903.jpg",
+    "alt": "Reproducción de El alma de la rosa, obra de John William Waterhouse",
+    "fuente": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_The_Soul_of_the_Rose,_1903.jpg",
+    "licencia": "Public domain",
+    "credito": "Art Renewal Center",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "John William Waterhouse - The Soul of the Rose, 1903.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "The Soul of the Rose",
+  "fechaOrden": 1908
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sin-titulo-kandracienka",
+  "titulo": "Sin título",
+  "tituloOriginal": "No Title",
+  "autor": "Tania Kandracienka",
+  "fecha": "2026",
+  "tipo": "Pintura",
+  "periodo": "Figuración contemporánea",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "La falta de título desplaza el peso hacia la postura, el color y la distancia psicológica del personaje. Kandracienka trabaja una figuración contemporánea de atmósferas ambiguas, donde el personaje parece habitar a la vez un lugar físico y un estado mental.",
+  "pais": "Bielorrusia / Noruega",
+  "etiquetas": [
+    "Figuración contemporánea",
+    "Tania Kandracienka",
+    "selección Tres Ubres Dobles",
+    "imagen remota"
+  ],
+  "proporcion": [
+    1618,
+    2048
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://galleriramfjord.no/content/uploads/2026/04/Ni-title-50x402026-1-scaled.jpeg",
+    "urlAltaResolucion": "https://galleriramfjord.no/content/uploads/2026/04/Ni-title-50x402026-1-scaled.jpeg",
+    "alt": "Reproducción de Sin título, obra de Tania Kandracienka",
+    "fuente": "https://galleriramfjord.no/product/no-title/",
+    "licencia": "© artista o titular de derechos · reproducción remota acreditada",
+    "credito": "Tania Kandracienka · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://galleriramfjord.no/product/no-title/",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": true
+  },
+  "fechaOrden": 2026
+}

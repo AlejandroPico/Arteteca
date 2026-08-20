@@ -1,0 +1,38 @@
+{
+  "id": "etienne-chevalier-y-san-esteban-fouquet",
+  "titulo": "Étienne Chevalier y san Esteban",
+  "autor": "Jean Fouquet",
+  "fecha": "c. 1452–1455",
+  "tipo": "Pintura",
+  "periodo": "Renacimiento francés",
+  "coleccion": "Renacimiento",
+  "descripcion": "Étienne Chevalier se arrodilla junto a san Esteban, que sostiene el libro y la piedra de su martirio. Frente a la visión sobrenatural de la otra tabla, este panel ancla el díptico en la identidad, el rango y la devoción concreta del comitente.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Renacimiento francés",
+    "Jean Fouquet",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4409,
+    4873
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean%20Fouquet%20-%20Etienne%20Chevalier%20with%20St.%20Stephen%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean%20Fouquet%20-%20Etienne%20Chevalier%20with%20St.%20Stephen%20-%20Google%20Art%20Project.jpg",
+    "alt": "Reproducción de Étienne Chevalier y san Esteban, obra de Jean Fouquet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jean_Fouquet_-_Etienne_Chevalier_with_St._Stephen_-_Google_Art_Project.jpg",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture:   Home page  –  Image  Maximum resolution.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q29585693",
+    "wikimediaFile": "Jean Fouquet - Etienne Chevalier with St. Stephen - Google Art Project.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "Étienne Chevalier with Saint Stephen"
+}

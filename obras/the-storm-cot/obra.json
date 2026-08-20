@@ -1,0 +1,38 @@
+{
+  "id": "the-storm-cot",
+  "titulo": "The Storm",
+  "autor": "Pierre Auguste Cot",
+  "fecha": "1880",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En The Storm, Pierre Auguste Cot evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Cot hizo del movimiento de telas, cuerpos y vegetación un lenguaje para el enamoramiento, la amenaza y la fantasía sentimental del Salón.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Pierre Auguste Cot",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2400,
+    3632
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/1880%20Pierre%20Auguste%20Cot%20-%20The%20Storm.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/1880%20Pierre%20Auguste%20Cot%20-%20The%20Storm.jpg",
+    "alt": "Reproducción de The Storm, obra de Pierre Auguste Cot",
+    "fuente": "https://commons.wikimedia.org/wiki/File:1880_Pierre_Auguste_Cot_-_The_Storm.jpg",
+    "licencia": "Public domain",
+    "credito": "1.  Pierre-Auguste Cot: The Storm (87.15.134) . In Timeline of Art History. New York: The Metropolitan Museum of Art, 2000–.  [1]  (January 2007) 2.  Metropolitan Museum of Art, online collection (The Met object ID 435997)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q7766694",
+    "wikimediaFile": "1880 Pierre Auguste Cot - The Storm.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1880
+}

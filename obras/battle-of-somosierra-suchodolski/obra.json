@@ -1,0 +1,38 @@
+{
+  "id": "battle-of-somosierra-suchodolski",
+  "titulo": "Battle of Somosierra.",
+  "autor": "January Suchodolski",
+  "fecha": "1860",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo histórico polaco",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Battle of Somosierra., January Suchodolski evita que el asunto quede reducido a su título. El movimiento colectivo se fragmenta en gestos y direcciones contrapuestas; el relato histórico se entiende a través de cuerpos, caballos, humo y terreno. Suchodolski pintó la historia militar desde la experiencia de un oficial: caballos, terreno, humo y movimientos de tropas…",
+  "pais": "Polonia",
+  "etiquetas": [
+    "Romanticismo histórico polaco",
+    "January Suchodolski",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    5906,
+    4355
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/January%20Suchodolski%2C%20Bitwa%20pod%20Somosierr%C4%85.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/January%20Suchodolski%2C%20Bitwa%20pod%20Somosierr%C4%85.jpg",
+    "alt": "Reproducción de Battle of Somosierra., obra de January Suchodolski",
+    "fuente": "https://commons.wikimedia.org/wiki/File:January_Suchodolski,_Bitwa_pod_Somosierr%C4%85.jpg",
+    "licencia": "Public domain",
+    "credito": "http://cyfrowe.mnw.art.pl/dmuseion/docmetadata?id=4791",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q24292336",
+    "wikimediaFile": "January Suchodolski, Bitwa pod Somosierrą.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1860
+}

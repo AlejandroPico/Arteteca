@@ -1,0 +1,38 @@
+{
+  "id": "portrait-of-pope-clement-viii-ligozzi",
+  "titulo": "Portrait of Pope Clement VIII",
+  "autor": "Jacopo Ligozzi",
+  "fecha": "1600",
+  "tipo": "Pintura",
+  "periodo": "Manierismo tardío",
+  "coleccion": "Renacimiento",
+  "descripcion": "En Portrait of Pope Clement VIII, Jacopo Ligozzi evita que el asunto quede reducido a su título. La pose, el rostro y la indumentaria no son simples datos de identidad: organizan una negociación entre presencia privada e imagen pública. Ligozzi podía pasar del retrato cortesano a la historia natural y a la vanitas macabra. Su precisión descriptiva convierte plantas,…",
+  "pais": "Italia",
+  "etiquetas": [
+    "Manierismo tardío",
+    "Jacopo Ligozzi",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3180,
+    4434
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20Pope%20Clement%20VIII%20Aldobrandini%20%28by%20Jacopo%20Ligozzi%29%20-%20The%20J.%20Paul%20Getty%20Museum.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20Pope%20Clement%20VIII%20Aldobrandini%20%28by%20Jacopo%20Ligozzi%29%20-%20The%20J.%20Paul%20Getty%20Museum.jpg",
+    "alt": "Reproducción de Portrait of Pope Clement VIII, obra de Jacopo Ligozzi",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Clement_VIII_Aldobrandini_(by_Jacopo_Ligozzi)_-_The_J._Paul_Getty_Museum.jpg",
+    "licencia": "Public domain",
+    "credito": "The Getty Center, Object 1230",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q62836937",
+    "wikimediaFile": "Portrait of Pope Clement VIII Aldobrandini (by Jacopo Ligozzi) - The J. Paul Getty Museum.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1600
+}

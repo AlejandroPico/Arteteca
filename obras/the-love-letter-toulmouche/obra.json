@@ -1,0 +1,38 @@
+{
+  "id": "the-love-letter-toulmouche",
+  "titulo": "The Love Letter",
+  "autor": "Auguste Toulmouche",
+  "fecha": "1863",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En The Love Letter, Auguste Toulmouche evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Toulmouche observó la vida burguesa desde el gesto contenido: telas lujosas, interiores impecables y emociones que apenas rompen la disciplina…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Auguste Toulmouche",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3371,
+    4000
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Auguste%20Toulmouche%20-%20The%20Love%20Letter%2C%201863.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Auguste%20Toulmouche%20-%20The%20Love%20Letter%2C%201863.jpg",
+    "alt": "Reproducción de The Love Letter, obra de Auguste Toulmouche",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Auguste_Toulmouche_-_The_Love_Letter,_1863.jpg",
+    "licencia": "Public domain",
+    "credito": "Sotheby's",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q130804846",
+    "wikimediaFile": "Auguste Toulmouche - The Love Letter, 1863.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1863
+}

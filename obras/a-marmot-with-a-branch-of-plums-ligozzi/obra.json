@@ -1,0 +1,38 @@
+{
+  "id": "a-marmot-with-a-branch-of-plums-ligozzi",
+  "titulo": "A Marmot with a Branch of Plums",
+  "autor": "Jacopo Ligozzi",
+  "fecha": "1605",
+  "tipo": "Pintura",
+  "periodo": "Manierismo tardío",
+  "coleccion": "Renacimiento",
+  "descripcion": "En A Marmot with a Branch of Plums, Jacopo Ligozzi evita que el asunto quede reducido a su título. La luz y la atmósfera modifican cada superficie; agua, cielo, vegetación o nieve dejan de ser fondo y pasan a determinar el ritmo emocional de la escena. Ligozzi podía pasar del retrato cortesano a la historia natural y a la vanitas macabra. Su precisión descriptiva convierte…",
+  "pais": "Italia",
+  "etiquetas": [
+    "Manierismo tardío",
+    "Jacopo Ligozzi",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4000,
+    3132
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacopo%20Ligozzi%2C%20A%20Marmot%20with%20a%20Branch%20of%20Plums%2C%201605%2C%20NGA%20139309.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacopo%20Ligozzi%2C%20A%20Marmot%20with%20a%20Branch%20of%20Plums%2C%201605%2C%20NGA%20139309.jpg",
+    "alt": "Reproducción de A Marmot with a Branch of Plums, obra de Jacopo Ligozzi",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jacopo_Ligozzi,_A_Marmot_with_a_Branch_of_Plums,_1605,_NGA_139309.jpg",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the  National Gallery of Art . Please see the Gallery's  Open Access Policy .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q64580059",
+    "wikimediaFile": "Jacopo Ligozzi, A Marmot with a Branch of Plums, 1605, NGA 139309.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1605
+}

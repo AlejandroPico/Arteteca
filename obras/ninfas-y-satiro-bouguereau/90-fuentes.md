@@ -1,0 +1,12 @@
+---
+titulo: Fuentes
+icono: archivo
+---
+
+## Documentación
+
+- [Ficha y licencia de la reproducción en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Nymphs_and_Satyr_(1873)_HQ.jpg)
+- [Identificador de la obra en Wikidata](https://www.wikidata.org/wiki/Q3555076)
+- [Página que sirvió como punto de partida curatorial](https://tresubresdobles.com/tag/pintura)
+
+La página de selección no se usa como única autoridad documental. Los datos y la licencia se contrastan con los registros enlazados.

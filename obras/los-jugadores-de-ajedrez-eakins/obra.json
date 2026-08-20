@@ -1,0 +1,38 @@
+{
+  "id": "los-jugadores-de-ajedrez-eakins",
+  "titulo": "Los jugadores de ajedrez",
+  "autor": "Thomas Eakins",
+  "fecha": "1876",
+  "tipo": "Pintura",
+  "periodo": "Realismo estadounidense",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Los jugadores de ajedrez, Thomas Eakins evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Eakins llevó al lienzo una observación casi científica del cuerpo, el trabajo y la vida contemporánea, sin suavizar lo incómodo para…",
+  "pais": "Estados Unidos",
+  "etiquetas": [
+    "Realismo estadounidense",
+    "Thomas Eakins",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3811,
+    2798
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Chess%20Players%20MET%20DT1506.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Chess%20Players%20MET%20DT1506.jpg",
+    "alt": "Reproducción de Los jugadores de ajedrez, obra de Thomas Eakins",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Chess_Players_MET_DT1506.jpg",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the  Metropolitan Museum of Art . See the  Image and Data Resources Open Access Policy",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1196533",
+    "wikimediaFile": "The Chess Players MET DT1506.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1876
+}

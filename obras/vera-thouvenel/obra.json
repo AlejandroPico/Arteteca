@@ -1,0 +1,39 @@
+{
+  "id": "vera-thouvenel",
+  "titulo": "Vera",
+  "tituloOriginal": "Vera",
+  "autor": "Cédric Thouvenel",
+  "fecha": "Contemporánea",
+  "tipo": "Pintura",
+  "periodo": "Retrato contemporáneo",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "La mirada organiza una superficie en la que dibujo y color parecen corregirse mutuamente. Thouvenel construye retratos de color tenso y gesto inmediato: la semejanza importa, pero también la vibración emocional de la superficie.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Retrato contemporáneo",
+    "Cédric Thouvenel",
+    "selección Tres Ubres Dobles",
+    "imagen remota"
+  ],
+  "proporcion": [
+    500,
+    712
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://i.nzpe.ro/wp-content/uploads/2022/05/1901-V-Cedric-Thouvenel-for-Web-500x712.jpg",
+    "urlAltaResolucion": "https://i.nzpe.ro/wp-content/uploads/2022/05/1901-V-Cedric-Thouvenel-for-Web-500x712.jpg",
+    "alt": "Reproducción de Vera, obra de Cédric Thouvenel",
+    "fuente": "https://inzpero.no/produkt/vera-cedric-thouvenel/",
+    "licencia": "© artista o titular de derechos · reproducción remota acreditada",
+    "credito": "Cédric Thouvenel · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://inzpero.no/produkt/vera-cedric-thouvenel/",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "abendmahl-in-selsingen-bokelmann",
+  "titulo": "Abendmahl in Selsingen",
+  "autor": "Christian Ludwig Bokelmann",
+  "fecha": "1893",
+  "tipo": "Pintura",
+  "periodo": "Realismo social alemán",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Abendmahl in Selsingen, Christian Ludwig Bokelmann evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Bokelmann construyó escenas narrativas de la vida moderna en las que una mirada, un objeto o una diferencia social desencadenan…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Realismo social alemán",
+    "Christian Ludwig Bokelmann",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2668,
+    3638
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bokelmann%20Abendmahl%20in%20Selsingen.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bokelmann%20Abendmahl%20in%20Selsingen.jpg",
+    "alt": "Reproducción de Abendmahl in Selsingen, obra de Christian Ludwig Bokelmann",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bokelmann_Abendmahl_in_Selsingen.jpg",
+    "licencia": "Public domain",
+    "credito": "uploader was  Hajotthu  at  de.wikipedia",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q134308314",
+    "wikimediaFile": "Bokelmann Abendmahl in Selsingen.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1893
+}

@@ -1,0 +1,38 @@
+{
+  "id": "mujer-sentada-tocando-la-espineta-vermeer",
+  "titulo": "Mujer sentada tocando la espineta",
+  "autor": "Johannes Vermeer",
+  "fecha": "1670",
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "En Mujer sentada tocando la espineta, Johannes Vermeer evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Vermeer concentra el mundo en interiores silenciosos donde la luz, los objetos y las pausas entre acciones revelan más que el…",
+  "pais": "Países Bajos",
+  "etiquetas": [
+    "Barroco neerlandés",
+    "Johannes Vermeer",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    10100,
+    11371
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Vermeer%20van%20Delft%20-%20Jonge%20vrouw%20aan%20een%20virginaal%20%28ca.%201670-72%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Vermeer%20van%20Delft%20-%20Jonge%20vrouw%20aan%20een%20virginaal%20%28ca.%201670-72%29.jpg?width=6000",
+    "alt": "Reproducción de Mujer sentada tocando la espineta, obra de Johannes Vermeer",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_Jonge_vrouw_aan_een_virginaal_(ca._1670-72).jpg",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q2267440",
+    "wikimediaFile": "Jan Vermeer van Delft - Jonge vrouw aan een virginaal (ca. 1670-72).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1670
+}

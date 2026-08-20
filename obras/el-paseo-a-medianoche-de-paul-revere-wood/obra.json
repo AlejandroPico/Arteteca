@@ -1,0 +1,38 @@
+{
+  "id": "el-paseo-a-medianoche-de-paul-revere-wood",
+  "titulo": "El paseo a medianoche de Paul Revere",
+  "autor": "Grant Wood",
+  "fecha": "1931",
+  "tipo": "Pintura",
+  "periodo": "Regionalismo estadounidense",
+  "coleccion": "Modernidad y vanguardias",
+  "descripcion": "En El paseo a medianoche de Paul Revere, Grant Wood evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Wood convirtió el Medio Oeste estadounidense en un escenario nítido y deliberadamente extraño, a medio camino entre el homenaje, la…",
+  "pais": "Estados Unidos",
+  "etiquetas": [
+    "Regionalismo estadounidense",
+    "Grant Wood",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3564,
+    2625
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grant%20Wood%2C%20The%20Midnight%20Ride%20of%20Paul%20Revere%2C%201931%20%2834571304085%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grant%20Wood%2C%20The%20Midnight%20Ride%20of%20Paul%20Revere%2C%201931%20%2834571304085%29.jpg",
+    "alt": "Reproducción de El paseo a medianoche de Paul Revere, obra de Grant Wood",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Grant_Wood,_The_Midnight_Ride_of_Paul_Revere,_1931_(34571304085).jpg",
+    "licencia": "Public domain",
+    "credito": "https://www.metmuseum.org/art/collection/search/488577",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q19920734",
+    "wikimediaFile": "Grant Wood, The Midnight Ride of Paul Revere, 1931 (34571304085).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1931
+}

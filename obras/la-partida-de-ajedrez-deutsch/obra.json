@@ -1,0 +1,39 @@
+{
+  "id": "la-partida-de-ajedrez-deutsch",
+  "titulo": "La partida de ajedrez",
+  "tituloOriginal": "The Chess Game",
+  "autor": "Ludwig Deutsch",
+  "fecha": "1896",
+  "tipo": "Pintura",
+  "periodo": "Orientalismo",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "Dos jugadores concentran la atención en el tablero mientras la arquitectura, los tejidos y los objetos construyen un mundo de precisión casi táctil. Deutsch convierte una pausa silenciosa en estudio de observación, estrategia y representación orientalista.",
+  "pais": "Austria",
+  "etiquetas": [
+    "Orientalismo",
+    "Ludwig Deutsch",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1494,
+    2000
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Chess%20Game.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Chess%20Game.jpg",
+    "alt": "Reproducción de La partida de ajedrez, obra de Ludwig Deutsch",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Chess_Game.jpg",
+    "licencia": "Public domain",
+    "credito": "[1]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q25569079",
+    "wikimediaFile": "The Chess Game.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1896
+}

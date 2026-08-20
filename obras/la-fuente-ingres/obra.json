@@ -1,0 +1,38 @@
+{
+  "id": "la-fuente-ingres",
+  "titulo": "La fuente",
+  "autor": "Jean-Auguste-Dominique Ingres",
+  "fecha": "1856",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En La fuente, Jean-Auguste-Dominique Ingres evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Ingres defendió la primacía de la línea y del dibujo, aunque sus cuerpos alargados, superficies pulidas y espacios tensos desbordan la…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Neoclasicismo",
+    "Jean-Auguste-Dominique Ingres",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3099,
+    6190
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean%20Auguste%20Dominique%20Ingres%20-%20The%20Spring%20-%20Google%20Art%20Project%202.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean%20Auguste%20Dominique%20Ingres%20-%20The%20Spring%20-%20Google%20Art%20Project%202.jpg",
+    "alt": "Reproducción de La fuente, obra de Jean-Auguste-Dominique Ingres",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jean_Auguste_Dominique_Ingres_-_The_Spring_-_Google_Art_Project_2.jpg",
+    "licencia": "Public domain",
+    "credito": "Google Art Project:  Home  –  pic  Maximum resolution.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1215604",
+    "wikimediaFile": "Jean Auguste Dominique Ingres - The Spring - Google Art Project 2.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1856
+}

@@ -1,0 +1,38 @@
+{
+  "id": "bonaparte-ante-la-esfinge-gerome",
+  "titulo": "Bonaparte ante la Esfinge",
+  "autor": "Jean-Léon Gérôme",
+  "fecha": "1867",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Bonaparte ante la Esfinge, Jean-Léon Gérôme evita que el asunto quede reducido a su título. El pintor elige un instante cargado de consecuencias y lo vuelve legible mediante gestos, diagonales y contrastes de luz, sin reducir el mito o el relato sagrado a una ilustración literal. Gérôme construyó escenas históricas de enorme verosimilitud visual y fuerte teatralidad. Esa…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Jean-Léon Gérôme",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3071,
+    1838
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bonaparte%20ante%20la%20Esfinge%2C%20por%20Jean-L%C3%A9on%20G%C3%A9r%C3%B4me.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bonaparte%20ante%20la%20Esfinge%2C%20por%20Jean-L%C3%A9on%20G%C3%A9r%C3%B4me.jpg",
+    "alt": "Reproducción de Bonaparte ante la Esfinge, obra de Jean-Léon Gérôme",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Bonaparte_ante_la_Esfinge,_por_Jean-L%C3%A9on_G%C3%A9r%C3%B4me.jpg",
+    "licencia": "Public domain",
+    "credito": "Fuente",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q2909909",
+    "wikimediaFile": "Bonaparte ante la Esfinge, por Jean-Léon Gérôme.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1867
+}

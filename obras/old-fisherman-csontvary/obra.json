@@ -1,0 +1,38 @@
+{
+  "id": "old-fisherman-csontvary",
+  "titulo": "Old Fisherman",
+  "autor": "Tivadar Kosztka Csontváry",
+  "fecha": "1902",
+  "tipo": "Pintura",
+  "periodo": "Modernidad centroeuropea",
+  "coleccion": "Modernidad y vanguardias",
+  "descripcion": "El viejo pescador mira de frente con el rostro endurecido por el tiempo. La simetría casi frontal ha alimentado una lectura célebre: al duplicar cada mitad del rostro aparecen dos figuras opuestas, una serena y otra demoníaca.",
+  "pais": "Hungría",
+  "etiquetas": [
+    "Modernidad centroeuropea",
+    "Tivadar Kosztka Csontváry",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1346,
+    1812
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Csontv%C3%A1ry%20Kosztka%2C%20Tivadar%20-%20Old%20Fisherman%20%281902%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Csontv%C3%A1ry%20Kosztka%2C%20Tivadar%20-%20Old%20Fisherman%20%281902%29.jpg",
+    "alt": "Reproducción de Old Fisherman, obra de Tivadar Kosztka Csontváry",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Csontv%C3%A1ry_Kosztka,_Tivadar_-_Old_Fisherman_(1902).jpg",
+    "licencia": "Public domain",
+    "credito": "Fine Arts in Hungary:                 \n   \n \nsource of the higher resolution version:  [1]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q38520538",
+    "wikimediaFile": "Csontváry Kosztka, Tivadar - Old Fisherman (1902).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1902
+}

@@ -1,0 +1,38 @@
+{
+  "id": "muerte-en-ridge-road-wood",
+  "titulo": "Muerte en Ridge Road",
+  "autor": "Grant Wood",
+  "fecha": "1935",
+  "tipo": "Pintura",
+  "periodo": "Regionalismo estadounidense",
+  "coleccion": "Modernidad y vanguardias",
+  "descripcion": "En Muerte en Ridge Road, Grant Wood evita que el asunto quede reducido a su título. El movimiento colectivo se fragmenta en gestos y direcciones contrapuestas; el relato histórico se entiende a través de cuerpos, caballos, humo y terreno. Wood convirtió el Medio Oeste estadounidense en un escenario nítido y deliberadamente extraño, a medio camino entre el homenaje, la…",
+  "pais": "Estados Unidos",
+  "etiquetas": [
+    "Regionalismo estadounidense",
+    "Grant Wood",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    960,
+    761
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grant%20Wood%20Death%20on%20the%20ridge%20road%201935.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Grant%20Wood%20Death%20on%20the%20ridge%20road%201935.jpg",
+    "alt": "Reproducción de Muerte en Ridge Road, obra de Grant Wood",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Grant_Wood_Death_on_the_ridge_road_1935.jpg",
+    "licencia": "Public domain",
+    "credito": "Williams College Museum of Art, Williamstown",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q113990456",
+    "wikimediaFile": "Grant Wood Death on the ridge road 1935.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1935
+}

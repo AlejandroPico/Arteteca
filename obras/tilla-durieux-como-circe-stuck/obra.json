@@ -1,0 +1,38 @@
+{
+  "id": "tilla-durieux-como-circe-stuck",
+  "titulo": "Tilla Durieux como Circe",
+  "autor": "Franz von Stuck",
+  "fecha": "1913",
+  "tipo": "Pintura",
+  "periodo": "Simbolismo",
+  "coleccion": "Simbolismo y fin de siglo",
+  "descripcion": "En Tilla Durieux como Circe, Franz von Stuck evita que el asunto quede reducido a su título. El pintor elige un instante cargado de consecuencias y lo vuelve legible mediante gestos, diagonales y contrastes de luz, sin reducir el mito o el relato sagrado a una ilustración literal. Von Stuck condensó deseo, amenaza y mito en figuras frontales, fondos oscuros y marcos…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Simbolismo",
+    "Franz von Stuck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2365,
+    2080
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alte%20Nationalgalerie-Stuck-Tilla%20Durieux%20als%20Circe%20DSC7992%20%28cropped%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alte%20Nationalgalerie-Stuck-Tilla%20Durieux%20als%20Circe%20DSC7992%20%28cropped%29.jpg",
+    "alt": "Reproducción de Tilla Durieux como Circe, obra de Franz von Stuck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Alte_Nationalgalerie-Stuck-Tilla_Durieux_als_Circe_DSC7992_(cropped).jpg",
+    "licencia": "Public domain",
+    "credito": "Wuselig",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q50215295",
+    "wikimediaFile": "Alte Nationalgalerie-Stuck-Tilla Durieux als Circe DSC7992 (cropped).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1913
+}

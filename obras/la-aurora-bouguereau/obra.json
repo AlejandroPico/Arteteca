@@ -1,0 +1,38 @@
+{
+  "id": "la-aurora-bouguereau",
+  "titulo": "La Aurora",
+  "autor": "William-Adolphe Bouguereau",
+  "fecha": "1881",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En La Aurora, William-Adolphe Bouguereau evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Bouguereau llevó el acabado académico a una superficie casi sin huella de pincel, combinando anatomía idealizada con gestos de dolor, ternura…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "William-Adolphe Bouguereau",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2982,
+    5944
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/L%27Aurore%20%28Dawn%29%20-%20William-Adolphe%20Bouguereau%20-%20Google%20Cultural%20Institute.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/L%27Aurore%20%28Dawn%29%20-%20William-Adolphe%20Bouguereau%20-%20Google%20Cultural%20Institute.jpg",
+    "alt": "Reproducción de La Aurora, obra de William-Adolphe Bouguereau",
+    "fuente": "https://commons.wikimedia.org/wiki/File:L%27Aurore_(Dawn)_-_William-Adolphe_Bouguereau_-_Google_Cultural_Institute.jpg",
+    "licencia": "Public domain",
+    "credito": "Google Art Project",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q5962062",
+    "wikimediaFile": "L'Aurore (Dawn) - William-Adolphe Bouguereau - Google Cultural Institute.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1881
+}

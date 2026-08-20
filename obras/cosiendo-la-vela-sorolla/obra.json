@@ -1,0 +1,38 @@
+{
+  "id": "cosiendo-la-vela-sorolla",
+  "titulo": "Cosiendo la vela",
+  "autor": "Joaquín Sorolla",
+  "fecha": "1896",
+  "tipo": "Pintura",
+  "periodo": "Luminismo valenciano",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Cosiendo la vela, Joaquín Sorolla evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Sorolla hizo de la luz un fenómeno físico: rebota en el agua, atraviesa las telas y deshace los contornos, pero nunca borra la realidad social o…",
+  "pais": "España",
+  "etiquetas": [
+    "Luminismo valenciano",
+    "Joaquín Sorolla",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    5547,
+    4038
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%28Venice%29%20Sewing%20the%20Sail%20by%20Joaquin%20Sorolla%20y%20Bastida%20-%20Museo%20d%27arte%20moderna.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%28Venice%29%20Sewing%20the%20Sail%20by%20Joaquin%20Sorolla%20y%20Bastida%20-%20Museo%20d%27arte%20moderna.jpg",
+    "alt": "Reproducción de Cosiendo la vela, obra de Joaquín Sorolla",
+    "fuente": "https://commons.wikimedia.org/wiki/File:(Venice)_Sewing_the_Sail_by_Joaquin_Sorolla_y_Bastida_-_Museo_d%27arte_moderna.jpg",
+    "licencia": "CC BY-SA 4.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q51726313",
+    "wikimediaFile": "(Venice) Sewing the Sail by Joaquin Sorolla y Bastida - Museo d'arte moderna.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1896
+}

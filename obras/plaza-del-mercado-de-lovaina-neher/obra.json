@@ -1,0 +1,39 @@
+{
+  "id": "plaza-del-mercado-de-lovaina-neher",
+  "titulo": "Plaza del mercado de Lovaina",
+  "autor": "Michael Neher",
+  "fecha": "1854",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo arquitectónico",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Plaza del mercado de Lovaina, Michael Neher evita que el asunto quede reducido a su título. La perspectiva conduce la mirada por la arquitectura, mientras las figuras pequeñas permiten medir la escala y percibir cómo el espacio condiciona la experiencia humana. Neher hizo de plazas, puertas, iglesias y ruinas una memoria urbana minuciosa, animada por figuras pequeñas que…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Romanticismo arquitectónico",
+    "Michael Neher",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2500,
+    2006
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michael%20Neher%20-%20Marktplatz%20in%20L%C3%B6wen%20%281854%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Michael%20Neher%20-%20Marktplatz%20in%20L%C3%B6wen%20%281854%29.jpg",
+    "alt": "Reproducción de Plaza del mercado de Lovaina, obra de Michael Neher",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Michael_Neher_-_Marktplatz_in_L%C3%B6wen_(1854).jpg",
+    "licencia": "Public domain",
+    "credito": "Palais Dorotheum, Wien, 12.10.2010, lot 146",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "Michael Neher - Marktplatz in Löwen (1854).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "Marktplatz in Löwen",
+  "fechaOrden": 1854
+}

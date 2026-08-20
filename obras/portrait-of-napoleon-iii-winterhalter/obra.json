@@ -1,0 +1,38 @@
+{
+  "id": "portrait-of-napoleon-iii-winterhalter",
+  "titulo": "Portrait of Napoleon III",
+  "autor": "Franz Xaver Winterhalter",
+  "fecha": "1853",
+  "tipo": "Pintura",
+  "periodo": "Retrato cortesano del siglo XIX",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Portrait of Napoleon III, Franz Xaver Winterhalter evita que el asunto quede reducido a su título. La pose, el rostro y la indumentaria no son simples datos de identidad: organizan una negociación entre presencia privada e imagen pública. Winterhalter dominó el retrato de corte europeo: convirtió rango, moda y presencia física en imágenes de autoridad que conservan una…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Retrato cortesano del siglo XIX",
+    "Franz Xaver Winterhalter",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    898,
+    1400
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Franz%20Xaver%20Winterhalter%20Napoleon%20III.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Franz%20Xaver%20Winterhalter%20Napoleon%20III.jpg",
+    "alt": "Reproducción de Portrait of Napoleon III, obra de Franz Xaver Winterhalter",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Franz_Xaver_Winterhalter_Napoleon_III.jpg",
+    "licencia": "Public domain",
+    "credito": "Unknown source Unknown source",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q62476202",
+    "wikimediaFile": "Franz Xaver Winterhalter Napoleon III.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1853
+}

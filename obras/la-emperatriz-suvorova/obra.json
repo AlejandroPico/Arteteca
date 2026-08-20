@@ -1,0 +1,39 @@
+{
+  "id": "la-emperatriz-suvorova",
+  "titulo": "La emperatriz",
+  "tituloOriginal": "The Empress",
+  "autor": "Olga Suvorova",
+  "fecha": "Contemporánea",
+  "tipo": "Pintura",
+  "periodo": "Figuración ornamental contemporánea",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "La figura imperial se confunde con un cortejo de estampados, animales y joyas: gobernar es también ocupar visualmente todo el espacio. Suvorova imagina una corte teatral y atemporal, saturada de flores, aves, joyas y telas; el ornamento no rodea a las figuras, sino que define su mundo.",
+  "pais": "Rusia",
+  "etiquetas": [
+    "Figuración ornamental contemporánea",
+    "Olga Suvorova",
+    "selección Tres Ubres Dobles",
+    "imagen remota"
+  ],
+  "proporcion": [
+    460,
+    254
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://rakovgallery.com/media/Catalog/Product/2023-05-21/preview_XL_418920318803d753de255497817d31ce.jpg",
+    "urlAltaResolucion": "https://rakovgallery.com/media/Catalog/Product/2023-05-21/preview_XL_418920318803d753de255497817d31ce.jpg",
+    "alt": "Reproducción de La emperatriz, obra de Olga Suvorova",
+    "fuente": "https://rakovgallery.com/artist/olga-suvorova",
+    "licencia": "© artista o titular de derechos · reproducción remota acreditada",
+    "credito": "Olga Suvorova · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://rakovgallery.com/artist/olga-suvorova",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "retrato-del-rey-carlos-vii-fouquet",
+  "titulo": "Retrato del rey Carlos VII",
+  "autor": "Jean Fouquet",
+  "fecha": "1444",
+  "tipo": "Pintura",
+  "periodo": "Renacimiento francés",
+  "coleccion": "Renacimiento",
+  "descripcion": "En Retrato del rey Carlos VII, Jean Fouquet evita que el asunto quede reducido a su título. La pose, el rostro y la indumentaria no son simples datos de identidad: organizan una negociación entre presencia privada e imagen pública. Fouquet unió observación retratística, geometría cortesana y una luz de precisión casi esmaltada, abriendo una vía singular entre tradición…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Renacimiento francés",
+    "Jean Fouquet",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3307,
+    4025
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/KarlVII.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/KarlVII.jpg",
+    "alt": "Reproducción de Retrato del rey Carlos VII, obra de Jean Fouquet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:KarlVII.jpg",
+    "licencia": "Public domain",
+    "credito": "Swedish Wikipedia, uploaded there by user  Lamré  on 2005-01-25, 04:39",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q3399420",
+    "wikimediaFile": "KarlVII.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1444
+}

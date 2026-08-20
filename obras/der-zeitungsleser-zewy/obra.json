@@ -1,0 +1,38 @@
+{
+  "id": "der-zeitungsleser-zewy",
+  "titulo": "Der Zeitungsleser",
+  "autor": "Carl Zewy",
+  "fecha": "1900",
+  "tipo": "Pintura",
+  "periodo": "Pintura de género austrohúngara",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Der Zeitungsleser, Carl Zewy evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Zewy encontró drama en la lectura, la música doméstica y las noticias: interiores cotidianos en los que el relato depende de una reacción apenas comenzada.",
+  "pais": "Austria",
+  "etiquetas": [
+    "Pintura de género austrohúngara",
+    "Carl Zewy",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4097,
+    3252
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carl%20Zewy%20Der%20Zeitungsleser.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carl%20Zewy%20Der%20Zeitungsleser.jpg",
+    "alt": "Reproducción de Der Zeitungsleser, obra de Carl Zewy",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Carl_Zewy_Der_Zeitungsleser.jpg",
+    "licencia": "Public domain",
+    "credito": "http://www.dorotheum.com",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q137270407",
+    "wikimediaFile": "Carl Zewy Der Zeitungsleser.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1900
+}

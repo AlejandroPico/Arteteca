@@ -1,0 +1,38 @@
+{
+  "id": "el-sacrificio-de-isaac-orrente",
+  "titulo": "El sacrificio de Isaac",
+  "autor": "Pedro de Orrente",
+  "fecha": "1616",
+  "tipo": "Pintura",
+  "periodo": "Barroco español",
+  "coleccion": "Barroco",
+  "descripcion": "En El sacrificio de Isaac, Pedro de Orrente evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Orrente trasladó a la pintura española el paisaje narrativo aprendido de los Bassano: episodios bíblicos extensos, animales y figuras…",
+  "pais": "España",
+  "etiquetas": [
+    "Barroco español",
+    "Pedro de Orrente",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1719,
+    1378
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Orrente-isaac.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Orrente-isaac.jpg",
+    "alt": "Reproducción de El sacrificio de Isaac, obra de Pedro de Orrente",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Orrente-isaac.jpg",
+    "licencia": "Public domain",
+    "credito": "[2]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q11796540",
+    "wikimediaFile": "Orrente-isaac.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1616
+}

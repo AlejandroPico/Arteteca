@@ -1,0 +1,38 @@
+{
+  "id": "dionysia-cot",
+  "titulo": "Dionysia",
+  "autor": "Pierre Auguste Cot",
+  "fecha": "1870",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Dionysia, Pierre Auguste Cot evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Cot hizo del movimiento de telas, cuerpos y vegetación un lenguaje para el enamoramiento, la amenaza y la fantasía sentimental del Salón.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Pierre Auguste Cot",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1514,
+    1980
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pierre%20Auguste%20Cot-Dionisa-1870.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pierre%20Auguste%20Cot-Dionisa-1870.jpg",
+    "alt": "Reproducción de Dionysia, obra de Pierre Auguste Cot",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pierre_Auguste_Cot-Dionisa-1870.jpg",
+    "licencia": "Public domain",
+    "credito": "1.  kaneva.com  2.  liveinternet.ru",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q110916918",
+    "wikimediaFile": "Pierre Auguste Cot-Dionisa-1870.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1870
+}

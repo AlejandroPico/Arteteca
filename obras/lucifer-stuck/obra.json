@@ -1,0 +1,38 @@
+{
+  "id": "lucifer-stuck",
+  "titulo": "Lucifer",
+  "autor": "Franz von Stuck",
+  "fecha": "1890",
+  "tipo": "Pintura",
+  "periodo": "Simbolismo",
+  "coleccion": "Simbolismo y fin de siglo",
+  "descripcion": "Lucifer no ruge ni despliega una acción espectacular. Sentado, compacto y frontal, sostiene la cabeza con una mano mientras sus ojos atraviesan la oscuridad; el mal aparece como inteligencia, resentimiento y presencia humana.",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Simbolismo",
+    "Franz von Stuck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4700,
+    4961
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Luzifer%20%28Lucifer%29%20painting%20by%20Franz%20von%20Stuck%201890%20National%20Gallery%20in%20Sofia.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Luzifer%20%28Lucifer%29%20painting%20by%20Franz%20von%20Stuck%201890%20National%20Gallery%20in%20Sofia.jpg",
+    "alt": "Reproducción de Lucifer, obra de Franz von Stuck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Luzifer_(Lucifer)_painting_by_Franz_von_Stuck_1890_National_Gallery_in_Sofia.jpg",
+    "licencia": "Public domain",
+    "credito": "The National Gallery for Foreign Art in Sofia, Bulgaria. Maurizio Zuccari -  https://www.mauriziozuccari.net/site/linferno-sullorlo-del-baratro/  . Originally from akg-images.",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q22953800",
+    "wikimediaFile": "Luzifer (Lucifer) painting by Franz von Stuck 1890 National Gallery in Sofia.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1890
+}

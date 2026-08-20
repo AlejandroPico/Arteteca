@@ -1,0 +1,38 @@
+{
+  "id": "the-sahleb-vendor-cairo-deutsch",
+  "titulo": "The Sahleb Vendor, Cairo",
+  "autor": "Ludwig Deutsch",
+  "fecha": "1886",
+  "tipo": "Pintura",
+  "periodo": "Orientalismo",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En The Sahleb Vendor, Cairo, Ludwig Deutsch evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Deutsch pintó escenas orientalistas de precisión casi arqueológica. Su virtuosismo debe leerse junto a la mirada europea y colonial desde…",
+  "pais": "Austria",
+  "etiquetas": [
+    "Orientalismo",
+    "Ludwig Deutsch",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    817,
+    1000
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ludwig%20Deutsch%20-%20The%20Sahleb%20Vendor%20Cairo%2C%201886.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ludwig%20Deutsch%20-%20The%20Sahleb%20Vendor%20Cairo%2C%201886.jpg",
+    "alt": "Reproducción de The Sahleb Vendor, Cairo, obra de Ludwig Deutsch",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ludwig_Deutsch_-_The_Sahleb_Vendor_Cairo,_1886.jpg",
+    "licencia": "Public domain",
+    "credito": "[1]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q20406511",
+    "wikimediaFile": "Ludwig Deutsch - The Sahleb Vendor Cairo, 1886.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1886
+}

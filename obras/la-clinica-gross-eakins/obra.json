@@ -1,0 +1,38 @@
+{
+  "id": "la-clinica-gross-eakins",
+  "titulo": "La clínica Gross",
+  "autor": "Thomas Eakins",
+  "fecha": "1875",
+  "tipo": "Pintura",
+  "periodo": "Realismo estadounidense",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "El doctor Gross se levanta del círculo de cirujanos con el bisturí aún en la mano. La herida, la sangre, la madre que se cubre el rostro y los estudiantes que miran convierten la lección médica en una escena pública de conocimiento y vulnerabilidad.",
+  "pais": "Estados Unidos",
+  "etiquetas": [
+    "Realismo estadounidense",
+    "Thomas Eakins",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4537,
+    5627
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomas%20Eakins%2C%20American%20-%20Portrait%20of%20Dr.%20Samuel%20D.%20Gross%20%28The%20Gross%20Clinic%29%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomas%20Eakins%2C%20American%20-%20Portrait%20of%20Dr.%20Samuel%20D.%20Gross%20%28The%20Gross%20Clinic%29%20-%20Google%20Art%20Project.jpg",
+    "alt": "Reproducción de La clínica Gross, obra de Thomas Eakins",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Thomas_Eakins,_American_-_Portrait_of_Dr._Samuel_D._Gross_(The_Gross_Clinic)_-_Google_Art_Project.jpg",
+    "licencia": "Public domain",
+    "credito": "tQFcdDEg20osqg at Google Cultural Institute  maximum zoom level",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1213936",
+    "wikimediaFile": "Thomas Eakins, American - Portrait of Dr. Samuel D. Gross (The Gross Clinic) - Google Art Project.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1875
+}

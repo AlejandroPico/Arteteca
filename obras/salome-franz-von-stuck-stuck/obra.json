@@ -1,0 +1,38 @@
+{
+  "id": "salome-franz-von-stuck-stuck",
+  "titulo": "Salomé (Franz von Stuck)",
+  "autor": "Franz von Stuck",
+  "fecha": "1906",
+  "tipo": "Pintura",
+  "periodo": "Simbolismo",
+  "coleccion": "Simbolismo y fin de siglo",
+  "descripcion": "En Salomé (Franz von Stuck), Franz von Stuck evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Von Stuck condensó deseo, amenaza y mito en figuras frontales, fondos oscuros y marcos concebidos como parte de la obra; lo demoníaco…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Simbolismo",
+    "Franz von Stuck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3769,
+    3711
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stuck%20-%20Salome%20-Lenbachhaus%20DSC1699.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stuck%20-%20Salome%20-Lenbachhaus%20DSC1699.jpg",
+    "alt": "Reproducción de Salomé (Franz von Stuck), obra de Franz von Stuck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Stuck_-_Salome_-Lenbachhaus_DSC1699.jpg",
+    "licencia": "Public domain",
+    "credito": "Wuselig",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1577097",
+    "wikimediaFile": "Stuck - Salome -Lenbachhaus DSC1699.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1906
+}

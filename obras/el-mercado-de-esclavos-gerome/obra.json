@@ -1,0 +1,38 @@
+{
+  "id": "el-mercado-de-esclavos-gerome",
+  "titulo": "El mercado de esclavos",
+  "autor": "Jean-Léon Gérôme",
+  "fecha": "1866",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En El mercado de esclavos, Jean-Léon Gérôme evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Gérôme construyó escenas históricas de enorme verosimilitud visual y fuerte teatralidad. Esa precisión seductora también exige examinar…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Jean-Léon Gérôme",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    4674,
+    6265
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%20-%20Le%20March%C3%A9%20d%27esclaves.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean-L%C3%A9on%20G%C3%A9r%C3%B4me%20-%20Le%20March%C3%A9%20d%27esclaves.jpg",
+    "alt": "Reproducción de El mercado de esclavos, obra de Jean-Léon Gérôme",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_March%C3%A9_d%27esclaves.jpg",
+    "licencia": "Public domain",
+    "credito": "The Clark \n \n(first uploaded version  http://www.orientalist-art.org.uk/gerome13.html  )",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q3224275",
+    "wikimediaFile": "Jean-Léon Gérôme - Le Marché d'esclaves.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1866
+}

@@ -1,0 +1,38 @@
+{
+  "id": "angustia-schenck",
+  "titulo": "Angustia",
+  "autor": "August Friedrich Schenck",
+  "fecha": "1878",
+  "tipo": "Pintura",
+  "periodo": "Realismo animalista",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Una oveja bala sobre el cuerpo inmóvil de su cordero. Su aliento se condensa en el frío y el pequeño hilo de sangre que mancha la nieve convierte el grupo en una piedad animal; alrededor, los cuervos forman un cerco que todavía no se atreve a cerrarse.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Realismo animalista",
+    "August Friedrich Schenck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    6517,
+    3961
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/August%20Friedrich%20Albrecht%20Schenck%20-%20Anguish%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/August%20Friedrich%20Albrecht%20Schenck%20-%20Anguish%20-%20Google%20Art%20Project.jpg?width=6000",
+    "alt": "Reproducción de Angustia, obra de August Friedrich Schenck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:August_Friedrich_Albrecht_Schenck_-_Anguish_-_Google_Art_Project.jpg",
+    "licencia": "Public domain",
+    "credito": "Google Arts & Culture:   Home page  –  Image",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q20392215",
+    "wikimediaFile": "August Friedrich Albrecht Schenck - Anguish - Google Art Project.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1878
+}

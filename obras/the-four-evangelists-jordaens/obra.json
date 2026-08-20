@@ -1,0 +1,38 @@
+{
+  "id": "the-four-evangelists-jordaens",
+  "titulo": "The Four Evangelists",
+  "autor": "Jacob Jordaens",
+  "fecha": "1617",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En The Four Evangelists, Jacob Jordaens evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jordaens hizo del cuerpo, el banquete, la familia y el mito una pintura expansiva: densa, táctil, ruidosa y estrechamente ligada a la cultura…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jacob Jordaens",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1560,
+    1785
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Four%20Evangelists%20Jordaens%20Louvre%20Inv1404.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Four%20Evangelists%20Jordaens%20Louvre%20Inv1404.jpg",
+    "alt": "Reproducción de The Four Evangelists, obra de Jacob Jordaens",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Four_Evangelists_Jordaens_Louvre_Inv1404.jpg",
+    "licencia": "Public domain",
+    "credito": "Marie-Lan Nguyen  (2005)",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q16978190",
+    "wikimediaFile": "Four Evangelists Jordaens Louvre Inv1404.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1617
+}

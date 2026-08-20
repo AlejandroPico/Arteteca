@@ -1,0 +1,39 @@
+{
+  "id": "primavera-monet",
+  "titulo": "Primavera",
+  "autor": "Claude Monet",
+  "fecha": "1872",
+  "tipo": "Pintura",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Primavera, Claude Monet evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Monet estudió cómo la luz y el aire deshacen la rigidez de las formas sin perder la experiencia concreta de un lugar y un instante.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Impresionismo",
+    "Claude Monet",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    6587,
+    5038
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Claude%20Monet%20-%20Springtime%20-%20Google%20Art%20Project.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Claude%20Monet%20-%20Springtime%20-%20Google%20Art%20Project.jpg?width=6000",
+    "alt": "Reproducción de Primavera, obra de Claude Monet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Springtime_-_Google_Art_Project.jpg",
+    "licencia": "Public domain",
+    "credito": "pAEsabNHoa1naA at Google Cultural Institute  maximum zoom level",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "Claude Monet - Springtime - Google Art Project.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "Springtime",
+  "fechaOrden": 1872
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hilas-y-las-ninfas-waterhouse",
+  "titulo": "hilas y las ninfas",
+  "autor": "John William Waterhouse",
+  "fecha": "1896",
+  "tipo": "Pintura",
+  "periodo": "Prerrafaelismo tardío",
+  "coleccion": "Simbolismo y fin de siglo",
+  "descripcion": "En hilas y las ninfas, John William Waterhouse evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Waterhouse reimaginó mitos y poemas desde el instante previo a una decisión irreversible. Sus mujeres no son simple decoración:…",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Prerrafaelismo tardío",
+    "John William Waterhouse",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2124,
+    1317
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Waterhouse%20Hylas%20and%20the%20Nymphs%20Manchester%20Art%20Gallery%201896.15.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Waterhouse%20Hylas%20and%20the%20Nymphs%20Manchester%20Art%20Gallery%201896.15.jpg",
+    "alt": "Reproducción de hilas y las ninfas, obra de John William Waterhouse",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg",
+    "licencia": "Public domain",
+    "credito": "Manchester Art Gallery",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q9295442",
+    "wikimediaFile": "Waterhouse Hylas and the Nymphs Manchester Art Gallery 1896.15.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1896
+}

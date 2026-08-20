@@ -1,0 +1,38 @@
+{
+  "id": "a-colonnade-blieck",
+  "titulo": "A Colonnade",
+  "autor": "Daniël de Blieck",
+  "fecha": "1658",
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "En A Colonnade, Daniël de Blieck evita que el asunto quede reducido a su título. La perspectiva conduce la mirada por la arquitectura, mientras las figuras pequeñas permiten medir la escala y percibir cómo el espacio condiciona la experiencia humana. De Blieck especializó su mirada en arquitecturas reales e imaginadas, haciendo de la perspectiva y de la luz que cruza las…",
+  "pais": "Países Bajos",
+  "etiquetas": [
+    "Barroco neerlandés",
+    "Daniël de Blieck",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    626,
+    768
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dani%C3%ABl%20de%20Blieck%20-%20A%20Colonnade%20-%20KMSsp498%20-%20Statens%20Museum%20for%20Kunst.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dani%C3%ABl%20de%20Blieck%20-%20A%20Colonnade%20-%20KMSsp498%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "alt": "Reproducción de A Colonnade, obra de Daniël de Blieck",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Dani%C3%ABl_de_Blieck_-_A_Colonnade_-_KMSsp498_-_Statens_Museum_for_Kunst.jpg",
+    "licencia": "Public domain",
+    "credito": "http://collection.smk.dk/#/en/detail/KMSsp498",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q20440560",
+    "wikimediaFile": "Daniël de Blieck - A Colonnade - KMSsp498 - Statens Museum for Kunst.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1658
+}

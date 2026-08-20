@@ -1,0 +1,38 @@
+{
+  "id": "the-letter-zewy",
+  "titulo": "The Letter",
+  "autor": "Carl Zewy",
+  "fecha": "1929",
+  "tipo": "Pintura",
+  "periodo": "Pintura de género austrohúngara",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En The Letter, Carl Zewy evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Zewy encontró drama en la lectura, la música doméstica y las noticias: interiores cotidianos en los que el relato depende de una reacción apenas comenzada.",
+  "pais": "Austria",
+  "etiquetas": [
+    "Pintura de género austrohúngara",
+    "Carl Zewy",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1955,
+    2477
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carl%20Zewy%20-%20The%20Letter.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carl%20Zewy%20-%20The%20Letter.jpg",
+    "alt": "Reproducción de The Letter, obra de Carl Zewy",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Carl_Zewy_-_The_Letter.jpg",
+    "licencia": "Public domain",
+    "credito": "https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots-detail/auktion/12881-19th-century-paintings-and-watercolours/lotID/216/lot/2308700-carl-zewy.html?currentPage=9",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q137289103",
+    "wikimediaFile": "Carl Zewy - The Letter.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1929
+}

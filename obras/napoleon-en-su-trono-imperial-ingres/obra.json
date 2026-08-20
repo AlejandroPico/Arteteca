@@ -1,0 +1,38 @@
+{
+  "id": "napoleon-en-su-trono-imperial-ingres",
+  "titulo": "Napoleón en su trono imperial",
+  "autor": "Jean-Auguste-Dominique Ingres",
+  "fecha": "1806",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Napoleón en su trono imperial, Jean-Auguste-Dominique Ingres evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Ingres defendió la primacía de la línea y del dibujo, aunque sus cuerpos alargados, superficies pulidas y espacios…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Neoclasicismo",
+    "Jean-Auguste-Dominique Ingres",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2047,
+    3364
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ingres%2C%20Napoleon%20on%20his%20Imperial%20throne.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ingres%2C%20Napoleon%20on%20his%20Imperial%20throne.jpg",
+    "alt": "Reproducción de Napoleón en su trono imperial, obra de Jean-Auguste-Dominique Ingres",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ingres,_Napoleon_on_his_Imperial_throne.jpg",
+    "licencia": "Public domain",
+    "credito": "http://napoleonbonapart.hit.bg/index.htm .",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1282840",
+    "wikimediaFile": "Ingres, Napoleon on his Imperial throne.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1806
+}

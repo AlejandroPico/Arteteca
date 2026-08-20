@@ -1,0 +1,38 @@
+{
+  "id": "la-familia-del-pintor-16211622-jordaens",
+  "titulo": "La familia del pintor (1621–1622)",
+  "autor": "Jacob Jordaens",
+  "fecha": "1621–1622",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En La familia del pintor (1621–1622), Jacob Jordaens evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jordaens hizo del cuerpo, el banquete, la familia y el mito una pintura expansiva: densa, táctil, ruidosa y estrechamente ligada a…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jacob Jordaens",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1920,
+    1842
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Family%20of%20the%20Artist%20by%20Jacob%20Jordaens.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Family%20of%20the%20Artist%20by%20Jacob%20Jordaens.jpg",
+    "alt": "Reproducción de La familia del pintor (1621–1622), obra de Jacob Jordaens",
+    "fuente": "https://commons.wikimedia.org/wiki/File:The_Family_of_the_Artist_by_Jacob_Jordaens.jpg",
+    "licencia": "Public domain",
+    "credito": "Museo del Prado",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "The Family of the Artist by Jacob Jordaens.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "The Family of the Artist"
+}

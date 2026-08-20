@@ -1,0 +1,38 @@
+{
+  "id": "la-alegoria-de-la-fe-vermeer",
+  "titulo": "La alegoría de la fe",
+  "autor": "Johannes Vermeer",
+  "fecha": "1670",
+  "tipo": "Pintura",
+  "periodo": "Barroco neerlandés",
+  "coleccion": "Barroco",
+  "descripcion": "En La alegoría de la fe, Johannes Vermeer evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Vermeer concentra el mundo en interiores silenciosos donde la luz, los objetos y las pausas entre acciones revelan más que el argumento…",
+  "pais": "Países Bajos",
+  "etiquetas": [
+    "Barroco neerlandés",
+    "Johannes Vermeer",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    5629,
+    7224
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Johannes%20Vermeer%2C%20Allegory%20of%20the%20Catholic%20Faith%2C%20The%20Metropolitan%20Museum%20of%20Art.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Johannes%20Vermeer%2C%20Allegory%20of%20the%20Catholic%20Faith%2C%20The%20Metropolitan%20Museum%20of%20Art.jpg",
+    "alt": "Reproducción de La alegoría de la fe, obra de Johannes Vermeer",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer,_Allegory_of_the_Catholic_Faith,_The_Metropolitan_Museum_of_Art.jpg",
+    "licencia": "Public domain",
+    "credito": "Metropolitan Museum of Art",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q467359",
+    "wikimediaFile": "Johannes Vermeer, Allegory of the Catholic Faith, The Metropolitan Museum of Art.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1670
+}

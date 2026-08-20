@@ -1,0 +1,38 @@
+{
+  "id": "still-life-with-flowers-viejo",
+  "titulo": "Still Life with Flowers",
+  "autor": "Jan Brueghel el Viejo",
+  "fecha": "1650",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En Still Life with Flowers, Jan Brueghel el Viejo evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jan Brueghel el Viejo pobló paisajes, infiernos, floreros y alegorías con una miniatura de detalles. Su pintura invita a acercarse y…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jan Brueghel el Viejo",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1956,
+    2610
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Brueghel%20-%20Stilleven%20met%20bloemen.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Brueghel%20-%20Stilleven%20met%20bloemen.jpg",
+    "alt": "Reproducción de Still Life with Flowers, obra de Jan Brueghel el Viejo",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_-_Stilleven_met_bloemen.jpg",
+    "licencia": "Public domain",
+    "credito": "www.rijksmuseum.nl :  Home  :  Info  :  Pic",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q17334140",
+    "wikimediaFile": "Jan Brueghel - Stilleven met bloemen.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1650
+}

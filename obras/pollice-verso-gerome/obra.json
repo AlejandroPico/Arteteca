@@ -1,0 +1,38 @@
+{
+  "id": "pollice-verso-gerome",
+  "titulo": "Pollice verso",
+  "autor": "Jean-Léon Gérôme",
+  "fecha": "1872",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "Un gladiador herido espera el veredicto mientras las vestales y el público inclinan el pulgar. La arquitectura abre un enorme teatro de miradas y Gérôme dirige cada línea hacia la incertidumbre del cuerpo caído.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Jean-Léon Gérôme",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2425,
+    1630
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean-Leon%20Gerome%20Pollice%20Verso.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean-Leon%20Gerome%20Pollice%20Verso.jpg",
+    "alt": "Reproducción de Pollice verso, obra de Jean-Léon Gérôme",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jean-Leon_Gerome_Pollice_Verso.jpg",
+    "licencia": "Public domain",
+    "credito": "phxart.org :  Gallery ,  Pic",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1237863",
+    "wikimediaFile": "Jean-Leon Gerome Pollice Verso.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1872
+}

@@ -1,0 +1,38 @@
+{
+  "id": "retrato-del-artista-con-su-familia-jordaens",
+  "titulo": "Retrato del artista con su familia",
+  "autor": "Jacob Jordaens",
+  "fecha": "1615",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En Retrato del artista con su familia, Jacob Jordaens evita que el asunto quede reducido a su título. La pose, el rostro y la indumentaria no son simples datos de identidad: organizan una negociación entre presencia privada e imagen pública. Jordaens hizo del cuerpo, el banquete, la familia y el mito una pintura expansiva: densa, táctil, ruidosa y estrechamente ligada a la…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jacob Jordaens",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1962,
+    2498
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacob%20Jordaens%20-%20Self-Portrait%20with%20Parents%2C%20Brothers%20and%20Sisters.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacob%20Jordaens%20-%20Self-Portrait%20with%20Parents%2C%20Brothers%20and%20Sisters.jpg",
+    "alt": "Reproducción de Retrato del artista con su familia, obra de Jacob Jordaens",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jacob_Jordaens_-_Self-Portrait_with_Parents,_Brothers_and_Sisters.jpg",
+    "licencia": "Public domain",
+    "credito": "Hermitage",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q16038706",
+    "wikimediaFile": "Jacob Jordaens - Self-Portrait with Parents, Brothers and Sisters.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1615
+}

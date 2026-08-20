@@ -1,0 +1,38 @@
+{
+  "id": "la-banista-de-valpincon-ingres",
+  "titulo": "La bañista de Valpinçon",
+  "autor": "Jean-Auguste-Dominique Ingres",
+  "fecha": "1808",
+  "tipo": "Pintura",
+  "periodo": "Neoclasicismo",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En La bañista de Valpinçon, Jean-Auguste-Dominique Ingres evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Ingres defendió la primacía de la línea y del dibujo, aunque sus cuerpos alargados, superficies pulidas y espacios tensos…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Neoclasicismo",
+    "Jean-Auguste-Dominique Ingres",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2890,
+    4312
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean-Auguste-Dominique%20Ingres%20-%20La%20Baigneuse%20Valpin%C3%A7on.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean-Auguste-Dominique%20Ingres%20-%20La%20Baigneuse%20Valpin%C3%A7on.jpg",
+    "alt": "Reproducción de La bañista de Valpinçon, obra de Jean-Auguste-Dominique Ingres",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jean-Auguste-Dominique_Ingres_-_La_Baigneuse_Valpin%C3%A7on.jpg",
+    "licencia": "Public domain",
+    "credito": "r Gallerix.ru",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q3080509",
+    "wikimediaFile": "Jean-Auguste-Dominique Ingres - La Baigneuse Valpinçon.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1808
+}

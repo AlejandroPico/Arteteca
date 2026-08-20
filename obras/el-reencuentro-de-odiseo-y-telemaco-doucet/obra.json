@@ -1,0 +1,39 @@
+{
+  "id": "el-reencuentro-de-odiseo-y-telemaco-doucet",
+  "titulo": "El reencuentro de Odiseo y Telémaco",
+  "autor": "Henri-Lucien Doucet",
+  "fecha": "1880",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "Odiseo, todavía bajo la apariencia de mendigo, se revela al hijo que dejó siendo un bebé. El abrazo concentra incredulidad, reconocimiento y alivio, pero también abre el pacto con el que ambos recuperarán Ítaca.",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Henri-Lucien Doucet",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3552,
+    4480
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Henri-lucien%20doucet%2C%20il%20riconoscimento%20di%20ulisse%20e%20telemaco%2C%201880%20%28parigi%2C%20petit%20palais%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Henri-lucien%20doucet%2C%20il%20riconoscimento%20di%20ulisse%20e%20telemaco%2C%201880%20%28parigi%2C%20petit%20palais%29.jpg",
+    "alt": "Reproducción de El reencuentro de Odiseo y Telémaco, obra de Henri-Lucien Doucet",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Henri-lucien_doucet,_il_riconoscimento_di_ulisse_e_telemaco,_1880_(parigi,_petit_palais).jpg",
+    "licencia": "CC BY 3.0",
+    "credito": "Own work",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "Henri-lucien doucet, il riconoscimento di ulisse e telemaco, 1880 (parigi, petit palais).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "La reconnaissance d'Ulysse et de Télémaque",
+  "fechaOrden": 1880
+}

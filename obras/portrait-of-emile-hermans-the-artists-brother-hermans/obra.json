@@ -1,0 +1,38 @@
+{
+  "id": "portrait-of-emile-hermans-the-artists-brother-hermans",
+  "titulo": "Portrait of Emile Hermans, the artists' brother",
+  "autor": "Charles Hermans",
+  "fecha": "1880",
+  "tipo": "Pintura",
+  "periodo": "Realismo belga",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Portrait of Emile Hermans, the artists' brother, Charles Hermans evita que el asunto quede reducido a su título. La pose, el rostro y la indumentaria no son simples datos de identidad: organizan una negociación entre presencia privada e imagen pública. Hermans combinó crítica social, retrato y fantasía. Sus escenas suelen enfrentar mundos que comparten el mismo espacio…",
+  "pais": "Bélgica",
+  "etiquetas": [
+    "Realismo belga",
+    "Charles Hermans",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    429,
+    586
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20Emile%20Hermans%20by%20his%20brother%20Charles%20Hermans.png?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20Emile%20Hermans%20by%20his%20brother%20Charles%20Hermans.png",
+    "alt": "Reproducción de Portrait of Emile Hermans, the artists' brother, obra de Charles Hermans",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Portrait_of_Emile_Hermans_by_his_brother_Charles_Hermans.png",
+    "licencia": "Public domain",
+    "credito": "Europeana",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q125083851",
+    "wikimediaFile": "Portrait of Emile Hermans by his brother Charles Hermans.png",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1880
+}

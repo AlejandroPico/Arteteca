@@ -1,0 +1,38 @@
+{
+  "id": "florinda-winterhalter",
+  "titulo": "Florinda",
+  "autor": "Franz Xaver Winterhalter",
+  "fecha": "1853",
+  "tipo": "Pintura",
+  "periodo": "Retrato cortesano del siglo XIX",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Florinda, Franz Xaver Winterhalter evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Winterhalter dominó el retrato de corte europeo: convirtió rango, moda y presencia física en imágenes de autoridad que conservan una sorprendente…",
+  "pais": "Alemania",
+  "etiquetas": [
+    "Retrato cortesano del siglo XIX",
+    "Franz Xaver Winterhalter",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3919,
+    2858
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Florinda%20MET%20DP159188.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Florinda%20MET%20DP159188.jpg",
+    "alt": "Reproducción de Florinda, obra de Franz Xaver Winterhalter",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Florinda_MET_DP159188.jpg",
+    "licencia": "CC0",
+    "credito": "This file was donated to Wikimedia Commons as part of a project by the  Metropolitan Museum of Art . See the  Image and Data Resources Open Access Policy",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q16965240",
+    "wikimediaFile": "Florinda MET DP159188.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1853
+}

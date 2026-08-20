@@ -3,10 +3,8 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Qué mirar
+## Pintar la noche con color
 
-La obra presenta **Noche estrellada sobre el rodano** como motivo central. Su lectura comienza por la silueta o grupo principal y continúa por los objetos, intervalos y direcciones que lo conectan con el espacio circundante.
+El cielo y el Ródano se responden: las estrellas laten arriba y los faroles de gas se alargan abajo en columnas amarillas, verdes y anaranjadas. En primer plano, una pareja casi oscura da escala al espacio y evita que el espectáculo nocturno se vuelva una abstracción completa.
 
-La amplitud horizontal permite que la mirada avance entre varios focos. Empieza por la acción o figura más contrastada y recorre después los laterales: allí suelen aparecer respuestas, ecos o episodios que cambian la lectura del centro.
-
-Van Gogh hace visible la dirección de la pincelada: cielos, muros, rostros y vegetación poseen ritmos distintos. El color intensifica la experiencia del motivo y los contornos mantienen unidas superficies que parecen vibrar.
+Van Gogh quería demostrar que la noche podía pintarse sin reducirla a negro. Azules profundos, violetas y turquesas construyen la oscuridad, mientras las luces urbanas introducen una modernidad frágil. La historia de que trabajaba con velas sujetas al sombrero es una anécdota popular sin respaldo documental sólido; lo comprobable son sus cartas y su insistencia en observar el color nocturno directamente.

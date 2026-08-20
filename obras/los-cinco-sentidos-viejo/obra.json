@@ -1,0 +1,38 @@
+{
+  "id": "los-cinco-sentidos-viejo",
+  "titulo": "Los cinco sentidos",
+  "autor": "Jan Brueghel el Viejo",
+  "fecha": "1617",
+  "tipo": "Pintura",
+  "periodo": "Barroco flamenco",
+  "coleccion": "Barroco",
+  "descripcion": "En Los cinco sentidos, Jan Brueghel el Viejo evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Jan Brueghel el Viejo pobló paisajes, infiernos, floreros y alegorías con una miniatura de detalles. Su pintura invita a acercarse y…",
+  "pais": "Flandes",
+  "etiquetas": [
+    "Barroco flamenco",
+    "Jan Brueghel el Viejo",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    3051,
+    1836
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Brueghel%20I%20%26%20Peter%20Paul%20Rubens%20-%20Hearing%20%28Museo%20del%20Prado%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jan%20Brueghel%20I%20%26%20Peter%20Paul%20Rubens%20-%20Hearing%20%28Museo%20del%20Prado%29.jpg",
+    "alt": "Reproducción de Los cinco sentidos, obra de Jan Brueghel el Viejo",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_I_%26_Peter_Paul_Rubens_-_Hearing_(Museo_del_Prado).jpg",
+    "licencia": "Public domain",
+    "credito": "Museo del Prado, Madrid",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q12898661",
+    "wikimediaFile": "Jan Brueghel I & Peter Paul Rubens - Hearing (Museo del Prado).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1617
+}

@@ -1,0 +1,38 @@
+{
+  "id": "excavaciones-en-pompeya-1870-palizzi",
+  "titulo": "Excavaciones en Pompeya (1870)",
+  "autor": "Filippo Palizzi",
+  "fecha": "1870",
+  "tipo": "Pintura",
+  "periodo": "Realismo italiano",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Excavaciones en Pompeya (1870), Filippo Palizzi evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Palizzi renovó la pintura napolitana mediante la observación directa de animales, campesinos y paisajes, alejándose de la fórmula…",
+  "pais": "Italia",
+  "etiquetas": [
+    "Realismo italiano",
+    "Filippo Palizzi",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1714,
+    2400
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Filippo%20Palizzi%20-%20Scavi%20a%20Pompei%20%281870%29.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Filippo%20Palizzi%20-%20Scavi%20a%20Pompei%20%281870%29.jpg",
+    "alt": "Reproducción de Excavaciones en Pompeya (1870), obra de Filippo Palizzi",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Filippo_Palizzi_-_Scavi_a_Pompei_(1870).jpg",
+    "licencia": "Public domain",
+    "credito": "https://gazzettadelsud.it/foto/cultura/2020/02/09/dame-eroine-madri-dee-quando-larte-e-donna-081cad1b-ff0d-4805-a247-b385952f3a2a/8/",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q121513331",
+    "wikimediaFile": "Filippo Palizzi - Scavi a Pompei (1870).jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1870
+}

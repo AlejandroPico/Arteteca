@@ -1,0 +1,39 @@
+{
+  "id": "san-jorge-y-el-dragon-casella",
+  "titulo": "San Jorge y el dragón",
+  "tituloOriginal": "Saint George and the Dragon",
+  "autor": "Ella Casella",
+  "fecha": "c. 1897",
+  "tipo": "Escultura",
+  "periodo": "Arts and Crafts",
+  "coleccion": "Simbolismo y fin de siglo",
+  "descripcion": "La cera coloreada permite que la imagen oscile entre pintura y escultura. San Jorge, el caballo y el dragón no se separan de un fondo neutro: proyectan sombras reales y convierten la leyenda en una escena pequeña, preciosa y extrañamente corpórea.",
+  "pais": "Reino Unido",
+  "etiquetas": [
+    "Arts and Crafts",
+    "Ella Casella",
+    "selección Tres Ubres Dobles",
+    "dominio público"
+  ],
+  "proporcion": [
+    1200,
+    1200
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://publicdomainimagelibrary.com/cdn/shop/files/Casella_Ella_1858-1946_-SaintGeorge_theDragonWaxRelief_main.jpg?v=1769702650",
+    "urlAltaResolucion": "https://publicdomainimagelibrary.com/cdn/shop/files/Casella_Ella_1858-1946_-SaintGeorge_theDragonWaxRelief_main.jpg?v=1769702650",
+    "alt": "Reproducción de San Jorge y el dragón, obra de Ella Casella",
+    "fuente": "https://artuk.org/discover/artworks/relief-834330",
+    "licencia": "Dominio público de la obra; reproducción enlazada",
+    "credito": "Ella Casella · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://artuk.org/discover/artworks/relief-834330",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": false
+  }
+}

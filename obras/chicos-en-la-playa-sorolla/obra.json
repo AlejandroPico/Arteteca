@@ -1,0 +1,38 @@
+{
+  "id": "chicos-en-la-playa-sorolla",
+  "titulo": "Chicos en la playa",
+  "autor": "Joaquín Sorolla",
+  "fecha": "1909",
+  "tipo": "Pintura",
+  "periodo": "Luminismo valenciano",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Chicos en la playa, Joaquín Sorolla evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Sorolla hizo de la luz un fenómeno físico: rebota en el agua, atraviesa las telas y deshace los contornos, pero nunca borra la realidad social o…",
+  "pais": "España",
+  "etiquetas": [
+    "Luminismo valenciano",
+    "Joaquín Sorolla",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1902,
+    1158
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chicos%20en%20la%20playa%2C%20por%20Joaqu%C3%ADn%20Sorolla.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chicos%20en%20la%20playa%2C%20por%20Joaqu%C3%ADn%20Sorolla.jpg",
+    "alt": "Reproducción de Chicos en la playa, obra de Joaquín Sorolla",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Chicos_en_la_playa,_por_Joaqu%C3%ADn_Sorolla.jpg",
+    "licencia": "Public domain",
+    "credito": "1.  www.scholarsresource.com  2.  Museo Nacional del Prado, Madrid",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q6043567",
+    "wikimediaFile": "Chicos en la playa, por Joaquín Sorolla.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1909
+}

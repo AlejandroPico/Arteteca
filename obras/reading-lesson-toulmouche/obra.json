@@ -1,0 +1,38 @@
+{
+  "id": "reading-lesson-toulmouche",
+  "titulo": "Reading Lesson",
+  "autor": "Auguste Toulmouche",
+  "fecha": "1865",
+  "tipo": "Pintura",
+  "periodo": "Academicismo francés",
+  "coleccion": "Academicismo y salón",
+  "descripcion": "En Reading Lesson, Auguste Toulmouche evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Toulmouche observó la vida burguesa desde el gesto contenido: telas lujosas, interiores impecables y emociones que apenas rompen la disciplina…",
+  "pais": "Francia",
+  "etiquetas": [
+    "Academicismo francés",
+    "Auguste Toulmouche",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    1213,
+    1600
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Auguste%20Toulmouche%20-%20Reading%20Lesson%20-%2024.1%20-%20Museum%20of%20Fine%20Arts.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Auguste%20Toulmouche%20-%20Reading%20Lesson%20-%2024.1%20-%20Museum%20of%20Fine%20Arts.jpg",
+    "alt": "Reproducción de Reading Lesson, obra de Auguste Toulmouche",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Auguste_Toulmouche_-_Reading_Lesson_-_24.1_-_Museum_of_Fine_Arts.jpg",
+    "licencia": "Public domain",
+    "credito": "https://www.mfa.org/collections/object/reading-lesson-32101",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q20537994",
+    "wikimediaFile": "Auguste Toulmouche - Reading Lesson - 24.1 - Museum of Fine Arts.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1865
+}

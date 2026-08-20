@@ -3,15 +3,8 @@ titulo: Mirar la obra
 icono: ojo
 ---
 
-## Una entrada visual
+## Del origen al exceso y del exceso al castigo
 
-Tres paneles despliegan creación, placer y castigo mediante arquitecturas imposibles, criaturas híbridas y centenares de episodios.
+El tríptico comienza con el Edén, se desborda en un jardín central ocupado por cuerpos, frutos gigantes y animales imposibles y termina en un infierno nocturno. Bosch no ofrece una narración lineal: obliga a saltar entre cientos de acciones cuyo sentido cambia según se lean como placer inocente, lujuria, fragilidad o advertencia moral.
 
-La escala, el soporte y el lugar para el que fue creada condicionan su lectura. Conviene recorrer la imagen sin buscar primero una explicación cerrada: observar ritmos, vacíos, repeticiones, materia y la relación entre sus partes.
-
-## Claves de observación
-
-- **Forma:** la composición organiza la mirada y establece sus zonas de mayor tensión.
-- **Materia:** Óleo sobre tabla.
-- **Tiempo:** c. 1490–1510, dentro de Renacimiento nórdico.
-
+En el panel infernal, instrumentos musicales se convierten en máquinas de tormento. Sobre las nalgas de una figura aparece una notación que ha sido transcrita modernamente como melodía, aunque su función original sigue abierta. La fascinación del cuadro nace precisamente de esa resistencia a una clave única: cada detalle parece explicable y, al mismo tiempo, permanece extraño.

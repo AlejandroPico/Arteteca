@@ -1,0 +1,39 @@
+{
+  "id": "aguila-perdicera-sosa",
+  "titulo": "Águila perdicera",
+  "tituloOriginal": "Bonelli's Eagle",
+  "autor": "Manuel Sosa",
+  "fecha": "Contemporánea",
+  "tipo": "Pintura",
+  "periodo": "Naturalismo contemporáneo",
+  "coleccion": "Arte y ciencia",
+  "descripcion": "El ave domina la vertical, pero la presa, la nieve y el musgo impiden que el retrato se convierta en emblema vacío. Sosa observa la fauna sin aislarla de su hábitat: plumaje, roca, agua, viento y vegetación forman una sola situación ecológica y pictórica.",
+  "pais": "España",
+  "etiquetas": [
+    "Naturalismo contemporáneo",
+    "Manuel Sosa",
+    "selección Tres Ubres Dobles",
+    "imagen remota"
+  ],
+  "proporcion": [
+    1284,
+    2000
+  ],
+  "color": "#5e554d",
+  "imagen": {
+    "url": "https://manuelsosa.com/wp-content/uploads/001/aguila_perdicera.jpg",
+    "urlAltaResolucion": "https://manuelsosa.com/wp-content/uploads/001/aguila_perdicera.jpg",
+    "alt": "Reproducción de Águila perdicera, obra de Manuel Sosa",
+    "fuente": "https://manuelsosa.com/en/paintings-of/birds-paintings-prints/bonellis-eagle/",
+    "licencia": "© artista o titular de derechos · reproducción remota acreditada",
+    "credito": "Manuel Sosa · reproducción enlazada desde la fuente acreditada",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteObra": "https://manuelsosa.com/en/paintings-of/birds-paintings-prints/bonellis-eagle/",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles",
+    "imagenRemotaProtegida": true
+  }
+}

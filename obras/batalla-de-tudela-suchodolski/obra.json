@@ -1,0 +1,38 @@
+{
+  "id": "batalla-de-tudela-suchodolski",
+  "titulo": "Batalla de Tudela",
+  "autor": "January Suchodolski",
+  "fecha": "1827",
+  "tipo": "Pintura",
+  "periodo": "Romanticismo histórico polaco",
+  "coleccion": "Neoclasicismo y Romanticismo",
+  "descripcion": "En Batalla de Tudela, January Suchodolski evita que el asunto quede reducido a su título. El movimiento colectivo se fragmenta en gestos y direcciones contrapuestas; el relato histórico se entiende a través de cuerpos, caballos, humo y terreno. Suchodolski pintó la historia militar desde la experiencia de un oficial: caballos, terreno, humo y movimientos de tropas importan…",
+  "pais": "Polonia",
+  "etiquetas": [
+    "Romanticismo histórico polaco",
+    "January Suchodolski",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2376,
+    1808
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20batalla%20de%20Tudela%2C%20por%20January%20Suchodolski.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/La%20batalla%20de%20Tudela%2C%20por%20January%20Suchodolski.jpg",
+    "alt": "Reproducción de Batalla de Tudela, obra de January Suchodolski",
+    "fuente": "https://commons.wikimedia.org/wiki/File:La_batalla_de_Tudela,_por_January_Suchodolski.jpg",
+    "licencia": "Public domain",
+    "credito": "www.pinakoteka.zascianek.pl",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q24291863",
+    "wikimediaFile": "La batalla de Tudela, por January Suchodolski.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1827
+}

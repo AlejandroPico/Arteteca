@@ -3,8 +3,8 @@ titulo: Mirar la obra
 icono: ojo
 ---
 
-## Una entrada visual
+## Una pintura sobre el acto de pintar
 
-Cortina, mapa, modelo y pintor convierten el interior en una reflexión sobre historia y representación.
+La cortina apartada nos convierte en visitantes de un taller cuidadosamente escenificado. El pintor, de espaldas, trabaja ante una modelo coronada de laurel que sostiene trompeta y libro: atributos de Clío, musa de la Historia. El gran mapa de las Provincias Unidas convierte la pared en memoria política y visual.
 
-Conviene seguir las líneas dominantes y los cambios de luz antes de detenerse en los detalles. La escala relativa de las figuras, los vacíos entre ellas y la relación entre primer plano y fondo explican cómo la imagen conduce la atención y dónde concentra su tensión.
+Nada parece casual —suelo ajedrezado, lámpara sin velas, máscara, silla vacía—, pero los símbolos no forman un mensaje único. Vermeer hace que la representación sea el asunto: vemos a un artista mirar, seleccionar y transformar a una mujer real en alegoría. Conservó la obra hasta su muerte, lo que refuerza su carácter de declaración personal sobre la dignidad de la pintura.

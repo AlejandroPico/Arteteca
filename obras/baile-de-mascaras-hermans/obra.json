@@ -1,0 +1,39 @@
+{
+  "id": "baile-de-mascaras-hermans",
+  "titulo": "Baile de máscaras",
+  "autor": "Charles Hermans",
+  "fecha": "1880",
+  "tipo": "Pintura",
+  "periodo": "Realismo belga",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En Baile de máscaras, Charles Hermans evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Hermans combinó crítica social, retrato y fantasía. Sus escenas suelen enfrentar mundos que comparten el mismo espacio sin pertenecer realmente a él.",
+  "pais": "Bélgica",
+  "etiquetas": [
+    "Realismo belga",
+    "Charles Hermans",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    2800,
+    2200
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charles%20Hermans%20masquerade.png?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charles%20Hermans%20masquerade.png",
+    "alt": "Reproducción de Baile de máscaras, obra de Charles Hermans",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Charles_Hermans_masquerade.png",
+    "licencia": "Public domain",
+    "credito": "[1]",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": null,
+    "wikimediaFile": "Charles Hermans masquerade.png",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "tituloOriginal": "Masquerade",
+  "fechaOrden": 1880
+}

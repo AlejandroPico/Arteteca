@@ -1,0 +1,38 @@
+{
+  "id": "el-campeon-de-piragua-individual-max-schmitt-eakins",
+  "titulo": "El campeón de piragua individual Max Schmitt",
+  "autor": "Thomas Eakins",
+  "fecha": "1871",
+  "tipo": "Pintura",
+  "periodo": "Realismo estadounidense",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "En El campeón de piragua individual Max Schmitt, Thomas Eakins evita que el asunto quede reducido a su título. La composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias dejan que la historia se revele poco a poco. Eakins llevó al lienzo una observación casi científica del cuerpo, el trabajo y la vida contemporánea, sin suavizar lo…",
+  "pais": "Estados Unidos",
+  "etiquetas": [
+    "Realismo estadounidense",
+    "Thomas Eakins",
+    "selección Tres Ubres Dobles"
+  ],
+  "proporcion": [
+    5940,
+    4116
+  ],
+  "color": "#716352",
+  "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Max%20Schmitt%20in%20a%20Single%20Scull.jpg?width=1600",
+    "urlAltaResolucion": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Max%20Schmitt%20in%20a%20Single%20Scull.jpg",
+    "alt": "Reproducción de El campeón de piragua individual Max Schmitt, obra de Thomas Eakins",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Max_Schmitt_in_a_Single_Scull.jpg",
+    "licencia": "Public domain",
+    "credito": "art database",
+    "foco": "center"
+  },
+  "referencia": {
+    "wikidata": "Q1913390",
+    "wikimediaFile": "Max Schmitt in a Single Scull.jpg",
+    "fuenteSeleccion": "https://tresubresdobles.com/tag/pintura",
+    "incorporado": "2026-08-20",
+    "bloque": "Selección editorial Tres Ubres Dobles"
+  },
+  "fechaOrden": 1871
+}

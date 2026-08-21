@@ -234,7 +234,12 @@
     <span class="brand__name">ARTETECA</span>
   </a>
 
-  <nav class:open={mobileMenuOpen} class="site-nav" aria-label="Herramientas de la colección">
+  <nav
+    class:open={mobileMenuOpen}
+    class:search-open={searchOpen}
+    class="site-nav"
+    aria-label="Herramientas de la colección"
+  >
     <div class:open={searchOpen} class="header-search">
       <input
         id="site-search"

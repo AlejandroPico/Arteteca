@@ -1403,6 +1403,12 @@ Orden deseado:
 
 La búsqueda se expande hacia la izquierda. El menú debe permanecer limpio y compacto.
 
+En móvil, el menú desplegado mantiene sus seis accesos en una sola fila. El botón
+«Redescubrir» se reduce a un dado compacto y, al abrir la búsqueda, los otros
+cinco controles permanecen en la primera fila mientras el campo ocupa una segunda
+fila completa. La X de cierre se integra dentro del propio campo, sin caja
+independiente. Estas reglas móviles no alteran la expansión lateral de escritorio.
+
 ### 14.5. Filtros
 
 El panel evita mostrar simultáneamente listas extensas de periodos o artistas fuera de pantalla.

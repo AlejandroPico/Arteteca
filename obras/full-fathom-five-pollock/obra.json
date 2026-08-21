@@ -1,0 +1,48 @@
+{
+  "id": "full-fathom-five-pollock",
+  "titulo": "Full Fathom Five",
+  "tituloOriginal": "Full Fathom Five",
+  "autor": "Jackson Pollock",
+  "fecha": "1947",
+  "fechaOrden": 1947,
+  "tipo": "Pintura",
+  "periodo": "Expresionismo abstracto",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Una de las primeras pinturas de goteo de Pollock incorpora clavos, monedas, cerillas y otros restos bajo una red de esmalte.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/79070",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20(MoMA)%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Jackson Pollock",
+    "Expresionismo abstracto",
+    "Abstracción y diseño moderno",
+    "Pintura",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    765,
+    1292
+  ],
+  "color": "#3b4a47",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjQ2ODMxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9bf1b6c6a7b808a4",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjQ2ODMxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9bf1b6c6a7b808a4",
+    "fuente": "https://www.moma.org/collection/works/79070",
+    "alt": "Full Fathom Five, de Jackson Pollock",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "Museum of Modern Art (MoMA)",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/79070",
+    "dimensiones": "129,2 × 76,5 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

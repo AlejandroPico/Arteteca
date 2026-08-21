@@ -1,0 +1,48 @@
+{
+  "id": "double-elvis-warhol",
+  "titulo": "Double Elvis",
+  "tituloOriginal": "Double Elvis",
+  "autor": "Andy Warhol",
+  "fecha": "1963",
+  "fechaOrden": 1963,
+  "tipo": "Pintura",
+  "periodo": "Pop Art",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "Dos apariciones superpuestas de Elvis Presley como pistolero convierten una pose cinematográfica en silueta repetible.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/82343",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20(MoMA)%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Andy Warhol",
+    "Pop Art",
+    "Arte contemporáneo",
+    "Pintura",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    1346,
+    2108
+  ],
+  "color": "#bcbab4",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjQwMTIwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=18482d8ae2cb0bfa",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjQwMTIwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=18482d8ae2cb0bfa",
+    "fuente": "https://www.moma.org/collection/works/82343",
+    "alt": "Double Elvis, de Andy Warhol",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "Museum of Modern Art (MoMA)",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/82343",
+    "dimensiones": "210,8 × 134,6 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

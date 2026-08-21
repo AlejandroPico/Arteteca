@@ -1,0 +1,48 @@
+{
+  "id": "campbells-soup-cans-warhol",
+  "titulo": "Latas de sopa Campbell",
+  "tituloOriginal": "Campbell's Soup Cans",
+  "autor": "Andy Warhol",
+  "fecha": "1962",
+  "fechaOrden": 1962,
+  "tipo": "Serie artística",
+  "periodo": "Pop Art",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "Treinta y dos lienzos reproducen las variedades de sopa Campbell disponibles en 1962 y convierten la presentación comercial en estructura artística.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/79809",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20(MoMA)%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Andy Warhol",
+    "Pop Art",
+    "Arte contemporáneo",
+    "Serie artística",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    4140,
+    2464
+  ],
+  "color": "#b52d29",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjMxODI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=1aa5582cbc77afb5",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjMxODI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=1aa5582cbc77afb5",
+    "fuente": "https://www.moma.org/collection/works/79809",
+    "alt": "Latas de sopa Campbell, de Andy Warhol",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "Museum of Modern Art (MoMA)",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/79809",
+    "dimensiones": "32 lienzos de 50,8 × 40,6 cm; instalación aproximada: 246,4 × 414 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

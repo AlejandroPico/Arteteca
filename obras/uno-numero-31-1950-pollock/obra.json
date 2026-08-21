@@ -1,0 +1,48 @@
+{
+  "id": "uno-numero-31-1950-pollock",
+  "titulo": "Uno: Número 31, 1950",
+  "tituloOriginal": "One: Number 31, 1950",
+  "autor": "Jackson Pollock",
+  "fecha": "1950",
+  "fechaOrden": 1950,
+  "tipo": "Pintura",
+  "periodo": "Expresionismo abstracto",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Un lienzo de 5,30 metros reúne una de las formulaciones más complejas y controladas de la pintura vertida de Pollock.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/78386",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20(MoMA)%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Jackson Pollock",
+    "Expresionismo abstracto",
+    "Abstracción y diseño moderno",
+    "Pintura",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    5308,
+    2695
+  ],
+  "color": "#7b746a",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjYxOTkyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=5c001ad863b172d1",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjYxOTkyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=5c001ad863b172d1",
+    "fuente": "https://www.moma.org/collection/works/78386",
+    "alt": "Uno: Número 31, 1950, de Jackson Pollock",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "Museum of Modern Art (MoMA)",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/78386",
+    "dimensiones": "269,5 × 530,8 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

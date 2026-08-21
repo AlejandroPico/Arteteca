@@ -1,0 +1,48 @@
+{
+  "id": "nenufares-triptico-moma",
+  "titulo": "Nenúfares (tríptico monumental)",
+  "tituloOriginal": "Water Lilies",
+  "autor": "Claude Monet",
+  "fecha": "1914–1926",
+  "fechaOrden": 1914,
+  "tipo": "Tríptico",
+  "periodo": "Impresionismo",
+  "coleccion": "Romanticismo, Realismo e Impresionismo",
+  "descripcion": "Tres paneles de nenúfares forman una extensión continua de 12,76 metros: pintura concebida para rodear la mirada, no como una escena aislada del estanque.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/80220",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20(MoMA)%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Claude Monet",
+    "Impresionismo",
+    "Romanticismo, Realismo e Impresionismo",
+    "Tríptico",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    1276,
+    200
+  ],
+  "color": "#698184",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjI0Njc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=3a1ed95974c1c0be",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjI0Njc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=3a1ed95974c1c0be",
+    "fuente": "https://www.moma.org/collection/works/80220",
+    "alt": "Nenúfares (tríptico monumental), de Claude Monet",
+    "licencia": "Obra de Monet en dominio público. Reproducción digital de MoMA; consultar las condiciones de la institución para cualquier reutilización de la imagen.",
+    "credito": "Museum of Modern Art (MoMA)",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/80220",
+    "dimensiones": "Cada panel: 200 × 424,8 cm; conjunto: 200 × 1.276 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ultima-cena-warhol",
+  "titulo": "La Última Cena",
+  "tituloOriginal": "The Last Supper",
+  "autor": "Andy Warhol",
+  "fecha": "1986",
+  "fechaOrden": 1986,
+  "tipo": "Pintura",
+  "periodo": "Pop Art",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "Una reproducción lineal de la composición de Leonardo se duplica a escala monumental en una de las últimas grandes obras de Warhol.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/79072",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20(MoMA)%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Andy Warhol",
+    "Pop Art",
+    "Arte contemporáneo",
+    "Pintura",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    6687,
+    3029
+  ],
+  "color": "#d7c1ad",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjE1OTE5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=acdbb2cd64476ac1",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjE1OTE5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=acdbb2cd64476ac1",
+    "fuente": "https://www.moma.org/collection/works/79072",
+    "alt": "La Última Cena, de Andy Warhol",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "Museum of Modern Art (MoMA)",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/79072",
+    "dimensiones": "302,9 × 668,7 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

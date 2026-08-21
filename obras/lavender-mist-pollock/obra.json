@@ -1,0 +1,48 @@
+{
+  "id": "lavender-mist-pollock",
+  "titulo": "Número 1, 1950 (Lavender Mist)",
+  "tituloOriginal": "Number 1, 1950 (Lavender Mist)",
+  "autor": "Jackson Pollock",
+  "fecha": "1950",
+  "fechaOrden": 1950,
+  "tipo": "Pintura",
+  "periodo": "Expresionismo abstracto",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Líneas negras, blancas, rosas, verdes y plateadas forman una atmósfera sin que el cuadro contenga realmente pintura lavanda.",
+  "localizacion": "National Gallery of Art",
+  "ciudad": "Washington D. C.",
+  "urlLocalizacion": "https://www.nga.gov/artworks/55819-number-1-1950-lavender-mist",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Art%2C%20Washington%20D.%20C.",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Jackson Pollock",
+    "Expresionismo abstracto",
+    "Abstracción y diseño moderno",
+    "Pintura",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    2997,
+    2210
+  ],
+  "color": "#a49c96",
+  "imagen": {
+    "url": "https://api.nga.gov/iiif/accfaa20-6bb3-4c02-9f35-ffbf1fcd1584/full/%21800%2C800/0/default.jpg",
+    "urlAltaResolucion": "https://api.nga.gov/iiif/accfaa20-6bb3-4c02-9f35-ffbf1fcd1584/full/%21800%2C800/0/default.jpg",
+    "fuente": "https://www.nga.gov/artworks/55819-number-1-1950-lavender-mist",
+    "alt": "Número 1, 1950 (Lavender Mist), de Jackson Pollock",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "National Gallery of Art",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.nga.gov/artworks/55819-number-1-1950-lavender-mist",
+    "dimensiones": "221 × 299,7 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "gold-marilyn-monroe-warhol",
+  "titulo": "Gold Marilyn Monroe",
+  "tituloOriginal": "Gold Marilyn Monroe",
+  "autor": "Andy Warhol",
+  "fecha": "1962",
+  "fechaOrden": 1962,
+  "tipo": "Pintura",
+  "periodo": "Pop Art",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "El rostro serigrafiado de Marilyn Monroe flota en un gran campo dorado que combina celebridad, icono y memoria póstuma.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/79737",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20(MoMA)%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Andy Warhol",
+    "Pop Art",
+    "Arte contemporáneo",
+    "Pintura",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    1447,
+    2114
+  ],
+  "color": "#b59845",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjQ3NzE5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=4b008468dfd2a983",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjQ3NzE5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=4b008468dfd2a983",
+    "fuente": "https://www.moma.org/collection/works/79737",
+    "alt": "Gold Marilyn Monroe, de Andy Warhol",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "Museum of Modern Art (MoMA)",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/79737",
+    "dimensiones": "211,4 × 144,7 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

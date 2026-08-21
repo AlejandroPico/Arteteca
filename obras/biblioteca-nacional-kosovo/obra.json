@@ -1,0 +1,50 @@
+{
+  "id": "biblioteca-nacional-kosovo",
+  "titulo": "Biblioteca Nacional de Kosovo «Pjetër Bogdani»",
+  "tituloOriginal": "Biblioteka Kombëtare e Kosovës “Pjetër Bogdani”",
+  "autor": "Andrija Mutnjaković",
+  "fecha": "1971–1982",
+  "fechaOrden": 1971,
+  "tipo": "Arquitectura",
+  "periodo": "Modernismo yugoslavo",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Volúmenes de hormigón, una celosía metálica y 99 cúpulas translúcidas componen uno de los edificios más singulares de Pristina.",
+  "localizacion": "Biblioteca Nacional de Kosovo «Pjetër Bogdani»",
+  "ciudad": "Pristina",
+  "urlLocalizacion": "https://www.getty.edu/publications-reports/item/2K7KXT",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Biblioteca%20Nacional%20de%20Kosovo%20%C2%ABPjet%C3%ABr%20Bogdani%C2%BB%2C%20Pristina",
+  "pais": "Kosovo",
+  "tecnicas": [
+    "hormigón",
+    "aluminio",
+    "cúpulas translúcidas"
+  ],
+  "etiquetas": [
+    "Andrija Mutnjaković",
+    "Modernismo yugoslavo",
+    "Abstracción y diseño moderno",
+    "Arquitectura",
+    "Kosovo",
+    "siglo XX"
+  ],
+  "proporcion": [
+    1908,
+    1140
+  ],
+  "color": "#a79f91",
+  "imagen": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pristina_National_Library.jpg/1280px-Pristina_National_Library.jpg",
+    "urlAltaResolucion": "https://upload.wikimedia.org/wikipedia/commons/a/af/Pristina_National_Library.jpg",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pristina_National_Library.jpg",
+    "alt": "Biblioteca Nacional de Kosovo «Pjetër Bogdani», de Andrija Mutnjaković",
+    "licencia": "Fotografía CC BY-SA 3.0; conservar atribución y licencia.",
+    "credito": "Tiia Monto / Wikimedia Commons",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.getty.edu/publications-reports/item/2K7KXT",
+    "dimensiones": "16.500 m²; 99 cúpulas",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "Fotografía enlazada bajo CC BY-SA 3.0."
+  }
+}

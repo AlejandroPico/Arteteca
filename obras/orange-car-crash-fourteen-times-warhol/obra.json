@@ -1,0 +1,48 @@
+{
+  "id": "orange-car-crash-fourteen-times-warhol",
+  "titulo": "Accidente de coche naranja catorce veces",
+  "tituloOriginal": "Orange Car Crash Fourteen Times",
+  "autor": "Andy Warhol",
+  "fecha": "1963",
+  "fechaOrden": 1963,
+  "tipo": "Díptico",
+  "periodo": "Pop Art",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "Una fotografía periodística de un accidente mortal se repite catorce veces junto a un panel vacío de color naranja.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/79223",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20(MoMA)%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Andy Warhol",
+    "Pop Art",
+    "Arte contemporáneo",
+    "Díptico",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    4169,
+    2689
+  ],
+  "color": "#d86431",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjE1MTEzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=d972ad906e1ae8f4",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjE1MTEzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=d972ad906e1ae8f4",
+    "fuente": "https://www.moma.org/collection/works/79223",
+    "alt": "Accidente de coche naranja catorce veces, de Andy Warhol",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "Museum of Modern Art (MoMA)",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/79223",
+    "dimensiones": "268,9 × 416,9 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

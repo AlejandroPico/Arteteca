@@ -1,0 +1,48 @@
+{
+  "id": "la-loba-pollock",
+  "titulo": "La loba",
+  "tituloOriginal": "The She-Wolf",
+  "autor": "Jackson Pollock",
+  "fecha": "1943",
+  "fechaOrden": 1943,
+  "tipo": "Pintura",
+  "periodo": "Expresionismo abstracto",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Una criatura totémica emerge entre signos, raspados y capas densas en una obra decisiva de la etapa mítica de Pollock.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/78719",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20(MoMA)%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Jackson Pollock",
+    "Expresionismo abstracto",
+    "Abstracción y diseño moderno",
+    "Pintura",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    1702,
+    1064
+  ],
+  "color": "#665748",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjIwMzA5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=c12e631b35968e5f",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjIwMzA5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=c12e631b35968e5f",
+    "fuente": "https://www.moma.org/collection/works/78719",
+    "alt": "La loba, de Jackson Pollock",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "Museum of Modern Art (MoMA)",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/78719",
+    "dimensiones": "106,4 × 170,2 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

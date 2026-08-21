@@ -1,0 +1,48 @@
+{
+  "id": "ritmo-otonal-numero-30-pollock",
+  "titulo": "Ritmo otoñal (Número 30)",
+  "tituloOriginal": "Autumn Rhythm: Number 30, 1950",
+  "autor": "Jackson Pollock",
+  "fecha": "1950",
+  "fechaOrden": 1950,
+  "tipo": "Pintura",
+  "periodo": "Expresionismo abstracto",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Una extensión mural de líneas negras, blancas y ocres convierte el movimiento alrededor del lienzo en un campo continuo.",
+  "localizacion": "The Metropolitan Museum of Art",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.metmuseum.org/art/collection/search/488978",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=The%20Metropolitan%20Museum%20of%20Art%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Jackson Pollock",
+    "Expresionismo abstracto",
+    "Abstracción y diseño moderno",
+    "Pintura",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    5283,
+    2699
+  ],
+  "color": "#9a866e",
+  "imagen": {
+    "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/488978/2334675/restricted",
+    "urlAltaResolucion": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/488978/2334675/restricted",
+    "fuente": "https://www.metmuseum.org/art/collection/search/488978",
+    "alt": "Ritmo otoñal (Número 30), de Jackson Pollock",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "The Metropolitan Museum of Art",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.metmuseum.org/art/collection/search/488978",
+    "dimensiones": "269,9 × 528,3 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "blue-poles-pollock",
+  "titulo": "Blue Poles",
+  "tituloOriginal": "Blue Poles (Number 11, 1952)",
+  "autor": "Jackson Pollock",
+  "fecha": "1952",
+  "fechaOrden": 1952,
+  "tipo": "Pintura",
+  "periodo": "Expresionismo abstracto",
+  "coleccion": "Abstracción y diseño moderno",
+  "descripcion": "Ocho barras azul oscuro atraviesan una red de pintura vertida y dan estructura vertical a uno de los últimos grandes lienzos de Pollock.",
+  "localizacion": "National Gallery of Australia",
+  "ciudad": "Canberra",
+  "urlLocalizacion": "https://bluepoles.nga.gov.au/artwork/blue-poles/",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20of%20Australia%2C%20Canberra",
+  "pais": "Australia",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Jackson Pollock",
+    "Expresionismo abstracto",
+    "Abstracción y diseño moderno",
+    "Pintura",
+    "Australia",
+    "siglo XX"
+  ],
+  "proporcion": [
+    4895,
+    2130
+  ],
+  "color": "#475c74",
+  "imagen": {
+    "url": "https://bluepoles.nga.gov.au/site/wp-content/uploads/2020/06/BP-work-of-art-image-1920x824.jpg",
+    "urlAltaResolucion": "https://bluepoles.nga.gov.au/site/wp-content/uploads/2020/06/BP-work-of-art-image-1920x824.jpg",
+    "fuente": "https://bluepoles.nga.gov.au/artwork/blue-poles/",
+    "alt": "Blue Poles, de Jackson Pollock",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "National Gallery of Australia",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://bluepoles.nga.gov.au/artwork/blue-poles/",
+    "dimensiones": "213 × 489,5 cm; 99 kg",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

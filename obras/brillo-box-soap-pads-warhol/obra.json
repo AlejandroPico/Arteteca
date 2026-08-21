@@ -1,0 +1,48 @@
+{
+  "id": "brillo-box-soap-pads-warhol",
+  "titulo": "Brillo Box (Soap Pads)",
+  "tituloOriginal": "Brillo Box (Soap Pads)",
+  "autor": "Andy Warhol",
+  "fecha": "1964",
+  "fechaOrden": 1964,
+  "tipo": "Escultura",
+  "periodo": "Pop Art",
+  "coleccion": "Arte contemporáneo",
+  "descripcion": "Una caja de madera serigrafiada imita el embalaje comercial de Brillo y borra a primera vista la diferencia entre escultura y mercancía.",
+  "localizacion": "Museum of Modern Art (MoMA)",
+  "ciudad": "Nueva York",
+  "urlLocalizacion": "https://www.moma.org/collection/works/81383",
+  "urlMapa": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Modern%20Art%20(MoMA)%2C%20Nueva%20York",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "siglo XX"
+  ],
+  "etiquetas": [
+    "Andy Warhol",
+    "Pop Art",
+    "Arte contemporáneo",
+    "Escultura",
+    "Estados Unidos",
+    "siglo XX"
+  ],
+  "proporcion": [
+    433,
+    432
+  ],
+  "color": "#eee7d7",
+  "imagen": {
+    "url": "https://www.moma.org/media/W1siZiIsIjIyOTQxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=b9adda7ddb87fa47",
+    "urlAltaResolucion": "https://www.moma.org/media/W1siZiIsIjIyOTQxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=b9adda7ddb87fa47",
+    "fuente": "https://www.moma.org/collection/works/81383",
+    "alt": "Brillo Box (Soap Pads), de Andy Warhol",
+    "licencia": "Obra protegida por derechos de autor. Reproducción remota institucional de referencia; cualquier reutilización requiere autorización.",
+    "credito": "Museum of Modern Art (MoMA)",
+    "foco": "center"
+  },
+  "referencia": {
+    "fuenteInstitucional": "https://www.moma.org/collection/works/81383",
+    "dimensiones": "43,3 × 43,2 × 36,5 cm",
+    "incorporada": "2026-08-21",
+    "notaDerechos": "La imagen no se almacena en el repositorio."
+  }
+}

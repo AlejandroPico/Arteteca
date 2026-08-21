@@ -54,6 +54,11 @@ FORBIDDEN_LOOK_TEXT = (
     "la proporción de la ficha respeta la reproducción",
     "la orientación vertical de la reproducción",
 )
+FORBIDDEN_EDITORIAL_TEXT = (
+    "evita que el asunto quede reducido a su título",
+    "la composición se construye alrededor de una acción contenida: miradas, manos, objetos y distancias",
+    "una escena que pide tiempo",
+)
 
 
 @dataclass
@@ -179,6 +184,21 @@ def load_work(work_dir: Path, errors: list[BuildError], *, write_media: bool) ->
         errors.append(BuildError(metadata_path, f"faltan campos: {', '.join(missing)}"))
         return None
 
+    description = metadata.get("descripcion")
+    if isinstance(description, str):
+        lowered_description = description.casefold()
+        forbidden_editorial = next(
+            (phrase for phrase in FORBIDDEN_EDITORIAL_TEXT if phrase in lowered_description),
+            None,
+        )
+        if forbidden_editorial:
+            errors.append(
+                BuildError(
+                    metadata_path,
+                    f"la descripción contiene una fórmula editorial prohibida: «{forbidden_editorial}»",
+                )
+            )
+
     work_id = metadata.get("id")
     if not isinstance(work_id, str) or not ID_PATTERN.fullmatch(work_id):
         errors.append(BuildError(metadata_path, "`id` debe ser un slug en minúsculas"))
@@ -224,9 +244,21 @@ def load_work(work_dir: Path, errors: list[BuildError], *, write_media: bool) ->
         if not content:
             errors.append(BuildError(section_path, "la sección está vacía"))
             continue
+        lowered_content = content.casefold()
+        forbidden_editorial = next(
+            (phrase for phrase in FORBIDDEN_EDITORIAL_TEXT if phrase in lowered_content),
+            None,
+        )
+        if forbidden_editorial:
+            errors.append(
+                BuildError(
+                    section_path,
+                    f"la sección contiene una fórmula editorial prohibida: «{forbidden_editorial}»",
+                )
+            )
+            continue
         slug = match.group("slug")
         if slug == "mirada":
-            lowered_content = content.casefold()
             forbidden = next(
                 (phrase for phrase in FORBIDDEN_LOOK_TEXT if phrase in lowered_content),
                 None,

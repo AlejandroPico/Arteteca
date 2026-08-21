@@ -3,6 +3,6 @@ titulo: Mirada
 icono: ojo
 ---
 
-## Una escena que pide tiempo
+## Waterlilies in a pond in the Munkebjerg Forest near Vejle, Denmark.
 
-En *Waterlilies in a pond in the Munkebjerg Forest near Vejle, Denmark.*, Peder Mørk Mønsted evita que el asunto quede reducido a su título. La luz y la atmósfera modifican cada superficie; agua, cielo, vegetación o nieve dejan de ser fondo y pasan a determinar el ritmo emocional de la escena. Mønsted observó agua, nieve, hojas y reflejos con una paciencia casi microscópica, pero organizó esa precisión para que el paisaje respirase y no pareciera una mera copia.
+Mønsted observó agua, nieve, hojas y reflejos con una paciencia casi microscópica, pero organizó esa precisión para que el paisaje respirase y no pareciera una mera copia.

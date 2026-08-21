@@ -1830,6 +1830,14 @@ que deba copiarse literalmente. El protocolo es:
 - enriquecer una ficha existente si la obra ya estaba catalogada, nunca crear un
   duplicado para introducir un comentario mejor.
 
+La redacción por lotes no puede apoyarse en una oración comodín repetida. Están
+expresamente prohibidas fórmulas como «el autor evita que el asunto quede
+reducido a su título», «la composición se construye alrededor de una acción
+contenida» o encabezados seriados como «Una escena que pide tiempo». Si la
+información disponible no permite escribir una observación concreta sobre esa
+obra, se reduce la extensión o se omite la pestaña antes que rellenarla con una
+plantilla. El compilador rechaza estas muletillas para impedir su reaparición.
+
 En autores vivos o todavía protegidos se permite una reproducción remota desde
 el sitio del artista, museo, fundación o galería acreditada. Debe declararse la
 protección, enlazar la fuente y evitar descargar o redistribuir el archivo en el

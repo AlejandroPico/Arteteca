@@ -1,0 +1,46 @@
+{
+  "id": "delfines-oscuros-portelli",
+  "titulo": "Delfines oscuros",
+  "tituloOriginal": "Delfines oscuros",
+  "autor": "Scott Portelli",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Tercer premio, Nature · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Un grupo de delfines oscuros avanza bajo la superficie frente a Kaikōura; sus cuerpos parecen una sola corriente a punto de atravesar el espejo del agua.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "Nueva Zelanda",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "delfín oscuro",
+    "Kaikōura",
+    "vida marina",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    800
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/fe584dcd-ae9a-46e2-8ca2-4efb2895d7a0/3rd-nature.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/fe584dcd-ae9a-46e2-8ca2-4efb2895d7a0/3rd-nature.jpg",
+    "alt": "Delfines oscuros nadando juntos bajo la superficie del agua en Kaikōura",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Scott Portelli · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Tercer premio, Nature · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

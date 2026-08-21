@@ -1,0 +1,46 @@
+{
+  "id": "portero-lluvia-stanislav-tereba",
+  "titulo": "Bajo la lluvia en Letná",
+  "tituloOriginal": "Bajo la lluvia en Letná",
+  "autor": "Stanislav Tereba",
+  "fecha": "1 de abril de 1958",
+  "fechaOrden": 1958,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 1959",
+  "descripcion": "Miroslav Čtvrtníček, portero del Sparta de Praga, afronta un partido bajo una lluvia tan densa que el deporte parece convertirse en una lucha contra el tiempo.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1959/stanislav-tereba/1",
+  "pais": "Checoslovaquia",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "fútbol",
+    "lluvia",
+    "Sparta de Praga",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1482,
+    1920
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/25b64c02-b777-48e2-9996-892f8d4c96d0/1959-Stanislav-Tereba-WY?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/25b64c02-b777-48e2-9996-892f8d4c96d0/1959-Stanislav-Tereba-WY",
+    "alt": "Portero Miroslav Čtvrtníček bajo una intensa lluvia en el estadio Letná",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1959/stanislav-tereba/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Stanislav Tereba · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1959",
+    "categoria": "World Press Photo del Año 1959",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1959/stanislav-tereba/1"
+  }
+}

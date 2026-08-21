@@ -1,0 +1,46 @@
+{
+  "id": "luminarias-zamora",
+  "titulo": "Las Luminarias",
+  "tituloOriginal": "Las Luminarias",
+  "autor": "José Antonio Zamora",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Tercer premio, People · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Un jinete y su caballo atraviesan una hoguera en San Bartolomé de Pinares; fuego, humo y movimiento condensan un rito de protección animal celebrado cada enero.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "España",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "Las Luminarias",
+    "Ávila",
+    "ritual",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    836
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/b73a1672-6b8c-41b8-a014-402c90c32a44/3rd-people.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/b73a1672-6b8c-41b8-a014-402c90c32a44/3rd-people.jpg",
+    "alt": "Caballo y jinete saltando sobre una hoguera durante Las Luminarias",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© José Antonio Zamora · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Tercer premio, People · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

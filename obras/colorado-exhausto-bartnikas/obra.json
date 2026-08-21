@@ -1,0 +1,46 @@
+{
+  "id": "colorado-exhausto-bartnikas",
+  "titulo": "El Colorado exhausto",
+  "tituloOriginal": "El Colorado exhausto",
+  "autor": "Stas Bartnikas",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Premio del público, Nature · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Visto desde el aire, el río Colorado llega a México convertido en una red de cauces pálidos que apenas conserva agua antes de alcanzar el mar.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "México",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "río Colorado",
+    "sequía",
+    "vista aérea",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    900
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/242b4303-15e1-457e-b178-83c12569753b/peopleschoice-nature.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/242b4303-15e1-457e-b178-83c12569753b/peopleschoice-nature.jpg",
+    "alt": "Cauces casi secos del río Colorado vistos desde el aire en México",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Stas Bartnikas · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Premio del público, Nature · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

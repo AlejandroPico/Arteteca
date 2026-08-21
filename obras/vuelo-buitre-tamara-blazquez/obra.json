@@ -1,0 +1,46 @@
+{
+  "id": "vuelo-buitre-tamara-blazquez",
+  "titulo": "Volando",
+  "tituloOriginal": "Volando",
+  "autor": "Tamara Blázquez Haik",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Primer premio, Nature · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Un buitre leonado planea sobre Monfragüe con la cabeza girada hacia la cámara; la cercanía permite ver inteligencia y atención donde el prejuicio suele imaginar amenaza.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "España",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "buitre leonado",
+    "Monfragüe",
+    "conservación",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    800
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/4fd388fc-f73d-405e-8e07-2ddaf9d4f06a/1st-nature.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/4fd388fc-f73d-405e-8e07-2ddaf9d4f06a/1st-nature.jpg",
+    "alt": "Buitre leonado volando en el Parque Nacional de Monfragüe",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Tamara Blazquez Haik · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Primer premio, Nature · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

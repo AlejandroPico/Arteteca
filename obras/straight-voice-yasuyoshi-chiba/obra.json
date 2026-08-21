@@ -1,0 +1,46 @@
+{
+  "id": "straight-voice-yasuyoshi-chiba",
+  "titulo": "Voz recta",
+  "tituloOriginal": "Straight Voice",
+  "autor": "Yasuyoshi Chiba",
+  "fecha": "19 de junio de 2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 2020",
+  "descripcion": "Un joven recita poesía de protesta en Jartum durante un apagón, iluminado únicamente por los teléfonos de quienes lo rodean.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2020/yasuyoshi-chiba/1",
+  "pais": "Sudán",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "revolución sudanesa",
+    "Jartum",
+    "poesía",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1920,
+    1280
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/3885303b-3f78-4f35-a935-0ab3b95526bf/WPP-2020PhotoContest-POY-YasuyoshiChiba.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/3885303b-3f78-4f35-a935-0ab3b95526bf/WPP-2020PhotoContest-POY-YasuyoshiChiba.jpg",
+    "alt": "Joven recitando poesía de protesta iluminado por teléfonos móviles en Jartum",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2020/yasuyoshi-chiba/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Yasuyoshi Chiba · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2020",
+    "categoria": "World Press Photo del Año 2020",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2020/yasuyoshi-chiba/1"
+  }
+}

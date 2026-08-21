@@ -1,0 +1,46 @@
+{
+  "id": "actores-opera-huaifeng-li",
+  "titulo": "Antes de la ópera",
+  "tituloOriginal": "Antes de la ópera",
+  "autor": "Huaifeng Li",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Primer premio, People · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Actores de ópera se preparan en una estancia de Licheng; maquillaje, espejos y trajes convierten el camerino en un escenario paralelo antes de la función.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "China",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "ópera china",
+    "Licheng",
+    "camerino",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    800
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/bb3dd1c8-7e6e-424d-97bc-e609e645e74b/1st-people.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/bb3dd1c8-7e6e-424d-97bc-e609e645e74b/1st-people.jpg",
+    "alt": "Actores de ópera china maquillándose y preparándose antes de una función",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Huaifeng Li · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Primer premio, People · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "nino-mascara-gas-hanns-jorg-anders",
+  "titulo": "Niño con máscara de gas",
+  "tituloOriginal": "Niño con máscara de gas",
+  "autor": "Hanns-Jörg Anders",
+  "fecha": "1969",
+  "fechaOrden": 1969,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 1969",
+  "descripcion": "Un joven católico lleva una máscara de gas durante enfrentamientos con tropas británicas en Irlanda del Norte, mientras la población huye del gas lacrimógeno tras una noche de lucha callejera.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1969/hanns-jorg-anders/1",
+  "pais": "Irlanda del Norte",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "The Troubles",
+    "Irlanda del Norte",
+    "gas lacrimógeno",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1920,
+    1314
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/37736fde-ae17-4359-ace2-167f9c8eca39/1969-Hanns-Jorg-Anders-WY?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/37736fde-ae17-4359-ace2-167f9c8eca39/1969-Hanns-Jorg-Anders-WY",
+    "alt": "Joven con máscara de gas durante enfrentamientos en Irlanda del Norte",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1969/hanns-jorg-anders/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Hanns-Jörg Anders · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1969",
+    "categoria": "World Press Photo del Año 1969",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1969/hanns-jorg-anders/1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ijtema-dhaka-sandipani",
+  "titulo": "Ijtema en Dhaka",
+  "tituloOriginal": "Ijtema en Dhaka",
+  "autor": "Sandipani Chattopadhyay",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Tercer premio, Cities · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Miles de fieles ocupan una avenida de Dhaka para rezar durante Bishwa Ijtema; la calle deja de ser vía de tráfico y se convierte en una alfombra humana.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "Bangladés",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "Bishwa Ijtema",
+    "oración",
+    "Dhaka",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    800
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/478c871d-76e5-48e0-b798-797017fb5ed3/3rd-cities.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/478c871d-76e5-48e0-b798-797017fb5ed3/3rd-cities.jpg",
+    "alt": "Multitud rezando en una avenida de Dhaka durante Bishwa Ijtema",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Sandipani Chattopadhyay · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Tercer premio, Cities · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

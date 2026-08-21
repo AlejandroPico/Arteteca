@@ -108,14 +108,14 @@ El proyecto no debe imponer el gusto clásico de su creador como único criterio
 
 ## 3. Estado de referencia
 
-En la revisión del 31 de julio de 2026, Arteteca contiene:
+En la revisión del 21 de agosto de 2026, Arteteca contiene:
 
-- 532 obras;
-- 2.650 pestañas documentales;
-- 40 tipos de obra;
-- 111 periodos, movimientos o marcos culturales;
-- 124 artistas o atribuciones;
-- 18 colecciones editoriales.
+- 1.164 obras;
+- 5.810 pestañas documentales;
+- 48 tipos de obra;
+- 150 periodos, movimientos o marcos culturales;
+- 332 artistas o atribuciones;
+- 50 colecciones editoriales.
 
 Estos números son una fotografía temporal, no constantes de programación. No los escribas como valores fijos en la interfaz. El compilador y `public/data/catalogo.json` deben ser siempre quienes determinen las cifras vigentes.
 
@@ -1121,6 +1121,16 @@ Para fotografía comprueba además:
 - diferencia entre una fotografía premiada y una fotografía asociada a un reportaje premiado.
 
 No atribuyas automáticamente un Pulitzer a una imagen porque aparezca en un reportaje galardonado.
+
+En concursos de fotografía:
+
+- diferencia una imagen individual, una serie, un portfolio y un premio concedido a una redacción o agencia;
+- no conviertas un portfolio ganador en una sola fotografía elegida arbitrariamente;
+- conserva la denominación y el nivel exactos del reconocimiento: ganador absoluto, categoría, finalista, mención o premio del público;
+- no inventes títulos cuando el archivo solo publica un pie de foto: usa un título editorial descriptivo y decláralo cuando pueda confundirse con el oficial;
+- evita duplicar una misma imagen premiada por dos organizaciones; reúne los reconocimientos verificados en una ficha;
+- para fotografías contemporáneas protegidas, enlaza reproducciones remotas oficiales y declara los derechos sin copiar el archivo al repositorio;
+- escribe cada `Mirada`, `Contexto`, `Técnica` y `Legado` desde la información de esa imagen concreta. Las fichas de un lote no pueden diferenciarse solo por nombres, fechas o lugares insertados en una plantilla.
 
 ---
 

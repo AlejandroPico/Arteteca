@@ -1,0 +1,47 @@
+{
+  "id": "andromeda-core-liang-yang-yu",
+  "titulo": "El núcleo de Andrómeda",
+  "tituloOriginal": "The Andromeda Core",
+  "autor": "Weitang Liang, Qi Yang y Chuhong Yu",
+  "fecha": "31 de julio–1 de septiembre de 2024",
+  "fechaOrden": 2024,
+  "tipo": "Fotografía",
+  "periodo": "Astrofotografía",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Ganadora absoluta 2025 · Primer premio Galaxias",
+  "descripcion": "El núcleo de la galaxia de Andrómeda aparece rodeado de polvo oscuro y regiones rojas de hidrógeno ionizado donde nacen nuevas estrellas.",
+  "localizacion": "Astronomy Photographer of the Year",
+  "urlLocalizacion": "https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/galaxies-2025",
+  "pais": "España",
+  "tecnicas": [
+    "Astrofotografía de larga exposición",
+    "LRGB",
+    "H-alfa"
+  ],
+  "etiquetas": [
+    "Andrómeda",
+    "M31",
+    "hidrógeno alfa",
+    "Astronomy Photographer of the Year",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    799,
+    1200
+  ],
+  "imagen": {
+    "url": "https://www.rmg.co.uk/sites/default/files/styles/large/public/2025-09/G-142286-2025-1_The_Andromeda_Core%20%283%29.png.webp?itok=SJYJ5hNX",
+    "urlAltaResolucion": "https://www.rmg.co.uk/sites/default/files/styles/gallery_fullscreen/public/2025-09/G-142286-2025-1_The_Andromeda_Core%20%283%29.png.webp",
+    "alt": "Núcleo brillante de la galaxia de Andrómeda con polvo oscuro y emisiones rojas",
+    "fuente": "https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/galaxies-2025",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por Royal Museums Greenwich; cualquier reutilización requiere autorización.",
+    "credito": "© Weitang Liang, Qi Yang y Chuhong Yu · Royal Museums Greenwich",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "Astronomy Photographer of the Year",
+    "edicion": "2025",
+    "categoria": "Ganadora absoluta 2025 · Primer premio Galaxias",
+    "fuenteOficial": "https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/galaxies-2025"
+  }
+}

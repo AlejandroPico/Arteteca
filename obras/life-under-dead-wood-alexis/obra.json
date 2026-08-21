@@ -1,0 +1,47 @@
+{
+  "id": "life-under-dead-wood-alexis",
+  "titulo": "Vida bajo la madera muerta",
+  "tituloOriginal": "Life Under Dead Wood",
+  "autor": "Alexis Tinker-Tsavalas",
+  "fecha": "2024",
+  "fechaOrden": 2024,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de naturaleza",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Young Grand Title Winner 2024 · Ganadora 15–17 años",
+  "descripcion": "Un colémbolo de apenas dos milímetros se encuentra entre cuerpos fructíferos de moho mucilaginoso bajo un tronco de Berlín.",
+  "localizacion": "Wildlife Photographer of the Year",
+  "urlLocalizacion": "https://www.nhm.ac.uk/wpy/gallery/2024-life-under-dead-wood",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Macro extremo",
+    "Apilado de enfoque de 36 imágenes",
+    "Flash difuso"
+  ],
+  "etiquetas": [
+    "colémbolo",
+    "moho mucilaginoso",
+    "macro",
+    "Wildlife Photographer of the Year",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1280,
+    853
+  ],
+  "imagen": {
+    "url": "https://www.nhm.ac.uk/resources/visit/wpy/2024/medium/dce5a0d2-bc72-465a-a78e-9e46fae826d5.jpg",
+    "urlAltaResolucion": "https://www.nhm.ac.uk/resources/visit/wpy/2024/large/dce5a0d2-bc72-465a-a78e-9e46fae826d5.jpg",
+    "alt": "Pequeño colémbolo junto a cuerpos fructíferos de moho mucilaginoso",
+    "fuente": "https://www.nhm.ac.uk/wpy/gallery/2024-life-under-dead-wood",
+    "licencia": "Los derechos pertenecen al fotógrafo. El Natural History Museum prohíbe copiar, compartir o republicar la imagen salvo autorización legal expresa.",
+    "credito": "© Alexis Tinker-Tsavalas · Wildlife Photographer of the Year 2024",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "Wildlife Photographer of the Year",
+    "edicion": "2024",
+    "categoria": "Young Grand Title Winner 2024 · Ganadora 15–17 años",
+    "fuenteOficial": "https://www.nhm.ac.uk/wpy/gallery/2024-life-under-dead-wood"
+  }
+}

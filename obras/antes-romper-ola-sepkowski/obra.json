@@ -1,0 +1,46 @@
+{
+  "id": "antes-romper-ola-sepkowski",
+  "titulo": "Antes de romper",
+  "tituloOriginal": "Antes de romper",
+  "autor": "Danny Sepkowski",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Segundo premio, Nature · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Una ola de Oahu se curva sobre la cámara justo antes de colapsar; el agua forma una arquitectura translúcida que solo existe durante una fracción de segundo.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "ola",
+    "Oahu",
+    "océano",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    1500
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/3b14bf29-a9bc-4c84-bb88-4dc2b398f5f7/2nd-nature.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/3b14bf29-a9bc-4c84-bb88-4dc2b398f5f7/2nd-nature.jpg",
+    "alt": "Interior curvo de una ola a punto de romper en Oahu",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Danny Sepkowski · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Segundo premio, Nature · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

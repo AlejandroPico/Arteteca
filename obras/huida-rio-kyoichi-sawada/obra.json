@@ -1,0 +1,46 @@
+{
+  "id": "huida-rio-kyoichi-sawada",
+  "titulo": "Huyendo del bombardeo",
+  "tituloOriginal": "Huyendo del bombardeo",
+  "autor": "Kyoichi Sawada",
+  "fecha": "6 de septiembre de 1965",
+  "fechaOrden": 1965,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 1965",
+  "descripcion": "Una madre y sus hijos cruzan un río para escapar del bombardeo estadounidense sobre su aldea en Vietnam del Sur.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1965/kyoichi-sawada/1",
+  "pais": "Vietnam del Sur",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "guerra de Vietnam",
+    "desplazamiento",
+    "civiles",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1920,
+    1299
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/ae3ed470-abf6-4370-89dc-9093fba7e1e5/1965-Kyoichi-Sawada-WY?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/ae3ed470-abf6-4370-89dc-9093fba7e1e5/1965-Kyoichi-Sawada-WY",
+    "alt": "Madre con sus hijos cruzando un río para huir de un bombardeo en Vietnam",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1965/kyoichi-sawada/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Kyoichi Sawada · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1965",
+    "categoria": "World Press Photo del Año 1965",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1965/kyoichi-sawada/1"
+  }
+}

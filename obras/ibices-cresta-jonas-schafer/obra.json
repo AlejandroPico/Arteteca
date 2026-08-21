@@ -1,0 +1,46 @@
+{
+  "id": "ibices-cresta-jonas-schafer",
+  "titulo": "La cresta de los íbices",
+  "tituloOriginal": "La cresta de los íbices",
+  "autor": "Jonas Schäfer",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Mención de honor, Nature · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Una manada de íbices cruza una arista sobre el lago de Brienz; los animales se recortan entre roca y niebla como habitantes seguros de un terreno imposible.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "Suiza",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "íbice alpino",
+    "Alpes",
+    "lago de Brienz",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    800
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/752dd765-ed96-484e-be68-8de1047cb337/hm-nature.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/752dd765-ed96-484e-be68-8de1047cb337/hm-nature.jpg",
+    "alt": "Manada de íbices cruzando una cresta montañosa sobre el lago de Brienz",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Jonas Schäfer · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Mención de honor, Nature · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

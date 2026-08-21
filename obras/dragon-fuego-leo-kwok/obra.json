@@ -1,0 +1,46 @@
+{
+  "id": "dragon-fuego-leo-kwok",
+  "titulo": "Danza del dragón de fuego",
+  "tituloOriginal": "Danza del dragón de fuego",
+  "autor": "Léo Kwok",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Premio del público, People · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Bailarines de Meizhou mueven un dragón bajo una lluvia de hierro fundido; las chispas convierten la noche en una celebración abrasadora del Festival de los Faroles.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "China",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "dragón de fuego",
+    "Meizhou",
+    "Festival de los Faroles",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    800
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/7a837a6b-3b2f-416b-8a7a-39103855ceb9/peopleschoice-people.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/7a837a6b-3b2f-416b-8a7a-39103855ceb9/peopleschoice-people.jpg",
+    "alt": "Danzantes moviendo un dragón bajo una lluvia de chispas de hierro fundido",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Léo Kwok · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Premio del público, People · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

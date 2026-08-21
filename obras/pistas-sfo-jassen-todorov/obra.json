@@ -1,0 +1,46 @@
+{
+  "id": "pistas-sfo-jassen-todorov",
+  "titulo": "Las pistas de San Francisco",
+  "tituloOriginal": "Las pistas de San Francisco",
+  "autor": "Jassen Todorov",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Segundo premio, Cities · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Cuatro pistas del aeropuerto de San Francisco se cruzan visualmente bajo un avión que parece una pieza más de una enorme geometría operativa.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "Estados Unidos",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "aeropuerto",
+    "vista aérea",
+    "San Francisco",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    801
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/bb055068-8af6-4e94-9f8c-4b2c7f5aa83a/2nd-cities.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/bb055068-8af6-4e94-9f8c-4b2c7f5aa83a/2nd-cities.jpg",
+    "alt": "Vista aérea de las pistas del aeropuerto de San Francisco con un avión",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Jassen Todorov · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Segundo premio, Cities · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "caida-motocross-mogens-haven",
+  "titulo": "La caída en Volk Mølle",
+  "tituloOriginal": "La caída en Volk Mølle",
+  "autor": "Mogens Haven",
+  "fecha": "28 de agosto de 1955",
+  "fechaOrden": 1955,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 1955",
+  "descripcion": "Un motorista sale despedido de su máquina durante el Campeonato del Mundo de motocross en Volk Mølle; la violencia del accidente queda suspendida en un instante de extraña claridad.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1955/mogens-haven/1",
+  "pais": "Dinamarca",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "motocross",
+    "deporte",
+    "accidente",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1804,
+    1920
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/7ce98524-6c84-4601-b073-06f9a0e0c155/1955-Mogens-von-Haven-WY?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/7ce98524-6c84-4601-b073-06f9a0e0c155/1955-Mogens-von-Haven-WY",
+    "alt": "Motorista cayendo de su motocicleta durante una carrera de motocross en Volk Mølle",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1955/mogens-haven/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Mogens Haven · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1955",
+    "categoria": "World Press Photo del Año 1955",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1955/mogens-haven/1"
+  }
+}

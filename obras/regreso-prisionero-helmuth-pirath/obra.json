@@ -1,0 +1,46 @@
+{
+  "id": "regreso-prisionero-helmuth-pirath",
+  "titulo": "El regreso del prisionero",
+  "tituloOriginal": "El regreso del prisionero",
+  "autor": "Helmuth Pirath",
+  "fecha": "1 de enero de 1956",
+  "fechaOrden": 1956,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 1956",
+  "descripcion": "Un prisionero de guerra alemán liberado por la Unión Soviética abraza a la hija que apenas conoce; ella tenía un año cuando su padre desapareció.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1956/helmuth-pirath/1",
+  "pais": "Alemania",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "posguerra",
+    "familia",
+    "prisioneros de guerra",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1401,
+    1920
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/2928df90-d1eb-4298-8db6-5f1c395cbf63/1956-Helmuth-Pirath-WY?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/2928df90-d1eb-4298-8db6-5f1c395cbf63/1956-Helmuth-Pirath-WY",
+    "alt": "Prisionero de guerra alemán reunido con su hija tras años de cautiverio",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1956/helmuth-pirath/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Helmuth Pirath · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1956",
+    "categoria": "World Press Photo del Año 1956",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1956/helmuth-pirath/1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "hombre-tanque-charlie-cole",
+  "titulo": "El hombre del tanque",
+  "tituloOriginal": "Tank Man",
+  "autor": "Charlie Cole",
+  "fecha": "5 de junio de 1989",
+  "fechaOrden": 1989,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 1990",
+  "descripcion": "Un hombre solo detiene una columna de carros de combate en la avenida Chang’an de Pekín, un día después de la represión de las protestas de Tiananmén.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1990/charlie-cole/1",
+  "pais": "China",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "Tiananmén",
+    "protesta",
+    "censura",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1920,
+    1240
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/770b60a5-1a4c-4738-aee6-1e5c7e8badf0/1990-Charlie-Cole-WY?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/770b60a5-1a4c-4738-aee6-1e5c7e8badf0/1990-Charlie-Cole-WY",
+    "alt": "Hombre solo frente a una columna de tanques en la avenida Chang’an de Pekín",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1990/charlie-cole/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Charlie Cole · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1990",
+    "categoria": "World Press Photo del Año 1990",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1990/charlie-cole/1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "duelo-chipre-don-mccullin",
+  "titulo": "Duelo en Chipre",
+  "tituloOriginal": "Duelo en Chipre",
+  "autor": "Don McCullin",
+  "fecha": "20 de marzo de 1964",
+  "fechaOrden": 1964,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 1964",
+  "descripcion": "Una mujer turcochipriota llora la muerte de su marido en Ghaziveran durante la violencia entre comunidades griega y turca de Chipre.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1964/don-mccullin/1",
+  "pais": "Chipre",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "duelo",
+    "conflicto de Chipre",
+    "familia",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1920,
+    1315
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/60d37eca-215b-4a3a-8e23-6df90b2bd8e4/1964-Don-McCullin-WY?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/60d37eca-215b-4a3a-8e23-6df90b2bd8e4/1964-Don-McCullin-WY",
+    "alt": "Mujer turcochipriota llorando la muerte de su esposo en Ghaziveran",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1964/don-mccullin/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Don McCullin · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1964",
+    "categoria": "World Press Photo del Año 1964",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1964/don-mccullin/1"
+  }
+}

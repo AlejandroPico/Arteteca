@@ -1,0 +1,46 @@
+{
+  "id": "larung-gar-junhui-fang",
+  "titulo": "Larung Gar al anochecer",
+  "tituloOriginal": "Larung Gar al anochecer",
+  "autor": "Junhui Fang",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Premio del público, Cities · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Las viviendas rojas de la academia budista de Larung Gar cubren una ladera mientras pequeños grupos de monjes siguen los caminos iluminados de regreso a casa.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "China",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "Larung Gar",
+    "budismo",
+    "Sichuan",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    824
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/8f185948-c7f1-493d-aaf3-3a4e752c1b48/peopleschoice-cities.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/8f185948-c7f1-493d-aaf3-3a4e752c1b48/peopleschoice-cities.jpg",
+    "alt": "Viviendas rojas y caminos iluminados en la academia budista Larung Gar",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Junhui Fang · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Premio del público, Cities · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "soldado-arrastrado-kyoichi-sawada",
+  "titulo": "Camino del entierro",
+  "tituloOriginal": "Camino del entierro",
+  "autor": "Kyoichi Sawada",
+  "fecha": "24 de febrero de 1966",
+  "fechaOrden": 1966,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 1966",
+  "descripcion": "El cadáver de un combatiente del Viet Cong es arrastrado tras un vehículo blindado estadounidense después de la batalla de Suối Bông Trang.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1966/kyoichi-sawada/1",
+  "pais": "Vietnam del Sur",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "guerra de Vietnam",
+    "muerte",
+    "contenido sensible",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1284,
+    1920
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/ad1c79f8-d821-45cc-93f8-51bdcdd965d0/1966-Kyoichi-Sawada-WY?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/ad1c79f8-d821-45cc-93f8-51bdcdd965d0/1966-Kyoichi-Sawada-WY",
+    "alt": "Cuerpo de un soldado del Viet Cong arrastrado detrás de un vehículo blindado",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1966/kyoichi-sawada/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Kyoichi Sawada · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1966",
+    "categoria": "World Press Photo del Año 1966",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1966/kyoichi-sawada/1"
+  }
+}

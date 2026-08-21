@@ -1,0 +1,46 @@
+{
+  "id": "amanecer-yamuna-navin-vatsa",
+  "titulo": "Amanecer en el Yamuna",
+  "tituloOriginal": "Amanecer en el Yamuna",
+  "autor": "Navin Vatsa",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de viaje",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Mención de honor, People · National Geographic Travel Photo Contest 2019",
+  "descripcion": "Un niño permanece inmóvil junto al Yamuna mientras miles de gaviotas atraviesan la luz dorada y azul del amanecer de Delhi.",
+  "localizacion": "National Geographic Travel Photo Contest",
+  "urlLocalizacion": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+  "pais": "India",
+  "tecnicas": [
+    "Fotografía digital",
+    "Fotografía de viaje"
+  ],
+  "etiquetas": [
+    "Yamuna",
+    "Delhi",
+    "gaviotas",
+    "National Geographic Travel Photo Contest",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1200,
+    800
+  ],
+  "imagen": {
+    "url": "https://i.natgeofe.com/n/31a205c7-4900-4c6e-bb3e-66c37da0bcb2/hm-people.jpg?w=1200",
+    "urlAltaResolucion": "https://i.natgeofe.com/n/31a205c7-4900-4c6e-bb3e-66c37da0bcb2/hm-people.jpg",
+    "alt": "Niño sentado junto al río Yamuna rodeado de gaviotas al amanecer",
+    "fuente": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por National Geographic; cualquier reutilización requiere autorización.",
+    "credito": "© Navin Vatsa · National Geographic",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "National Geographic Travel Photo Contest",
+    "edicion": "2019",
+    "categoria": "Mención de honor, People · National Geographic Travel Photo Contest 2019",
+    "fuenteOficial": "https://www.nationalgeographic.com/travel/article/travel-photo-contest-winners-2019"
+  }
+}

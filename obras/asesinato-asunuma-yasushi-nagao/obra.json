@@ -1,0 +1,46 @@
+{
+  "id": "asesinato-asunuma-yasushi-nagao",
+  "titulo": "El asesinato de Inejiro Asanuma",
+  "tituloOriginal": "El asesinato de Inejiro Asanuma",
+  "autor": "Yasushi Nagao",
+  "fecha": "12 de octubre de 1960",
+  "fechaOrden": 1960,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 1961 · Premio Pulitzer de Fotografía 1961",
+  "descripcion": "El ultranacionalista Otoya Yamaguchi acaba de clavar una espada corta al dirigente socialista Inejiro Asanuma durante un debate político televisado en Tokio.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1961/yasushi-nagao/1",
+  "pais": "Japón",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "asesinato político",
+    "Japón",
+    "contenido sensible",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1920,
+    1594
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/fc930b8c-d006-4634-89d6-7740e9f22faa/1961-Yasushi-Nagao-WY?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/fc930b8c-d006-4634-89d6-7740e9f22faa/1961-Yasushi-Nagao-WY",
+    "alt": "Otoya Yamaguchi atacando con una espada al político Inejiro Asanuma en Tokio",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1961/yasushi-nagao/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Yasushi Nagao · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1961",
+    "categoria": "World Press Photo del Año 1961 · Premio Pulitzer de Fotografía 1961",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1961/yasushi-nagao/1"
+  }
+}

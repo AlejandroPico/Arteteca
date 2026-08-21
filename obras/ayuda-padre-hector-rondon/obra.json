@@ -1,0 +1,46 @@
+{
+  "id": "ayuda-padre-hector-rondon",
+  "titulo": "Ayuda del padre",
+  "tituloOriginal": "Aid from the Padre",
+  "autor": "Héctor Rondón Lovera",
+  "fecha": "2 de junio de 1962",
+  "fechaOrden": 1962,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo del Año 1962 · Premio Pulitzer de Fotografía 1963",
+  "descripcion": "El capellán Luis María Padilla sostiene a un soldado mortalmente herido durante la rebelión de Puerto Cabello, en Venezuela, mientras busca administrarle los últimos sacramentos.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1962/hector-rondon-lovera/1",
+  "pais": "Venezuela",
+  "tecnicas": [
+    "Fotografía analógica",
+    "Fotoperiodismo"
+  ],
+  "etiquetas": [
+    "Puerto Cabello",
+    "últimos sacramentos",
+    "contenido sensible",
+    "World Press Photo",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1454,
+    1920
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/a6f997a2-7271-41ce-8ee9-a3995aea4e47/1962-Hector-Rondon-Lovera-WY?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/a6f997a2-7271-41ce-8ee9-a3995aea4e47/1962-Hector-Rondon-Lovera-WY",
+    "alt": "Sacerdote sosteniendo a un soldado herido durante la rebelión de Puerto Cabello",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1962/hector-rondon-lovera/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Héctor Rondón Lovera · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1962",
+    "categoria": "World Press Photo del Año 1962 · Premio Pulitzer de Fotografía 1963",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1962/hector-rondon-lovera/1"
+  }
+}

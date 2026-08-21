@@ -1,0 +1,47 @@
+{
+  "id": "swarm-life-shane-gross",
+  "titulo": "El enjambre de la vida",
+  "tituloOriginal": "The Swarm of Life",
+  "autor": "Shane Gross",
+  "fecha": "2024",
+  "fechaOrden": 2024,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía de naturaleza",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Adult Grand Title Winner 2024 · Ganadora Wetlands",
+  "descripcion": "Miles de renacuajos de sapo occidental avanzan bajo los nenúfares de un lago en la isla de Vancouver, una migración diminuta convertida en paisaje épico.",
+  "localizacion": "Wildlife Photographer of the Year",
+  "urlLocalizacion": "https://www.nhm.ac.uk/wpy/gallery/2024-the-swarm-of-life",
+  "pais": "Canadá",
+  "tecnicas": [
+    "Fotografía subacuática",
+    "Nikon D500",
+    "Objetivo ojo de pez"
+  ],
+  "etiquetas": [
+    "renacuajos",
+    "humedal",
+    "isla de Vancouver",
+    "Wildlife Photographer of the Year",
+    "fotografía premiada"
+  ],
+  "proporcion": [
+    1280,
+    853
+  ],
+  "imagen": {
+    "url": "https://www.nhm.ac.uk/resources/visit/wpy/2024/medium/0869199c-31ac-4b89-b8c7-90bccbabeef6.jpg",
+    "urlAltaResolucion": "https://www.nhm.ac.uk/resources/visit/wpy/2024/large/0869199c-31ac-4b89-b8c7-90bccbabeef6.jpg",
+    "alt": "Miles de renacuajos nadando bajo nenúfares en un lago de la isla de Vancouver",
+    "fuente": "https://www.nhm.ac.uk/wpy/gallery/2024-the-swarm-of-life",
+    "licencia": "Los derechos pertenecen al fotógrafo. El Natural History Museum prohíbe copiar, compartir o republicar la imagen salvo autorización legal expresa.",
+    "credito": "© Shane Gross · Wildlife Photographer of the Year 2024",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "Wildlife Photographer of the Year",
+    "edicion": "2024",
+    "categoria": "Adult Grand Title Winner 2024 · Ganadora Wetlands",
+    "fuenteOficial": "https://www.nhm.ac.uk/wpy/gallery/2024-the-swarm-of-life"
+  }
+}

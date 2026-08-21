@@ -1,0 +1,42 @@
+{
+  "id": "mexico-un-clima-cambiante-cesar-rodriguez",
+  "titulo": "México, un clima cambiante",
+  "autor": "César Rodríguez",
+  "fecha": "5 de septiembre de 2021",
+  "fechaOrden": 2021,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2026 · Norteamérica y Centroamérica - Proyectos de largo plazo",
+  "descripcion": "Un hombre se encuentra sobre los restos de un rompeolas en Sánchez Magallanes, Tabasco, México. La erosión costera en Tabasco ha consumido más de 500 metros de tierra desde 2005, alimentada por tormentas invernales cada vez más frecuentes.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2026/Cesar-Rodriguez/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "North and Central America",
+    "2026"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/30c255bd-ea73-44f8-9793-70c6138dc1f3/WPP-2026Contest-NorthAndCentralAmerica-LTP-CesarRodriguez-01.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/30c255bd-ea73-44f8-9793-70c6138dc1f3/WPP-2026Contest-NorthAndCentralAmerica-LTP-CesarRodriguez-01.jpg",
+    "alt": "Un hombre se encuentra sobre los restos de un rompeolas en Sánchez Magallanes, Tabasco, México. La erosión costera en Tabasco ha consumido más de 500 metros de tierra desde 2005, alimentada por tormentas invernales cada vez más frecuentes.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2026/Cesar-Rodriguez/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© César Rodríguez · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2026",
+    "categoria": "World Press Photo 2026 · Norteamérica y Centroamérica - Proyectos de largo plazo",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2026/Cesar-Rodriguez/1",
+    "tituloOficial": "Mexico, A Changing Climate"
+  }
+}

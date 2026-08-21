@@ -1,0 +1,42 @@
+{
+  "id": "un-pequeno-caballo-jorobado-alexey-perevoshchikov",
+  "titulo": "Un pequeño caballo jorobado",
+  "autor": "Alexey Perevoshchikov",
+  "fecha": "1 de enero de 1969",
+  "fechaOrden": 1969,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1969 · Reportajes generales - Tercer premio",
+  "descripcion": "Un pequeño caballo jorobado.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1969/alexey-perevoshchikov-gf/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "General Features",
+    "1969"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/690a2bee-3dee-40e0-8f7a-414ad838d54f/1969-Alexey-Perevoshchikov-GN3-(1)?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/690a2bee-3dee-40e0-8f7a-414ad838d54f/1969-Alexey-Perevoshchikov-GN3-(1)",
+    "alt": "Un pequeño caballo jorobado.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1969/alexey-perevoshchikov-gf/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Alexey Perevoshchikov · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1969",
+    "categoria": "World Press Photo 1969 · Reportajes generales - Tercer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1969/alexey-perevoshchikov-gf/1",
+    "tituloOficial": null
+  }
+}

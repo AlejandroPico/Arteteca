@@ -1,0 +1,42 @@
+{
+  "id": "doctor-peyo-y-senor-hassen-jeremy-lempin",
+  "titulo": "Doctor Peyo y señor Hassen",
+  "autor": "Jeremy Lempin",
+  "fecha": "30 de noviembre de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · Temas contemporáneos - Segundo premio",
+  "descripcion": "Marion (24), que padece cáncer metastásico, abraza a su hijo Ethan (7) en presencia de Peyo, un caballo utilizado en terapia asistida con animales, en la Unidad de Cuidados Paliativos Séléne del Centro Hospitalario de Calais, en Calais, Francia.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/jeremy-lempin/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Contemporary Issues",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/ac39356e-cdf6-4457-8359-950680cec075/WPP-2020PhotoContest-CI-JeremyLempin.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/ac39356e-cdf6-4457-8359-950680cec075/WPP-2020PhotoContest-CI-JeremyLempin.jpg",
+    "alt": "Marion (24), que padece cáncer metastásico, abraza a su hijo Ethan (7) en presencia de Peyo, un caballo utilizado en terapia asistida con animales, en la Unidad de Cuidados Paliativos Séléne del Centro Hospitalario de Calais, en Calais, Francia.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/jeremy-lempin/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Jeremy Lempin · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · Temas contemporáneos - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/jeremy-lempin/1",
+    "tituloOficial": "Doctor Peyo and Mister Hassen"
+  }
+}

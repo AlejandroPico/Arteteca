@@ -1,0 +1,42 @@
+{
+  "id": "ataque-ruso-a-kyiv-evgeniy-maloletka",
+  "titulo": "Ataque ruso a Kyiv",
+  "autor": "Evgeniy Maloletka",
+  "fecha": "24 de abril de 2025",
+  "fechaOrden": 2025,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2026 · Europe - Fotografías individuales",
+  "descripcion": "Una mujer herida se sienta cerca de su casa gravemente dañada. Estaba dormida cuando un misil ruso destruyó el edificio frente al suyo. Kyiv, Ucrania.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2026/Evgeniy-Maloletka/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Europe",
+    "2026"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/9a543003-f68f-4f9d-aeb0-97de5a79be6f/WPP-2026Contest-Europe-SIN-EvgeniyMaloletka.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/9a543003-f68f-4f9d-aeb0-97de5a79be6f/WPP-2026Contest-Europe-SIN-EvgeniyMaloletka.jpg",
+    "alt": "Una mujer herida se sienta cerca de su casa gravemente dañada. Estaba dormida cuando un misil ruso destruyó el edificio frente al suyo. Kyiv, Ucrania.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2026/Evgeniy-Maloletka/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Evgeniy Maloletka · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2026",
+    "categoria": "World Press Photo 2026 · Europe - Fotografías individuales",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2026/Evgeniy-Maloletka/1",
+    "tituloOficial": "Russian Attack on Kyiv"
+  }
+}

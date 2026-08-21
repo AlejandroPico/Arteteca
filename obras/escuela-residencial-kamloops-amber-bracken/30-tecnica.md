@@ -1,0 +1,13 @@
+---
+titulo: Cómo está construida
+icono: tecnica
+---
+
+## Datos del registro
+
+- **Modalidad:** Fotografía individual
+- **Fecha de la toma:** 19 de junio de 2021
+- **Agencia o publicación:** for The New York Times
+- **Velocidad:** 1/1
+- **ISO:** 400
+- **Cámara:** Canon EOS 5D Mark IV

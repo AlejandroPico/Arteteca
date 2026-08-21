@@ -1,0 +1,42 @@
+{
+  "id": "el-regreso-del-nativo-huimin-kuang",
+  "titulo": "El regreso del nativo",
+  "autor": "Huimin Kuang",
+  "fecha": "8 de febrero de 2011",
+  "fechaOrden": 2011,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2012 · Arte y entretenimiento - Tercer premio",
+  "descripcion": "Las obras de arte que representan a Mao Zedong, el fundador de la República Popular China, están experimentando un resurgimiento en popularidad.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2012/huimin-kuang/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Arts and Entertainment",
+    "2012"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/4d8bd067-f637-4efc-a42b-3745137f7a79/2012-Huimin-Kuang-AES3-AL?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/4d8bd067-f637-4efc-a42b-3745137f7a79/2012-Huimin-Kuang-AES3-AL",
+    "alt": "Las obras de arte que representan a Mao Zedong, el fundador de la República Popular China, están experimentando un resurgimiento en popularidad.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2012/huimin-kuang/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Huimin Kuang · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2012",
+    "categoria": "World Press Photo 2012 · Arte y entretenimiento - Tercer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2012/huimin-kuang/1",
+    "tituloOficial": "The Return of the Native"
+  }
+}

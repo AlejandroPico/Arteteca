@@ -1,0 +1,42 @@
+{
+  "id": "una-estudiante-de-ballet-imre-benko",
+  "titulo": "Una estudiante de ballet",
+  "autor": "Imre Benkö",
+  "fecha": "1 de enero de 1977",
+  "fechaOrden": 1977,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1978 · Arte y ciencias - Primer premio",
+  "descripcion": "Una estudiante de ballet.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1978/imre-benko-aas/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Arts and Sciences",
+    "1978"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/510beb7f-4e38-461e-8b7f-cc4e55d91978/1978-Imre-Benko-AE1-(1)?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/510beb7f-4e38-461e-8b7f-cc4e55d91978/1978-Imre-Benko-AE1-(1)",
+    "alt": "Una estudiante de ballet.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1978/imre-benko-aas/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Imre Benkö · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1978",
+    "categoria": "World Press Photo 1978 · Arte y ciencias - Primer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1978/imre-benko-aas/1",
+    "tituloOficial": null
+  }
+}

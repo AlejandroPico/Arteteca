@@ -1,0 +1,42 @@
+{
+  "id": "foto-de-prensa-mundial-del-ano-samuel-aranda",
+  "titulo": "Foto de prensa mundial del año",
+  "autor": "Samuel Aranda",
+  "fecha": "15 de octubre de 2011",
+  "fechaOrden": 2011,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2012 · World Press Photo del Año",
+  "descripcion": "Fatima al-Qaws acuna a su hijo Zayed (18), que sufre los efectos del gas lacrimógeno tras participar en una manifestación callejera, en Sanaa, Yemen, el 15 de octubre.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2012/samuel-aranda/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "World Press Photo of the Year",
+    "2012"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/8c65ddeb-702a-439f-ad12-7a672ae06184/2012_Samuel-Aranda_POY.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/8c65ddeb-702a-439f-ad12-7a672ae06184/2012_Samuel-Aranda_POY.jpg",
+    "alt": "Fatima al-Qaws acuna a su hijo Zayed (18), que sufre los efectos del gas lacrimógeno tras participar en una manifestación callejera, en Sanaa, Yemen, el 15 de octubre.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2012/samuel-aranda/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Samuel Aranda · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2012",
+    "categoria": "World Press Photo 2012 · World Press Photo del Año",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2012/samuel-aranda/1",
+    "tituloOficial": "World Press Photo of the Year"
+  }
+}

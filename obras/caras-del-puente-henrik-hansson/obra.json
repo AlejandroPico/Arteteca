@@ -1,0 +1,42 @@
+{
+  "id": "caras-del-puente-henrik-hansson",
+  "titulo": "Caras del Puente",
+  "autor": "Henrik Hansson",
+  "fecha": "4 de agosto de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · Sports - Segundo premio",
+  "descripcion": "Una competición en la sede del Borlänge Bridge Club dura unas tres horas, Borlänge, Suecia.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/henrik-hansson/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Sports",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/cf76a19a-5995-4625-abfe-aae9212e587d/WPP-2021PhotoContest-SPS-HenrikHansson-AH.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/cf76a19a-5995-4625-abfe-aae9212e587d/WPP-2021PhotoContest-SPS-HenrikHansson-AH.jpg",
+    "alt": "Una competición en la sede del Borlänge Bridge Club dura unas tres horas, Borlänge, Suecia.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/henrik-hansson/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Henrik Hansson · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · Sports - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/henrik-hansson/1",
+    "tituloOficial": "Faces of Bridge"
+  }
+}

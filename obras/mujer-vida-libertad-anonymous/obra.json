@@ -1,0 +1,42 @@
+{
+  "id": "mujer-vida-libertad-anonymous",
+  "titulo": "Mujer, Vida, Libertad",
+  "autor": "Anonymous",
+  "fecha": "2023",
+  "fechaOrden": 2023,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2023 · Asia - Formato abierto",
+  "descripcion": "Este vídeo basado en fotografías ofrece una visión poco común y personal de los peligros que enfrentan los manifestantes en las calles de Irán hoy en día.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2023/Hossein-Fatemi/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "Asia",
+    "2023"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/0c302d22-d60e-4388-81c3-150f77a712b0/WPP-2023Contest-Asia-OPF-Hossein-Fatemi.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/0c302d22-d60e-4388-81c3-150f77a712b0/WPP-2023Contest-Asia-OPF-Hossein-Fatemi.jpg",
+    "alt": "Este vídeo basado en fotografías ofrece una visión poco común y personal de los peligros que enfrentan los manifestantes en las calles de Irán hoy en día.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2023/Hossein-Fatemi/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Anonymous · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2023",
+    "categoria": "World Press Photo 2023 · Asia - Formato abierto",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2023/Hossein-Fatemi/1",
+    "tituloOficial": "Woman, Life, Freedom"
+  }
+}

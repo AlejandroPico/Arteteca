@@ -1,0 +1,42 @@
+{
+  "id": "crimenes-silenciados-marco-garro",
+  "titulo": "Crímenes silenciados",
+  "autor": "Marco Garro",
+  "fecha": "2024",
+  "fechaOrden": 2024,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2024 · Sudamérica - Formato abierto",
+  "descripcion": "Muchas de las personas que brindaron testimonios para este proyecto multimedia están haciendo públicas sus historias por primera vez. En Perú, el código penal no reconoce la violencia por prejuicios, por lo que los asesinatos de personas LGBTQI+ siguen ocultos en los registros oficiales.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2024/Marco-Garro/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "South America",
+    "2024"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/60e3fb52-97c1-4703-980a-0fe8d5a0747d/WPP-2024Contest-SouthAmerica-OPF-MarcoGarro.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/60e3fb52-97c1-4703-980a-0fe8d5a0747d/WPP-2024Contest-SouthAmerica-OPF-MarcoGarro.jpg",
+    "alt": "Muchas de las personas que brindaron testimonios para este proyecto multimedia están haciendo públicas sus historias por primera vez. En Perú, el código penal no reconoce la violencia por prejuicios, por lo que los asesinatos de personas LGBTQI+ siguen ocultos en los registros oficiales.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2024/Marco-Garro/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Marco Garro · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2024",
+    "categoria": "World Press Photo 2024 · Sudamérica - Formato abierto",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2024/Marco-Garro/1",
+    "tituloOficial": "Silenced Crimes"
+  }
+}

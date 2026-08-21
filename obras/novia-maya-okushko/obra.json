@@ -1,0 +1,42 @@
+{
+  "id": "novia-maya-okushko",
+  "titulo": "Novia",
+  "autor": "Maya Okushko",
+  "fecha": "1 de enero de 1963",
+  "fechaOrden": 1963,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1963 · Reportajes - Segundo premio",
+  "descripcion": "Novia.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1963/maya-okushko-ft/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Features",
+    "1963"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/2bdbad62-fe3f-4660-a9a6-d76420adeac1/1963-Maya-Okushko-GN2-(1)?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/2bdbad62-fe3f-4660-a9a6-d76420adeac1/1963-Maya-Okushko-GN2-(1)",
+    "alt": "Novia.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1963/maya-okushko-ft/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Maya Okushko · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1963",
+    "categoria": "World Press Photo 1963 · Reportajes - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1963/maya-okushko-ft/1",
+    "tituloOficial": null
+  }
+}

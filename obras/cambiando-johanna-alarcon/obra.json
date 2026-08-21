@@ -1,0 +1,42 @@
+{
+  "id": "cambiando-johanna-alarcon",
+  "titulo": "Cambiando",
+  "autor": "Johanna Alarcón",
+  "fecha": "2023",
+  "fechaOrden": 2023,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2023 · Sudamérica - Formato abierto",
+  "descripcion": "Valentina es una niña de 13 años que aspira a ser fotógrafa y cuya madre está en prisión por posesión de marihuana.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2023/Johanna-Alarcon/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "South America",
+    "2023"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/5520f669-449d-40c9-8e4b-5ddc043a0bce/WPP-2023Contest-South-America-OPF-Johis-Alarcon.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/5520f669-449d-40c9-8e4b-5ddc043a0bce/WPP-2023Contest-South-America-OPF-Johis-Alarcon.jpg",
+    "alt": "Valentina es una niña de 13 años que aspira a ser fotógrafa y cuya madre está en prisión por posesión de marihuana.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2023/Johanna-Alarcon/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Johanna Alarcón · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2023",
+    "categoria": "World Press Photo 2023 · Sudamérica - Formato abierto",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2023/Johanna-Alarcon/1",
+    "tituloOficial": "Shifting"
+  }
+}

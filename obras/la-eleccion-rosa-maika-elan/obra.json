@@ -1,0 +1,42 @@
+{
+  "id": "la-eleccion-rosa-maika-elan",
+  "titulo": "La elección rosa",
+  "autor": "Maika Elan",
+  "fecha": "10 de julio de 2011",
+  "fechaOrden": 2011,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2013 · Temas contemporáneos - Primer premio",
+  "descripcion": "Históricamente, Vietnam ha sido poco acogedor con las parejas del mismo sexo, pero en 2012 el gobierno vietnamita anunció que estaba considerando reconocer el matrimonio entre personas del mismo sexo, una medida que lo convertiría en el primer país asiático en hacerlo.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2013/maika-elan/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Contemporary Issues",
+    "2013"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/d499501d-caac-4659-a64c-69e95c0c4313/2013-Maika-Elan-CIS1-AL?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/d499501d-caac-4659-a64c-69e95c0c4313/2013-Maika-Elan-CIS1-AL",
+    "alt": "Históricamente, Vietnam ha sido poco acogedor con las parejas del mismo sexo, pero en 2012 el gobierno vietnamita anunció que estaba considerando reconocer el matrimonio entre personas del mismo sexo, una medida que lo convertiría en el primer país asiático en hacerlo.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2013/maika-elan/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Maika Elan · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2013",
+    "categoria": "World Press Photo 2013 · Temas contemporáneos - Primer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2013/maika-elan/1",
+    "tituloOficial": "The Pink Choice"
+  }
+}

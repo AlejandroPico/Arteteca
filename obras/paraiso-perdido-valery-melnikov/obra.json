@@ -1,0 +1,42 @@
+{
+  "id": "paraiso-perdido-valery-melnikov",
+  "titulo": "Paraíso perdido",
+  "autor": "Valery Melnikov",
+  "fecha": "14 de noviembre de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · Nominación a Historia del Año de World Press Photo",
+  "descripcion": "Anushavan (62) se encuentra en un huerto de granados en el patio de su casa, en el pueblo de Ukhtasar, Nagorno-Karabaj. Sostiene un rifle de asalto Kalashnikov conservado de la Primera Guerra de Nagorno-Karabaj.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/valery-melnikov-soyn/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "World Press Photo Story of the Year Nominee",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/41361ce6-ddfc-4c6e-a744-0e291bfd1c2c/WPP-2021PhotoContest-SOYNominee-ValeryMelnikov-AJ.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/41361ce6-ddfc-4c6e-a744-0e291bfd1c2c/WPP-2021PhotoContest-SOYNominee-ValeryMelnikov-AJ.jpg",
+    "alt": "Anushavan (62) se encuentra en un huerto de granados en el patio de su casa, en el pueblo de Ukhtasar, Nagorno-Karabaj. Sostiene un rifle de asalto Kalashnikov conservado de la Primera Guerra de Nagorno-Karabaj.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/valery-melnikov-soyn/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Valery Melnikov · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · Nominación a Historia del Año de World Press Photo",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/valery-melnikov-soyn/1",
+    "tituloOficial": "Paradise Lost"
+  }
+}

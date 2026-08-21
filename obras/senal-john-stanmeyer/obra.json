@@ -1,0 +1,42 @@
+{
+  "id": "senal-john-stanmeyer",
+  "titulo": "Señal",
+  "autor": "John Stanmeyer",
+  "fecha": "26 de febrero de 2013",
+  "fechaOrden": 2013,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2014 · Temas contemporáneos",
+  "descripcion": "Por la noche, los inmigrantes africanos que se encuentran en la costa de la ciudad de Djibouti levantan sus teléfonos en un intento de captar una señal barata de la vecina Somalia, un vínculo tenue con sus familiares en el extranjero.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2014/john-stanmeyer/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Contemporary Issues",
+    "2014"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/aae5f5c5-bae0-440f-a9e6-b846ee09df79/2014-John-Stanmeyer-CI1?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/aae5f5c5-bae0-440f-a9e6-b846ee09df79/2014-John-Stanmeyer-CI1",
+    "alt": "Por la noche, los inmigrantes africanos que se encuentran en la costa de la ciudad de Djibouti levantan sus teléfonos en un intento de captar una señal barata de la vecina Somalia, un vínculo tenue con sus familiares en el extranjero.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2014/john-stanmeyer/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© John Stanmeyer · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2014",
+    "categoria": "World Press Photo 2014 · Temas contemporáneos",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2014/john-stanmeyer/1",
+    "tituloOficial": "Signal"
+  }
+}

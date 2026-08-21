@@ -110,11 +110,11 @@ El proyecto no debe imponer el gusto clásico de su creador como único criterio
 
 En la revisión del 21 de agosto de 2026, Arteteca contiene:
 
-- 1.164 obras;
-- 5.810 pestañas documentales;
+- 1.822 obras;
+- 9.100 pestañas documentales;
 - 48 tipos de obra;
-- 150 periodos, movimientos o marcos culturales;
-- 332 artistas o atribuciones;
+- 152 periodos, movimientos o marcos culturales;
+- 905 artistas o atribuciones;
 - 50 colecciones editoriales.
 
 Estos números son una fotografía temporal, no constantes de programación. No los escribas como valores fijos en la interfaz. El compilador y `public/data/catalogo.json` deben ser siempre quienes determinen las cifras vigentes.
@@ -1884,6 +1884,28 @@ aportado por el usuario. Su trazabilidad queda en:
 
 ```text
 docs/auditoria-seleccion-tresubresdobles-2026-08.md
+```
+
+Las importaciones de concursos fotográficos siguen además estas reglas:
+
+- una fotografía individual, una serie, un proyecto multimedia y un portfolio
+  colectivo son modalidades distintas y deben declararse como tales;
+- cuando el premio reconoce una serie, la imagen visible es una portada o primer
+  fotograma identificado, no la supuesta ganadora aislada;
+- el pie oficial se traduce y adapta sin copiar una redacción extensa ni inventar
+  información ausente;
+- las páginas globales, regionales, temáticas o de categoría se comparan por URL
+  de fuente, URL de imagen, autor, título y pie antes de crear una ficha;
+- una imagen que reúne premios de distintos certámenes conserva una sola ficha y
+  enumera los reconocimientos comprobados;
+- las reproducciones protegidas se enlazan desde la fuente oficial y no se guardan
+  en el repositorio.
+
+La ampliación de World Press Photo y el estado real de los demás archivos quedan
+documentados en:
+
+```text
+docs/auditoria-concursos-fotografia-2026-08.md
 ```
 
 ---

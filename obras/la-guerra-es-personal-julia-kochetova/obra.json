@@ -1,0 +1,42 @@
+{
+  "id": "la-guerra-es-personal-julia-kochetova",
+  "titulo": "La guerra es personal",
+  "autor": "Julia Kochetova",
+  "fecha": "2024",
+  "fechaOrden": 2024,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2024 · Premio World Press Photo de Formato Abierto",
+  "descripcion": "Este proyecto entrelaza imágenes fotográficas con poesía, clips de audio y música. La presentación multidisciplinaria de la fotógrafa fundamenta los hechos de la guerra en su experiencia subjetiva y, al mismo tiempo, le permite inyectar más emoción y simbolismo de lo que las fotografías podrían transmitir por sí solas.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2024/Julia-Kochetova-OPFA/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "World Press Photo Open Format Award",
+    "2024"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/be85cf12-0932-49b4-bfa6-9f8944ed8902/WPP-2024Contest-OPFA-JuliaKochetova.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/be85cf12-0932-49b4-bfa6-9f8944ed8902/WPP-2024Contest-OPFA-JuliaKochetova.jpg",
+    "alt": "Este proyecto entrelaza imágenes fotográficas con poesía, clips de audio y música. La presentación multidisciplinaria de la fotógrafa fundamenta los hechos de la guerra en su experiencia subjetiva y, al mismo tiempo, le permite inyectar más emoción y simbolismo de lo que las fotografías podrían transmitir por sí solas.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2024/Julia-Kochetova-OPFA/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Julia Kochetova · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2024",
+    "categoria": "World Press Photo 2024 · Premio World Press Photo de Formato Abierto",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2024/Julia-Kochetova-OPFA/1",
+    "tituloOficial": "War Is Personal"
+  }
+}

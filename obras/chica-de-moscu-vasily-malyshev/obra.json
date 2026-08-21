@@ -1,0 +1,42 @@
+{
+  "id": "chica-de-moscu-vasily-malyshev",
+  "titulo": "Chica de Moscú",
+  "autor": "Vasily Malyshev",
+  "fecha": "1 de enero de 1966",
+  "fechaOrden": 1966,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1966 · Fotografía en color - Mención de honor",
+  "descripcion": "Chica de Moscú.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1966/vasily-malyshev-cp/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Color Picture",
+    "1966"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/fc2f3c77-56d7-4be7-bc68-a9e9b2c967a9/1966-Vasily-Malyshev-GN-(1)?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/fc2f3c77-56d7-4be7-bc68-a9e9b2c967a9/1966-Vasily-Malyshev-GN-(1)",
+    "alt": "Chica de Moscú.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1966/vasily-malyshev-cp/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Vasily Malyshev · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1966",
+    "categoria": "World Press Photo 1966 · Fotografía en color - Mención de honor",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1966/vasily-malyshev-cp/1",
+    "tituloOficial": null
+  }
+}

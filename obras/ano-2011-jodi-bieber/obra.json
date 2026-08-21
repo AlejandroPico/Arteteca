@@ -1,0 +1,42 @@
+{
+  "id": "ano-2011-jodi-bieber",
+  "titulo": "Año 2011",
+  "autor": "Jodi Bieber",
+  "fecha": "15 de julio de 2010",
+  "fechaOrden": 2010,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2011 · World Press Photo del Año",
+  "descripcion": "Bibi Aisha, de 18 años, fue desfigurada como represalia por huir de la casa de su marido.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2011/jodi-bieber/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "World Press Photo of the Year",
+    "2011"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/990af46e-b7b5-4ead-a683-7cb93d9b0463/2011JodiBieberYEAR?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/990af46e-b7b5-4ead-a683-7cb93d9b0463/2011JodiBieberYEAR",
+    "alt": "Bibi Aisha, de 18 años, fue desfigurada como represalia por huir de la casa de su marido.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2011/jodi-bieber/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Jodi Bieber · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2011",
+    "categoria": "World Press Photo 2011 · World Press Photo del Año",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2011/jodi-bieber/1",
+    "tituloOficial": "2011-Year"
+  }
+}

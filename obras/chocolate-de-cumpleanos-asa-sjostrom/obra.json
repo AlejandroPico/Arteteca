@@ -1,0 +1,42 @@
+{
+  "id": "chocolate-de-cumpleanos-asa-sjostrom",
+  "titulo": "Chocolate de cumpleaños",
+  "autor": "Åsa Sjöström",
+  "fecha": "24 de marzo de 2014",
+  "fechaOrden": 2014,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2015 · Vida cotidiana - Segundo premio",
+  "descripcion": "Igor le reparte chocolate a un amigo en su noveno cumpleaños.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2015/asa-sjostrom/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Daily Life",
+    "2015"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/c5b46d3a-3089-4984-9564-bd1ee6899bd4/2015-Asa-Sjostrom-DL2?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/c5b46d3a-3089-4984-9564-bd1ee6899bd4/2015-Asa-Sjostrom-DL2",
+    "alt": "Igor le reparte chocolate a un amigo en su noveno cumpleaños.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2015/asa-sjostrom/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Åsa Sjöström · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2015",
+    "categoria": "World Press Photo 2015 · Vida cotidiana - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2015/asa-sjostrom/1",
+    "tituloOficial": "Birthday Chocolate"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "la-transicion-ignat-oleg-ponomarev",
+  "titulo": "La transición: Ignat",
+  "autor": "Oleg Ponomarev",
+  "fecha": "23 de abril de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · Nominación al World Press Photo del Año",
+  "descripcion": "Ignat, un hombre transgénero, sentado con su novia María en San Petersburgo, Rusia.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/oleg-ponomarev/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "World Press Photo of the Year Nominee",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/bca850a5-e42c-42bc-9bba-f47e7da05fc9/WPP-2021PhotoContest-POYNominee-OlegPonomarev.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/bca850a5-e42c-42bc-9bba-f47e7da05fc9/WPP-2021PhotoContest-POYNominee-OlegPonomarev.jpg",
+    "alt": "Ignat, un hombre transgénero, sentado con su novia María en San Petersburgo, Rusia.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/oleg-ponomarev/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Oleg Ponomarev · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · Nominación al World Press Photo del Año",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/oleg-ponomarev/1",
+    "tituloOficial": "The Transition: Ignat"
+  }
+}

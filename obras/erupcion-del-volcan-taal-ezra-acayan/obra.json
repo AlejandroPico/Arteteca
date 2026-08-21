@@ -1,0 +1,42 @@
+{
+  "id": "erupcion-del-volcan-taal-ezra-acayan",
+  "titulo": "Erupción del volcán Taal",
+  "autor": "Ezra Acayan",
+  "fecha": "14 de enero de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · Naturaleza - Segundo premio",
+  "descripcion": "Los árboles están cubiertos de ceniza volcánica, cerca del volcán Taal, Batangas, Filipinas.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/ezra-acayan/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Nature",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/958037c8-af76-4c08-b7de-62fcffb84aa3/WPP-2021PhotoContest-NAS-EzraAcayan-AJ.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/958037c8-af76-4c08-b7de-62fcffb84aa3/WPP-2021PhotoContest-NAS-EzraAcayan-AJ.jpg",
+    "alt": "Los árboles están cubiertos de ceniza volcánica, cerca del volcán Taal, Batangas, Filipinas.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/ezra-acayan/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Ezra Acayan · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · Naturaleza - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/ezra-acayan/1",
+    "tituloOficial": "Taal Volcano Eruption"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "el-cine-de-kabul-bram-janssen",
+  "titulo": "El cine de Kabul",
+  "autor": "Bram Janssen",
+  "fecha": "4 de noviembre de 2021",
+  "fechaOrden": 2021,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2022 · Asia - Historias",
+  "descripcion": "Gul Mohammed, que trabaja como acomodador en el Cine Ariana de Kabul, Afganistán, posa para una fotografía casi tres meses después de que los talibanes cerraran el cine.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2022/bram-janssen/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "Asia",
+    "2022"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/30f209cf-6b79-4f0c-9e9e-1cc2058efafc/WPP_2022Contest_Asia_STO_Bram-Janssen_AJ.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/30f209cf-6b79-4f0c-9e9e-1cc2058efafc/WPP_2022Contest_Asia_STO_Bram-Janssen_AJ.jpg",
+    "alt": "Gul Mohammed, que trabaja como acomodador en el Cine Ariana de Kabul, Afganistán, posa para una fotografía casi tres meses después de que los talibanes cerraran el cine.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2022/bram-janssen/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Bram Janssen · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2022",
+    "categoria": "World Press Photo 2022 · Asia - Historias",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2022/bram-janssen/1",
+    "tituloOficial": "The Cinema of Kabul"
+  }
+}

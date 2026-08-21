@@ -1,0 +1,42 @@
+{
+  "id": "el-hijo-del-fotografo-en-el-jardin-clive-limpkin",
+  "titulo": "El hijo del fotógrafo en el jardín",
+  "autor": "Clive Limpkin",
+  "fecha": "22 de junio de 1975",
+  "fechaOrden": 1975,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1976 · Reportajes generales - Primer premio",
+  "descripcion": "El hijo del fotógrafo en el jardín.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1976/clive-limpkin-gf/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "General Features",
+    "1976"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/0e42f8cb-2fcb-4986-9e94-6f8630728ad4/1976-Clive-Limpkin-GN1-(1)?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/0e42f8cb-2fcb-4986-9e94-6f8630728ad4/1976-Clive-Limpkin-GN1-(1)",
+    "alt": "El hijo del fotógrafo en el jardín.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1976/clive-limpkin-gf/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Clive Limpkin · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1976",
+    "categoria": "World Press Photo 1976 · Reportajes generales - Primer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1976/clive-limpkin-gf/1",
+    "tituloOficial": null
+  }
+}

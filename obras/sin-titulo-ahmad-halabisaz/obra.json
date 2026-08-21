@@ -1,0 +1,42 @@
+{
+  "id": "sin-titulo-ahmad-halabisaz",
+  "titulo": "Sin título",
+  "autor": "Ahmad Halabisaz",
+  "fecha": "27 de diciembre de 2022",
+  "fechaOrden": 2022,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2023 · Asia - Honorable Mention",
+  "descripcion": "Una mujer iraní sentada en una silla frente a una concurrida plaza de Teherán, desafiando la ley obligatoria del hijab. \"Unos días después de la muerte de Mahsa, caminaba por el bulevar Keshavarz cuando vi una enorme multitud de hombres y mujeres, jóvenes y mayores, coreando un eslogan que nunca había oído antes: 'Mujer, vida, libertad'. Me iluminó, fue conmovedor\", dijo.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2023/Ahmad-Halabisaz/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Asia",
+    "2023"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/d1aa6138-3d90-467c-9e24-ac905afb4c2c/WPP-2023Contest-Asia-HON-Ahmad-Halabisaz.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/d1aa6138-3d90-467c-9e24-ac905afb4c2c/WPP-2023Contest-Asia-HON-Ahmad-Halabisaz.jpg",
+    "alt": "Una mujer iraní sentada en una silla frente a una concurrida plaza de Teherán, desafiando la ley obligatoria del hijab. \"Unos días después de la muerte de Mahsa, caminaba por el bulevar Keshavarz cuando vi una enorme multitud de hombres y mujeres, jóvenes y mayores, coreando un eslogan que nunca había oído antes: 'Mujer, vida, libertad'. Me iluminó, fue conmovedor\", dijo.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2023/Ahmad-Halabisaz/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Ahmad Halabisaz · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2023",
+    "categoria": "World Press Photo 2023 · Asia - Honorable Mention",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2023/Ahmad-Halabisaz/1",
+    "tituloOficial": "Untitled"
+  }
+}

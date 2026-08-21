@@ -1,0 +1,42 @@
+{
+  "id": "m-t-mary-gelman",
+  "titulo": "M+T",
+  "autor": "Mary Gelman",
+  "fecha": "16 de marzo de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2022 · Europe - Honorable Mention",
+  "descripcion": "Tatyana disfruta del aroma de un ramillete de flores. Es una de las personas con síndrome de Down más independientes que viven en Svetlana.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2022/Mary-Gelman/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Europe",
+    "2022"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/8634b673-12b3-4f4c-aa22-6418442853f0/WPP_2022Contest_Europe_HON_Mary-Gelman_AAC.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/8634b673-12b3-4f4c-aa22-6418442853f0/WPP_2022Contest_Europe_HON_Mary-Gelman_AAC.jpg",
+    "alt": "Tatyana disfruta del aroma de un ramillete de flores. Es una de las personas con síndrome de Down más independientes que viven en Svetlana.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2022/Mary-Gelman/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Mary Gelman · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2022",
+    "categoria": "World Press Photo 2022 · Europe - Honorable Mention",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2022/Mary-Gelman/1",
+    "tituloOficial": "M+T"
+  }
+}

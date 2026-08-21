@@ -1,0 +1,42 @@
+{
+  "id": "cruce-nocturno-john-moore",
+  "titulo": "Cruce Nocturno",
+  "autor": "John Moore",
+  "fecha": "7 de marzo de 2024",
+  "fechaOrden": 2024,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2025 · Finalista del World Press Photo del Año",
+  "descripcion": "Migrantes chinos se calientan bajo una lluvia fría después de cruzar la frontera entre Estados Unidos y México, en Campo, California.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2025/John-Moore-FIN/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "World Press Photo of the Year Finalist",
+    "2025"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/106ea5e3-6c00-480c-9072-6bf27a5211cc/WPP-2025Contest-POY-Finalist-JohnMoore.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/106ea5e3-6c00-480c-9072-6bf27a5211cc/WPP-2025Contest-POY-Finalist-JohnMoore.jpg",
+    "alt": "Migrantes chinos se calientan bajo una lluvia fría después de cruzar la frontera entre Estados Unidos y México, en Campo, California.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2025/John-Moore-FIN/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© John Moore · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2025",
+    "categoria": "World Press Photo 2025 · Finalista del World Press Photo del Año",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2025/John-Moore-FIN/1",
+    "tituloOficial": "Night Crossing"
+  }
+}

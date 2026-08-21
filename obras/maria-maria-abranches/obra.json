@@ -1,0 +1,42 @@
+{
+  "id": "maria-maria-abranches",
+  "titulo": "MARÍA",
+  "autor": "Maria Abranches",
+  "fecha": "27 de noviembre de 2023",
+  "fechaOrden": 2023,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2025 · Europe - Historias",
+  "descripcion": "Uno de los uniformes de Ana María cuelga listo para ir a trabajar, en Lisboa, Portugal.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2025/Maria-Abranches/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "Europe",
+    "2025"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/aac62291-03ec-406c-bb04-21b1cae9ef70/WPP-2025Contest-Europe-STO-MariaAbranches-01.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/aac62291-03ec-406c-bb04-21b1cae9ef70/WPP-2025Contest-Europe-STO-MariaAbranches-01.jpg",
+    "alt": "Uno de los uniformes de Ana María cuelga listo para ir a trabajar, en Lisboa, Portugal.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2025/Maria-Abranches/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Maria Abranches · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2025",
+    "categoria": "World Press Photo 2025 · Europe - Historias",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2025/Maria-Abranches/1",
+    "tituloOficial": "MARIA"
+  }
+}

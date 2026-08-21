@@ -1,0 +1,42 @@
+{
+  "id": "nombra-la-ausencia-ferley-a-ospina",
+  "titulo": "Nombra la ausencia",
+  "autor": "Ferley A. Ospina",
+  "fecha": "10 de septiembre de 2025",
+  "fechaOrden": 2025,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2026 · Sudamérica - Historias",
+  "descripcion": "Valeria (5) juega detrás de una cortina en la casa de su tía en Los Patios, Norte de Santander, Colombia. Su madre, Arcenia, es madre soltera y viaja a trabajar a Cúcuta. En su región, el 30% de los hogares están encabezados exclusivamente por mujeres.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2026/Ferley-A-Ospina/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "South America",
+    "2026"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/a11aea06-5580-4d98-a4d5-10d43fef5724/WPP-2026Contest-SouthAmerica-STO-FerleyAOspina-01.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/a11aea06-5580-4d98-a4d5-10d43fef5724/WPP-2026Contest-SouthAmerica-STO-FerleyAOspina-01.jpg",
+    "alt": "Valeria (5) juega detrás de una cortina en la casa de su tía en Los Patios, Norte de Santander, Colombia. Su madre, Arcenia, es madre soltera y viaja a trabajar a Cúcuta. En su región, el 30% de los hogares están encabezados exclusivamente por mujeres.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2026/Ferley-A-Ospina/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Ferley A. Ospina · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2026",
+    "categoria": "World Press Photo 2026 · Sudamérica - Historias",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2026/Ferley-A-Ospina/1",
+    "tituloOficial": "Name the Absence"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "amor-transfronterizo-roland-schmid",
+  "titulo": "Amor transfronterizo",
+  "autor": "Roland Schmid",
+  "fecha": "25 de abril de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · Noticias generales - Segundo premio",
+  "descripcion": "Una pareja suizo-alemana se reúne en la frontera cerrada de Lettackerweg, en Riehen, Suiza.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/roland-schmid/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "General News",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/428eeb4f-c65f-48e8-b817-43054b26df27/WPP-2021PhotoContest-GNS-RolandSchmid-AJ.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/428eeb4f-c65f-48e8-b817-43054b26df27/WPP-2021PhotoContest-GNS-RolandSchmid-AJ.jpg",
+    "alt": "Una pareja suizo-alemana se reúne en la frontera cerrada de Lettackerweg, en Riehen, Suiza.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/roland-schmid/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Roland Schmid · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · Noticias generales - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/roland-schmid/1",
+    "tituloOficial": "Cross-Border Love"
+  }
+}

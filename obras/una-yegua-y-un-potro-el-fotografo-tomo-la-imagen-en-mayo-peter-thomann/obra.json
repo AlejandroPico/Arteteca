@@ -1,0 +1,42 @@
+{
+  "id": "una-yegua-y-un-potro-el-fotografo-tomo-la-imagen-en-mayo-peter-thomann",
+  "titulo": "Una yegua y un potro. El fotógrafo tomó la imagen en mayo",
+  "autor": "Peter Thomann",
+  "fecha": "1 de enero de 1963",
+  "fechaOrden": 1963,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1963 · Reportajes - Primer premio",
+  "descripcion": "Una yegua y un potro. El fotógrafo tomó la imagen en mayo, cuando los caballos salvajes que viven en las praderas cerca de Dülmen son conducidos juntos para capturar a los sementales de un año, que se venderán en los mercados de caballos.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1963/peter-thomann-ft/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Features",
+    "1963"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/6aaf4097-c081-45fe-98f1-00d59fa9be4f/1963-Peter-Thomann-GN1-(1)?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/6aaf4097-c081-45fe-98f1-00d59fa9be4f/1963-Peter-Thomann-GN1-(1)",
+    "alt": "Una yegua y un potro. El fotógrafo tomó la imagen en mayo, cuando los caballos salvajes que viven en las praderas cerca de Dülmen son conducidos juntos para capturar a los sementales de un año, que se venderán en los mercados de caballos.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1963/peter-thomann-ft/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Peter Thomann · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1963",
+    "categoria": "World Press Photo 1963 · Reportajes - Primer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1963/peter-thomann-ft/1",
+    "tituloOficial": null
+  }
+}

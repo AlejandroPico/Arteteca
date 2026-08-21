@@ -1,0 +1,42 @@
+{
+  "id": "altneulandia-amit-sha-al",
+  "titulo": "Altneulandia",
+  "autor": "Amit Sha'al",
+  "fecha": "8 de abril de 2010",
+  "fechaOrden": 2010,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2011 · Arte y entretenimiento - Tercer premio",
+  "descripcion": "Una serie de fotografías de archivo ambientadas en el contexto actual de Israel.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2011/amit-sha-al/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Arts and Entertainment",
+    "2011"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/2909f267-913b-4a4d-98e8-f6b0dcd0038b/2011-Amit-Sha-al-AES3-AL?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/2909f267-913b-4a4d-98e8-f6b0dcd0038b/2011-Amit-Sha-al-AES3-AL",
+    "alt": "Una serie de fotografías de archivo ambientadas en el contexto actual de Israel.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2011/amit-sha-al/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Amit Sha'al · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2011",
+    "categoria": "World Press Photo 2011 · Arte y entretenimiento - Tercer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2011/amit-sha-al/1",
+    "tituloOficial": "Altneuland"
+  }
+}

@@ -1,0 +1,12 @@
+---
+titulo: Contexto
+icono: historia
+---
+
+## El hecho y su marco
+
+**Fecha registrada:** 1 de enero de 1983
+
+**Categoría:** World Press Photo 1984 · Vida cotidiana - Primer premio
+
+**Agencia o publicación:** The Minneapolis Star and Tribune

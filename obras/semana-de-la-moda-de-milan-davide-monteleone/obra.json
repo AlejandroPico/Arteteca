@@ -1,0 +1,42 @@
+{
+  "id": "semana-de-la-moda-de-milan-davide-monteleone",
+  "titulo": "Semana de la Moda de Milán",
+  "autor": "Davide Monteleone",
+  "fecha": "24 de febrero de 2010",
+  "fechaOrden": 2010,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2011 · Arte y entretenimiento - Segundo premio",
+  "descripcion": "El programa de la estrella de televisión convertida en diseñadora de moda Valeria Marini.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2011/davide-monteleone/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Arts and Entertainment",
+    "2011"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/7045b5c1-856b-4a80-88af-6f4d67ac2b9b/2011DavideMonteleoneAE-2?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/7045b5c1-856b-4a80-88af-6f4d67ac2b9b/2011DavideMonteleoneAE-2",
+    "alt": "El programa de la estrella de televisión convertida en diseñadora de moda Valeria Marini.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2011/davide-monteleone/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Davide Monteleone · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2011",
+    "categoria": "World Press Photo 2011 · Arte y entretenimiento - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2011/davide-monteleone/1",
+    "tituloOficial": "Milan Fashion Week"
+  }
+}

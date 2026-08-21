@@ -1,0 +1,42 @@
+{
+  "id": "tirachinas-anonymous",
+  "titulo": "Tirachinas",
+  "autor": "Anonymous",
+  "fecha": "28 de marzo de 2021",
+  "fechaOrden": 2021,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2022 · Sudeste Asiático y Oceanía - Fotografías individuales",
+  "descripcion": "Los manifestantes utilizan hondas y otras armas caseras en un enfrentamiento con las fuerzas de seguridad en Yangon, Myanmar.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2022/anonymous/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Southeast Asia and Oceania",
+    "2022"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/18450ebe-1bab-48a7-b340-96bc6cef8b07/WPP_2022Contest_Southeast-Asia-and-Oceania_SIN_Anonymous.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/18450ebe-1bab-48a7-b340-96bc6cef8b07/WPP_2022Contest_Southeast-Asia-and-Oceania_SIN_Anonymous.jpg",
+    "alt": "Los manifestantes utilizan hondas y otras armas caseras en un enfrentamiento con las fuerzas de seguridad en Yangon, Myanmar.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2022/anonymous/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Anonymous · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2022",
+    "categoria": "World Press Photo 2022 · Sudeste Asiático y Oceanía - Fotografías individuales",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2022/anonymous/1",
+    "tituloOficial": "Slingshots"
+  }
+}

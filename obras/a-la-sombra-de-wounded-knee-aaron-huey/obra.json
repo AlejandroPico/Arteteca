@@ -1,0 +1,42 @@
+{
+  "id": "a-la-sombra-de-wounded-knee-aaron-huey",
+  "titulo": "A la sombra de Wounded Knee",
+  "autor": "Aaron Huey",
+  "fecha": "1 de mayo de 2012",
+  "fechaOrden": 2012,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2013 · Temas contemporáneos - Tercer premio",
+  "descripcion": "El pueblo Oglala Lakota de la Reserva Pine Ridge en Dakota del Sur vive cerca del lugar de la masacre de más de 250 Lakota Sioux, en Wounded Knee Creek (1890). Relata una larga historia de tratados violados y promesas incumplidas por parte de sucesivos gobiernos estadounidenses.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2013/aaron-huey/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Contemporary Issues",
+    "2013"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/bc15979e-2d50-476b-bef3-dd35b5972bd4/2013-Aaron-Huey-CIS3-AL?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/bc15979e-2d50-476b-bef3-dd35b5972bd4/2013-Aaron-Huey-CIS3-AL",
+    "alt": "El pueblo Oglala Lakota de la Reserva Pine Ridge en Dakota del Sur vive cerca del lugar de la masacre de más de 250 Lakota Sioux, en Wounded Knee Creek (1890). Relata una larga historia de tratados violados y promesas incumplidas por parte de sucesivos gobiernos estadounidenses.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2013/aaron-huey/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Aaron Huey · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2013",
+    "categoria": "World Press Photo 2013 · Temas contemporáneos - Tercer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2013/aaron-huey/1",
+    "tituloOficial": "In the Shadow of Wounded Knee"
+  }
+}

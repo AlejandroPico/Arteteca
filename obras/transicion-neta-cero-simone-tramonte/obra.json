@@ -1,0 +1,42 @@
+{
+  "id": "transicion-neta-cero-simone-tramonte",
+  "titulo": "Transición neta cero",
+  "autor": "Simone Tramonte",
+  "fecha": "19 de julio de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2023 · Europe - Proyectos de largo plazo",
+  "descripcion": "Una cúpula geodésica cubre el pozo de inyección de una planta de energía geotérmica, en Hellisheiði, Islandia. La planta captura energía geotérmica de la montaña volcánica Hengill. Las plantas de energía geotérmica extraen fluidos de depósitos subterráneos a la superficie para producir vapor, que luego impulsa turbinas para generar electricidad.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2023/Simone-Tramonte/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "Europe",
+    "2023"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/7f7008a7-831d-428b-a36b-6d838ce4d983/WPP-2023Contest-Europe-LTP-Simone-Tramonte-01.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/7f7008a7-831d-428b-a36b-6d838ce4d983/WPP-2023Contest-Europe-LTP-Simone-Tramonte-01.jpg",
+    "alt": "Una cúpula geodésica cubre el pozo de inyección de una planta de energía geotérmica, en Hellisheiði, Islandia. La planta captura energía geotérmica de la montaña volcánica Hengill. Las plantas de energía geotérmica extraen fluidos de depósitos subterráneos a la superficie para producir vapor, que luego impulsa turbinas para generar electricidad.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2023/Simone-Tramonte/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Simone Tramonte · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2023",
+    "categoria": "World Press Photo 2023 · Europe - Proyectos de largo plazo",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2023/Simone-Tramonte/1",
+    "tituloOficial": "Net-Zero Transition"
+  }
+}

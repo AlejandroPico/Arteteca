@@ -1,0 +1,42 @@
+{
+  "id": "extramuros-william-keo",
+  "titulo": "Extramuros",
+  "autor": "William Keo",
+  "fecha": "21 de julio de 2023",
+  "fechaOrden": 2023,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2026 · Europe - Proyectos de largo plazo",
+  "descripcion": "Jóvenes se reúnen en una azotea de Briques Rouges, uno de los proyectos de vivienda social más grandes de Verneuil-sur-Seine, Francia.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2026/William-Keo/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "Europe",
+    "2026"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/018fa529-3524-441e-9076-0d17c19019ca/WPP-2026Contest-Europe-LTP-WilliamKeo-01.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/018fa529-3524-441e-9076-0d17c19019ca/WPP-2026Contest-Europe-LTP-WilliamKeo-01.jpg",
+    "alt": "Jóvenes se reúnen en una azotea de Briques Rouges, uno de los proyectos de vivienda social más grandes de Verneuil-sur-Seine, Francia.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2026/William-Keo/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© William Keo · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2026",
+    "categoria": "World Press Photo 2026 · Europe - Proyectos de largo plazo",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2026/William-Keo/1",
+    "tituloOficial": "Extramuros"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "pantanal-en-llamas-lalo-de-almeida",
+  "titulo": "Pantanal en llamas",
+  "autor": "Lalo de Almeida",
+  "fecha": "4 de octubre de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · Environment - Primer premio",
+  "descripcion": "Un mono aullador (Alouatta) queda carbonizado por un incendio forestal que arrasó la finca Santa Tereza, en la zona del río Paraguay en el Pantanal, en el estado de Mato Grosso do Sul. Los incendios en la región fueron tan intensos que ni siquiera los animales más rápidos pudieron escapar de las llamas.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/lalo-de-almeida/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Environment",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/724eacf1-84c1-48a1-8b7c-340135d1381f/WPP-2021PhotoContest-ENS-LalodeAlmeida-AJ.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/724eacf1-84c1-48a1-8b7c-340135d1381f/WPP-2021PhotoContest-ENS-LalodeAlmeida-AJ.jpg",
+    "alt": "Un mono aullador (Alouatta) queda carbonizado por un incendio forestal que arrasó la finca Santa Tereza, en la zona del río Paraguay en el Pantanal, en el estado de Mato Grosso do Sul. Los incendios en la región fueron tan intensos que ni siquiera los animales más rápidos pudieron escapar de las llamas.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/lalo-de-almeida/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Lalo de Almeida · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · Environment - Primer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/lalo-de-almeida/1",
+    "tituloOficial": "Pantanal Ablaze"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "alpaqueros-alessandro-cinque",
+  "titulo": "Alpaqueros",
+  "autor": "Alessandro Cinque",
+  "fecha": "3 de mayo de 2021",
+  "fechaOrden": 2021,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2023 · Sudamérica - Historias",
+  "descripcion": "Alina Surquislla Gómez, una alpaquera (granjera de alpacas) de tercera generación, acuna a una cría de alpaca de camino a los pastos de verano de su familia, en Oropesa, Perú. La crisis climática está obligando a los pastores, muchos de los cuales son mujeres, a buscar nuevos pastos, a menudo en terrenos difíciles.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2023/Alessandro-Cinque/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "South America",
+    "2023"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/dda472dc-649d-4bb6-ac07-c6a223f152b4/WPP-2023Contest-South-America-STO-Alessandro-Cinque-01.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/dda472dc-649d-4bb6-ac07-c6a223f152b4/WPP-2023Contest-South-America-STO-Alessandro-Cinque-01.jpg",
+    "alt": "Alina Surquislla Gómez, una alpaquera (granjera de alpacas) de tercera generación, acuna a una cría de alpaca de camino a los pastos de verano de su familia, en Oropesa, Perú. La crisis climática está obligando a los pastores, muchos de los cuales son mujeres, a buscar nuevos pastos, a menudo en terrenos difíciles.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2023/Alessandro-Cinque/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Alessandro Cinque · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2023",
+    "categoria": "World Press Photo 2023 · Sudamérica - Historias",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2023/Alessandro-Cinque/1",
+    "tituloOficial": "Alpaqueros"
+  }
+}

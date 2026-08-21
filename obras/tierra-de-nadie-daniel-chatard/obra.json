@@ -1,0 +1,42 @@
+{
+  "id": "tierra-de-nadie-daniel-chatard",
+  "titulo": "Tierra de nadie",
+  "autor": "Daniel Chatard",
+  "fecha": "10 de febrero de 2021",
+  "fechaOrden": 2021,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2024 · Europe - Proyectos de largo plazo",
+  "descripcion": "Una excavadora de rueda de cangilones excava en un campo donde antiguamente se cultivaba maíz, cerca del pueblo de Lützerath, en Alemania. La máquina está ampliando la mina a cielo abierto Garzweiler II, que se extiende a lo largo de más de cinco kilómetros. Los suelos de loess de la región se encuentran entre los más fértiles de Alemania.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2024/Daniel-Chatard/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "Europe",
+    "2024"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/0d6f0456-47fd-425a-a3de-41265dba85e3/WPP-2024Contest-Europe-LTP-DanielChatard-01.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/0d6f0456-47fd-425a-a3de-41265dba85e3/WPP-2024Contest-Europe-LTP-DanielChatard-01.jpg",
+    "alt": "Una excavadora de rueda de cangilones excava en un campo donde antiguamente se cultivaba maíz, cerca del pueblo de Lützerath, en Alemania. La máquina está ampliando la mina a cielo abierto Garzweiler II, que se extiende a lo largo de más de cinco kilómetros. Los suelos de loess de la región se encuentran entre los más fértiles de Alemania.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2024/Daniel-Chatard/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Daniel Chatard · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2024",
+    "categoria": "World Press Photo 2024 · Europe - Proyectos de largo plazo",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2024/Daniel-Chatard/1",
+    "tituloOficial": "No Man’s Land"
+  }
+}

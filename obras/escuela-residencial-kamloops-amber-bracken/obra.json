@@ -1,0 +1,42 @@
+{
+  "id": "escuela-residencial-kamloops-amber-bracken",
+  "titulo": "Escuela residencial Kamloops",
+  "autor": "Amber Bracken",
+  "fecha": "19 de junio de 2021",
+  "fechaOrden": 2021,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2022 · World Press Photo del Año",
+  "descripcion": "Vestidos rojos colgados en cruces a lo largo de una carretera conmemoran a los niños que murieron en la Escuela Residencial India de Kamloops, una institución creada para asimilar a los niños indígenas, tras la detección de hasta 215 tumbas anónimas, Kamloops, Columbia Británica.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2022/Amber-Bracken-POY/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "World Press Photo of the Year",
+    "2022"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/77fb7dcf-7ea5-4f87-a156-5096bd2a0abe/WPP_2022Contest_POY_Amber-Bracken.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/77fb7dcf-7ea5-4f87-a156-5096bd2a0abe/WPP_2022Contest_POY_Amber-Bracken.jpg",
+    "alt": "Vestidos rojos colgados en cruces a lo largo de una carretera conmemoran a los niños que murieron en la Escuela Residencial India de Kamloops, una institución creada para asimilar a los niños indígenas, tras la detección de hasta 215 tumbas anónimas, Kamloops, Columbia Británica.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2022/Amber-Bracken-POY/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Amber Bracken · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2022",
+    "categoria": "World Press Photo 2022 · World Press Photo del Año",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2022/Amber-Bracken-POY/1",
+    "tituloOficial": "Kamloops Residential School"
+  }
+}

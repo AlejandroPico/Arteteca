@@ -1,0 +1,42 @@
+{
+  "id": "oracion-al-mediodia-henning-christoph",
+  "titulo": "Oración al mediodía",
+  "autor": "Henning Christoph",
+  "fecha": "1 de enero de 1982",
+  "fechaOrden": 1982,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1983 · Vida cotidiana - Segundo premio",
+  "descripcion": "Oración al mediodía.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1983/henning-christoph/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Daily Life",
+    "1983"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/e74e4f77-321e-4c7d-9983-4ea51abd1810/1983-Henning-Christoph-DL2?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/e74e4f77-321e-4c7d-9983-4ea51abd1810/1983-Henning-Christoph-DL2",
+    "alt": "Oración al mediodía.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1983/henning-christoph/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Henning Christoph · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1983",
+    "categoria": "World Press Photo 1983 · Vida cotidiana - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1983/henning-christoph/1",
+    "tituloOficial": null
+  }
+}

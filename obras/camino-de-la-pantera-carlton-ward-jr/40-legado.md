@@ -1,0 +1,8 @@
+---
+titulo: Premio y legado
+icono: legado
+---
+
+## World Press Photo 2021 · Naturaleza - Segundo premio
+
+**Reconocimiento:** World Press Photo 2021 · Naturaleza - Segundo premio

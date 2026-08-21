@@ -1,0 +1,10 @@
+---
+titulo: Cómo está construida
+icono: tecnica
+---
+
+## Datos del registro
+
+- **Modalidad:** Fotografía individual
+- **Fecha de la toma:** 18 de diciembre de 1987
+- **Agencia o publicación:** Black Star

@@ -1,0 +1,42 @@
+{
+  "id": "el-rio-moribundo-jonas-kako",
+  "titulo": "El río moribundo",
+  "autor": "Jonas Kakó",
+  "fecha": "11 de marzo de 2022",
+  "fechaOrden": 2022,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2023 · Norteamérica y Centroamérica - Fotografías individuales",
+  "descripcion": "Alfredo, Ubaldo y José cuidan colmenas cerca de Wenden en el desierto de Arizona, Estados Unidos. Una disminución sustancial de las precipitaciones en la zona significa que los hombres ahora deben proporcionar agua a las abejas en abrevaderos.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2023/Jonas-Kako/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "North and Central America",
+    "2023"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/6f288c3f-dc33-4131-856f-aab3801625d1/WPP-2023Contest-North-and-Central-America-SIN-Jonas-Kako.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/6f288c3f-dc33-4131-856f-aab3801625d1/WPP-2023Contest-North-and-Central-America-SIN-Jonas-Kako.jpg",
+    "alt": "Alfredo, Ubaldo y José cuidan colmenas cerca de Wenden en el desierto de Arizona, Estados Unidos. Una disminución sustancial de las precipitaciones en la zona significa que los hombres ahora deben proporcionar agua a las abejas en abrevaderos.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2023/Jonas-Kako/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Jonas Kakó · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2023",
+    "categoria": "World Press Photo 2023 · Norteamérica y Centroamérica - Fotografías individuales",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2023/Jonas-Kako/1",
+    "tituloOficial": "The Dying River"
+  }
+}

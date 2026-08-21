@@ -1,0 +1,42 @@
+{
+  "id": "hambruna-william-campbell",
+  "titulo": "Hambruna",
+  "autor": "William Campbell",
+  "fecha": "1 de enero de 1980",
+  "fechaOrden": 1980,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1981 · Noticias generales - Segundo premio",
+  "descripcion": "Hambruna.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1981/william-campbell/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "General News",
+    "1981"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/00178a2c-daad-4b32-a493-8f0b0707224c/1981-William-Campbell-GN2?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/00178a2c-daad-4b32-a493-8f0b0707224c/1981-William-Campbell-GN2",
+    "alt": "Hambruna.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1981/william-campbell/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© William Campbell · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1981",
+    "categoria": "World Press Photo 1981 · Noticias generales - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1981/william-campbell/1",
+    "tituloOficial": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "socorrista-de-covid-19-ivan-macias",
+  "titulo": "Socorrista de COVID-19",
+  "autor": "Ivan Macias",
+  "fecha": "19 de mayo de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · Retratos - Segundo premio",
+  "descripcion": "Una doctora al final de su turno, con las marcas dejadas por una máscara protectora y gafas protectoras claramente visibles en su rostro, en Ciudad de México, México.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/ivan-macias/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Portraits",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/04341c3f-4a14-4760-8636-ea1bc7dc34d5/WPP-2021PhotoContest-PO-IvanMacias.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/04341c3f-4a14-4760-8636-ea1bc7dc34d5/WPP-2021PhotoContest-PO-IvanMacias.jpg",
+    "alt": "Una doctora al final de su turno, con las marcas dejadas por una máscara protectora y gafas protectoras claramente visibles en su rostro, en Ciudad de México, México.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/ivan-macias/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Ivan Macias · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · Retratos - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/ivan-macias/1",
+    "tituloOficial": "COVID-19 First Responder"
+  }
+}

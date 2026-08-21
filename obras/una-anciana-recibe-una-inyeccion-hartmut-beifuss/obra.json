@@ -1,0 +1,42 @@
+{
+  "id": "una-anciana-recibe-una-inyeccion-hartmut-beifuss",
+  "titulo": "Una anciana recibe una inyección",
+  "autor": "Hartmut Beifuss",
+  "fecha": "1 de enero de 1975",
+  "fechaOrden": 1975,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1976 · Reportajes generales - Tercer premio",
+  "descripcion": "Una anciana recibe una inyección.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1976/hartmut-beifuss-gf/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "General Features",
+    "1976"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/002c0b52-aee5-4122-8fb6-b2672db14644/1976-Hartmut-Beifuss-GN3-(1)?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/002c0b52-aee5-4122-8fb6-b2672db14644/1976-Hartmut-Beifuss-GN3-(1)",
+    "alt": "Una anciana recibe una inyección.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1976/hartmut-beifuss-gf/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Hartmut Beifuss · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1976",
+    "categoria": "World Press Photo 1976 · Reportajes generales - Tercer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1976/hartmut-beifuss-gf/1",
+    "tituloOficial": null
+  }
+}

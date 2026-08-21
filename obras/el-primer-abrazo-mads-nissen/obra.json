@@ -1,0 +1,42 @@
+{
+  "id": "el-primer-abrazo-mads-nissen",
+  "titulo": "El primer abrazo",
+  "autor": "Mads Nissen",
+  "fecha": "5 de agosto de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · World Press Photo del Año",
+  "descripcion": "Rosa Luzia Lunardi (85) es abrazada por la enfermera Adriana Silva da Costa Souza, en la residencia Viva Bem, São Paulo, Brasil.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/mads-nissen/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "World Press Photo of the Year",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/0799fb50-1232-473d-8cdc-c7a3bce7805e/WPP-2021PhotoContest-POYNominee-MadsNissen.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/0799fb50-1232-473d-8cdc-c7a3bce7805e/WPP-2021PhotoContest-POYNominee-MadsNissen.jpg",
+    "alt": "Rosa Luzia Lunardi (85) es abrazada por la enfermera Adriana Silva da Costa Souza, en la residencia Viva Bem, São Paulo, Brasil.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/mads-nissen/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Mads Nissen · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · World Press Photo del Año",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/mads-nissen/1",
+    "tituloOficial": "The First Embrace"
+  }
+}

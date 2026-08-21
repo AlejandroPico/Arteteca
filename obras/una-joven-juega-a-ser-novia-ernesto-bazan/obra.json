@@ -1,0 +1,42 @@
+{
+  "id": "una-joven-juega-a-ser-novia-ernesto-bazan",
+  "titulo": "Una joven juega a ser novia",
+  "autor": "Ernesto Bazan",
+  "fecha": "1 de enero de 1993",
+  "fechaOrden": 1993,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1994 · Vida cotidiana - Segundo premio",
+  "descripcion": "Una joven juega a ser novia.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1994/ernesto-bazan/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Daily Life",
+    "1994"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/cd6174d4-c6d4-49b7-bc2d-7e98c3efffc1/1994-Ernesto-Bazan-DL2?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/cd6174d4-c6d4-49b7-bc2d-7e98c3efffc1/1994-Ernesto-Bazan-DL2",
+    "alt": "Una joven juega a ser novia.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1994/ernesto-bazan/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Ernesto Bazan · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1994",
+    "categoria": "World Press Photo 1994 · Vida cotidiana - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1994/ernesto-bazan/1",
+    "tituloOficial": null
+  }
+}

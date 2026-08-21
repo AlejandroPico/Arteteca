@@ -1,0 +1,42 @@
+{
+  "id": "funeral-del-soldado-andrea-bruce",
+  "titulo": "Funeral del soldado",
+  "autor": "Andrea Bruce",
+  "fecha": "30 de septiembre de 2013",
+  "fechaOrden": 2013,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2014 · Vida cotidiana - Segundo premio",
+  "descripcion": "La gente llora la muerte de un teniente del ejército sirio de 24 años, conocido con el nombre de Abu Layth, en un pueblo de la provincia costera de Latakia.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2014/andrea-bruce/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Daily Life",
+    "2014"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/489d737d-f817-4463-8816-f82a07aca62e/2014-Andrea-Bruce-DL2?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/489d737d-f817-4463-8816-f82a07aca62e/2014-Andrea-Bruce-DL2",
+    "alt": "La gente llora la muerte de un teniente del ejército sirio de 24 años, conocido con el nombre de Abu Layth, en un pueblo de la provincia costera de Latakia.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2014/andrea-bruce/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Andrea Bruce · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2014",
+    "categoria": "World Press Photo 2014 · Vida cotidiana - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2014/andrea-bruce/1",
+    "tituloOficial": "Soldier's Funeral"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "incendio-forestal-nuno-andre-ferreira",
+  "titulo": "Incendio forestal",
+  "autor": "Nuno Andre Ferreira",
+  "fecha": "7 de septiembre de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · Noticias de actualidad - Tercer premio",
+  "descripcion": "Un niño sentado dentro de un automóvil cerca de un incendio forestal en Oliveira de Frades, Portugal.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/nuno-andre-ferreira/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Spot News",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/09474e9d-0c70-4397-98fc-975e9366b380/WPP-2021PhotoContest-SN-NunoAndreFerreira.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/09474e9d-0c70-4397-98fc-975e9366b380/WPP-2021PhotoContest-SN-NunoAndreFerreira.jpg",
+    "alt": "Un niño sentado dentro de un automóvil cerca de un incendio forestal en Oliveira de Frades, Portugal.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/nuno-andre-ferreira/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Nuno Andre Ferreira · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · Noticias de actualidad - Tercer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/nuno-andre-ferreira/1",
+    "tituloOficial": "Forest Fire"
+  }
+}

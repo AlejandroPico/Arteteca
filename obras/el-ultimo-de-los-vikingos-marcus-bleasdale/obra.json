@@ -1,0 +1,42 @@
+{
+  "id": "el-ultimo-de-los-vikingos-marcus-bleasdale",
+  "titulo": "El último de los vikingos",
+  "autor": "Marcus Bleasdale",
+  "fecha": "24 de junio de 2011",
+  "fechaOrden": 2011,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2014 · Temas contemporáneos - Tercer premio",
+  "descripcion": "La comunidad pesquera de las islas Lofoten, en el noroeste de Noruega, está disminuyendo lentamente a medida que su forma de vida está desapareciendo.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2014/marcus-bleasdale/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Contemporary Issues",
+    "2014"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/ba833c2e-16d2-4cb9-8b98-4feaba93738d/2014-Marcus-Bleasdale-CIS3-AL?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/ba833c2e-16d2-4cb9-8b98-4feaba93738d/2014-Marcus-Bleasdale-CIS3-AL",
+    "alt": "La comunidad pesquera de las islas Lofoten, en el noroeste de Noruega, está disminuyendo lentamente a medida que su forma de vida está desapareciendo.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2014/marcus-bleasdale/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Marcus Bleasdale · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2014",
+    "categoria": "World Press Photo 2014 · Temas contemporáneos - Tercer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2014/marcus-bleasdale/1",
+    "tituloOficial": "Last of the Vikings"
+  }
+}

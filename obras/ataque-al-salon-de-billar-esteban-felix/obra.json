@@ -1,0 +1,42 @@
+{
+  "id": "ataque-al-salon-de-billar-esteban-felix",
+  "titulo": "Ataque al salón de billar",
+  "autor": "Esteban Felix",
+  "fecha": "11 de marzo de 2012",
+  "fechaOrden": 2012,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2013 · Temas contemporáneos - Segundo premio singles",
+  "descripcion": "Cadáveres yacen en el suelo de un salón de billar, tras un ataque de asaltantes enmascarados no identificados, en Choloma, en las afueras de San Pedro Sula, Honduras.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2013/esteban-felix/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Contemporary Issues",
+    "2013"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/682df835-cb55-4a20-ab64-7fde591533b8/2013-Esteban-Felix-CI2?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/682df835-cb55-4a20-ab64-7fde591533b8/2013-Esteban-Felix-CI2",
+    "alt": "Cadáveres yacen en el suelo de un salón de billar, tras un ataque de asaltantes enmascarados no identificados, en Choloma, en las afueras de San Pedro Sula, Honduras.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2013/esteban-felix/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Esteban Felix · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2013",
+    "categoria": "World Press Photo 2013 · Temas contemporáneos - Segundo premio singles",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2013/esteban-felix/1",
+    "tituloOficial": "Pool Hall Attack"
+  }
+}

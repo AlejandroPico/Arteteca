@@ -1,0 +1,42 @@
+{
+  "id": "el-proyecto-sochi-cantantes-de-sochi-rob-hornstra",
+  "titulo": "El Proyecto Sochi: Cantantes de Sochi",
+  "autor": "Rob Hornstra",
+  "fecha": "2 de enero de 2011",
+  "fechaOrden": 2011,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2012 · Arte y entretenimiento - Primer premio",
+  "descripcion": "Los artistas actúan en restaurantes de la ciudad turística rusa de Sochi, en la costa oriental del Mar Negro.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2012/rob-hornstra/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Arts and Entertainment",
+    "2012"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/57eec1ec-ad25-4726-a0dd-b79ba233b474/2012-Rob-Hornstra-AES1-AL?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/57eec1ec-ad25-4726-a0dd-b79ba233b474/2012-Rob-Hornstra-AES1-AL",
+    "alt": "Los artistas actúan en restaurantes de la ciudad turística rusa de Sochi, en la costa oriental del Mar Negro.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2012/rob-hornstra/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Rob Hornstra · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2012",
+    "categoria": "World Press Photo 2012 · Arte y entretenimiento - Primer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2012/rob-hornstra/1",
+    "tituloOficial": "The Sochi Project: Sochi Singers"
+  }
+}

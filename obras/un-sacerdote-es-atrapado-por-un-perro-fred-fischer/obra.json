@@ -1,0 +1,42 @@
+{
+  "id": "un-sacerdote-es-atrapado-por-un-perro-fred-fischer",
+  "titulo": "Un sacerdote es atrapado por un perro",
+  "autor": "Fred Fischer",
+  "fecha": "1 de enero de 1956",
+  "fechaOrden": 1956,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo del siglo XX",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 1956 · Reportajes - Segundo premio",
+  "descripcion": "Un sacerdote es atrapado por un perro.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/1956/fred-fischer-ft/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Features",
+    "1956"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/8ad2eb9e-d100-4d19-8840-e812b72edd1f/1956-Fred-Fischer-GN2-(1)?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/8ad2eb9e-d100-4d19-8840-e812b72edd1f/1956-Fred-Fischer-GN2-(1)",
+    "alt": "Un sacerdote es atrapado por un perro.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/1956/fred-fischer-ft/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Fred Fischer · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "1956",
+    "categoria": "World Press Photo 1956 · Reportajes - Segundo premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/1956/fred-fischer-ft/1",
+    "tituloOficial": null
+  }
+}

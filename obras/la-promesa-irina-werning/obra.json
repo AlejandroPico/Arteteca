@@ -1,0 +1,42 @@
+{
+  "id": "la-promesa-irina-werning",
+  "titulo": "La promesa",
+  "autor": "Irina Werning",
+  "fecha": "14 de agosto de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2022 · Sudamérica - Historias",
+  "descripcion": "Antonella posa para su fotografía en la cocina de su casa, mientras se encuentra bajo estricto encierro en Buenos Aires, Argentina, el día que hizo su promesa de no cortarse el cabello hasta que pudiera retomar las clases presenciales.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2022/Irina-Werning/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "South America",
+    "2022"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/67d76609-e5e4-415e-900b-9b7852758a57/WPP_2022Contest_South-America_STO_Irina-Werning_AJ.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/67d76609-e5e4-415e-900b-9b7852758a57/WPP_2022Contest_South-America_STO_Irina-Werning_AJ.jpg",
+    "alt": "Antonella posa para su fotografía en la cocina de su casa, mientras se encuentra bajo estricto encierro en Buenos Aires, Argentina, el día que hizo su promesa de no cortarse el cabello hasta que pudiera retomar las clases presenciales.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2022/Irina-Werning/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Irina Werning · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2022",
+    "categoria": "World Press Photo 2022 · Sudamérica - Historias",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2022/Irina-Werning/1",
+    "tituloOficial": "The Promise"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "pensamientos-de-vuelo-fereshteh-eslahi",
+  "titulo": "Pensamientos de vuelo",
+  "autor": "Fereshteh Eslahi",
+  "fecha": "11 de septiembre de 2020",
+  "fechaOrden": 2020,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2021 · Sports - Tercer premio",
+  "descripcion": "Saeed permite que el ave de presa de su hermano vuele en su casa de Gachsaran, Irán. Dice que quiere desatarlo y dejarlo libre.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2021/fereshteh-eslahi/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Sports",
+    "2021"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/c07dc747-185a-401a-bf5c-a49dbc9a3dbb/WPP-2021PhotoContest-SPS-FereshtehEslahi-AJ.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/c07dc747-185a-401a-bf5c-a49dbc9a3dbb/WPP-2021PhotoContest-SPS-FereshtehEslahi-AJ.jpg",
+    "alt": "Saeed permite que el ave de presa de su hermano vuele en su casa de Gachsaran, Irán. Dice que quiere desatarlo y dejarlo libre.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2021/fereshteh-eslahi/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Fereshteh Eslahi · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2021",
+    "categoria": "World Press Photo 2021 · Sports - Tercer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2021/fereshteh-eslahi/1",
+    "tituloOficial": "Thoughts of Flight"
+  }
+}

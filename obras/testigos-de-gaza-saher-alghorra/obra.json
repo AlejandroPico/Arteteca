@@ -1,0 +1,42 @@
+{
+  "id": "testigos-de-gaza-saher-alghorra",
+  "titulo": "Testigos de Gaza",
+  "autor": "Saher Alghorra",
+  "fecha": "14 de agosto de 2025",
+  "fechaOrden": 2025,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2026 · Asia Occidental, Central y Meridional - Historias",
+  "descripcion": "Una mujer llama a gritos a su hijo, que recibió un disparo mientras intentaba recoger ayuda de un camión cerca del cruce de Zikim, en el norte de Gaza, a lo largo de la costa, y está siendo trasladado de urgencia al hospital en el mismo camión. Ciudad de Gaza, Franja de Gaza.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2026/Saher-Alghorra/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Serie o proyecto fotográfico"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Serie o proyecto fotográfico",
+    "West, Central, and South Asia",
+    "2026"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/9cf5fc4e-8391-46dd-9c1d-8c1f841c633b/WPP-2026Contest-WestCentralAndSouthAsia-STO-SaherAlghorra-01.jpg?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/9cf5fc4e-8391-46dd-9c1d-8c1f841c633b/WPP-2026Contest-WestCentralAndSouthAsia-STO-SaherAlghorra-01.jpg",
+    "alt": "Una mujer llama a gritos a su hijo, que recibió un disparo mientras intentaba recoger ayuda de un camión cerca del cruce de Zikim, en el norte de Gaza, a lo largo de la costa, y está siendo trasladado de urgencia al hospital en el mismo camión. Ciudad de Gaza, Franja de Gaza.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2026/Saher-Alghorra/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Saher Alghorra · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2026",
+    "categoria": "World Press Photo 2026 · Asia Occidental, Central y Meridional - Historias",
+    "modalidad": "Serie o proyecto fotográfico",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2026/Saher-Alghorra/1",
+    "tituloOficial": "Witnessing Gaza"
+  }
+}

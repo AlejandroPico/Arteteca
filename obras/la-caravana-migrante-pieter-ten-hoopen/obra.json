@@ -1,0 +1,42 @@
+{
+  "id": "la-caravana-migrante-pieter-ten-hoopen",
+  "titulo": "La Caravana Migrante",
+  "autor": "Pieter Ten Hoopen",
+  "fecha": "2019",
+  "fechaOrden": 2019,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2019 · Historia del Año de World Press Photo",
+  "descripcion": "Trabajo premiado de Pieter Ten Hoopen en World Press Photo 2019.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2019/pieter-hoopen/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "World Press Photo Story of the Year",
+    "2019"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/ffa0540b-0861-40aa-9427-6b6127df034c/WPP2019_SOY_title.png?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/ffa0540b-0861-40aa-9427-6b6127df034c/WPP2019_SOY_title.png",
+    "alt": "Trabajo premiado de Pieter Ten Hoopen en World Press Photo 2019.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2019/pieter-hoopen/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Pieter Ten Hoopen · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2019",
+    "categoria": "World Press Photo 2019 · Historia del Año de World Press Photo",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2019/pieter-hoopen/1",
+    "tituloOficial": "The Migrant Caravan"
+  }
+}

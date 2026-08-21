@@ -1,0 +1,42 @@
+{
+  "id": "apashka-pavel-prokopchik",
+  "titulo": "Apashka",
+  "autor": "Pavel Prokopchik",
+  "fecha": "18 de octubre de 2011",
+  "fechaOrden": 2011,
+  "tipo": "Fotografía",
+  "periodo": "Fotoperiodismo contemporáneo",
+  "coleccion": "Fotografía",
+  "reconocimiento": "World Press Photo 2012 · Arte y entretenimiento - Tercer premio",
+  "descripcion": "Bifatima Dauletova, mística y chamán, realiza un ritual de limpieza en Kazajstán.",
+  "localizacion": "World Press Photo",
+  "urlLocalizacion": "https://www.worldpressphoto.org/collection/photo-contest/2012/pavel-prokopchik/1",
+  "tecnicas": [
+    "Fotoperiodismo",
+    "Fotografía individual"
+  ],
+  "etiquetas": [
+    "World Press Photo",
+    "fotografía premiada",
+    "Fotografía individual",
+    "Arts and Entertainment",
+    "2012"
+  ],
+  "imagen": {
+    "url": "https://www.worldpressphoto.org/getmedia/a97a7a7e-72d9-453b-872c-000f3692d275/2012-Pavel-Prokopchik-AE-3?maxsidesize=1920&resizemode=force",
+    "urlAltaResolucion": "https://www.worldpressphoto.org/getmedia/a97a7a7e-72d9-453b-872c-000f3692d275/2012-Pavel-Prokopchik-AE-3",
+    "alt": "Bifatima Dauletova, mística y chamán, realiza un ritual de limpieza en Kazajstán.",
+    "fuente": "https://www.worldpressphoto.org/collection/photo-contest/2012/pavel-prokopchik/1",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Press Photo; cualquier reutilización requiere autorización.",
+    "credito": "© Pavel Prokopchik · World Press Photo",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "World Press Photo",
+    "edicion": "2012",
+    "categoria": "World Press Photo 2012 · Arte y entretenimiento - Tercer premio",
+    "modalidad": "Fotografía individual",
+    "fuenteOficial": "https://www.worldpressphoto.org/collection/photo-contest/2012/pavel-prokopchik/1",
+    "tituloOficial": "Apashka"
+  }
+}

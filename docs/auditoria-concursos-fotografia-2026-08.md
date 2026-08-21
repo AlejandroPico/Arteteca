@@ -11,7 +11,7 @@ premios colectivos o imágenes meramente asociadas a una candidatura.
 | --- | --- | ---: |
 | World Press Photo | 68 ediciones disponibles: archivo contemporáneo completo y cobertura histórica por edición | 674 |
 | National Geographic Travel Photo Contest | Todas las imágenes premiadas publicadas en la galería de 2019 | 14 |
-| Sony World Photography Awards | Open Photographer of the Year 2025 | 1 |
+| Sony World Photography Awards | Open Competition 2021–2025: ganadoras y preselección publicada | 415 |
 | Travel Photographer of the Year | Las cuatro ganadoras One Shot de 2024 | 4 |
 | International Garden Photographer of the Year | Ganadora absoluta de IGPOTY 18 | 1 |
 | Wildlife Photographer of the Year | Grandes títulos adulto y joven de 2024 | 2 |
@@ -51,6 +51,30 @@ Para 2021–2026 se han incorporado todas las candidaturas únicas recuperables 
 la deduplicación. En la parte histórica se ha priorizado una muestra amplia por
 edición, no la totalidad de las 3.069 páginas localizadas. Esta diferencia queda
 declarada para que el catálogo no se presente como una copia íntegra del archivo.
+
+## Ampliación de Sony World Photography Awards
+
+Las galerías Open de 2021 a 2025 se recorrieron categoría por categoría. La
+organización publica título, autoría, país de participación, descripción, nivel
+del reconocimiento e imagen oficial para cada entrada individualizable. Después
+de retirar una imagen repetida, una entrada sin explicación suficiente y
+*Tbourida: la caída* —que ya estaba en Arteteca—, el resultado es:
+
+- **414 fichas nuevas** y **415 fichas Sony** en el catálogo completo;
+- **45 ganadoras de categoría**, **cuatro Open Photographer of the Year** y
+  **365 preseleccionadas**;
+- diez categorías Open: Arquitectura, Creatividad, Paisaje, Estilo de vida,
+  Movimiento, Naturaleza y vida salvaje, Objeto, Retrato, Fotografía callejera y
+  Viajes;
+- 10 obras por edición en 2021 y 2022, que son las ganadoras de categoría
+  publicadas en esas páginas; 124 de 2023, 134 de 2024 y 136 de 2025, incluyendo
+  las preselecciones que el archivo sí ofrece para esos años.
+
+El título traducido se usa en la interfaz y el título inglés exacto se conserva en
+Fuentes. La categoría y el nivel se registran por separado: una obra de la
+preselección nunca aparece como ganadora. Dos fotografías oficialmente tituladas
+*Untitled* por la misma persona se distinguen por edición y categoría sin fingir
+un título original diferente.
 
 ## Escritura y fuentes
 
@@ -96,11 +120,12 @@ acredita la autoría y no almacena una copia en el repositorio.
 
 ## Trabajo pendiente en los demás certámenes
 
-World Press Photo es el primer archivo ampliado a varios cientos de fichas. Los
-demás concursos todavía no deben describirse como completos. Permanecen para
-tandas editoriales posteriores:
+World Press Photo y las galerías Open recientes de Sony son los primeros archivos
+ampliados a varios cientos de fichas. Los demás bloques todavía no deben describirse
+como completos. Permanecen para tandas editoriales posteriores:
 
-- ganadores, preseleccionados y premios nacionales de Sony;
+- galerías históricas 2012–2020 y competiciones Professional, Student, Youth,
+  premios nacionales y regionales de Sony;
 - portfolios y categorías históricas de TPOTY, conservando cada serie como tal;
 - ganadores y finalistas de los dos premios fotográficos Pulitzer, distinguiendo
   imágenes individuales de trabajos colectivos de redacciones y agencias;

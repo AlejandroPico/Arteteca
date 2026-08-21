@@ -1,0 +1,46 @@
+{
+  "id": "cubierto-gemma-sains-2023",
+  "titulo": "Cubierto",
+  "autor": "Gemma Sains",
+  "fecha": "2023",
+  "fechaOrden": 2023,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía contemporánea",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Sony World Photography Awards 2023 · Preseleccionada · Retrato",
+  "descripcion": "Una artista drag envuelta en tul. Esta imagen fue tomada en mi estudio en Stratford, Londres, usando una configuración de una sola luz.",
+  "localizacion": "World Photography Organisation",
+  "urlLocalizacion": "https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2023/open/portraiture",
+  "tecnicas": [
+    "Fotografía",
+    "Sony Open Competition",
+    "Retrato"
+  ],
+  "etiquetas": [
+    "Sony World Photography Awards",
+    "fotografía premiada",
+    "Open Competition",
+    "Preseleccionada",
+    "Retrato",
+    "2023"
+  ],
+  "imagen": {
+    "url": "https://www.worldphoto.org/sites/default/files/styles/max_2600x2600/public/10acf777c90b9eb5d1cf4171d4537f8a.15.%2520DSC08813.2-min.jpg?itok=qG9ImjxG",
+    "urlAltaResolucion": "https://www.worldphoto.org/sites/default/files/styles/max_2600x2600/public/10acf777c90b9eb5d1cf4171d4537f8a.15.%2520DSC08813.2-min.jpg?itok=qG9ImjxG",
+    "alt": "Una artista drag envuelta en tul. Esta imagen fue tomada en mi estudio en Stratford, Londres, usando una configuración de una sola luz.",
+    "fuente": "https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2023/open/portraiture",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Photography Organisation; cualquier reutilización requiere autorización.",
+    "credito": "© Gemma Sains, United Kingdom, Shortlist, Open Competition, Portraiture, 2023 Sony World Photography Ads",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "Sony World Photography Awards",
+    "edicion": "2023",
+    "competicion": "Open Competition",
+    "categoria": "Retrato",
+    "nivel": "Preseleccionada",
+    "fuenteOficial": "https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2023/open/portraiture",
+    "tituloOficial": "Covered",
+    "paisParticipante": "United Kingdom"
+  }
+}

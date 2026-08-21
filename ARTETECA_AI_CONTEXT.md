@@ -110,11 +110,11 @@ El proyecto no debe imponer el gusto clásico de su creador como único criterio
 
 En la revisión del 21 de agosto de 2026, Arteteca contiene:
 
-- 1.822 obras;
-- 9.100 pestañas documentales;
+- 2.236 obras;
+- 11.170 pestañas documentales;
 - 48 tipos de obra;
 - 152 periodos, movimientos o marcos culturales;
-- 905 artistas o atribuciones;
+- 1.284 artistas o atribuciones;
 - 50 colecciones editoriales.
 
 Estos números son una fotografía temporal, no constantes de programación. No los escribas como valores fijos en la interfaz. El compilador y `public/data/catalogo.json` deben ser siempre quienes determinen las cifras vigentes.

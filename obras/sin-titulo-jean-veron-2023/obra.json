@@ -1,0 +1,46 @@
+{
+  "id": "sin-titulo-jean-veron-2023",
+  "titulo": "Sin título",
+  "autor": "Jean Veron",
+  "fecha": "2023",
+  "fechaOrden": 2023,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía contemporánea",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Sony World Photography Awards 2023 · Preseleccionada · Estilo de vida",
+  "descripcion": "Tiempo de juego en el patio de una escuela Amish. Esta fotografía fue tomada desde un automóvil en movimiento en octubre de 2022.",
+  "localizacion": "World Photography Organisation",
+  "urlLocalizacion": "https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2023/open/lifestyle",
+  "tecnicas": [
+    "Fotografía",
+    "Sony Open Competition",
+    "Estilo de vida"
+  ],
+  "etiquetas": [
+    "Sony World Photography Awards",
+    "fotografía premiada",
+    "Open Competition",
+    "Preseleccionada",
+    "Estilo de vida",
+    "2023"
+  ],
+  "imagen": {
+    "url": "https://www.worldphoto.org/sites/default/files/styles/max_2600x2600/public/bd9fc5478b327cc69fa50834848eea48.A7C06250.jpg?itok=mTS4ljjF",
+    "urlAltaResolucion": "https://www.worldphoto.org/sites/default/files/styles/max_2600x2600/public/bd9fc5478b327cc69fa50834848eea48.A7C06250.jpg?itok=mTS4ljjF",
+    "alt": "Tiempo de juego en el patio de una escuela Amish. Esta fotografía fue tomada desde un automóvil en movimiento en octubre de 2022.",
+    "fuente": "https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2023/open/lifestyle",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Photography Organisation; cualquier reutilización requiere autorización.",
+    "credito": "© Jean Veron, France, Shortlist, Open Competition, Lifestyle, 2023 Sony World Photography Ads",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "Sony World Photography Awards",
+    "edicion": "2023",
+    "competicion": "Open Competition",
+    "categoria": "Estilo de vida",
+    "nivel": "Preseleccionada",
+    "fuenteOficial": "https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2023/open/lifestyle",
+    "tituloOficial": "Untitled",
+    "paisParticipante": "France"
+  }
+}

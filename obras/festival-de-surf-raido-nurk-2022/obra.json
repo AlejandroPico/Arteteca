@@ -1,0 +1,46 @@
+{
+  "id": "festival-de-surf-raido-nurk-2022",
+  "titulo": "Festival de surf",
+  "autor": "Raido Nurk",
+  "fecha": "2022",
+  "fechaOrden": 2022,
+  "tipo": "Fotografía",
+  "periodo": "Fotografía contemporánea",
+  "coleccion": "Fotografía",
+  "reconocimiento": "Sony World Photography Awards 2022 · Ganadora de categoría · Movimiento",
+  "descripcion": "Las olas eran las más grandes que he visto en la noche cuando tomé esta foto en La Haya, Países Bajos. Las olas y la lluvia torrencial crearon una atmósfera única.",
+  "localizacion": "World Photography Organisation",
+  "urlLocalizacion": "https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2022/open/motion",
+  "tecnicas": [
+    "Fotografía",
+    "Sony Open Competition",
+    "Movimiento"
+  ],
+  "etiquetas": [
+    "Sony World Photography Awards",
+    "fotografía premiada",
+    "Open Competition",
+    "Ganadora de categoría",
+    "Movimiento",
+    "2022"
+  ],
+  "imagen": {
+    "url": "https://www.worldphoto.org/sites/default/files/styles/full/public/e6720158e5fe6083aa53144cbd5e17.Full_Scheveningen%2520surf%2520-%2520epic.jpg.webp?itok=Zv-7KjMq",
+    "urlAltaResolucion": "https://www.worldphoto.org/sites/default/files/styles/full/public/e6720158e5fe6083aa53144cbd5e17.Full_Scheveningen%2520surf%2520-%2520epic.jpg.webp?itok=Zv-7KjMq",
+    "alt": "Las olas eran las más grandes que he visto en la noche cuando tomé esta foto en La Haya, Países Bajos. Las olas y la lluvia torrencial crearon una atmósfera única.",
+    "fuente": "https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2022/open/motion",
+    "licencia": "Fotografía protegida por derechos de autor. Reproducción remota ofrecida por World Photography Organisation; cualquier reutilización requiere autorización.",
+    "credito": "© Raido Nurk, Estonia, Winner, Open competition, Motion, 2022 Sony World Photography Awards",
+    "foco": "center"
+  },
+  "referencia": {
+    "certamen": "Sony World Photography Awards",
+    "edicion": "2022",
+    "competicion": "Open Competition",
+    "categoria": "Movimiento",
+    "nivel": "Ganadora de categoría",
+    "fuenteOficial": "https://www.worldphoto.org/sony-world-photography-awards/winners-galleries/2022/open/motion",
+    "tituloOficial": "Surfing festival",
+    "paisParticipante": "Estonia"
+  }
+}

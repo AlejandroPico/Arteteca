@@ -26,9 +26,9 @@
   let loading = true;
   let error = '';
   let query = '';
-  let selectedType = 'Todos';
-  let selectedPeriod = 'Todos';
-  let selectedArtist = 'Todos';
+  let selectedTypes: string[] = [];
+  let selectedPeriods: string[] = [];
+  let selectedArtists: string[] = [];
   let order: OrdenCatalogo = 'azar';
   let limit = BATCH_SIZE;
   let activeArtwork: ObraResumen | null = null;
@@ -71,32 +71,38 @@
   }
 
   function resetFilters() {
-    selectedType = 'Todos';
-    selectedPeriod = 'Todos';
-    selectedArtist = 'Todos';
+    selectedTypes = [];
+    selectedPeriods = [];
+    selectedArtists = [];
     filterQuery = '';
     limit = BATCH_SIZE;
   }
 
+  function setFacetSelection(facet: FilterFacet, values: string[]) {
+    if (facet === 'tipo') selectedTypes = values;
+    else if (facet === 'periodo') selectedPeriods = values;
+    else selectedArtists = values;
+  }
+
   function selectFilter(value: string) {
-    if (filterFacet === 'tipo') {
-      selectedType = value;
-    } else if (filterFacet === 'periodo') {
-      selectedPeriod = value;
-    } else {
-      selectedArtist = value;
+    if (value === 'Todos') {
+      setFacetSelection(filterFacet, []);
+      limit = BATCH_SIZE;
+      return;
     }
+
+    const next = selectedFilterValues.includes(value)
+      ? selectedFilterValues.filter((selected) => selected !== value)
+      : [...selectedFilterValues, value];
+    setFacetSelection(filterFacet, next);
     limit = BATCH_SIZE;
   }
 
   function filterOptionCount(facet: FilterFacet, value: string) {
     return (catalog?.obras ?? []).filter((work) => {
-      if (facet === 'tipo' && selectedPeriod !== 'Todos' && work.periodo !== selectedPeriod) return false;
-      if (facet === 'tipo' && selectedArtist !== 'Todos' && work.autor !== selectedArtist) return false;
-      if (facet === 'periodo' && selectedType !== 'Todos' && work.tipo !== selectedType) return false;
-      if (facet === 'periodo' && selectedArtist !== 'Todos' && work.autor !== selectedArtist) return false;
-      if (facet === 'artista' && selectedType !== 'Todos' && work.tipo !== selectedType) return false;
-      if (facet === 'artista' && selectedPeriod !== 'Todos' && work.periodo !== selectedPeriod) return false;
+      if (facet !== 'tipo' && selectedTypes.length && !selectedTypes.includes(work.tipo)) return false;
+      if (facet !== 'periodo' && selectedPeriods.length && !selectedPeriods.includes(work.periodo)) return false;
+      if (facet !== 'artista' && selectedArtists.length && !selectedArtists.includes(work.autor)) return false;
       if (value === 'Todos') return true;
       if (facet === 'tipo') return work.tipo === value;
       if (facet === 'periodo') return work.periodo === value;
@@ -142,9 +148,9 @@
   $: normalizedQuery = normalizeForSearch(query);
   $: filteredWorks = orderedWorks
     .filter((work) => {
-      if (selectedType !== 'Todos' && work.tipo !== selectedType) return false;
-      if (selectedPeriod !== 'Todos' && work.periodo !== selectedPeriod) return false;
-      if (selectedArtist !== 'Todos' && work.autor !== selectedArtist) return false;
+      if (selectedTypes.length && !selectedTypes.includes(work.tipo)) return false;
+      if (selectedPeriods.length && !selectedPeriods.includes(work.periodo)) return false;
+      if (selectedArtists.length && !selectedArtists.includes(work.autor)) return false;
       if (!normalizedQuery) return true;
       const haystack = normalizeForSearch(
         [work.titulo, work.tituloOriginal, work.autor, work.fecha, work.tipo, work.periodo, ...work.etiquetas]
@@ -160,18 +166,15 @@
       return 0;
     });
   $: visibleWorks = filteredWorks.slice(0, limit);
-  $: activeFilters =
-    Number(selectedType !== 'Todos') +
-    Number(selectedPeriod !== 'Todos') +
-    Number(selectedArtist !== 'Todos');
+  $: activeFilters = selectedTypes.length + selectedPeriods.length + selectedArtists.length;
   $: normalizedFilterQuery = normalizeForSearch(filterQuery);
   $: currentFilterOptions =
     (filterFacet === 'tipo' ? catalog?.tipos : filterFacet === 'periodo' ? catalog?.periodos : catalog?.artistas) ?? [];
   $: visibleFilterOptions = currentFilterOptions.filter((option) =>
     normalizedFilterQuery ? normalizeForSearch(option).includes(normalizedFilterQuery) : true,
   );
-  $: selectedFilterValue =
-    filterFacet === 'tipo' ? selectedType : filterFacet === 'periodo' ? selectedPeriod : selectedArtist;
+  $: selectedFilterValues =
+    filterFacet === 'tipo' ? selectedTypes : filterFacet === 'periodo' ? selectedPeriods : selectedArtists;
   $: filterFacetLabel = filterFacet === 'tipo' ? 'tipo de obra' : filterFacet === 'periodo' ? 'periodo' : 'artista';
   $: filterFacetPlural = filterFacet === 'tipo' ? 'tipos' : filterFacet === 'periodo' ? 'periodos' : 'artistas';
 
@@ -319,7 +322,7 @@
             >
               <span>Tipo</span>
               <small>{catalog?.tipos.length ?? 0}</small>
-              {#if selectedType !== 'Todos'}<i>{selectedType}</i>{/if}
+              {#if selectedTypes.length}<i>{selectedTypes.length === 1 ? selectedTypes[0] : `${selectedTypes.length} seleccionados`}</i>{/if}
             </button>
             <button
               class:active={filterFacet === 'periodo'}
@@ -331,7 +334,7 @@
             >
               <span>Periodo</span>
               <small>{catalog?.periodos.length ?? 0}</small>
-              {#if selectedPeriod !== 'Todos'}<i>{selectedPeriod}</i>{/if}
+              {#if selectedPeriods.length}<i>{selectedPeriods.length === 1 ? selectedPeriods[0] : `${selectedPeriods.length} seleccionados`}</i>{/if}
             </button>
             <button
               class:active={filterFacet === 'artista'}
@@ -343,7 +346,7 @@
             >
               <span>Artista</span>
               <small>{catalog?.artistas.length ?? 0}</small>
-              {#if selectedArtist !== 'Todos'}<i>{selectedArtist}</i>{/if}
+              {#if selectedArtists.length}<i>{selectedArtists.length === 1 ? selectedArtists[0] : `${selectedArtists.length} seleccionados`}</i>{/if}
             </button>
           </nav>
 
@@ -361,32 +364,37 @@
             {/if}
           </label>
 
-          <div class="filter-browser__list" role="listbox" aria-label={`Filtro por ${filterFacetLabel}`}>
+          <div
+            class="filter-browser__list"
+            role="listbox"
+            aria-label={`Filtro por ${filterFacetLabel}`}
+            aria-multiselectable="true"
+          >
             {#if !normalizedFilterQuery}
               <button
-                class:active={selectedFilterValue === 'Todos'}
+                class:active={selectedFilterValues.length === 0}
                 type="button"
                 role="option"
-                aria-selected={selectedFilterValue === 'Todos'}
+                aria-selected={selectedFilterValues.length === 0}
                 onclick={() => selectFilter('Todos')}
               >
-                <span>{selectedFilterValue === 'Todos' ? 'Toda la colección' : `Todos los ${filterFacetPlural}`}</span>
+                <span>{selectedFilterValues.length === 0 ? 'Toda la colección' : `Todos los ${filterFacetPlural}`}</span>
                 <strong>{filterOptionCount(filterFacet, 'Todos')}</strong>
-                {#if selectedFilterValue === 'Todos'}<Check size={15} />{/if}
+                {#if selectedFilterValues.length === 0}<Check size={15} />{/if}
               </button>
             {/if}
 
             {#each visibleFilterOptions as option}
               <button
-                class:active={selectedFilterValue === option}
+                class:active={selectedFilterValues.includes(option)}
                 type="button"
                 role="option"
-                aria-selected={selectedFilterValue === option}
+                aria-selected={selectedFilterValues.includes(option)}
                 onclick={() => selectFilter(option)}
               >
                 <span>{option}</span>
                 <strong>{filterOptionCount(filterFacet, option)}</strong>
-                {#if selectedFilterValue === option}<Check size={15} />{/if}
+                {#if selectedFilterValues.includes(option)}<Check size={15} />{/if}
               </button>
             {:else}
               <p class="filter-browser__empty">No hay coincidencias para «{filterQuery}».</p>

@@ -947,15 +947,23 @@ a {
 
     button {
       display: grid;
-      width: 40px;
-      height: 40px;
+      width: 36px;
+      height: 36px;
       place-items: center;
-      border: 1px solid rgba(255, 255, 255, 0.24);
-      border-radius: 50%;
-      background: rgba(15, 13, 10, 0.76);
+      border: 0;
+      border-radius: 0;
+      background: transparent;
       color: white;
       cursor: pointer;
-      backdrop-filter: blur(12px);
+      filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.78));
+      opacity: 0.82;
+      transition: opacity 150ms ease, transform 150ms ease;
+
+      &:hover,
+      &:focus-visible {
+        opacity: 1;
+        transform: scale(1.08);
+      }
     }
   }
 
@@ -1408,6 +1416,12 @@ a {
     &__nav {
       top: 22vh;
     }
+  }
+}
+
+@media (max-width: 840px) and (pointer: coarse) {
+  .obra-modal__top-actions {
+    display: none;
   }
 }
 

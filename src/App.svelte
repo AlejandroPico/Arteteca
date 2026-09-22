@@ -42,6 +42,7 @@
   let order: OrdenCatalogo = 'azar';
   let limit = BATCH_SIZE;
   let activeArtwork: ObraResumen | null = null;
+  let artworkImmersive = false;
   let filtersOpen = false;
   type FilterFacet = 'tipo' | 'periodo' | 'artista';
   let filterFacet: FilterFacet = 'tipo';
@@ -150,26 +151,112 @@
     }).length;
   }
 
+  type ArtworkHistoryLayer = 'mosaic' | 'artwork' | 'viewer';
+
+  interface ArtworkHistoryState {
+    artetecaLayer?: ArtworkHistoryLayer;
+    artworkId?: string;
+  }
+
+  function baseUrl() {
+    return `${location.pathname}${location.search}`;
+  }
+
+  function artworkUrl(id: string, viewer = false) {
+    const params = new URLSearchParams({ obra: id });
+    if (viewer) params.set('visor', '1');
+    return `${baseUrl()}#${params.toString()}`;
+  }
+
   function openArtwork(work: ObraResumen) {
     activeArtwork = work;
-    history.replaceState(null, '', `${location.pathname}${location.search}#obra=${work.id}`);
+    artworkImmersive = false;
+    history.pushState(
+      { artetecaLayer: 'artwork', artworkId: work.id } satisfies ArtworkHistoryState,
+      '',
+      artworkUrl(work.id),
+    );
   }
 
   function closeArtwork() {
+    const layer = (history.state as ArtworkHistoryState | null)?.artetecaLayer;
+    if (layer === 'viewer') {
+      history.go(-2);
+      return;
+    }
+    if (layer === 'artwork') {
+      history.back();
+      return;
+    }
     activeArtwork = null;
-    history.replaceState(null, '', `${location.pathname}${location.search}`);
+    artworkImmersive = false;
+    history.replaceState({ artetecaLayer: 'mosaic' } satisfies ArtworkHistoryState, '', baseUrl());
+  }
+
+  function changeArtworkViewer(next: boolean) {
+    if (!activeArtwork || next === artworkImmersive) return;
+    if (next) {
+      artworkImmersive = true;
+      history.pushState(
+        { artetecaLayer: 'viewer', artworkId: activeArtwork.id } satisfies ArtworkHistoryState,
+        '',
+        artworkUrl(activeArtwork.id, true),
+      );
+      return;
+    }
+
+    if ((history.state as ArtworkHistoryState | null)?.artetecaLayer === 'viewer') {
+      history.back();
+      return;
+    }
+    artworkImmersive = false;
+    history.replaceState(
+      { artetecaLayer: 'artwork', artworkId: activeArtwork.id } satisfies ArtworkHistoryState,
+      '',
+      artworkUrl(activeArtwork.id),
+    );
   }
 
   function moveArtwork(direction: -1 | 1) {
     if (!activeArtwork || filteredWorks.length < 2) return;
     const current = filteredWorks.findIndex((work) => work.id === activeArtwork?.id);
     const next = (current + direction + filteredWorks.length) % filteredWorks.length;
-    openArtwork(filteredWorks[next]);
+    const work = filteredWorks[next];
+    activeArtwork = work;
+    artworkImmersive = false;
+    history.replaceState(
+      { artetecaLayer: 'artwork', artworkId: work.id } satisfies ArtworkHistoryState,
+      '',
+      artworkUrl(work.id),
+    );
   }
 
-  function updateHashArtwork() {
-    const id = new URLSearchParams(location.hash.replace(/^#/, '')).get('obra');
+  function updateArtworkRoute() {
+    const params = new URLSearchParams(location.hash.replace(/^#/, ''));
+    const id = params.get('obra');
     activeArtwork = id ? catalog?.obras.find((work) => work.id === id) ?? null : null;
+    artworkImmersive = Boolean(activeArtwork && params.get('visor') === '1');
+  }
+
+  function prepareInitialArtworkHistory() {
+    const params = new URLSearchParams(location.hash.replace(/^#/, ''));
+    const id = params.get('obra');
+    const viewer = Boolean(id && params.get('visor') === '1');
+    history.replaceState({ artetecaLayer: 'mosaic' } satisfies ArtworkHistoryState, '', baseUrl());
+    if (!id) return;
+
+    history.pushState(
+      { artetecaLayer: 'artwork', artworkId: id } satisfies ArtworkHistoryState,
+      '',
+      artworkUrl(id),
+    );
+    if (viewer) {
+      history.pushState(
+        { artetecaLayer: 'viewer', artworkId: id } satisfies ArtworkHistoryState,
+        '',
+        artworkUrl(id, true),
+      );
+    }
   }
 
   function closeHeaderPanels() {
@@ -219,6 +306,7 @@
   $: filterFacetPlural = filterFacet === 'tipo' ? 'tipos' : filterFacet === 'periodo' ? 'periodos' : 'artistas';
 
   onMount(() => {
+    prepareInitialArtworkHistory();
     theme = readStoredTheme();
     themeCoordinates = readStoredCoordinates();
     applyTheme(theme, false);
@@ -247,13 +335,13 @@
       { rootMargin: '700px 0px' },
     );
     if (sentinel) observer.observe(sentinel);
-    window.addEventListener('hashchange', updateHashArtwork);
+    window.addEventListener('popstate', updateArtworkRoute);
 
     void (async () => {
       try {
         catalog = await loadCatalog();
         orderedWorks = shuffle(catalog.obras);
-        updateHashArtwork();
+        updateArtworkRoute();
       } catch (reason) {
         error = reason instanceof Error ? reason.message : 'No se pudo cargar Arteteca.';
       } finally {
@@ -266,7 +354,7 @@
       window.clearTimeout(introRemoveTimer);
       window.clearInterval(themeTimer);
       observer.disconnect();
-      window.removeEventListener('hashchange', updateHashArtwork);
+      window.removeEventListener('popstate', updateArtworkRoute);
       document.removeEventListener('visibilitychange', refreshVisibleTheme);
     };
   });
@@ -612,8 +700,10 @@
 {#if activeArtwork}
   <ArtworkModal
     obra={activeArtwork}
+    immersive={artworkImmersive}
     anterior={filteredWorks.length > 1 ? () => moveArtwork(-1) : undefined}
     siguiente={filteredWorks.length > 1 ? () => moveArtwork(1) : undefined}
+    cambiarVisor={changeArtworkViewer}
     cerrar={closeArtwork}
   />
 {/if}

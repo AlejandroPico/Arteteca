@@ -6,7 +6,7 @@
 
 La aplicación está publicada mediante GitHub Pages y construida con Svelte 5, TypeScript, SCSS, Python y SQLite.
 
-Versión actual: **0.2.0**.
+Versión actual: **1.0**.
 
 ## Qué ofrece esta versión
 
@@ -19,6 +19,7 @@ Versión actual: **0.2.0**.
 - Filtros por tipo, periodo y artista; orden aleatorio, cronológico o alfabético.
 - Modos claro, oscuro y automático solar, adaptado a la ubicación, la fecha y la estación.
 - Ficha ampliada, navegación entre obras y visor inmersivo con rueda, pellizco, zoom y arrastre.
+- Navegación móvil por capas: Atrás vuelve del visor a la ficha y de la ficha al mosaico antes de salir de la aplicación.
 - Ventana editorial sobre el proyecto con enlaces al porfolio del autor y al repositorio público.
 - Pestañas creadas automáticamente a partir de los archivos Markdown de cada obra.
 - Índice JSON muy pequeño para la primera carga y fichas completas bajo demanda.

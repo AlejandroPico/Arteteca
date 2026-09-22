@@ -17,15 +17,17 @@
   import type { ObraDetalle, ObraResumen, SeccionObra } from '../lib/types';
 
   export let obra: ObraResumen;
+  export let immersive: boolean;
   export let anterior: (() => void) | undefined = undefined;
   export let siguiente: (() => void) | undefined = undefined;
+  export let cambiarVisor: (next: boolean) => void;
   export let cerrar: () => void;
 
   let detail: ObraDetalle | null = null;
   let loading = true;
   let error = '';
   let activeTab = '';
-  let immersive = false;
+  let previousImmersive = immersive;
   let imageFailed = false;
   let displayedImage = obra.imagen.src;
   let highResolutionLoading = false;
@@ -101,15 +103,7 @@
   }
 
   function setImmersive(next: boolean) {
-    immersive = next;
-    resetViewer();
-    if (next) {
-      void loadHighResolution();
-    } else {
-      highResolutionRequest += 1;
-      highResolutionLoading = false;
-      displayedImage = detail?.imagen.src ?? obra.imagen.src;
-    }
+    cambiarVisor(next);
   }
 
   function zoomAt(nextZoom: number, clientX: number, clientY: number) {
@@ -216,6 +210,18 @@
       document.body.style.overflow = previous;
     };
   });
+
+  $: if (immersive !== previousImmersive) {
+    previousImmersive = immersive;
+    resetViewer();
+    if (immersive) {
+      void loadHighResolution();
+    } else {
+      highResolutionRequest += 1;
+      highResolutionLoading = false;
+      displayedImage = detail?.imagen.src ?? obra.imagen.src;
+    }
+  }
 
   $: if (obra.id) fetchDetail();
 </script>

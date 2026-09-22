@@ -1,5 +1,5 @@
 const CACHE_PREFIX = 'arteteca-';
-const CACHE_NAME = `${CACHE_PREFIX}0.2.0`;
+const CACHE_NAME = `${CACHE_PREFIX}1.0.0`;
 const APP_SHELL = [
   './',
   './index.html',

@@ -4,6 +4,7 @@
   import packageMetadata from '../../package.json';
 
   export let cerrar: () => void;
+  const displayVersion = packageMetadata.version.replace(/\.0$/, '');
 
   function keydown(event: KeyboardEvent) {
     if (event.key === 'Escape') cerrar();
@@ -53,7 +54,7 @@
           <GitFork size={20} />
         </a>
       </nav>
-      <p class="about-modal__version">Arteteca · Versión {packageMetadata.version}</p>
+      <p class="about-modal__version">Arteteca · Versión {displayVersion}</p>
     </div>
 
     <div class="about-modal__copy">

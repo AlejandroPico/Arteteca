@@ -108,7 +108,7 @@ El proyecto no debe imponer el gusto clásico de su creador como único criterio
 
 ## 3. Estado de referencia
 
-La interfaz funciona como PWA instalable desde la versión `0.2.0`. El modo de apariencia inicial es automático y resuelve mañana, tarde o noche a partir de la posición solar real cuando el usuario permite la ubicación.
+La versión estable actual es `1.0`. La interfaz funciona como PWA instalable y el modo de apariencia inicial es automático: resuelve mañana, tarde o noche a partir de la posición solar real cuando el usuario permite la ubicación.
 
 En la revisión del 21 de agosto de 2026, Arteteca contiene:
 
@@ -1494,6 +1494,16 @@ El orden cronológico utiliza `fechaOrden`, no intenta interpretar `fecha`.
 - pellizco con dos punteros;
 - `Escape` vuelve a la ficha;
 - otro `Escape` cierra.
+
+En móvil, ficha y visor son capas reales del historial del navegador:
+
+```text
+visor inmersivo → Atrás → ficha → Atrás → mosaico → Atrás → salir de la PWA
+```
+
+Abrir una ficha usa `history.pushState`; abrir el visor añade un segundo nivel. El evento `popstate` restaura el estado correspondiente. No sustituyas este flujo por `replaceState` al abrir, porque el gesto Atrás de Android volvería a cerrar la aplicación desde la ficha.
+
+En dispositivos táctiles estrechos no se muestran los botones superiores de cerrar y ampliar: tocar la imagen abre el visor y el botón o gesto Atrás recorre las capas. En escritorio se conservan ambos iconos, sin borde, fondo ni contenedor circular.
 
 No añadas botones de lupa visibles salvo nueva petición. La interacción debe sentirse directa.
 

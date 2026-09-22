@@ -108,6 +108,8 @@ El proyecto no debe imponer el gusto clásico de su creador como único criterio
 
 ## 3. Estado de referencia
 
+La interfaz funciona como PWA instalable desde la versión `0.2.0`. El modo de apariencia inicial es automático y resuelve mañana, tarde o noche a partir de la posición solar real cuando el usuario permite la ubicación.
+
 En la revisión del 21 de agosto de 2026, Arteteca contiene:
 
 - 2.236 obras;
@@ -1510,6 +1512,28 @@ Se guarda en `localStorage` bajo:
 ```text
 arteteca-tema
 ```
+
+`auto` es el valor inicial cuando no existe una preferencia válida. No equivale a `prefers-color-scheme`: `src/lib/solarTheme.ts` calcula la altura y el ángulo horario del Sol con la latitud, la longitud, la fecha y la hora del dispositivo. El crepúsculo civil, a `-6°`, separa el periodo nocturno; antes del mediodía solar se usa mañana y después, tarde.
+
+La ubicación se solicita solamente cuando el modo es automático. Se guarda de forma aproximada durante un máximo de treinta días bajo `arteteca-coordenadas-solares`. Si el permiso se rechaza o la API no está disponible, la aplicación mantiene el modo automático mediante una alternativa basada en la hora local.
+
+El elemento raíz expone el estado resuelto para que estilos y diagnósticos no dependan de inferencias:
+
+```text
+data-theme         = claro | oscuro
+data-theme-mode    = auto | claro | oscuro
+data-theme-period  = morning | afternoon | night
+data-theme-source  = solar | local-time | manual
+data-sun-altitude  = grados, solo cuando existe cálculo solar
+```
+
+Los modos manuales siguen persistiendo. El tema se recalcula cada minuto, al volver a una pestaña visible y tras obtener coordenadas nuevas.
+
+### 14.11. Instalación PWA
+
+La instalación se declara en `public/manifest.webmanifest`. `src/lib/pwa.ts` registra `public/service-worker.js` bajo la base de GitHub Pages y los iconos se guardan en `public/icons/`.
+
+El *service worker* precarga la carcasa, el manifiesto y los iconos; usa red primero para navegaciones y caché primero para recursos estáticos del mismo origen. No almacena `data/arteteca.sqlite` ni `data/media/`, con el fin de evitar una ocupación excesiva en móviles. Cuando cambie el contenido precargado, incrementa también el identificador de caché.
 
 ---
 

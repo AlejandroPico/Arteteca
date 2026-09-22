@@ -18,6 +18,16 @@
   import ArtworkModal from './components/ArtworkModal.svelte';
   import InventoryModal from './components/InventoryModal.svelte';
   import { loadCatalog, normalizeForSearch, shuffle } from './lib/catalog';
+  import {
+    applyThemeToDocument,
+    readStoredCoordinates,
+    readStoredTheme,
+    storeCoordinates,
+    storeTheme,
+    themePeriodLabel,
+    type ThemeCoordinates,
+    type ThemePeriod,
+  } from './lib/solarTheme';
   import type { Catalogo, ObraResumen, OrdenCatalogo, Tema } from './lib/types';
 
   const BATCH_SIZE = 18;
@@ -42,19 +52,49 @@
   let inventoryOpen = false;
   let mobileMenuOpen = false;
   let theme: Tema = 'auto';
+  let resolvedTheme: ThemePeriod = 'afternoon';
+  let themeCoordinates: ThemeCoordinates | null = null;
+  let themeTimer = 0;
+  let geolocationRequested = false;
   let sentinel: HTMLElement;
   let introVisible = true;
   let introLeaving = false;
 
-  function applyTheme(next: Tema) {
+  function refreshTheme() {
+    resolvedTheme = applyThemeToDocument(theme, new Date(), themeCoordinates).period;
+  }
+
+  function requestThemeCoordinates() {
+    if (theme !== 'auto' || geolocationRequested || !('geolocation' in navigator)) return;
+    geolocationRequested = true;
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        themeCoordinates = storeCoordinates({
+          latitude: position.coords.latitude,
+          longitude: position.coords.longitude,
+        });
+        refreshTheme();
+      },
+      () => refreshTheme(),
+      { enableHighAccuracy: false, maximumAge: 21_600_000, timeout: 8_000 },
+    );
+  }
+
+  function applyTheme(next: Tema, persist = true) {
     theme = next;
-    localStorage.setItem('arteteca-tema', next);
-    document.documentElement.dataset.theme = next;
+    if (persist) storeTheme(next);
+    refreshTheme();
+    if (next === 'auto') requestThemeCoordinates();
   }
 
   function cycleTheme() {
     const themes: Tema[] = ['auto', 'claro', 'oscuro'];
     applyTheme(themes[(themes.indexOf(theme) + 1) % themes.length]);
+  }
+
+  function themeDescription(mode: Tema, period: ThemePeriod): string {
+    if (mode === 'auto') return `automático · ${themePeriodLabel(period)}`;
+    return mode;
   }
 
   function reshuffle() {
@@ -179,7 +219,14 @@
   $: filterFacetPlural = filterFacet === 'tipo' ? 'tipos' : filterFacet === 'periodo' ? 'periodos' : 'artistas';
 
   onMount(() => {
-    applyTheme((localStorage.getItem('arteteca-tema') as Tema | null) ?? 'auto');
+    theme = readStoredTheme();
+    themeCoordinates = readStoredCoordinates();
+    applyTheme(theme, false);
+    themeTimer = window.setInterval(refreshTheme, 60_000);
+    const refreshVisibleTheme = () => {
+      if (document.visibilityState === 'visible') refreshTheme();
+    };
+    document.addEventListener('visibilitychange', refreshVisibleTheme);
     const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     let introLeaveTimer = 0;
     let introRemoveTimer = 0;
@@ -217,8 +264,10 @@
     return () => {
       window.clearTimeout(introLeaveTimer);
       window.clearTimeout(introRemoveTimer);
+      window.clearInterval(themeTimer);
       observer.disconnect();
       window.removeEventListener('hashchange', updateHashArtwork);
+      document.removeEventListener('visibilitychange', refreshVisibleTheme);
     };
   });
 </script>
@@ -474,7 +523,14 @@
       <span>Acerca de</span>
     </button>
 
-    <button class="theme-switch" type="button" onclick={cycleTheme} aria-label={`Tema: ${theme}`} title={`Tema: ${theme}`}>
+    <button
+      class="theme-switch"
+      type="button"
+      data-period={resolvedTheme}
+      onclick={cycleTheme}
+      aria-label={`Tema: ${themeDescription(theme, resolvedTheme)}`}
+      title={`Tema: ${themeDescription(theme, resolvedTheme)}`}
+    >
       {#if theme === 'claro'}
         <Sun size={18} />
       {:else if theme === 'oscuro'}

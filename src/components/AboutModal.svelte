@@ -1,6 +1,7 @@
 <script lang="ts">
   import { ArrowUpRight, GitFork, X } from '@lucide/svelte';
   import { onMount } from 'svelte';
+  import packageMetadata from '../../package.json';
 
   export let cerrar: () => void;
 
@@ -52,6 +53,7 @@
           <GitFork size={20} />
         </a>
       </nav>
+      <p class="about-modal__version">Arteteca · Versión {packageMetadata.version}</p>
     </div>
 
     <div class="about-modal__copy">

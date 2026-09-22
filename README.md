@@ -6,6 +6,8 @@
 
 La aplicación está publicada mediante GitHub Pages y construida con Svelte 5, TypeScript, SCSS, Python y SQLite.
 
+Versión actual: **0.2.0**.
+
 ## Qué ofrece esta versión
 
 - Mosaico irregular y denso con tarjetas panorámicas, cuadradas y verticales.
@@ -15,7 +17,7 @@ La aplicación está publicada mediante GitHub Pages y construida con Svelte 5, 
 - Barra superior fija con búsqueda desplegable, filtros combinables por tipo, periodo y artista, orden y acceso a **Acerca de**.
 - Búsqueda por título, autor, fecha, técnica, tipo, periodo y etiquetas.
 - Filtros por tipo, periodo y artista; orden aleatorio, cronológico o alfabético.
-- Modos claro, oscuro y automático.
+- Modos claro, oscuro y automático solar, adaptado a la ubicación, la fecha y la estación.
 - Ficha ampliada, navegación entre obras y visor inmersivo con rueda, pellizco, zoom y arrastre.
 - Ventana editorial sobre el proyecto con enlaces al porfolio del autor y al repositorio público.
 - Pestañas creadas automáticamente a partir de los archivos Markdown de cada obra.
@@ -92,6 +94,14 @@ npm run check     # valida catálogo, TypeScript y Svelte
 npm run build     # genera dist/ para producción
 npm run preview   # sirve localmente la compilación
 ```
+
+## Instalación y apariencia automática
+
+Arteteca es una aplicación web progresiva (PWA) instalable en Android y en navegadores de escritorio compatibles. En Chrome para Android puede añadirse desde **Instalar aplicación**; se abre después en una ventana independiente, sin la interfaz habitual del navegador.
+
+El tema inicial es **automático**. Si se concede el permiso de ubicación, Arteteca calcula la altura real del Sol con la latitud, la longitud, la fecha y la hora actuales: emplea una apariencia de mañana antes del mediodía solar, de tarde después de él y nocturna cuando termina el crepúsculo civil. La coordenada aproximada se guarda durante un máximo de treinta días para evitar solicitudes repetidas. Si no hay permiso o geolocalización disponible, se aplica una alternativa basada en la hora local. Los modos claro y oscuro siguen disponibles y la elección manual se conserva.
+
+El *service worker* mantiene disponible la estructura principal de la aplicación, pero excluye deliberadamente la base SQLite y las reproducciones de alta resolución para no ocupar almacenamiento móvil de forma desproporcionada.
 
 ## Inventario interno
 

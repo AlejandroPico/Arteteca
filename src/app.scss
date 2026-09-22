@@ -1,7 +1,7 @@
 @use 'sass:color';
 
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
   --bg: #f0ede6;
   --surface: #f8f5ee;
   --surface-strong: #fffdf8;
@@ -33,20 +33,46 @@
   --shadow: 0 28px 85px rgba(0, 0, 0, 0.48);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme='claro']) {
-    color-scheme: dark;
-    --bg: #15130f;
-    --surface: #1d1a15;
-    --surface-strong: #252119;
-    --ink: #f1eadc;
-    --ink-soft: #aaa093;
-    --line: rgba(241, 234, 220, 0.13);
-    --line-strong: rgba(241, 234, 220, 0.27);
-    --accent: #d9755d;
-    --accent-ink: #170f0b;
-    --shadow: 0 28px 85px rgba(0, 0, 0, 0.48);
-  }
+:root[data-theme-mode='auto'][data-theme-period='morning'] {
+  color-scheme: light;
+  --bg: #edf1ee;
+  --surface: #f5f8f4;
+  --surface-strong: #fbfdf9;
+  --ink: #161713;
+  --ink-soft: #5d625b;
+  --line: rgba(22, 23, 19, 0.14);
+  --line-strong: rgba(22, 23, 19, 0.29);
+  --accent: #955044;
+  --accent-ink: #fffaf2;
+  --shadow: 0 25px 70px rgba(32, 42, 35, 0.13);
+}
+
+:root[data-theme-mode='auto'][data-theme-period='afternoon'] {
+  color-scheme: light;
+  --bg: #f0ede6;
+  --surface: #f8f5ee;
+  --surface-strong: #fffdf8;
+  --ink: #18140f;
+  --ink-soft: #625b51;
+  --line: rgba(24, 20, 15, 0.15);
+  --line-strong: rgba(24, 20, 15, 0.3);
+  --accent: #9f3f30;
+  --accent-ink: #fff8ed;
+  --shadow: 0 25px 70px rgba(38, 28, 16, 0.14);
+}
+
+:root[data-theme-mode='auto'][data-theme-period='night'] {
+  color-scheme: dark;
+  --bg: #121416;
+  --surface: #191c1f;
+  --surface-strong: #212529;
+  --ink: #efe9dc;
+  --ink-soft: #aaa296;
+  --line: rgba(239, 233, 220, 0.13);
+  --line-strong: rgba(239, 233, 220, 0.27);
+  --accent: #d0705c;
+  --accent-ink: #170f0b;
+  --shadow: 0 28px 85px rgba(0, 0, 0, 0.5);
 }
 
 * {
@@ -2142,6 +2168,15 @@ a {
         text-transform: uppercase;
       }
     }
+  }
+
+  &__version {
+    margin: -12px 0 0;
+    color: var(--ink-soft);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
   }
 }
 

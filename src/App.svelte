@@ -151,10 +151,10 @@
     }).length;
   }
 
-  type ArtworkHistoryLayer = 'mosaic' | 'artwork' | 'viewer';
+  type AppHistoryLayer = 'mosaic' | 'artwork' | 'viewer' | 'about';
 
-  interface ArtworkHistoryState {
-    artetecaLayer?: ArtworkHistoryLayer;
+  interface AppHistoryState {
+    artetecaLayer?: AppHistoryLayer;
     artworkId?: string;
   }
 
@@ -168,18 +168,36 @@
     return `${baseUrl()}#${params.toString()}`;
   }
 
+  function aboutUrl() {
+    return `${baseUrl()}#acerca-de`;
+  }
+
+  function openAbout() {
+    aboutOpen = true;
+    history.pushState({ artetecaLayer: 'about' } satisfies AppHistoryState, '', aboutUrl());
+  }
+
+  function closeAbout() {
+    if ((history.state as AppHistoryState | null)?.artetecaLayer === 'about') {
+      history.back();
+      return;
+    }
+    aboutOpen = false;
+    history.replaceState({ artetecaLayer: 'mosaic' } satisfies AppHistoryState, '', baseUrl());
+  }
+
   function openArtwork(work: ObraResumen) {
     activeArtwork = work;
     artworkImmersive = false;
     history.pushState(
-      { artetecaLayer: 'artwork', artworkId: work.id } satisfies ArtworkHistoryState,
+      { artetecaLayer: 'artwork', artworkId: work.id } satisfies AppHistoryState,
       '',
       artworkUrl(work.id),
     );
   }
 
   function closeArtwork() {
-    const layer = (history.state as ArtworkHistoryState | null)?.artetecaLayer;
+    const layer = (history.state as AppHistoryState | null)?.artetecaLayer;
     if (layer === 'viewer') {
       history.go(-2);
       return;
@@ -190,7 +208,7 @@
     }
     activeArtwork = null;
     artworkImmersive = false;
-    history.replaceState({ artetecaLayer: 'mosaic' } satisfies ArtworkHistoryState, '', baseUrl());
+    history.replaceState({ artetecaLayer: 'mosaic' } satisfies AppHistoryState, '', baseUrl());
   }
 
   function changeArtworkViewer(next: boolean) {
@@ -198,20 +216,20 @@
     if (next) {
       artworkImmersive = true;
       history.pushState(
-        { artetecaLayer: 'viewer', artworkId: activeArtwork.id } satisfies ArtworkHistoryState,
+        { artetecaLayer: 'viewer', artworkId: activeArtwork.id } satisfies AppHistoryState,
         '',
         artworkUrl(activeArtwork.id, true),
       );
       return;
     }
 
-    if ((history.state as ArtworkHistoryState | null)?.artetecaLayer === 'viewer') {
+    if ((history.state as AppHistoryState | null)?.artetecaLayer === 'viewer') {
       history.back();
       return;
     }
     artworkImmersive = false;
     history.replaceState(
-      { artetecaLayer: 'artwork', artworkId: activeArtwork.id } satisfies ArtworkHistoryState,
+      { artetecaLayer: 'artwork', artworkId: activeArtwork.id } satisfies AppHistoryState,
       '',
       artworkUrl(activeArtwork.id),
     );
@@ -225,34 +243,41 @@
     activeArtwork = work;
     artworkImmersive = false;
     history.replaceState(
-      { artetecaLayer: 'artwork', artworkId: work.id } satisfies ArtworkHistoryState,
+      { artetecaLayer: 'artwork', artworkId: work.id } satisfies AppHistoryState,
       '',
       artworkUrl(work.id),
     );
   }
 
-  function updateArtworkRoute() {
+  function updateAppRoute() {
     const params = new URLSearchParams(location.hash.replace(/^#/, ''));
     const id = params.get('obra');
     activeArtwork = id ? catalog?.obras.find((work) => work.id === id) ?? null : null;
     artworkImmersive = Boolean(activeArtwork && params.get('visor') === '1');
+    aboutOpen = !activeArtwork && location.hash === '#acerca-de';
   }
 
-  function prepareInitialArtworkHistory() {
+  function prepareInitialHistory() {
     const params = new URLSearchParams(location.hash.replace(/^#/, ''));
     const id = params.get('obra');
     const viewer = Boolean(id && params.get('visor') === '1');
-    history.replaceState({ artetecaLayer: 'mosaic' } satisfies ArtworkHistoryState, '', baseUrl());
+    const about = location.hash === '#acerca-de';
+    history.replaceState({ artetecaLayer: 'mosaic' } satisfies AppHistoryState, '', baseUrl());
+    if (about) {
+      aboutOpen = true;
+      history.pushState({ artetecaLayer: 'about' } satisfies AppHistoryState, '', aboutUrl());
+      return;
+    }
     if (!id) return;
 
     history.pushState(
-      { artetecaLayer: 'artwork', artworkId: id } satisfies ArtworkHistoryState,
+      { artetecaLayer: 'artwork', artworkId: id } satisfies AppHistoryState,
       '',
       artworkUrl(id),
     );
     if (viewer) {
       history.pushState(
-        { artetecaLayer: 'viewer', artworkId: id } satisfies ArtworkHistoryState,
+        { artetecaLayer: 'viewer', artworkId: id } satisfies AppHistoryState,
         '',
         artworkUrl(id, true),
       );
@@ -306,7 +331,7 @@
   $: filterFacetPlural = filterFacet === 'tipo' ? 'tipos' : filterFacet === 'periodo' ? 'periodos' : 'artistas';
 
   onMount(() => {
-    prepareInitialArtworkHistory();
+    prepareInitialHistory();
     theme = readStoredTheme();
     themeCoordinates = readStoredCoordinates();
     applyTheme(theme, false);
@@ -335,13 +360,13 @@
       { rootMargin: '700px 0px' },
     );
     if (sentinel) observer.observe(sentinel);
-    window.addEventListener('popstate', updateArtworkRoute);
+    window.addEventListener('popstate', updateAppRoute);
 
     void (async () => {
       try {
         catalog = await loadCatalog();
         orderedWorks = shuffle(catalog.obras);
-        updateArtworkRoute();
+        updateAppRoute();
       } catch (reason) {
         error = reason instanceof Error ? reason.message : 'No se pudo cargar Arteteca.';
       } finally {
@@ -354,7 +379,7 @@
       window.clearTimeout(introRemoveTimer);
       window.clearInterval(themeTimer);
       observer.disconnect();
-      window.removeEventListener('popstate', updateArtworkRoute);
+      window.removeEventListener('popstate', updateAppRoute);
       document.removeEventListener('visibilitychange', refreshVisibleTheme);
     };
   });
@@ -601,7 +626,7 @@
         if (event.altKey) {
           inventoryOpen = true;
         } else {
-          aboutOpen = true;
+          openAbout();
         }
         mobileMenuOpen = false;
         closeHeaderPanels();
@@ -709,7 +734,7 @@
 {/if}
 
 {#if aboutOpen}
-  <AboutModal cerrar={() => (aboutOpen = false)} />
+  <AboutModal cerrar={closeAbout} />
 {/if}
 
 {#if inventoryOpen && catalog}

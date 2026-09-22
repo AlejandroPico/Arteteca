@@ -108,7 +108,7 @@ El proyecto no debe imponer el gusto clásico de su creador como único criterio
 
 ## 3. Estado de referencia
 
-La versión estable actual es `1.0`. La interfaz funciona como PWA instalable y el modo de apariencia inicial es automático: resuelve mañana, tarde o noche a partir de la posición solar real cuando el usuario permite la ubicación.
+La versión estable actual es `1.0.1`. La interfaz funciona como PWA instalable y el modo de apariencia inicial es automático: resuelve mañana, tarde o noche a partir de la posición solar real cuando el usuario permite la ubicación.
 
 En la revisión del 21 de agosto de 2026, Arteteca contiene:
 
@@ -1559,6 +1559,8 @@ Un clic normal abre la presentación pública del proyecto. Debe:
 - enlazar al repositorio;
 - evitar una ventana innecesariamente larga;
 - mantener una interfaz limpia.
+
+El diálogo se abre como una capa real del historial en `#acerca-de`. El botón, gesto Atrás, `Escape`, la X y el fondo cierran la capa mediante `history.back()` y devuelven al mosaico; un segundo Atrás puede entonces salir de la PWA. La entrada directa a `#acerca-de` también debe preparar primero una capa base del mosaico.
 
 ### 15.2. Acceso oculto
 
